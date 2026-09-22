@@ -1,43 +1,46 @@
 # 🌐 Zion App Network — Master Index
 
-The Zion Tech Group app network spans **632 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
+**349 AI apps, tools and micro-SaaS products** by [Zion Tech Group](https://ziontechgroup.com) — AI & IT services with measurable growth. 26+ years · +40 countries · +250 cities · 24×7 global service.
 
-- 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
-- 🗺️ Apps Directory: [ziontechgroup.com/apps/](https://ziontechgroup.com/apps/)
-- 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
-- 🗂️ Hub: [zion-network](https://zion-support.github.io/zion-network/)
+Every app: live at `ziontechgroup.com/<app>/` · source at `github.com/Zion-support/<app>`.
+
+**Start:** [Discovery $99](https://ziontechgroup.com) · [Plans](https://ziontechgroup.com/plans/) · [Homepage app ads copy](HOMEPAGE_APPS.md) · [Homepage HTML section](homepage-apps-section.html)
 
 ## Categories
 
-- **[🏠 Core Site & Hubs](network/core-site-hubs.md)** — 19 apps
-- **[🤖 AI Agents & Orchestration](network/ai-agents-orchestration.md)** — 25 apps
-- **[🧠 LLM, Prompts & RAG](network/llm-prompts-rag.md)** — 39 apps
-- **[📊 Data & Analytics](network/data-analytics.md)** — 29 apps
-- **[💰 Cost, FinOps & Cloud](network/cost-finops-cloud.md)** — 25 apps
-- **[🔒 Security & Compliance](network/security-compliance.md)** — 52 apps
-- **[💼 Business Tools & Calculators](network/business-tools-calculators.md)** — 24 apps
-- **[🎨 Content & Marketing](network/content-marketing.md)** — 24 apps
-- **[🏭 Industry Platforms](network/industry-platforms.md)** — 16 apps
-- **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 103 apps
-- **[🌍 Field & City Sites](network/field-city-sites.md)** — 276 sites
+- **[Agents & Orchestration](network/ai-agents-orchestration.md)** — 26 apps
+- **[Data & AI Platform](network/llm-prompts-rag.md)** — 42 apps
+- **[Developer Tools](network/dev-ops-tools.md)** — 26 apps
+- **[Security & Compliance](network/security-compliance.md)** — 36 apps
+- **[FinOps & Cloud](network/cost-finops-cloud.md)** — 34 apps
+- **[Marketing & Sales](network/content-marketing.md)** — 22 apps
+- **[Business & Productivity](network/business-tools-calculators.md)** — 73 apps
+- **[More AI Apps](network/industry-platforms.md)** — 90 apps
+- **[Field city sites](network/field-city-sites.md)** — 277 field desks & satellites
+- **[Core site hubs](network/core-site-hubs.md)** — agents, discovery, plans, field, status, tools, portal
 
-## 🆕 Latest additions (2026-09-22)
+## Featured apps
 
-- [ops-runbook-ai](https://github.com/Zion-support/ops-runbook-ai) — AI-generated operational runbooks · [live](https://ziontechgroup.com/ops-runbook-ai/)
-- [energy-sla-reporter](https://github.com/Zion-support/energy-sla-reporter) — energy contract SLA reporting · [live](https://ziontechgroup.com/energy-sla-reporter/)
-- [depot-stock-balancer](https://github.com/Zion-support/depot-stock-balancer) — depot stock balancing for field service · [live](https://ziontechgroup.com/depot-stock-balancer/)
-- [licitacao-radar](https://github.com/Zion-support/licitacao-radar) — Brazilian public tender radar · [live](https://ziontechgroup.com/licitacao-radar/)
-- [warranty-lens](https://github.com/Zion-support/warranty-lens) — warranty & RMA analytics · [live](https://ziontechgroup.com/warranty-lens/)
+- **[Zion AgentForge](https://github.com/Zion-support/zion-agentforge)** — design, test and govern multi-agent AI systems · [live](https://ziontechgroup.com/zion-agentforge/)
+- **[Zion Agents](https://github.com/Zion-support/zion-agents)** — autonomous AI agent fleet, workflows, and operations · [live](https://ziontechgroup.com/zion-agents/)
+- **[LLM Gateway](https://github.com/Zion-support/llm-gateway)** — smart model routing, caching & failover · [live](https://ziontechgroup.com/llm-gateway/)
+- **[Prompt Shield](https://github.com/Zion-support/prompt-shield)** — LLM security testing & prompt-injection defense · [live](https://ziontechgroup.com/prompt-shield/)
+- **[RAG Forge](https://github.com/Zion-support/rag-forge)** — production RAG pipelines & knowledge copilots · [live](https://ziontechgroup.com/rag-forge/)
+- **[Model Observatory](https://github.com/Zion-support/model-observatory)** — ML/LLM observability, drift detection, cost telemetry · [live](https://ziontechgroup.com/model-observatory/)
+- **[FinOps Autopilot](https://github.com/Zion-support/finops-autopilot)** — cloud cost anomaly detection & rightsizing · [live](https://ziontechgroup.com/finops-autopilot/)
+- **[AI Compliance Auditor](https://github.com/Zion-support/ai-compliance-auditor)** — EU AI Act / ISO 42001 / NIST AI RMF automation · [live](https://ziontechgroup.com/ai-compliance-auditor/)
+- **[Quantum Safe Migrator](https://github.com/Zion-support/quantum-safe-migrator)** — post-quantum cryptography readiness · [live](https://ziontechgroup.com/quantum-safe-migrator/)
+- **[Voice Agent Studio](https://github.com/Zion-support/voice-agent-studio)** — AI voice agents for calls & IVR · [live](https://ziontechgroup.com/voice-agent-studio/)
+- **[Synthetic Data Lab](https://github.com/Zion-support/synthetic-data-lab)** — privacy-safe synthetic data generation · [live](https://ziontechgroup.com/synthetic-data-lab/)
+- **[Secrets Sentinel](https://github.com/Zion-support/secrets-sentinel)** — secret scanning & leak response · [live](https://ziontechgroup.com/secrets-sentinel/)
+- **[Zion AI Chatbot Builder](https://github.com/Zion-support/zion-ai-chatbot-builder)** — standalone chatbot builder app · [live](https://ziontechgroup.com/zion-ai-chatbot-builder/)
+- **[Zion AI Agent Builder](https://github.com/Zion-support/zion-ai-agent-builder)** — no-code AI agent design studio · [live](https://ziontechgroup.com/zion-ai-agent-builder/)
+- **[AI Readiness Assessment](https://github.com/Zion-support/ai-readiness-assessment)** — scored questionnaire with adoption roadmap · [live](https://ziontechgroup.com/ai-readiness-assessment/)
+- **[ROI Calculator](https://github.com/Zion-support/roi-calculator)** — estimate payback and TCO of AI projects · [live](https://ziontechgroup.com/roi-calculator/)
+- **[AI Tender Scout](https://github.com/Zion-support/ai-tender-scout)** — public-sector bid discovery & proposal support · [live](https://ziontechgroup.com/ai-tender-scout/)
+- **[Churn Radar](https://github.com/Zion-support/churn-radar)** — customer health scoring & churn prediction · [live](https://ziontechgroup.com/churn-radar/)
+- **[Data Quality Sentinel](https://github.com/Zion-support/data-quality-sentinel)** — continuous data quality monitoring · [live](https://ziontechgroup.com/data-quality-sentinel/)
+- **[Cloud Cost Estimator](https://github.com/Zion-support/cloud-cost-estimator)** — multi-cloud compute & serverless price comparison · [live](https://ziontechgroup.com/cloud-cost-estimator/)
 
-## 🔗 Interlinks
-
-Every app links back to this index. To add a new app:
-1. Create the repo under `Zion-support` with description + homepage.
-2. Add a `NETWORK.md` with category + related-app interlinks, and the network footer to the app's README:
-
-```md
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
-```
-
-_Updated 2026-09-22 — 632 public apps. Apps Directory live at [ziontechgroup.com/apps/](https://ziontechgroup.com/apps/)._
+---
+🌐 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [ziontechgroup.com](https://ziontechgroup.com) · [Plans](https://ziontechgroup.com/plans/)
