@@ -1,30 +1,44 @@
-# 💼 Business Tools & Calculators
+# Business Tools & Calculators — Zion App Network
 
-Part of the [Zion App Network](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) — 23 apps.
+34 apps in this category.
 
-- **[ai-automated-booking](https://github.com/Zion-support/ai-automated-booking)** — AI Automated Booking · [Live](https://github.com/Zion-support/ai-automated-booking)
-- **[ai-book-keeper](https://github.com/Zion-support/ai-book-keeper)** — Automated bookkeeping, reconciliation, and financial reporting. · [Live](https://ai-book-keeper.ziontechgroup.com)
-- **[ai-tender-scout](https://github.com/Zion-support/ai-tender-scout)** — Zion AI Tender Scout — public-sector bid discovery & proposal support. Live: https://ziontechgroup.com/ai-tender-scout/ · [Live](https://ziontechgroup.com/ai-tender-scout/)
-- **[it-staffing-calculator](https://github.com/Zion-support/it-staffing-calculator)** — IT staffing calculator — team sizing based on infrastructure scale, SLA requirements, and budget constraints · [Live](https://github.com/Zion-support/it-staffing-calculator)
-- **[roi-calculator](https://github.com/Zion-support/roi-calculator)** — AI ROI Calculator — estimate payback and TCO of AI projects — Zion Tech Group · [Live](https://ziontechgroup.com/roi-calculator/)
-- **[slo-calculator](https://github.com/Zion-support/slo-calculator)** — SLO & Error Budget Calculator — uptime math for SRE teams — Zion Tech Group · [Live](https://ziontechgroup.com/slo-calculator/)
-- **[token-context-calculator](https://github.com/Zion-support/token-context-calculator)** — Token & Context Window Calculator — estimate tokens and fit against model context limits — Zion Tech Group · [Live](https://ziontechgroup.com/token-context-calculator/)
-- **[vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare)** — Side-by-side vendor/service comparison with scoring and recommendation engine. · [Live](https://github.com/Zion-support/vendor-matrix-compare)
-- **[zion-ai-benchmark-lab](https://github.com/Zion-support/zion-ai-benchmark-lab)** — Zion AI Benchmark Lab — model evaluations and leaderboards for vendor selection. Live: https://ziontechgroup.com/zion-ai-benchmark-lab/ · [Live](https://ziontechgroup.com/zion-ai-benchmark-lab/)
-- **[zion-ai-drift-detector](https://github.com/Zion-support/zion-ai-drift-detector)** — Configuration drift detection and auto-remediation for multi-vendor IT fleets. · [Live](https://github.com/Zion-support/zion-ai-drift-detector)
-- **[zion-ai-lead-scoring](https://github.com/Zion-support/zion-ai-lead-scoring)** — Zion AI Lead Scoring - standalone app. Part of the Zion Tech Group app network (ziontechgroup.com). · [Live](https://lead-scoring.ziontechgroup.com)
-- **[zion-ai-pricing-optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer)** — Zion AI Pricing Optimizer — dynamic pricing experiments and analysis. Live: https://ziontechgroup.com/zion-ai-pricing-optimizer/ · [Live](https://ziontechgroup.com/zion-ai-pricing-optimizer/)
-- **[zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement)** — Zion AI Procurement — vendor evaluation, spend analysis and RFP drafting. Live: https://ziontechgroup.com/zion-ai-procurement/ · [Live](https://ziontechgroup.com/zion-ai-procurement/)
-- **[zion-ai-quote-builder](https://github.com/Zion-support/zion-ai-quote-builder)** — Zion AI Quote Builder — instant AI-powered quote and proposal generator for IT hardware, maintenance and managed services. Part of the Zion Tech Group AI apps network. · [Live](https://ziontechgroup.com/zion-ai-quote-builder/)
-- **[zion-ai-rfp-builder](https://github.com/Zion-support/zion-ai-rfp-builder)** — AI Procurement RFP Builder — vendor RFP template with AI-specific clauses — Zion Tech Group · [Live](https://ziontechgroup.com/zion-ai-rfp-builder/)
-- **[zion-ai-rfp-responder](https://github.com/Zion-support/zion-ai-rfp-responder)** — Zion App Network — RFP Responder · [Live](https://ziontechgroup.com/zion-ai-rfp-responder/)
-- **[zion-ai-roi-calculator](https://github.com/Zion-support/zion-ai-roi-calculator)** — AI ROI Calculator — model payback, savings and TCO for AI & IT projects. Part of the Zion Tech Group app network. · [Live](https://roi-calculator.ziontechgroup.com)
-- **[zion-ai-sales-call-analyst](https://github.com/Zion-support/zion-ai-sales-call-analyst)** — Zion AI Sales Call Analyst — conversation intelligence feeding CRM and lead scoring. · [Live](https://ziontechgroup.com/zion-ai-sales-call-analyst)
-- **[zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence)** — Zion AI Sales Intelligence — deal insights, forecasting and next-best-action. Live: https://ziontechgroup.com/zion-ai-sales-intelligence/ · [Live](https://ziontechgroup.com/zion-ai-sales-intelligence/)
-- **[zion-ai-spare-parts-finder](https://github.com/Zion-support/zion-ai-spare-parts-finder)** — Zion AI Spare Parts Finder — AI part-number intelligence for IT field services: cross-vendor part matching, compatible-substitute suggestions, stock and lead-time signals. Part of the Zion Tech Group AI apps network. · [Live](https://ziontechgroup.com/zion-ai-spare-parts-finder/)
-- **[zion-ai-supply-chain](https://github.com/Zion-support/zion-ai-supply-chain)** — IT supply chain and procurement optimizer — vendor comparison, lead times, and inventory AI. · [Live](https://github.com/Zion-support/zion-ai-supply-chain)
-- **[zion-crm-intelligence](https://github.com/Zion-support/zion-crm-intelligence)** — Zion CRM Intelligence - standalone app site (crm-intelligence.ziontechgroup.com) · [Live](https://crm-intelligence.ziontechgroup.com)
-- **[zion-invoice-genius](https://github.com/Zion-support/zion-invoice-genius)** — Zion Invoice Genius - standalone app site (invoice-genius.ziontechgroup.com) · [Live](https://invoice-genius.ziontechgroup.com)
+| App | Description | Live |
+|---|---|---|
+| [ai-billing-automation](https://github.com/Zion-support/ai-billing-automation) | AI Billing Automation | — |
+| [ai-book-keeper](https://github.com/Zion-support/ai-book-keeper) | Automated bookkeeping, reconciliation, and financial reporting. | [live](https://ai-book-keeper.ziontechgroup.com) |
+| [ai-content-translator](https://github.com/Zion-support/ai-content-translator) | AI Content Translator — multilingual content with context preservation | [live](https://ai-content-translator.ziontechgroup.com) |
+| [ai-contract-reviewer](https://github.com/Zion-support/ai-contract-reviewer) | Zion AI Contract Reviewer — clause extraction & risk flags. Live: https://ziontechgroup.com/ai-contract-reviewer/ | [live](https://ziontechgroup.com/ai-contract-reviewer/) |
+| [ai-hr-talent-platform](https://github.com/Zion-support/ai-hr-talent-platform) | AI HR Talent Platform — recruitment and workforce management | — |
+| [ai-patent-search](https://github.com/Zion-support/ai-patent-search) | AI Patent Search — intellectual property research and novelty checks | [live](https://ai-patent-search.ziontechgroup.com) |
+| [ai-resume-builder](https://github.com/Zion-support/ai-resume-builder) | AI Resume Builder — optimized CV and cover letter generation | [live](https://ai-resume-builder.ziontechgroup.com) |
+| [ai-tender-scout](https://github.com/Zion-support/ai-tender-scout) | Zion AI Tender Scout — public-sector bid discovery & proposal support. Live: https://ziontechgroup.com/ai-tender-scout/ | [live](https://ziontechgroup.com/ai-tender-scout/) |
+| [contract-clause-reviewer](https://github.com/Zion-support/contract-clause-reviewer) | AI Contract Clause Reviewer — flag risky IT/AI contract clauses — Zion Tech Group | [live](https://ziontechgroup.com/contract-clause-reviewer/) |
+| [it-staffing-calculator](https://github.com/Zion-support/it-staffing-calculator) | IT staffing calculator — team sizing based on infrastructure scale, SLA requirements, and budget constraints | — |
+| [roi-calculator](https://github.com/Zion-support/roi-calculator) | AI ROI Calculator — estimate payback and TCO of AI projects — Zion Tech Group | [live](https://ziontechgroup.com/roi-calculator/) |
+| [slo-calculator](https://github.com/Zion-support/slo-calculator) | SLO & Error Budget Calculator — uptime math for SRE teams — Zion Tech Group | [live](https://ziontechgroup.com/slo-calculator/) |
+| [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) | Side-by-side vendor/service comparison with scoring and recommendation engine. | — |
+| [zion-ai-benchmark-lab](https://github.com/Zion-support/zion-ai-benchmark-lab) | Zion AI Benchmark Lab — model evaluations and leaderboards for vendor selection. Live: https://ziontechgroup.com/zion-ai-benchmark-lab/ | [live](https://ziontechgroup.com/zion-ai-benchmark-lab/) |
+| [zion-ai-cab-assistant](https://github.com/Zion-support/zion-ai-cab-assistant) | AI change advisory board assistant — risk scoring, impact analysis, and CAB meeting automation. | — |
+| [zion-ai-change-advisor](https://github.com/Zion-support/zion-ai-change-advisor) | AI change advisory board assistant — risk scoring, impact analysis, and CAB meeting automation. | — |
+| [zion-ai-contract-review](https://github.com/Zion-support/zion-ai-contract-review) | Zion AI Contract Review — contract intelligence and clause risk analysis. Live: https://ziontechgroup.com/zion-ai-contract-review/ | [live](https://ziontechgroup.com/zion-ai-contract-review/) |
+| [zion-ai-contract-reviewer](https://github.com/Zion-support/zion-ai-contract-reviewer) | Zion AI Contract Reviewer — NDA/MSA/SOW clause-level risk scoring and redlining. | [live](https://ziontechgroup.com/zion-ai-contract-reviewer) |
+| [zion-ai-drift-detector](https://github.com/Zion-support/zion-ai-drift-detector) | Configuration drift detection and auto-remediation for multi-vendor IT fleets. | — |
+| [zion-ai-legal-ops](https://github.com/Zion-support/zion-ai-legal-ops) | Zion AI Legal Ops — matter management and e-discovery summaries. Live: https://ziontechgroup.com/zion-ai-legal-ops/ | [live](https://ziontechgroup.com/zion-ai-legal-ops/) |
+| [zion-ai-meeting-assistant](https://github.com/Zion-support/zion-ai-meeting-assistant) | Zion AI Meeting Assistant - standalone app. Part of the Zion Tech Group app network (ziontechgroup.com). | [live](https://meeting-assistant.ziontechgroup.com) |
+| [zion-ai-meeting-scheduler](https://github.com/Zion-support/zion-ai-meeting-scheduler) | Zion AI Meeting Scheduler — negotiation-free scheduling across teams and timezones. Live: https://ziontechgroup.com/zion-ai-meeting-scheduler/ | [live](https://ziontechgroup.com/zion-ai-meeting-scheduler/) |
+| [zion-ai-meeting-to-roadmap](https://github.com/Zion-support/zion-ai-meeting-to-roadmap) | Zion AI Meeting-to-Roadmap — converts meeting outcomes into prioritized roadmap items. | [live](https://ziontechgroup.com/zion-ai-meeting-to-roadmap) |
+| [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) | Zion AI Procurement — vendor evaluation, spend analysis and RFP drafting. Live: https://ziontechgroup.com/zion-ai-procurement/ | [live](https://ziontechgroup.com/zion-ai-procurement/) |
+| [zion-ai-rfp-builder](https://github.com/Zion-support/zion-ai-rfp-builder) | AI Procurement RFP Builder — vendor RFP template with AI-specific clauses — Zion Tech Group | [live](https://ziontechgroup.com/zion-ai-rfp-builder/) |
+| [zion-ai-roi-calculator](https://github.com/Zion-support/zion-ai-roi-calculator) | AI ROI Calculator — model payback, savings and TCO for AI & IT projects. Part of the Zion Tech Group app network. | [live](https://roi-calculator.ziontechgroup.com) |
+| [zion-ai-sla-breach-sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel) | Zion AI SLA Breach Sentinel — SLA monitoring, breach early-warning and credit calculation for IT service contracts. Part of the Zion Tech Group app network. | [live](https://ziontechgroup.com/zion-ai-sla-breach-sentinel/) |
+| [zion-ai-supply-chain](https://github.com/Zion-support/zion-ai-supply-chain) | IT supply chain and procurement optimizer — vendor comparison, lead times, and inventory AI. | — |
+| [zion-ai-threat-modeler](https://github.com/Zion-support/zion-ai-threat-modeler) | Zion AI Threat Modeler — auto-generated STRIDE threat models from architecture diagrams. | [live](https://ziontechgroup.com/zion-ai-threat-modeler) |
+| [zion-ai-translation-hub](https://github.com/Zion-support/zion-ai-translation-hub) | Zion AI Translation Hub — enterprise localization with glossaries and review. Live: https://ziontechgroup.com/zion-ai-translation-hub/ | [live](https://ziontechgroup.com/zion-ai-translation-hub/) |
+| [zion-ai-vendor-benchmark-exchange](https://github.com/Zion-support/zion-ai-vendor-benchmark-exchange) | Zion AI Vendor Benchmark Exchange — anonymized peer benchmarks for AI/SaaS pricing negotiations. | [live](https://ziontechgroup.com/zion-ai-vendor-benchmark-exchange) |
+| [zion-ai-vendor-risk](https://github.com/Zion-support/zion-ai-vendor-risk) | Zion AI Vendor Risk — third-party risk assessments and monitoring. Live: https://ziontechgroup.com/zion-ai-vendor-risk/ | [live](https://ziontechgroup.com/zion-ai-vendor-risk/) |
+| [zion-ai-video-translator](https://github.com/Zion-support/zion-ai-video-translator) | Zion AI Video Translator — AI dubbing, subtitles and lip-sync localization in 40+ languages. | [live](https://ziontechgroup.com/zion-ai-video-translator) |
+| [zion-invoice-genius](https://github.com/Zion-support/zion-invoice-genius) | Zion Invoice Genius - standalone app site (invoice-genius.ziontechgroup.com) | [live](https://invoice-genius.ziontechgroup.com) |
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+## Part of the Zion App Network
+🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
