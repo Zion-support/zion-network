@@ -1,6 +1,6 @@
 # 🌐 Zion App Network — Master Index
 
-The Zion Tech Group app network spans **633 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
+The Zion Tech Group app network spans **627 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
 
 - 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
@@ -18,7 +18,7 @@ The Zion Tech Group app network spans **633 public apps and sites** under [@Zion
 - **[🎨 Content & Marketing](network/content-marketing.md)** — 24 apps
 - **[🏭 Industry Platforms](network/industry-platforms.md)** — 13 apps
 - **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 102 apps
-- **[🌍 Field & City Sites](network/field-city-sites.md)** — 282 apps
+- **[🌍 Field & City Sites](network/field-city-sites.md)** — 276 sites
 
 ## 🔗 Interlinks
 
@@ -31,4 +31,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Generated 2026-09-22 — 633 public apps._
+_Generated 2026-09-22 — 627 public apps._
