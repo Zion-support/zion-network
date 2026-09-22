@@ -1,35 +1,37 @@
-# Zion Network
+# Zion Network — hub
 
-Part of the **Zion Network** constellation for [Zion Tech Group](https://ziontechgroup.com).
+Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list lives in [`network.json`](network.json).
 
-| | |
-|---|---|
-| Custom domain | `network.ziontechgroup.com` |
-| GitHub Pages | https://ziontechgroup.com/zion-network/ |
-| Hub | https://ziontechgroup.com/zion-network/ |
-| Source catalog | https://ziontechgroup.com |
+## Core sites
+| Site | Repo | URL |
+|---|---|---|
+| Network hub | Zion-support/zion-network | https://zion-support.github.io/zion-network/ |
+| Agents | Zion-support/agents | https://zion-support.github.io/agents/ |
+| Plans | Zion-support/plans | https://zion-support.github.io/plans/ |
+| Status | Zion-support/zion-status | https://zion-support.github.io/zion-status/ |
+| Tools | Zion-support/zion-tools | https://zion-support.github.io/zion-tools/ |
+| Portal | Zion-support/zion-portal | https://zion-support.github.io/zion-portal/ |
+| Case Studies | Zion-support/case-studies | https://zion-support.github.io/case-studies/ |
+| Success Stories | Zion-support/success-stories | https://zion-support.github.io/success-stories/ |
+| IT Consulting | Zion-support/it-consulting | https://zion-support.github.io/it-consulting/ |
+| Managed IT | Zion-support/managed-it | https://zion-support.github.io/managed-it/ |
+| Partners | Zion-support/partners | https://zion-support.github.io/partners/ |
+| AI Tools | Zion-support/tools | https://zion-support.github.io/tools/ |
 
-## DNS
+## Standalone apps (interlinked 2026-09-22)
+| App | Repo | URL |
+|---|---|---|
+| AI SEO Optimizer | Zion-support/zion-seo-optimizer | https://seo-optimizer.ziontechgroup.com |
+| AI Fraud Detection | Zion-support/zion-fraud-detection | https://fraud-detection.ziontechgroup.com |
+| AI Chatbot Builder | Zion-support/zion-chatbot-builder | https://chatbot-builder.ziontechgroup.com |
+| Content Studio | Zion-support/zion-content-studio | https://content-studio.ziontechgroup.com |
+| AI Help Desk | Zion-support/zion-ai-help-desk | https://help-desk.ziontechgroup.com |
+| AI Voice Assistant | Zion-support/zion-ai-voice-assistant | https://voice-assistant.ziontechgroup.com |
+| Project Master | Zion-support/zion-project-master | https://project-master.ziontechgroup.com |
+| Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
+| AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-Add a CNAME at your DNS host:
+## Field playbooks
+~70 `zion-field-*` repos (countries, cities, industries) — see `network.json` `field` section and the [org repo list](https://github.com/orgs/Zion-support/repositories).
 
-```
-network.ziontechgroup.com.  CNAME  zion-support.github.io.
-```
-
-GitHub Pages is already enabled on `main` (`/`). HTTPS certificate provisions after the CNAME is in place. `ziontechgroup.com` is already a verified GitHub Pages domain on the primary site.
-
-## Network
-
-- [Zion Network](https://ziontechgroup.com/zion-network/) — `network.ziontechgroup.com`
-- [Zion Agents](https://ziontechgroup.com/zion-agents/) — `agents.ziontechgroup.com`
-- [Zion Discovery](https://ziontechgroup.com/zion-discovery/) — `discovery.ziontechgroup.com`
-- [Zion Plans](https://ziontechgroup.com/zion-plans/) — `plans.ziontechgroup.com`
-- [Zion Field](https://ziontechgroup.com/zion-field/) — `field.ziontechgroup.com`
-- [Zion Status](https://ziontechgroup.com/zion-status/) — `status.ziontechgroup.com`
-- [Zion Tools](https://ziontechgroup.com/zion-tools/) — `tools.ziontechgroup.com`
-- [Zion Portal](https://ziontechgroup.com/zion-portal/) — `portal.ziontechgroup.com`
-
-Official commercial menu (only these four): Discovery $99 · Consulting $499 · Starter $2,500 · Growth $8,000/mo.
-
-Contact: kleber@ziontechgroup.com · +1 302 464 0950 · 364 E Main St STE 1008, Middletown, DE 19709
+Main site: https://ziontechgroup.com · Contact: kleber@ziontechgroup.com
