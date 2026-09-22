@@ -3,6 +3,7 @@
 The Zion Tech Group app network spans **627 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
 
 - 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
+- ✨ Showcase: [ziontechgroup.com/app-network](https://ziontechgroup.com/app-network/) — curated advertising page for flagship apps
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
 - 🗂️ Hub: [zion-network](https://zion-support.github.io/zion-network/)
 
@@ -31,4 +32,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Generated 2026-09-22 — 627 public apps._
+_Updated 2026-09-22 (session 2) — added homepage showcase page; fixed interlinks in 7 repos._
