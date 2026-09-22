@@ -200,6 +200,97 @@
       "url": "https://ziontechgroup.com/data-contract-validator/",
       "pages": "https://zion-support.github.io/data-contract-validator/",
       "title": "Data Contract Validator"
+    },
+    {
+      "id": "rag-platform",
+      "repo": "Zion-support/zion-rag-platform",
+      "url": "https://rag.ziontechgroup.com",
+      "pages": "https://zion-support.github.io/zion-rag-platform/",
+      "title": "Zion RAG Platform"
+    },
+    {
+      "id": "agent-orchestrator",
+      "repo": "Zion-support/zion-ai-agent-orchestrator",
+      "url": "https://orchestrator.ziontechgroup.com",
+      "pages": "https://zion-support.github.io/zion-ai-agent-orchestrator/",
+      "title": "Zion AI Agent Orchestrator"
+    },
+    {
+      "id": "model-observatory",
+      "repo": "Zion-support/model-observatory",
+      "url": "https://ziontechgroup.com/model-observatory/",
+      "pages": "https://zion-support.github.io/model-observatory/",
+      "title": "Zion Model Observatory"
+    },
+    {
+      "id": "prompt-shield",
+      "repo": "Zion-support/prompt-shield",
+      "url": "https://ziontechgroup.com/prompt-shield/",
+      "pages": "https://zion-support.github.io/prompt-shield/",
+      "title": "Zion Prompt Shield"
+    },
+    {
+      "id": "llm-gateway",
+      "repo": "Zion-support/llm-gateway",
+      "url": "https://ziontechgroup.com/llm-gateway/",
+      "pages": "https://zion-support.github.io/llm-gateway/",
+      "title": "Zion LLM Gateway"
+    },
+    {
+      "id": "rag-forge",
+      "repo": "Zion-support/rag-forge",
+      "url": "https://ziontechgroup.com/rag-forge/",
+      "pages": "https://zion-support.github.io/rag-forge/",
+      "title": "Zion RAG Forge"
+    },
+    {
+      "id": "synthetic-data-lab",
+      "repo": "Zion-support/synthetic-data-lab",
+      "url": "https://ziontechgroup.com/synthetic-data-lab/",
+      "pages": "https://zion-support.github.io/synthetic-data-lab/",
+      "title": "Zion Synthetic Data Lab"
+    },
+    {
+      "id": "secrets-sentinel",
+      "repo": "Zion-support/secrets-sentinel",
+      "url": "https://ziontechgroup.com/secrets-sentinel/",
+      "pages": "https://zion-support.github.io/secrets-sentinel/",
+      "title": "Zion Secrets Sentinel"
+    },
+    {
+      "id": "quantum-safe-migrator",
+      "repo": "Zion-support/quantum-safe-migrator",
+      "url": "https://ziontechgroup.com/quantum-safe-migrator/",
+      "pages": "https://zion-support.github.io/quantum-safe-migrator/",
+      "title": "Zion Quantum Safe Migrator"
+    },
+    {
+      "id": "data-quality-sentinel",
+      "repo": "Zion-support/data-quality-sentinel",
+      "url": "https://ziontechgroup.com/data-quality-sentinel/",
+      "pages": "https://zion-support.github.io/data-quality-sentinel/",
+      "title": "Zion Data Quality Sentinel"
+    },
+    {
+      "id": "ai-tender-scout",
+      "repo": "Zion-support/ai-tender-scout",
+      "url": "https://ziontechgroup.com/ai-tender-scout/",
+      "pages": "https://zion-support.github.io/ai-tender-scout/",
+      "title": "Zion AI Tender Scout"
+    },
+    {
+      "id": "ai-phishing-simulator",
+      "repo": "Zion-support/ai-phishing-simulator",
+      "url": "https://ziontechgroup.com/ai-phishing-simulator/",
+      "pages": "https://zion-support.github.io/ai-phishing-simulator/",
+      "title": "Zion AI Phishing Simulator"
+    },
+    {
+      "id": "ai-localizer",
+      "repo": "Zion-support/ai-localizer",
+      "url": "https://ziontechgroup.com/ai-localizer/",
+      "pages": "https://zion-support.github.io/ai-localizer/",
+      "title": "Zion AI Localizer"
     }
   ],
   "field": {
@@ -269,5 +360,7 @@
       "type": "CNAME",
       "value": "zion-support.github.io"
     }
-  ]
+  ],
+  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+  "apps_total": 627
 }
