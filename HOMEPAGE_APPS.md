@@ -8,6 +8,38 @@ Ready-to-publish copy for the **ziontechgroup.com homepage**, advertising the ap
 > From agent orchestration to FinOps, security to SEO — every app is free to try, open-source on GitHub, and backed by 26+ years of enterprise IT delivery.
 > [Browse the App Network →](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 
+## 💚 Customer Success & Retention AI (homepage cards)
+
+### Churn Risk Radar
+Predict churn risk with health scores, save plays and exec alerts.
+[Try it live](https://ziontechgroup.com/churn-risk-radar/) · [GitHub](https://github.com/Zion-support/churn-risk-radar)
+
+### Customer Health Scorer
+Unified health scoring from usage, support and billing — with portfolio heatmaps.
+[Try it live](https://ziontechgroup.com/customer-health-scorer/) · [GitHub](https://github.com/Zion-support/customer-health-scorer)
+
+### NPS Insight Engine
+AI themes and drivers from NPS/CSAT verbatims, with detractor rescue workflows.
+[Try it live](https://ziontechgroup.com/nps-insight-engine/) · [GitHub](https://github.com/Zion-support/nps-insight-engine)
+
+### Support Sentiment Monitor
+Real-time sentiment across tickets, chats and calls with escalation triggers.
+[Try it live](https://ziontechgroup.com/support-sentiment-monitor/) · [GitHub](https://github.com/Zion-support/support-sentiment-monitor)
+
+### Upsell Signal Scout
+Detect expansion and upsell signals from product usage and account activity.
+[Try it live](https://ziontechgroup.com/upsell-signal-scout/) · [GitHub](https://github.com/Zion-support/upsell-signal-scout)
+
+### Onboarding Journey Tracker
+Track milestones and time-to-value; catch stalled accounts before they churn.
+[Try it live](https://ziontechgroup.com/onboarding-journey-tracker/) · [GitHub](https://github.com/Zion-support/onboarding-journey-tracker)
+
+### Voice of Customer Hub
+Reviews, tickets, surveys and social mentions unified into one signal hub.
+[Try it live](https://ziontechgroup.com/voice-of-customer-hub/) · [GitHub](https://github.com/Zion-support/voice-of-customer-hub)
+
+→ Full category guide: [Customer Success & Retention AI](network/customer-success-ai.md) · Master index: [APPS_NETWORK.md](APPS_NETWORK.md)
+
 ## Featured apps (homepage cards)
 
 ### AI Healthcare Platform
@@ -111,9 +143,10 @@ Multi-cloud compute & serverless price comparison.
 - **FinOps & Cloud** — 34 apps · e.g. [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/), [Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/), [Green Cloud Picker](https://ziontechgroup.com/green-cloud-picker/)
 - **Marketing & Sales** — 22 apps · e.g. [AI Advertising Optimizer](https://ziontechgroup.com/ai-advertising-optimizer/), [AI Caption Generator](https://ziontechgroup.com/ai-caption-generator/), [AI SEO Optimizer](https://ziontechgroup.com/zion-ai-seo-optimizer/)
 - **Healthcare & Education AI** — NEW · e.g. [AI Healthcare Platform](https://ziontechgroup.com/ai-healthcare-platform/), [AI Education Platform](https://ai-education-platform.ziontechgroup.com), [AI Language Tutor](https://ziontechgroup.com/ai-language-tutor/)
+- **Customer Success & Retention AI** — NEW · e.g. [Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/), [Customer Health Scorer](https://ziontechgroup.com/customer-health-scorer/), [NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/)
 - **Business & Productivity** — 73 apps · e.g. [AI Meeting Assistant](https://ziontechgroup.com/zion-ai-meeting-assistant/), [AI Resume Builder](https://ziontechgroup.com/ai-resume-builder/), [AI Support Copilot](https://ziontechgroup.com/zion-ai-support-copilot/)
 - **More AI Apps** — 90 apps · e.g. [Accessibility Checker](https://ziontechgroup.com/accessibility-checker/), [AI Weather Forecast](https://ziontechgroup.com/ai-weather-forecast/), [AI Recipe Generator](https://ziontechgroup.com/ai-recipe-generator/)
 
 ## SEO paragraph (footer of homepage)
 
-Zion Tech Group operates the Zion App Network — more than 530 AI-powered applications covering agent orchestration, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), cloud FinOps, Kubernetes tooling, marketing & sales AI, healthcare and education AI, and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
+Zion Tech Group operates the Zion App Network — more than 530 AI-powered applications covering agent orchestration, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), cloud FinOps, Kubernetes tooling, marketing & sales AI, healthcare and education AI, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
