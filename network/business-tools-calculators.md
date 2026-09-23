@@ -1,9 +1,10 @@
 # Business Tools & Calculators — Zion App Network
 
-34 apps in this category.
+35 apps in this category.
 
 | App | Description | Live |
 |---|---|---|
+| [licitacao-radar](https://github.com/Zion-support/licitacao-radar) | Licitação Radar — Brazilian public tender radar with segment alerts. | [live](https://ziontechgroup.com/licitacao-radar/) |
 | [ai-billing-automation](https://github.com/Zion-support/ai-billing-automation) | AI Billing Automation | — |
 | [ai-book-keeper](https://github.com/Zion-support/ai-book-keeper) | Automated bookkeeping, reconciliation, and financial reporting. | [live](https://ai-book-keeper.ziontechgroup.com) |
 | [ai-content-translator](https://github.com/Zion-support/ai-content-translator) | AI Content Translator — multilingual content with context preservation | [live](https://ai-content-translator.ziontechgroup.com) |
