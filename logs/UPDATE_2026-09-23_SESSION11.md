@@ -8,7 +8,7 @@ zion-ai-rma-tracker, zion-ai-roi-calculator, zion-ai-sales-call-analyst, zion-ai
 
 ## Homepage content
 
-- Created `APP_NETWORK_SPOTLIGHT_FIELD_SUPPLYCHAIN.md` in `zion-support.github.io` — Vol. 6 spotlight (field services, supply chain, support, security) linking 25 apps, cross-linked to Vol. 1–5.
+- Created `APP_NETWORK_SPOTLIGHT_FIELD_SERVICES.md` in `zion-support.github.io` — Vol. 6 spotlight (field services, supply chain, support ops, sales intelligence, security utilities) linking 27 apps, cross-linked to Vol. 1–5.
 
 ## Next session
-Resume alphabetically at **zion-ai-threat-modeler**, continuing through remaining zion-ai-* (~70), then zion-field-* satellites (~290, last).
+Resume alphabetically at **zion-ai-threat-intel**, continuing through remaining zion-ai-* (~70), then zion-field-* satellites (~290, last).
