@@ -1,6 +1,6 @@
 # 🌐 Zion App Network — Master Index
 
-The Zion Tech Group app network spans **539 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
+The Zion Tech Group app network spans **533 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
 
 - 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
@@ -16,24 +16,24 @@ The Zion Tech Group app network spans **539 public apps and sites** under [@Zion
 - **[💰 Cost, FinOps & Cloud](network/cost-finops-cloud.md)** — 25 apps
 - **[🔐 Security & Compliance](network/security-compliance.md)** — 52 apps
 - **[🧰 Business Tools & Calculators](network/business-tools-calculators.md)** — 23 apps
-- **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — 6 apps (outbound, ads, growth, CX, churn)
-- **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — NEW: 6 apps (product copy, pricing, inventory, reviews, returns, cart recovery)
-- **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** — 4 apps (patient mgmt, wellness, tutoring)
+- **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — NEW: 6 apps (outbound, ads, growth, CX, churn)
+- **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** — NEW: 4 apps (patient mgmt, wellness, tutoring)
 - **[🎨 Content & Marketing](network/content-marketing.md)** — 24 apps
 - **[🏭 Industry Platforms](network/industry-platforms.md)** — 13 apps
 - **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 102 apps
-- **[🧰 Field Service & Support AI](network/field-service-ai.md)** — ticket triage, dispatch, RMA, spare parts
-- **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — MSP apps and partner tooling
-- **[💚 Customer Success & Retention](network/customer-success-retention.md)** — NEW: 11 apps (churn, health, NPS, sentiment, onboarding, upsell, VoC)
+- **[🧰 Field Service & Support AI](network/field-service-ai.md)** — NEW: ticket triage, dispatch, RMA, spare parts
 - **[🏙️ Field & City Sites](network/field-city-sites.md)** — 276 sites
+- **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — NEW: 20 apps for MSPs, IT partners & resellers ([registry](network/msp-apps.json))
 
-## 🚀 Latest Additions (2026-09-23, late)
+## 🚀 Latest Additions (2026-09-23, evening)
 
-New category: **[💚 Customer Success & Retention](network/customer-success-retention.md)** with machine-readable registry [customer-success-apps.json](network/customer-success-apps.json) — Churn Radar, Churn Risk Radar, SLA Breach Predictor, Customer Health Scorer, NPS Insight Engine, Support Sentiment Monitor, Onboarding Journey Tracker, Upsell Signal Scout, Partner Referral Tracker, Voice of Customer Hub, Support Deflection Analyzer. Homepage spotlight: [APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md).
+- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md) — Renewals, Revenue & Customer Growth suite.
+- SPOTLIGHTS_INDEX.md fixed: all 30+ homepage spotlight pages now listed and interlinked.
+- MSP & Partner Ecosystem category added to this index (20 apps, see [msp-apps.json](network/msp-apps.json)).
 
 ## 🚀 Latest Additions (2026-09-23)
 
-New category: **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — AI Product Description Writer, AI Pricing Optimizer, AI Inventory Forecaster, AI Review Insights, AI Returns Reducer, AI Cart Recovery. Also new: [💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md), [🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md), and [🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md).
+New categories: **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** (AI Sales Email Copilot, AI Advertising Optimizer, AI Growth Marketing Hub, AI Customer Experience Hub, AI Email Classifier, Churn Radar) and **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** (AI Healthcare Platform, AI Health Tracker, AI Education Platform, AI Language Tutor).
 
 ## 🚀 Latest Additions (2026-09-22)
 
@@ -48,12 +48,19 @@ Field Service & Support AI suite, freshly interlinked:
 - [Zion AI PR Review Swarm](https://ziontechgroup.com/zion-ai-pr-review-swarm/) · [repo](https://github.com/Zion-support/zion-ai-pr-review-swarm)
 - [Zion AI API Guardian](https://ziontechgroup.com/zion-ai-api-guardian/) · [repo](https://github.com/Zion-support/zion-ai-api-guardian)
 - [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/) · [repo](https://github.com/Zion-support/finops-autopilot)
+- [Churn Radar](https://ziontechgroup.com/churn-radar/) · [repo](https://github.com/Zion-support/churn-radar)
+- [Voice Agent Studio](https://ziontechgroup.com/voice-agent-studio/) · [repo](https://github.com/Zion-support/voice-agent-studio)
 
----
+## 🔗 Interlinks
 
-### Explore
-🧰 All tools: https://ziontechgroup.com/tools/ · 💳 Plans & pricing: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/
-📧 commercial@ziontechgroup.com
+Every app links back to this index. To add a new app:
+1. Create the repo under `Zion-support` with description + homepage.
+2. Register it in [`network.json`](network.json).
+3. Add the network footer to the app's README:
 
----
-© 2026 Zion Tech Group · https://ziontechgroup.com
+```md
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+```
+
+_Updated 2026-09-23 — 533 public repos, 57 flagship apps registered in network.json._
