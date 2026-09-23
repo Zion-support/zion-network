@@ -4,11 +4,27 @@ Ready-to-publish copy for the **ziontechgroup.com homepage**, advertising the ap
 
 ## Hero banner copy
 
-> **Explore 350+ free AI apps from Zion Tech Group.**
+> **Explore 533+ free AI apps from Zion Tech Group.**
 > From agent orchestration to FinOps, security to SEO — every app is free to try, open-source on GitHub, and backed by 26+ years of enterprise IT delivery.
 > [Browse the App Network →](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 
 ## Featured apps (homepage cards)
+
+### AI Healthcare Platform
+Medical AI and patient management workflows for clinics and hospitals.
+[Try it live](https://ziontechgroup.com/ai-healthcare-platform/) · [GitHub](https://github.com/Zion-support/ai-healthcare-platform)
+
+### AI Education Platform
+Personalized learning paths, quizzes, and AI-powered tutoring.
+[Try it live](https://ai-education-platform.ziontechgroup.com) · [GitHub](https://github.com/Zion-support/ai-education-platform)
+
+### AI Sales Email Copilot
+Draft, personalize and A/B-test outbound sales emails with AI.
+[Try it live](https://ziontechgroup.com/ai-sales-email-copilot/) · [GitHub](https://github.com/Zion-support/ai-sales-email-copilot)
+
+### Churn Radar
+See churn coming 90 days out — health scores and save plays.
+[Try it live](https://ziontechgroup.com/churn-radar/) · [GitHub](https://github.com/Zion-support/churn-radar)
 
 ### Zion AgentForge
 Design, test and govern multi-agent AI systems.
@@ -78,10 +94,6 @@ Estimate payback and TCO of AI projects.
 Public-sector bid discovery & proposal support.
 [Try it live](https://ziontechgroup.com/ai-tender-scout/) · [GitHub](https://github.com/Zion-support/ai-tender-scout)
 
-### Churn Radar
-Customer health scoring & churn prediction.
-[Try it live](https://ziontechgroup.com/churn-radar/) · [GitHub](https://github.com/Zion-support/churn-radar)
-
 ### Data Quality Sentinel
 Continuous data quality monitoring.
 [Try it live](https://ziontechgroup.com/data-quality-sentinel/) · [GitHub](https://github.com/Zion-support/data-quality-sentinel)
@@ -98,9 +110,10 @@ Multi-cloud compute & serverless price comparison.
 - **Security & Compliance** — 36 apps · e.g. [AI Compliance Auditor](https://ziontechgroup.com/ai-compliance-auditor/), [Prompt Shield](https://ziontechgroup.com/prompt-shield/), [Secrets Sentinel](https://ziontechgroup.com/secrets-sentinel/)
 - **FinOps & Cloud** — 34 apps · e.g. [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/), [Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/), [Green Cloud Picker](https://ziontechgroup.com/green-cloud-picker/)
 - **Marketing & Sales** — 22 apps · e.g. [AI Advertising Optimizer](https://ziontechgroup.com/ai-advertising-optimizer/), [AI Caption Generator](https://ziontechgroup.com/ai-caption-generator/), [AI SEO Optimizer](https://ziontechgroup.com/zion-ai-seo-optimizer/)
+- **Healthcare & Education AI** — NEW · e.g. [AI Healthcare Platform](https://ziontechgroup.com/ai-healthcare-platform/), [AI Education Platform](https://ai-education-platform.ziontechgroup.com), [AI Language Tutor](https://ziontechgroup.com/ai-language-tutor/)
 - **Business & Productivity** — 73 apps · e.g. [AI Meeting Assistant](https://ziontechgroup.com/zion-ai-meeting-assistant/), [AI Resume Builder](https://ziontechgroup.com/ai-resume-builder/), [AI Support Copilot](https://ziontechgroup.com/zion-ai-support-copilot/)
 - **More AI Apps** — 90 apps · e.g. [Accessibility Checker](https://ziontechgroup.com/accessibility-checker/), [AI Weather Forecast](https://ziontechgroup.com/ai-weather-forecast/), [AI Recipe Generator](https://ziontechgroup.com/ai-recipe-generator/)
 
 ## SEO paragraph (footer of homepage)
 
-Zion Tech Group operates the Zion App Network — more than 350 AI-powered applications covering agent orchestration, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), cloud FinOps, Kubernetes tooling, marketing AI, and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
+Zion Tech Group operates the Zion App Network — more than 530 AI-powered applications covering agent orchestration, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), cloud FinOps, Kubernetes tooling, marketing & sales AI, healthcare and education AI, and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
