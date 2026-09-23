@@ -1,9 +1,12 @@
 # Industry Platforms — Zion App Network
 
-12 apps in this category.
+15 apps in this category.
 
 | App | Description | Live |
 |---|---|---|
+| [depot-stock-balancer](https://github.com/Zion-support/depot-stock-balancer) | Depot Stock Balancer — field-service depot stock balancing across locations. | [live](https://ziontechgroup.com/depot-stock-balancer/) |
+| [energy-sla-reporter](https://github.com/Zion-support/energy-sla-reporter) | Energy SLA Reporter — AI energy contract SLA reporting with evidence. | [live](https://ziontechgroup.com/energy-sla-reporter/) |
+| [warranty-lens](https://github.com/Zion-support/warranty-lens) | Warranty Lens — warranty & RMA analytics for field operations. | [live](https://ziontechgroup.com/warranty-lens/) |
 | [ai-banking-platform](https://github.com/Zion-support/ai-banking-platform) | AI Banking Platform | — |
 | [ai-e-commerce](https://github.com/Zion-support/ai-e-commerce) | Complete AI-powered e-commerce with recommendations and inventory management. | [live](https://ai-e-commerce.ziontechgroup.com) |
 | [ai-ecommerce-optimizer](https://github.com/Zion-support/ai-ecommerce-optimizer) | AI E-commerce Optimizer — product descriptions and recommendations | [live](https://ai-ecommerce-optimizer.ziontechgroup.com) |
