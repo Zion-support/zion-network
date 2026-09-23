@@ -1,7 +1,7 @@
 {
   "company": "Zion Tech Group",
   "hub": "https://ziontechgroup.com",
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "sites": [
     {
       "id": "network",
@@ -291,6 +291,70 @@
       "url": "https://ziontechgroup.com/ai-localizer/",
       "pages": "https://zion-support.github.io/ai-localizer/",
       "title": "Zion AI Localizer"
+    },
+    {
+      "id": "ai-healthcare-platform",
+      "repo": "Zion-support/ai-healthcare-platform",
+      "url": "https://ziontechgroup.com/ai-healthcare-platform/",
+      "pages": "https://zion-support.github.io/ai-healthcare-platform/",
+      "title": "AI Healthcare Platform",
+      "category": "healthcare-education-ai"
+    },
+    {
+      "id": "ai-health-tracker",
+      "repo": "Zion-support/ai-health-tracker",
+      "url": "https://ziontechgroup.com/ai-health-tracker/",
+      "pages": "https://zion-support.github.io/ai-health-tracker/",
+      "title": "AI Health Tracker",
+      "category": "healthcare-education-ai"
+    },
+    {
+      "id": "ai-education-platform",
+      "repo": "Zion-support/ai-education-platform",
+      "url": "https://ai-education-platform.ziontechgroup.com",
+      "pages": "https://zion-support.github.io/ai-education-platform/",
+      "title": "AI Education Platform",
+      "category": "healthcare-education-ai"
+    },
+    {
+      "id": "ai-language-tutor",
+      "repo": "Zion-support/ai-language-tutor",
+      "url": "https://ziontechgroup.com/ai-language-tutor/",
+      "pages": "https://zion-support.github.io/ai-language-tutor/",
+      "title": "AI Language Tutor",
+      "category": "healthcare-education-ai"
+    },
+    {
+      "id": "ai-sales-email-copilot",
+      "repo": "Zion-support/ai-sales-email-copilot",
+      "url": "https://ziontechgroup.com/ai-sales-email-copilot/",
+      "pages": "https://zion-support.github.io/ai-sales-email-copilot/",
+      "title": "AI Sales Email Copilot",
+      "category": "sales-lead-gen-ai"
+    },
+    {
+      "id": "ai-advertising-optimizer",
+      "repo": "Zion-support/ai-advertising-optimizer",
+      "url": "https://ziontechgroup.com/ai-advertising-optimizer/",
+      "pages": "https://zion-support.github.io/ai-advertising-optimizer/",
+      "title": "AI Advertising Optimizer",
+      "category": "sales-lead-gen-ai"
+    },
+    {
+      "id": "ai-growth-marketing-hub",
+      "repo": "Zion-support/ai-growth-marketing-hub",
+      "url": "https://ziontechgroup.com/ai-growth-marketing-hub/",
+      "pages": "https://zion-support.github.io/ai-growth-marketing-hub/",
+      "title": "AI Growth Marketing Hub",
+      "category": "sales-lead-gen-ai"
+    },
+    {
+      "id": "ai-email-classifier",
+      "repo": "Zion-support/ai-email-classifier",
+      "url": "https://ai-email-classifier.ziontechgroup.com",
+      "pages": "https://zion-support.github.io/ai-email-classifier/",
+      "title": "AI Email Classifier",
+      "category": "sales-lead-gen-ai"
     }
   ],
   "field": {
@@ -362,5 +426,5 @@
     }
   ],
   "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
-  "apps_total": 627
+  "apps_total": 533}
 }
