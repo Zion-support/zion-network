@@ -143,10 +143,39 @@ Multi-cloud compute & serverless price comparison.
 - **FinOps & Cloud** — 34 apps · e.g. [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/), [Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/), [Green Cloud Picker](https://ziontechgroup.com/green-cloud-picker/)
 - **Marketing & Sales** — 22 apps · e.g. [AI Advertising Optimizer](https://ziontechgroup.com/ai-advertising-optimizer/), [AI Caption Generator](https://ziontechgroup.com/ai-caption-generator/), [AI SEO Optimizer](https://ziontechgroup.com/zion-ai-seo-optimizer/)
 - **Healthcare & Education AI** — NEW · e.g. [AI Healthcare Platform](https://ziontechgroup.com/ai-healthcare-platform/), [AI Education Platform](https://ai-education-platform.ziontechgroup.com), [AI Language Tutor](https://ziontechgroup.com/ai-language-tutor/)
+- **E-commerce & Retail AI** — NEW · e.g. [AI Product Description Writer](https://ziontechgroup.com/ai-product-description-writer/), [AI Pricing Optimizer](https://ziontechgroup.com/ai-pricing-optimizer/), [AI Cart Recovery](https://ziontechgroup.com/ai-cart-recovery/)
 - **Customer Success & Retention AI** — NEW · e.g. [Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/), [Customer Health Scorer](https://ziontechgroup.com/customer-health-scorer/), [NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/)
 - **Business & Productivity** — 73 apps · e.g. [AI Meeting Assistant](https://ziontechgroup.com/zion-ai-meeting-assistant/), [AI Resume Builder](https://ziontechgroup.com/ai-resume-builder/), [AI Support Copilot](https://ziontechgroup.com/zion-ai-support-copilot/)
 - **More AI Apps** — 90 apps · e.g. [Accessibility Checker](https://ziontechgroup.com/accessibility-checker/), [AI Weather Forecast](https://ziontechgroup.com/ai-weather-forecast/), [AI Recipe Generator](https://ziontechgroup.com/ai-recipe-generator/)
 
+## 🛒 E-commerce & Retail AI (homepage cards)
+
+### AI Product Description Writer
+SEO-optimized product descriptions at catalog scale.
+[Try it live](https://ziontechgroup.com/ai-product-description-writer/) · [GitHub](https://github.com/Zion-support/ai-product-description-writer)
+
+### AI Pricing Optimizer
+Dynamic pricing from demand, competition and margin targets.
+[Try it live](https://ziontechgroup.com/ai-pricing-optimizer/) · [GitHub](https://github.com/Zion-support/ai-pricing-optimizer)
+
+### AI Inventory Forecaster
+Demand forecasting and replenishment alerts — fewer stockouts, less overstock.
+[Try it live](https://ziontechgroup.com/ai-inventory-forecaster/) · [GitHub](https://github.com/Zion-support/ai-inventory-forecaster)
+
+### AI Review Insights
+Mine reviews and ratings for sentiment, themes and product fixes.
+[Try it live](https://ziontechgroup.com/ai-review-insights/) · [GitHub](https://github.com/Zion-support/ai-review-insights)
+
+### AI Returns Reducer
+Predict and prevent returns before they happen.
+[Try it live](https://ziontechgroup.com/ai-returns-reducer/) · [GitHub](https://github.com/Zion-support/ai-returns-reducer)
+
+### AI Cart Recovery
+Recover abandoned carts with AI-timed outreach.
+[Try it live](https://ziontechgroup.com/ai-cart-recovery/) · [GitHub](https://github.com/Zion-support/ai-cart-recovery)
+
+→ Full category guide: [E-commerce & Retail AI](network/ecommerce-retail-ai.md) · Master index: [APPS_NETWORK.md](APPS_NETWORK.md)
+
 ## SEO paragraph (footer of homepage)
 
-Zion Tech Group operates the Zion App Network — more than 530 AI-powered applications covering agent orchestration, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), cloud FinOps, Kubernetes tooling, marketing & sales AI, healthcare and education AI, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
+Zion Tech Group operates the Zion App Network — more than 530 AI-powered applications covering agent orchestration, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), cloud FinOps, Kubernetes tooling, marketing & sales AI, healthcare and education AI, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), e-commerce & retail AI (product copy, dynamic pricing, inventory forecasting, review insights, returns reduction, cart recovery), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
