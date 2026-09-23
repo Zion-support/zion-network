@@ -24,16 +24,12 @@ The Zion Tech Group app network spans **539 public apps and sites** under [@Zion
 - **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 102 apps
 - **[🧰 Field Service & Support AI](network/field-service-ai.md)** — ticket triage, dispatch, RMA, spare parts
 - **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — MSP apps and partner tooling
-- **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — NEW: 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
+- **[💚 Customer Success & Retention](network/customer-success-retention.md)** — NEW: 11 apps (churn, health, NPS, sentiment, onboarding, upsell, VoC)
 - **[🏙️ Field & City Sites](network/field-city-sites.md)** — 276 sites
 
-## 🚀 Latest Additions (2026-09-23, late evening)
+## 🚀 Latest Additions (2026-09-23, late)
 
-New interlinked suite page: **[💚 Customer Success & Retention suite](network/customer-success-retention.md)** — 10 apps in a full post-sale toolchain (onboard → health → sentiment → churn → expansion), pairing with [customer-success-ai.md](network/customer-success-ai.md). New homepage spotlights: [Retention & Growth Suite](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_RETENTION_GROWTH.md) and [IT Asset, License & Compliance Ops](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_IT_ASSET_LICENSE.md). Standard network footers added to voice-of-customer-hub, sla-breach-predictor, license-renewal-planner, security-awareness-coach, nps-insight-engine and upsell-signal-scout.
-
-## 🚀 Latest Additions (2026-09-23, evening)
-
-New category: **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — [Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/), [Customer Health Scorer](https://ziontechgroup.com/customer-health-scorer/), [NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/), [Support Sentiment Monitor](https://ziontechgroup.com/support-sentiment-monitor/), [Upsell Signal Scout](https://ziontechgroup.com/upsell-signal-scout/), [Onboarding Journey Tracker](https://ziontechgroup.com/onboarding-journey-tracker/), [Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/) and [Churn Radar](https://ziontechgroup.com/churn-radar/) — fully interlinked with repos and homepage showcase copy in [HOMEPAGE_APPS.md](HOMEPAGE_APPS.md).
+New category: **[💚 Customer Success & Retention](network/customer-success-retention.md)** with machine-readable registry [customer-success-apps.json](network/customer-success-apps.json) — Churn Radar, Churn Risk Radar, SLA Breach Predictor, Customer Health Scorer, NPS Insight Engine, Support Sentiment Monitor, Onboarding Journey Tracker, Upsell Signal Scout, Partner Referral Tracker, Voice of Customer Hub, Support Deflection Analyzer. Homepage spotlight: [APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md).
 
 ## 🚀 Latest Additions (2026-09-23)
 

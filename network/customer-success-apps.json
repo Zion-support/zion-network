@@ -3,16 +3,71 @@
   "category_page": "https://github.com/Zion-support/zion-network/blob/main/network/customer-success-retention.md",
   "updated": "2026-09-23",
   "apps": [
-    { "name": "Churn Radar", "repo": "https://github.com/Zion-support/churn-radar", "live": "https://ziontechgroup.com/churn-radar/", "description": "Early churn detection for subscription and managed-services businesses" },
-    { "name": "Churn Risk Radar", "repo": "https://github.com/Zion-support/churn-risk-radar", "live": "https://ziontechgroup.com/churn-risk-radar/", "description": "Health scores, save plays and executive alerts" },
-    { "name": "SLA Breach Predictor", "repo": "https://github.com/Zion-support/sla-breach-predictor", "live": "https://ziontechgroup.com/sla-breach-predictor/", "description": "Forecast SLA breaches before they impact retention" },
-    { "name": "Customer Health Scorer", "repo": "https://github.com/Zion-support/customer-health-scorer", "live": "https://ziontechgroup.com/customer-health-scorer/", "description": "Unified customer health scoring from product, support and billing signals" },
-    { "name": "NPS Insight Engine", "repo": "https://github.com/Zion-support/nps-insight-engine", "live": "https://ziontechgroup.com/nps-insight-engine/", "description": "NPS & CSAT survey analysis with AI themes and driver detection" },
-    { "name": "Support Sentiment Monitor", "repo": "https://github.com/Zion-support/support-sentiment-monitor", "live": "https://ziontechgroup.com/support-sentiment-monitor/", "description": "Real-time sentiment monitoring across tickets, chats and calls" },
-    { "name": "Onboarding Journey Tracker", "repo": "https://github.com/Zion-support/onboarding-journey-tracker", "live": "https://ziontechgroup.com/onboarding-journey-tracker/", "description": "Onboarding milestones, time-to-value and stalled-account alerts" },
-    { "name": "Upsell Signal Scout", "repo": "https://github.com/Zion-support/upsell-signal-scout", "live": "https://ziontechgroup.com/upsell-signal-scout/", "description": "Detect upsell and expansion signals from usage and account activity" },
-    { "name": "Partner Referral Tracker", "repo": "https://github.com/Zion-support/partner-referral-tracker", "live": "https://ziontechgroup.com/partner-referral-tracker/", "description": "Track partner referrals, commissions and pipeline attribution" },
-    { "name": "Voice of Customer Hub", "repo": "https://github.com/Zion-support/voice-of-customer-hub", "live": "https://ziontechgroup.com/voice-of-customer-hub/", "description": "Unify reviews, tickets, surveys and social mentions into one AI insights hub" },
-    { "name": "Support Deflection Analyzer", "repo": "https://github.com/Zion-support/support-deflection-analyzer", "live": "https://ziontechgroup.com/support-deflection-analyzer/", "description": "Measure and grow ticket deflection from docs and bots" }
+    {
+      "name": "Churn Radar",
+      "repo": "https://github.com/Zion-support/churn-radar",
+      "live": "https://ziontechgroup.com/churn-radar/",
+      "description": "Early churn detection for subscription and managed-services businesses"
+    },
+    {
+      "name": "Churn Risk Radar",
+      "repo": "https://github.com/Zion-support/churn-risk-radar",
+      "live": "https://ziontechgroup.com/churn-risk-radar/",
+      "description": "Health scores, save plays and executive alerts"
+    },
+    {
+      "name": "SLA Breach Predictor",
+      "repo": "https://github.com/Zion-support/sla-breach-predictor",
+      "live": "https://ziontechgroup.com/sla-breach-predictor/",
+      "description": "Forecast SLA breaches before they impact retention"
+    },
+    {
+      "name": "Customer Health Scorer",
+      "repo": "https://github.com/Zion-support/customer-health-scorer",
+      "live": "https://ziontechgroup.com/customer-health-scorer/",
+      "description": "Unified customer health scoring from product, support and billing signals"
+    },
+    {
+      "name": "NPS Insight Engine",
+      "repo": "https://github.com/Zion-support/nps-insight-engine",
+      "live": "https://ziontechgroup.com/nps-insight-engine/",
+      "description": "NPS & CSAT survey analysis with AI themes and driver detection"
+    },
+    {
+      "name": "Support Sentiment Monitor",
+      "repo": "https://github.com/Zion-support/support-sentiment-monitor",
+      "live": "https://ziontechgroup.com/support-sentiment-monitor/",
+      "description": "Real-time sentiment monitoring across tickets, chats and calls"
+    },
+    {
+      "name": "Onboarding Journey Tracker",
+      "repo": "https://github.com/Zion-support/onboarding-journey-tracker",
+      "live": "https://ziontechgroup.com/onboarding-journey-tracker/",
+      "description": "Onboarding milestones, time-to-value and stalled-account alerts"
+    },
+    {
+      "name": "Upsell Signal Scout",
+      "repo": "https://github.com/Zion-support/upsell-signal-scout",
+      "live": "https://ziontechgroup.com/upsell-signal-scout/",
+      "description": "Detect upsell and expansion signals from usage and account activity"
+    },
+    {
+      "name": "Partner Referral Tracker",
+      "repo": "https://github.com/Zion-support/partner-referral-tracker",
+      "live": "https://ziontechgroup.com/partner-referral-tracker/",
+      "description": "Track partner referrals, commissions and pipeline attribution"
+    },
+    {
+      "name": "Voice of Customer Hub",
+      "repo": "https://github.com/Zion-support/voice-of-customer-hub",
+      "live": "https://ziontechgroup.com/voice-of-customer-hub/",
+      "description": "Unify reviews, tickets, surveys and social mentions into one AI insights hub"
+    },
+    {
+      "name": "Support Deflection Analyzer",
+      "repo": "https://github.com/Zion-support/support-deflection-analyzer",
+      "live": "https://ziontechgroup.com/support-deflection-analyzer/",
+      "description": "Measure and grow ticket deflection from docs and bots"
+    }
   ]
 }
