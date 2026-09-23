@@ -14,15 +14,20 @@ The Zion Tech Group app network spans **533 public apps and sites** under [@Zion
 - **[🧠 LLM, Prompts & RAG](network/llm-prompts-rag.md)** — 39 apps
 - **[📊 Data & Analytics](network/data-analytics.md)** — 29 apps
 - **[💰 Cost, FinOps & Cloud](network/cost-finops-cloud.md)** — 25 apps
-- **[🔒 Security & Compliance](network/security-compliance.md)** — 52 apps
-- **[💼 Business Tools & Calculators](network/business-tools-calculators.md)** — 23 apps
+- **[🔐 Security & Compliance](network/security-compliance.md)** — 52 apps
+- **[🧰 Business Tools & Calculators](network/business-tools-calculators.md)** — 23 apps
+- **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — NEW: 6 apps (outbound, ads, growth, CX, churn)
 - **[🎨 Content & Marketing](network/content-marketing.md)** — 24 apps
 - **[🏭 Industry Platforms](network/industry-platforms.md)** — 13 apps
 - **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 102 apps
 - **[🧰 Field Service & Support AI](network/field-service-ai.md)** — NEW: ticket triage, dispatch, RMA, spare parts
-- **[🌍 Field & City Sites](network/field-city-sites.md)** — 276 sites
+- **[🏙️ Field & City Sites](network/field-city-sites.md)** — 276 sites
 
-## 🆕 Latest Additions (2026-09-22)
+## 🚀 Latest Additions (2026-09-23)
+
+New category: **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — AI Sales Email Copilot, AI Advertising Optimizer, AI Growth Marketing Hub, AI Customer Experience Hub, AI Email Classifier, Churn Radar.
+
+## 🚀 Latest Additions (2026-09-22)
 
 Field Service & Support AI suite, freshly interlinked:
 
@@ -50,4 +55,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-22 — 533 public repos, 29 flagship apps registered in network.json._
+_Updated 2026-09-23 — 533 public repos, 29 flagship apps registered in network.json._
