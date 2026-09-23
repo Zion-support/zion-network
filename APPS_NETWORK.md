@@ -1,10 +1,10 @@
 # 🌐 Zion App Network — Master Index
 
-The Zion Tech Group app network spans **533+ public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
+The Zion Tech Group app network spans **533 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
 
 - 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
-- 🛰️ Hub: [zion-network](https://zion-support.github.io/zion-network/) · [network.ziontechgroup.com](https://network.ziontechgroup.com)
+- 🗂️ Hub: [zion-network](https://zion-support.github.io/zion-network/) · [network.ziontechgroup.com](https://network.ziontechgroup.com)
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 
 ## Categories
@@ -13,31 +13,24 @@ The Zion Tech Group app network spans **533+ public apps and sites** under [@Zio
 - **[🤖 AI Agents & Orchestration](network/ai-agents-orchestration.md)** — 25 apps
 - **[🧠 LLM, Prompts & RAG](network/llm-prompts-rag.md)** — 39 apps
 - **[📊 Data & Analytics](network/data-analytics.md)** — 29 apps
-- **[🧮 Cost, FinOps & Cloud](network/cost-finops-cloud.md)** — 25 apps
-- **[🔒 Security & Compliance](network/security-compliance.md)** — 52 apps
+- **[💰 Cost, FinOps & Cloud](network/cost-finops-cloud.md)** — 25 apps
+- **[🔐 Security & Compliance](network/security-compliance.md)** — 52 apps
 - **[🧰 Business Tools & Calculators](network/business-tools-calculators.md)** — 23 apps
-- **[📣 Content & Marketing](network/content-marketing.md)** — 24 apps
+- **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — NEW: 6 apps (outbound, ads, growth, CX, churn)
+- **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** — NEW: 4 apps (patient mgmt, wellness, tutoring)
+- **[🎨 Content & Marketing](network/content-marketing.md)** — 24 apps
 - **[🏭 Industry Platforms](network/industry-platforms.md)** — 13 apps
 - **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 102 apps
-- **[🩺 Field Service & Support AI](network/field-service-ai.md)** — ticket triage, dispatch, RMA, spare parts
-- **[🌆 Field & City Sites](network/field-city-sites.md)** — 276 sites
-- **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — NEW: tools for managed service providers, IT partners and resellers
+- **[🧰 Field Service & Support AI](network/field-service-ai.md)** — NEW: ticket triage, dispatch, RMA, spare parts
+- **[🏙️ Field & City Sites](network/field-city-sites.md)** — 276 sites
 
-## 🆕 Latest Additions (2026-09-23)
+## 🚀 Latest Additions (2026-09-23)
 
-New **MSP & Partner Ecosystem** category, freshly interlinked:
+New categories: **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** (AI Sales Email Copilot, AI Advertising Optimizer, AI Growth Marketing Hub, AI Customer Experience Hub, AI Email Classifier, Churn Radar) and **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** (AI Healthcare Platform, AI Health Tracker, AI Education Platform, AI Language Tutor).
 
-- [Zion AI Ticket Sentinel](https://ziontechgroup.com/zion-ai-ticket-sentinel/) · [repo](https://github.com/Zion-support/zion-ai-ticket-sentinel)
-- [Zion AI Dispatch Orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/) · [repo](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
-- [Zion AI Warranty Tracker](https://ziontechgroup.com/zion-ai-warranty-tracker/) · [repo](https://github.com/Zion-support/zion-ai-warranty-tracker)
-- [Proposal Builder AI](https://ziontechgroup.com/proposal-builder-ai/) · [repo](https://github.com/Zion-support/proposal-builder-ai)
-- [Partner Referral Tracker](https://ziontechgroup.com/partner-referral-tracker/) · [repo](https://github.com/Zion-support/partner-referral-tracker)
-- [Support Deflection Analyzer](https://ziontechgroup.com/support-deflection-analyzer/) · [repo](https://github.com/Zion-support/support-deflection-analyzer)
-- [Patch Priority Radar](https://ziontechgroup.com/patch-priority-radar/) · [repo](https://github.com/Zion-support/patch-priority-radar)
-- [Zion AI Vendor Risk](https://ziontechgroup.com/zion-ai-vendor-risk/) · [repo](https://github.com/Zion-support/zion-ai-vendor-risk)
-- [Churn Radar](https://ziontechgroup.com/churn-radar/) · [repo](https://github.com/Zion-support/churn-radar)
+## 🚀 Latest Additions (2026-09-22)
 
-Previous additions (2026-09-22) — Field Service & Support AI suite:
+Field Service & Support AI suite, freshly interlinked:
 
 - [Zion AI Ticket Triage](https://ziontechgroup.com/zion-ai-ticket-triage/) · [repo](https://github.com/Zion-support/zion-ai-ticket-triage)
 - [Zion AI Spare Parts Matcher](https://ziontechgroup.com/zion-ai-spare-parts-matcher/) · [repo](https://github.com/Zion-support/zion-ai-spare-parts-matcher)
@@ -48,6 +41,7 @@ Previous additions (2026-09-22) — Field Service & Support AI suite:
 - [Zion AI PR Review Swarm](https://ziontechgroup.com/zion-ai-pr-review-swarm/) · [repo](https://github.com/Zion-support/zion-ai-pr-review-swarm)
 - [Zion AI API Guardian](https://ziontechgroup.com/zion-ai-api-guardian/) · [repo](https://github.com/Zion-support/zion-ai-api-guardian)
 - [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/) · [repo](https://github.com/Zion-support/finops-autopilot)
+- [Churn Radar](https://ziontechgroup.com/churn-radar/) · [repo](https://github.com/Zion-support/churn-radar)
 - [Voice Agent Studio](https://ziontechgroup.com/voice-agent-studio/) · [repo](https://github.com/Zion-support/voice-agent-studio)
 
 ## 🔗 Interlinks
@@ -62,4 +56,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-23 — 533+ public repos, 13 category pages, 29 flagship apps registered in network.json._
+_Updated 2026-09-23 — 533 public repos, 37 flagship apps registered in network.json._
