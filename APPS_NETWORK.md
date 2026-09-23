@@ -24,7 +24,12 @@ The Zion Tech Group app network spans **539 public apps and sites** under [@Zion
 - **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 102 apps
 - **[🧰 Field Service & Support AI](network/field-service-ai.md)** — ticket triage, dispatch, RMA, spare parts
 - **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — MSP apps and partner tooling
+- **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — NEW: 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
 - **[🏙️ Field & City Sites](network/field-city-sites.md)** — 276 sites
+
+## 🚀 Latest Additions (2026-09-23, evening)
+
+New category: **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — [Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/), [Customer Health Scorer](https://ziontechgroup.com/customer-health-scorer/), [NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/), [Support Sentiment Monitor](https://ziontechgroup.com/support-sentiment-monitor/), [Upsell Signal Scout](https://ziontechgroup.com/upsell-signal-scout/), [Onboarding Journey Tracker](https://ziontechgroup.com/onboarding-journey-tracker/), [Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/) and [Churn Radar](https://ziontechgroup.com/churn-radar/) — fully interlinked with repos and homepage showcase copy in [HOMEPAGE_APPS.md](HOMEPAGE_APPS.md).
 
 ## 🚀 Latest Additions (2026-09-23)
 
