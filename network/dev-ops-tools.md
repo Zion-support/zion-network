@@ -1,6 +1,6 @@
 # Dev & Ops Tools — Zion App Network
 
-89 apps in this category. Each links to its repository; live URLs follow the pattern `https://ziontechgroup.com/<name>/`.
+90 apps in this category. Each links to its repository; live URLs follow the pattern `https://ziontechgroup.com/<name>/`.
 
 - [accessibility-checker](https://github.com/Zion-support/accessibility-checker)
 - [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety)
@@ -30,6 +30,7 @@
 - [ai-readiness-score](https://github.com/Zion-support/ai-readiness-score)
 - [ai-recipe-generator](https://github.com/Zion-support/ai-recipe-generator)
 - [ai-weather-forecast](https://github.com/Zion-support/ai-weather-forecast)
+- [ops-runbook-ai](https://github.com/Zion-support/ops-runbook-ai) — AI-generated operational runbooks. [live](https://ziontechgroup.com/ops-runbook-ai/)
 - [incident-runbook](https://github.com/Zion-support/incident-runbook)
 - [mock-api-generator](https://github.com/Zion-support/mock-api-generator)
 - [postmortem-generator](https://github.com/Zion-support/postmortem-generator)
