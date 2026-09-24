@@ -29,7 +29,7 @@ The Zion Tech Group app network spans **533 public apps and sites** under [@Zion
 
 ## 🚀 Latest Additions (2026-09-23, evening)
 
-- New category: **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — 8 interlinked apps; homepage cards added to [HOMEPAGE_APPS.md](HOMEPAGE_APPS.md); spotlight copies now served from this repo under [spotlights/](spotlights/) for Pages availability.
+- New category: **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — 8 interlinked apps; homepage cards added to [HOMEPAGE_APPS.md](HOMEPAGE_APPS.md); spotlight copies now served from this repo under [spotlights/](spotlights/) for Pages availability (index: [spotlights/README.md](spotlights/README.md); suites: [Customer Success](spotlights/customer-success.md), [MSP](spotlights/msp-ecosystem.md), [Sales & Lead Gen](spotlights/sales-leadgen.md), [E-commerce & Retail](spotlights/ecommerce-retail.md)). E-commerce app repos created and interlinked: [ai-product-description-writer](https://github.com/Zion-support/ai-product-description-writer), [ai-pricing-optimizer](https://github.com/Zion-support/ai-pricing-optimizer), [ai-inventory-forecaster](https://github.com/Zion-support/ai-inventory-forecaster), [ai-review-insights](https://github.com/Zion-support/ai-review-insights), [ai-returns-reducer](https://github.com/Zion-support/ai-returns-reducer), [ai-cart-recovery](https://github.com/Zion-support/ai-cart-recovery).
 
 - New homepage spotlight: [APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md) — Renewals, Revenue & Customer Growth suite.
 - SPOTLIGHTS_INDEX.md fixed: all 30+ homepage spotlight pages now listed and interlinked.
@@ -67,4 +67,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-23 — 533 public repos, 63 flagship apps registered in network.json._
+_Updated 2026-09-23 — 533 public repos, 69 flagship apps registered in network.json._
