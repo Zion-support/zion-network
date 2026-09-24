@@ -1,0 +1,20 @@
+{
+  "category": "Data Operations & Observability AI",
+  "updated": "2026-09-24",
+  "apps": [
+    {"slug": "data-catalog-copilot", "name": "Data Catalog Copilot", "description": "AI copilot for data catalogs — auto-documents tables, lineage, and ownership.", "live": "https://ziontechgroup.com/data-catalog-copilot/", "repo": "https://github.com/Zion-support/data-catalog-copilot"},
+    {"slug": "data-quality-watchdog", "name": "Data Quality Watchdog", "description": "Detects schema drift, nulls, and anomalies across pipelines before they hit dashboards.", "live": "https://ziontechgroup.com/data-quality-watchdog/", "repo": "https://github.com/Zion-support/data-quality-watchdog"},
+    {"slug": "etl-pipeline-monitor", "name": "ETL Pipeline Monitor", "description": "AI ETL/pipeline monitoring — predicts failures and ranks root causes.", "live": "https://ziontechgroup.com/etl-pipeline-monitor/", "repo": "https://github.com/Zion-support/etl-pipeline-monitor"},
+    {"slug": "metric-anomaly-alerter", "name": "Metric Anomaly Alerter", "description": "Real-time metric anomaly detection and alerting with business context.", "live": "https://ziontechgroup.com/metric-anomaly-alerter/", "repo": "https://github.com/Zion-support/metric-anomaly-alerter"},
+    {"slug": "dashboard-insight-narrator", "name": "Dashboard Insight Narrator", "description": "Turns dashboards into plain-language insight narratives for stakeholders.", "live": "https://ziontechgroup.com/dashboard-insight-narrator/", "repo": "https://github.com/Zion-support/dashboard-insight-narrator"},
+    {"slug": "report-scheduler-ai", "name": "Report Scheduler AI", "description": "AI report scheduling and distribution — right report, right person, right time.", "live": "https://ziontechgroup.com/report-scheduler-ai/", "repo": "https://github.com/Zion-support/report-scheduler-ai"},
+    {"slug": "api-health-probe", "name": "API Health Probe", "description": "Monitor API endpoints with response-time charts, uptime %, and alerts.", "live": "https://ziontechgroup.com/api-health-probe/", "repo": "https://github.com/Zion-support/api-health-probe"},
+    {"slug": "cloud-cost-estimator", "name": "Cloud Cost Estimator", "description": "Multi-cloud compute & serverless price comparison.", "live": "https://ziontechgroup.com/cloud-cost-estimator/", "repo": "https://github.com/Zion-support/cloud-cost-estimator"},
+    {"slug": "cloud-architect-diagram-builder", "name": "Cloud Architect Diagram Builder", "description": "Drag-and-drop AWS/Azure/GCP architecture diagrams with SVG/PNG export.", "live": "https://ziontechgroup.com/cloud-architect-diagram-builder/", "repo": "https://github.com/Zion-support/cloud-architect-diagram-builder"}
+  ],
+  "interlinks": {
+    "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+    "homepage_suite": "https://ziontechgroup.com/ai-data-observability-suite/",
+    "spotlight": "https://github.com/Zion-support/zion-network/blob/main/spotlights/data-observability.md"
+  }
+}
