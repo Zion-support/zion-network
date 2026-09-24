@@ -10,8 +10,9 @@ Constellation hub of Zion Tech Group sites.
 - Field network: [zion-field](https://github.com/Zion-support/zion-field)
 
 ## Featured categories
-- 🧑‍💼 [HR & Talent AI](network/hr-talent-ai.md) — NEW 2026-09-24
-- 🧝 [Customer Success AI](network/customer-success-ai.md)
+- 💼 [Sales & Lead Gen AI](network/sales-lead-gen-ai.md) — suite page: https://ziontechgroup.com/apps/sales-leadgen-suite.html — NEW 2026-09-25
+- 🧑‍💼 [HR & Talent AI](network/hr-talent-ai.md) — suite page: https://ziontechgroup.com/apps/hr-talent-suite.html
+- 🧚 [Customer Success AI](network/customer-success-ai.md) — suite page: https://ziontechgroup.com/apps/customer-success-suite.html
 - 🎝 [MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)
 - 🛺 [Field Service & Support AI](network/field-service-ai.md)
 - 🔒 [Security & Compliance](network/security-compliance.md)
