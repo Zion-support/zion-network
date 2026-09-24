@@ -1,11 +1,16 @@
-# Update 2026-09-24 — Session 20
+# Session 20 — 2026-09-24
 
-- Enriched READMEs with features + related-app interlinks + standardized footers:
-  zion-ai-threat-modeler (37f824d), zion-ai-api-guardian (52ddd5d),
-  zion-ai-pr-review-swarm (194f052), finops-autopilot (6421147), voice-agent-studio (6de3417).
-- New category page: network/devsecops-quality.md (DevSecOps & Code Quality AI, 4 apps).
-- New spotlight: spotlights/devsecops-quality.md.
-- New homepage ad page: APP_NETWORK_SPOTLIGHT_DEVSECOPS_QUALITY.md in zion-support.github.io.
-- APPS_NETWORK.md updated with new category + latest additions.
+## Done
+- New category page: network/ai-ops-incident-response.md (18 apps, fully interlinked with hub, network.json, related categories, spotlight).
+- New registry: network/aiops-apps.json.
+- New spotlight: spotlights/ai-ops-incident-response.md.
+- network.json updated: new category ai-ops-incident-response, aiops_registry key, apps_total=600.
+- HOMEPAGE_APPS.md: new homepage advertising section "AI Ops, Incident Response & Reliability" with 6 cards linking live apps + GitHub; hero updated to 600+ apps.
+- Created homepage-apps-section.html (drop-in HTML referenced by HOMEPAGE_APPS.md — was missing, now fixed).
+- New spotlight in zion-support.github.io: APP_NETWORK_SPOTLIGHT_AIOPS.md.
+- Network README footers added to incident-runbook-ai and warranty-claim-triager.
+- Verified live URLs (see session memory).
 
-Next: continue adding network footers to remaining flagship repos; verify Pages propagation for new files.
+## Next
+- Continue README network footers for remaining flagship repos.
+- Add remaining spotlights for categories without one.

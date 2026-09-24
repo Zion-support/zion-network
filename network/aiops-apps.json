@@ -1,0 +1,28 @@
+{
+ "category": "ai-ops-incident-response",
+ "title": "AI Ops, Incident Response & Reliability",
+ "updated": "2026-09-24",
+ "page": "network/ai-ops-incident-response.md",
+ "spotlight": "spotlights/ai-ops-incident-response.md",
+ "apps": [
+  {"id": "incident-runbook-ai", "title": "Incident Runbook AI", "repo": "Zion-support/incident-runbook-ai", "url": "https://ziontechgroup.com/incident-runbook-ai/", "description": "Generates executable runbooks and guided response steps from incident signals."},
+  {"id": "zion-ai-incident-commander", "title": "AI Incident Commander", "repo": "Zion-support/zion-ai-incident-commander", "url": "https://ziontechgroup.com/zion-ai-incident-commander/", "description": "Coordinates major incidents: roles, timelines, comms and status in one command view."},
+  {"id": "zion-ai-incident-runbook", "title": "AI Incident Runbook", "repo": "Zion-support/zion-ai-incident-runbook", "url": "https://ziontechgroup.com/zion-ai-incident-runbook/", "description": "Turns postmortems and alerts into reusable, step-by-step runbooks."},
+  {"id": "zion-ai-incident-responder", "title": "AI Incident Responder", "repo": "Zion-support/zion-ai-incident-responder", "url": "https://ziontechgroup.com/zion-ai-incident-responder/", "description": "First-response copilot that triages alerts and suggests mitigation actions."},
+  {"id": "ai-incident-timeline", "title": "AI Incident Timeline", "repo": "Zion-support/ai-incident-timeline", "url": "https://ziontechgroup.com/ai-incident-timeline/", "description": "Auto-builds incident timelines from logs, chats and alerts."},
+  {"id": "incident-timeline-reconstructor", "title": "Incident Timeline Reconstructor", "repo": "Zion-support/incident-timeline-reconstructor", "url": "https://ziontechgroup.com/incident-timeline-reconstructor/", "description": "Reconstructs what happened, when, and why from fragmented signals."},
+  {"id": "incident-comms-writer", "title": "Incident Comms Writer", "repo": "Zion-support/incident-comms-writer", "url": "https://ziontechgroup.com/incident-comms-writer/", "description": "Drafts stakeholder and customer incident communications in seconds."},
+  {"id": "ops-runbook-ai", "title": "Ops Runbook AI", "repo": "Zion-support/ops-runbook-ai", "url": "https://ziontechgroup.com/ops-runbook-ai/", "description": "Operational runbook generation and execution guidance for SRE/IT ops."},
+  {"id": "sla-risk-forecaster", "title": "SLA Risk Forecaster", "repo": "Zion-support/sla-risk-forecaster", "url": "https://ziontechgroup.com/sla-risk-forecaster/", "description": "Predicts SLA breaches days ahead and recommends interventions."},
+  {"id": "sla-forecast-guardian", "title": "SLA Forecast Guardian", "repo": "Zion-support/sla-forecast-guardian", "url": "https://ziontechgroup.com/sla-forecast-guardian/", "description": "Predicts SLA breaches before they happen and auto-escalates."},
+  {"id": "escalation-sentinel", "title": "Escalation Sentinel", "repo": "Zion-support/escalation-sentinel", "url": "https://ziontechgroup.com/escalation-sentinel/", "description": "Detects brewing escalations and briefs the right owner early."},
+  {"id": "api-health-probe", "title": "API Health Probe", "repo": "Zion-support/api-health-probe", "url": "https://ziontechgroup.com/api-health-probe/", "description": "Endpoint monitoring with response-time charts, uptime % and alerts."},
+  {"id": "metric-anomaly-alerter", "title": "Metric Anomaly Alerter", "repo": "Zion-support/metric-anomaly-alerter", "url": "https://ziontechgroup.com/metric-anomaly-alerter/", "description": "Real-time metric anomaly detection with business context."},
+  {"id": "etl-pipeline-monitor", "title": "ETL Pipeline Monitor", "repo": "Zion-support/etl-pipeline-monitor", "url": "https://ziontechgroup.com/etl-pipeline-monitor/", "description": "Predicts pipeline failures and ranks root causes."},
+  {"id": "zion-ai-drift-detector", "title": "Drift Detector", "repo": "Zion-support/zion-ai-drift-detector", "url": "https://ziontechgroup.com/zion-ai-drift-detector/", "description": "Configuration drift detection and auto-remediation for multi-vendor IT."},
+  {"id": "maintenance-ticket-triage", "title": "Maintenance Ticket Triage", "repo": "Zion-support/maintenance-ticket-triage", "url": "https://ziontechgroup.com/maintenance-ticket-triage/", "description": "AI classification, prioritization and routing of maintenance tickets."},
+  {"id": "support-ticket-triager", "title": "Support Ticket Triager", "repo": "Zion-support/support-ticket-triager", "url": "https://ziontechgroup.com/support-ticket-triager/", "description": "Classify, prioritize and route support tickets in real time."},
+  {"id": "warranty-claim-triager", "title": "Warranty Claim Triager", "repo": "Zion-support/warranty-claim-triager", "url": "https://ziontechgroup.com/warranty-claim-triager/", "description": "AI classification and auto-adjudication routing of warranty claims."}
+ ],
+ "related_categories": ["security-compliance", "data-analytics", "dev-ops-tools", "customer-success-retention", "field-service-ai", "msp-partner-ecosystem"]
+}
