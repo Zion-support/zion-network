@@ -1,6 +1,6 @@
 # 🌐 Zion App Network — Master Index
 
-The Zion Tech Group app network spans **533 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
+The Zion Tech Group app network spans **535 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
 
 - 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
@@ -16,23 +16,24 @@ The Zion Tech Group app network spans **533 public apps and sites** under [@Zion
 - **[💰 Cost, FinOps & Cloud](network/cost-finops-cloud.md)** — 25 apps
 - **[🔐 Security & Compliance](network/security-compliance.md)** — 52 apps
 - **[🧰 Business Tools & Calculators](network/business-tools-calculators.md)** — 23 apps
-- **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — 6 apps (outbound, ads, growth, CX, churn)
-- **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** — 4 apps (patient mgmt, wellness, tutoring)
+- **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — NEW: 6 apps (outbound, ads, growth, CX, churn)
+- **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** — NEW: 4 apps (patient mgmt, wellness, tutoring)
 - **[🎨 Content & Marketing](network/content-marketing.md)** — 24 apps
 - **[🏭 Industry Platforms](network/industry-platforms.md)** — 13 apps
 - **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 102 apps
-- **[🧰 Field Service & Support AI](network/field-service-ai.md)** — ticket triage, dispatch, RMA, spare parts
+- **[🧰 Procurement, Vendor & IT Reliability AI](network/procurement-vendor-it-reliability.md)** — NEW: 12 apps (procurement, vendor risk, SLA, incident runbooks)
+- **[🧰 Field Service & Support AI](network/field-service-ai.md)** — NEW: ticket triage, dispatch, RMA, spare parts
 - **[🏙️ Field & City Sites](network/field-city-sites.md)** — 276 sites
-- **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — 20 apps for MSPs, IT partners & resellers ([registry](network/msp-apps.json))
-- **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
-- **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — 6 apps (product copy, pricing, inventory, reviews, returns, cart recovery)
-- **[📈 Data Operations & Observability AI](network/data-observability-ai.md)** — NEW: 9 apps (catalog, quality, ETL monitoring, anomalies, narratives, reports, API uptime, cost, diagrams — [registry](network/data-observability-apps.json))
+- **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — NEW: 20 apps for MSPs, IT partners & resellers ([registry](network/msp-apps.json))
+- **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — NEW: 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
+- **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — NEW: 6 apps (product copy, pricing, inventory, reviews, returns, cart recovery)
 
-## 🚀 Latest Additions (2026-09-24)
+## 🚀 Latest Additions (2026-09-24, Batch 28)
 
-- New category: **[📈 Data Operations & Observability AI](network/data-observability-ai.md)** — 9 interlinked apps with [registry](network/data-observability-apps.json) and [spotlight](spotlights/data-observability.md): [Data Catalog Copilot](https://ziontechgroup.com/data-catalog-copilot/), [Data Quality Watchdog](https://ziontechgroup.com/data-quality-watchdog/), [ETL Pipeline Monitor](https://ziontechgroup.com/etl-pipeline-monitor/), [Metric Anomaly Alerter](https://ziontechgroup.com/metric-anomaly-alerter/), [Dashboard Insight Narrator](https://ziontechgroup.com/dashboard-insight-narrator/), [Report Scheduler AI](https://ziontechgroup.com/report-scheduler-ai/), [API Health Probe](https://ziontechgroup.com/api-health-probe/), [Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/), [Cloud Architect Diagram Builder](https://ziontechgroup.com/cloud-architect-diagram-builder/).
-- New homepage landing page: [ziontechgroup.com/ai-data-observability-suite/](https://ziontechgroup.com/ai-data-observability-suite/) + spotlight [APP_NETWORK_SPOTLIGHT_DATA_OBSERVABILITY.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_DATA_OBSERVABILITY.md).
-- Session log: [logs/SESSION20.md](logs/SESSION20.md).
+- New category: **[🧰 Procurement, Vendor & IT Reliability AI](network/procurement-vendor-it-reliability.md)** — 12 interlinked apps (AI Procurement Copilot, Incident Runbook AI, Vendor Risk Screener, Contract Renewal Radar, Contract Clause Extractor, AI Incident Timeline, AI Infrastructure Monitor, AI API Health Monitor, Agent SLA Monitor, SLA Forecast Guardian, SLA Risk Forecaster, ETL Pipeline Monitor).
+- Fixed empty repos: [ai-procurement-copilot](https://github.com/Zion-support/ai-procurement-copilot) and [incident-runbook-ai](https://github.com/Zion-support/incident-runbook-ai) now have README + interlinked landing pages.
+- network.json now registers 86 flagship apps (6 new added).
+- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md).
 
 ## 🚀 Latest Additions (2026-09-23, evening)
 
@@ -74,4 +75,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-24 — 533+ public repos, 78 flagship apps across 18 categories; new Data Operations & Observability AI suite._
+_Updated 2026-09-24 — 535 public repos, 86 flagship apps registered in network.json._
