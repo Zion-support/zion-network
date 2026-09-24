@@ -3,7 +3,7 @@
 The Zion Tech Group app network spans **533 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
 
 - 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
-- 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
+- 💚 Status: [zion-status](https://zion-support.github.io/zion-status/)
 - 🗂️ Hub: [zion-network](https://zion-support.github.io/zion-network/) · [network.ziontechgroup.com](https://network.ziontechgroup.com)
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 
@@ -12,28 +12,32 @@ The Zion Tech Group app network spans **533 public apps and sites** under [@Zion
 - **[🏠 Core Site & Hubs](network/core-site-hubs.md)** — 19 apps
 - **[🤖 AI Agents & Orchestration](network/ai-agents-orchestration.md)** — 25 apps
 - **[🧠 LLM, Prompts & RAG](network/llm-prompts-rag.md)** — 39 apps
-- **[📊 Data & Analytics](network/data-analytics.md)** — 29 apps
+- **[💾 Data & Analytics](network/data-analytics.md)** — 29 apps
 - **[💰 Cost, FinOps & Cloud](network/cost-finops-cloud.md)** — 25 apps
-- **[🔐 Security & Compliance](network/security-compliance.md)** — 52 apps
+- **[🛡️ Security & Compliance](network/security-compliance.md)** — 52 apps
+- **[🛡️ DevSecOps & Code Quality AI](network/devsecops-quality.md)** — NEW: 4 apps (threat modeling, API guardian, PR review swarm, data contracts)
 - **[🧰 Business Tools & Calculators](network/business-tools-calculators.md)** — 23 apps
-- **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — NEW: 6 apps (outbound, ads, growth, CX, churn)
-- **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** — NEW: 4 apps (patient mgmt, wellness, tutoring)
-- **[🎨 Content & Marketing](network/content-marketing.md)** — 24 apps
+- **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — 6 apps (outbound, ads, growth, CX, churn)
+- **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** — 4 apps (patient mgmt, wellness, tutoring)
+- **[📝 Content & Marketing](network/content-marketing.md)** — 24 apps
 - **[🏭 Industry Platforms](network/industry-platforms.md)** — 13 apps
 - **[🛠️ Dev & Ops Tools](network/dev-ops-tools.md)** — 102 apps
-- **[🧰 Field Service & Support AI](network/field-service-ai.md)** — NEW: ticket triage, dispatch, RMA, spare parts
+- **[🧰 Field Service & Support AI](network/field-service-ai.md)** — ticket triage, dispatch, RMA, spare parts
 - **[🏙️ Field & City Sites](network/field-city-sites.md)** — 276 sites
-- **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — NEW: 20 apps for MSPs, IT partners & resellers ([registry](network/msp-apps.json))
-- **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — NEW: 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
-- **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — NEW: 6 apps (product copy, pricing, inventory, reviews, returns, cart recovery)
+- **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — 20 apps for MSPs, IT partners & resellers ([registry](network/msp-apps.json))
+- **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
+- **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — 6 apps (product copy, pricing, inventory, reviews, returns, cart recovery)
+
+## 🚀 Latest Additions (2026-09-24)
+
+- New category: **[🛡️ DevSecOps & Code Quality AI](network/devsecops-quality.md)** — 4 interlinked apps; spotlight at [spotlights/devsecops-quality.md](spotlights/devsecops-quality.md) and homepage ad page [APP_NETWORK_SPOTLIGHT_DEVSECOPS_QUALITY.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_DEVSECOPS_QUALITY.md).
+- READMEs enriched (features + interlinks + footers): [zion-ai-threat-modeler](https://github.com/Zion-support/zion-ai-threat-modeler), [zion-ai-api-guardian](https://github.com/Zion-support/zion-ai-api-guardian), [zion-ai-pr-review-swarm](https://github.com/Zion-support/zion-ai-pr-review-swarm), [finops-autopilot](https://github.com/Zion-support/finops-autopilot), [voice-agent-studio](https://github.com/Zion-support/voice-agent-studio).
 
 ## 🚀 Latest Additions (2026-09-23, evening)
 
-- New category: **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — 8 interlinked apps; homepage cards added to [HOMEPAGE_APPS.md](HOMEPAGE_APPS.md); spotlight copies now served from this repo under [spotlights/](spotlights/) for Pages availability (index: [spotlights/README.md](spotlights/README.md); suites: [Customer Success](spotlights/customer-success.md), [MSP](spotlights/msp-ecosystem.md), [Sales & Lead Gen](spotlights/sales-leadgen.md), [E-commerce & Retail](spotlights/ecommerce-retail.md)). E-commerce app repos created and interlinked: [ai-product-description-writer](https://github.com/Zion-support/ai-product-description-writer), [ai-pricing-optimizer](https://github.com/Zion-support/ai-pricing-optimizer), [ai-inventory-forecaster](https://github.com/Zion-support/ai-inventory-forecaster), [ai-review-insights](https://github.com/Zion-support/ai-review-insights), [ai-returns-reducer](https://github.com/Zion-support/ai-returns-reducer), [ai-cart-recovery](https://github.com/Zion-support/ai-cart-recovery).
-
-- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md) — Renewals, Revenue & Customer Growth suite.
-- SPOTLIGHTS_INDEX.md fixed: all 30+ homepage spotlight pages now listed and interlinked.
-- MSP & Partner Ecosystem category added to this index (20 apps, see [msp-apps.json](network/msp-apps.json)).
+- New category: **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — 8 interlinked apps; homepage cards added to [HOMEPAGE_APPS.md](HOMEPAGE_APPS.md); spotlight copies served from [spotlights/](spotlights/) (index: [spotlights/README.md](spotlights/README.md)).
+- E-commerce app repos created and interlinked: [ai-product-description-writer](https://github.com/Zion-support/ai-product-description-writer), [ai-pricing-optimizer](https://github.com/Zion-support/ai-pricing-optimizer), [ai-inventory-forecaster](https://github.com/Zion-support/ai-inventory-forecaster), [ai-review-insights](https://github.com/Zion-support/ai-review-insights), [ai-returns-reducer](https://github.com/Zion-support/ai-returns-reducer), [ai-cart-recovery](https://github.com/Zion-support/ai-cart-recovery).
+- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md).
 
 ## 🚀 Latest Additions (2026-09-23)
 
@@ -67,4 +71,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-23 — 533 public repos, 69 flagship apps registered in network.json._
+_Updated 2026-09-24 — 533 public repos, 18 category pages, 69 flagship apps registered in network.json._
