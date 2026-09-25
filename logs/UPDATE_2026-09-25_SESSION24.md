@@ -1,11 +1,15 @@
 # Session 24 — 2026-09-25
 
 ## Done
-- New spotlights in zion-network/spotlights/: data-analytics.md, dev-ops-tools.md, content-marketing.md, hr-talent-ai.md, ai-readiness-evaluation.md — each with app links, live URLs and related-category interlinks.
-- Homepage advertising: APP_NETWORK_SPOTLIGHT_SEP25_BATCH31.md in zion-support.github.io covering the 5 categories (154 apps).
+- Fixed network/data-analytics.md: 4 broken "Live" links that pointed to GitHub repos now point to live app pages; added related-category interlinks + spotlight footer.
+- New spotlights: spotlights/data-analytics.md, spotlights/business-tools-calculators.md, spotlights/dev-ops-tools.md.
+- Homepage advertising: APP_NETWORK_SPOTLIGHT_DATA_ANALYTICS.md in zion-support.github.io.
+- network.json left untouched: another session had set spotlight_latest to spotlights/legal-contract-compliance.md — preserved to avoid clobbering concurrent work.
+
+## Notes
+- zion-support.github.io redirects .md URLs to ziontechgroup.com/<name>.md (404 there) — Cloudflare Workers build still failing; use raw.githubusercontent or github.com blob links for verification.
 
 ## Next
-- Spotlights still missing for: business-tools-calculators, core-site-hubs, data-search-documents, field-city-sites, industry-platforms.
-- README footers for remaining flagship repos.
-- Fix network.ziontechgroup.com SSL (re-provision GitHub Pages cert for the subdomain).
-- ziontechgroup.com Cloudflare Workers build failure still flagged for engineering.
+- Spotlights still missing for: ai-readiness-evaluation, content-marketing, core-site-hubs, data-search-documents, field-city-sites, hr-talent-ai, industry-platforms.
+- README network footers for remaining flagship repos.
+- Fix network.ziontechgroup.com SSL cert + ziontechgroup.com Workers build (engineering).
