@@ -36,6 +36,34 @@ AI classification and auto-adjudication routing of warranty claims.
 
 **Full category:** [AI Ops, Incident Response & Reliability](network/ai-ops-incident-response.md) · [Spotlight](spotlights/ai-ops-incident-response.md) · [Registry](network/aiops-apps.json)
 
+## 📊 AI Readiness & Data Analytics (homepage cards) — NEW
+
+### AI Readiness Assessment
+Scored questionnaire with a personalized AI adoption roadmap.
+[Try it live](https://ziontechgroup.com/ai-readiness-assessment/) · [GitHub](https://github.com/Zion-support/ai-readiness-assessment)
+
+### RAG Evaluator
+Retrieval and faithfulness scoring for RAG pipelines.
+[Try it live](https://ziontechgroup.com/rag-evaluator/) · [GitHub](https://github.com/Zion-support/rag-evaluator)
+
+### AI Benchmark Lab
+Controlled model benchmarking before you commit to a model.
+[Try it live](https://ziontechgroup.com/ai-benchmark-lab/) · [GitHub](https://github.com/Zion-support/ai-benchmark-lab)
+
+### Zion Smart Analytics Dashboard
+AI-powered business analytics — ask in plain English, get insights.
+[Try it live](https://ziontechgroup.com/zion-smart-analytics-dashboard/) · [GitHub](https://github.com/Zion-support/zion-smart-analytics-dashboard)
+
+### Data Quality Sentinel
+Continuous data quality monitoring with anomaly alerts.
+[Try it live](https://ziontechgroup.com/data-quality-sentinel/) · [GitHub](https://github.com/Zion-support/data-quality-sentinel)
+
+### Synthetic Data Lab
+Privacy-safe synthetic data generation for testing and training.
+[Try it live](https://ziontechgroup.com/synthetic-data-lab/) · [GitHub](https://github.com/Zion-support/synthetic-data-lab)
+
+**Full categories:** [AI Readiness, Evaluation & Benchmarking](network/ai-readiness-evaluation.md) · [Data & Analytics](network/data-analytics.md) · Spotlights: [AI Readiness](spotlights/ai-readiness-evaluation.md) · [Data & Analytics](spotlights/data-analytics.md)
+
 ## 👥 HR & People AI (homepage cards) — NEW
 
 ### Skills Gap Analyzer
