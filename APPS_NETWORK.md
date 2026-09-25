@@ -9,6 +9,7 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 
 ## Categories
 
+- **[🤖 AI Agents & Autonomous Operations](network/ai-agents-autonomous-ops.md)** — NEW: 8 agent apps (PR swarm, dispatch, ticket sentinel, voice agents, FinOps autopilot, sales copilot, churn)
 - **[🏠 Core Site & Hubs](network/core-site-hubs.md)** — 19 apps
 - **[🤖 AI Agents & Orchestration](network/ai-agents-orchestration.md)** — 25 apps
 - **[🧠 LLM, Prompts & RAG](network/llm-prompts-rag.md)** — 39 apps
@@ -27,6 +28,12 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — NEW: 20 apps for MSPs, IT partners & resellers ([registry](network/msp-apps.json))
 - **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — NEW: 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
 - **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — NEW: 6 apps (product copy, pricing, inventory, reviews, returns, cart recovery)
+
+## 🚀 Latest Additions (2026-09-25)
+
+- New category: **[🤖 AI Agents & Autonomous Operations](network/ai-agents-autonomous-ops.md)** — 8 interlinked autonomous agent apps (AI PR Review Swarm, AI Dispatch Orchestrator, AI Ticket Sentinel, Voice Agent Studio, FinOps Autopilot, AI Sales Email Copilot, AI Growth Marketing Hub, Churn Radar) with interlinks to Sales/MSP categories, status, plans and portal.
+- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_AI_AGENTS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_AI_AGENTS.md) — advertising the autonomous agent suite.
+- Verified: remaining flagship READMEs (vendor-questionnaire-autopilot, security-awareness-coach, zion-ai-vendor-risk, it-staffing-calculator, incident-comms-writer, expense-audit-ai, cloud-budget-guard) all carry network footers — flagship footer rollout complete.
 
 ## 🚀 Latest Additions (2026-09-24, Batch 28)
 
@@ -75,4 +82,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-24 — 535 public repos, 86 flagship apps registered in network.json._
+_Updated 2026-09-25 — 535 public repos, 86 flagship apps registered in network.json._
