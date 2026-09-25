@@ -252,6 +252,34 @@ Full-stack infrastructure health signals.
 
 **Full category:** [Procurement, Vendor & IT Reliability AI](network/procurement-vendor-it-reliability.md) · [Spotlight](spotlights/procurement-vendor-it-reliability.md)
 
+## 📣 Content & Marketing AI (homepage cards) — NEW
+
+### Zion Content Studio
+End-to-end AI content production for blogs, docs and campaigns.
+[Try it live](https://content-studio.ziontechgroup.com) · [GitHub](https://github.com/Zion-support/zion-content-studio)
+
+### Zion AI SEO Optimizer
+Technical and content SEO automation that grows organic traffic.
+[Try it live](https://seo-optimizer.ziontechgroup.com) · [GitHub](https://github.com/Zion-support/zion-ai-seo-optimizer)
+
+### AI Caption Generator
+Engaging social media captions generated in seconds.
+[Try it live](https://ai-caption-generator.ziontechgroup.com) · [GitHub](https://github.com/Zion-support/ai-caption-generator)
+
+### AI Advertising Optimizer
+Campaign budget and creative optimization across channels.
+[Try it live](https://ziontechgroup.com/ai-advertising-optimizer/) · [GitHub](https://github.com/Zion-support/ai-advertising-optimizer)
+
+### Zion AI Social Listening
+Brand monitoring and sentiment across social platforms.
+[Try it live](https://ziontechgroup.com/zion-ai-social-listening/) · [GitHub](https://github.com/Zion-support/zion-ai-social-listening)
+
+### Zion AI Video Studio
+AI video generation and editing for marketing teams.
+[Try it live](https://ziontechgroup.com/zion-ai-video-studio/) · [GitHub](https://github.com/Zion-support/zion-ai-video-studio)
+
+**Full category:** [Content & Marketing](network/content-marketing.md) · [Spotlight](spotlights/content-marketing.md)
+
 ## 💚 Customer Success & Retention AI (homepage cards)
 
 ### Churn Risk Radar
@@ -425,4 +453,4 @@ Recover abandoned carts with AI-timed outreach.
 
 ## SEO paragraph (footer of homepage)
 
-Zion Tech Group operates the Zion App Network — more than 600 AI-powered applications covering agent orchestration, AI ops & incident response (runbook generation, SLA forecasting, escalation detection, drift remediation, ticket triage), HR & people AI, sales pipeline AI, security & compliance AI, cloud FinOps & GreenOps, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), Kubernetes tooling, marketing & sales AI, healthcare and education AI, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), e-commerce & retail AI (product copy, dynamic pricing, inventory forecasting, review insights, returns reduction, cart recovery), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
+Zion Tech Group operates the Zion App Network — more than 600 AI-powered applications covering agent orchestration, AI ops & incident response (runbook generation, SLA forecasting, escalation detection, drift remediation, ticket triage), HR & people AI, sales pipeline AI, security & compliance AI, cloud FinOps & GreenOps, content & marketing AI, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), Kubernetes tooling, healthcare and education AI, industry platforms, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), e-commerce & retail AI (product copy, dynamic pricing, inventory forecasting, review insights, returns reduction, cart recovery), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
