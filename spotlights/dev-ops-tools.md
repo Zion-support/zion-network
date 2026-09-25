@@ -1,17 +1,14 @@
-# Spotlight: Dev & Ops Tools Suite
+# Spotlight: Dev & Ops Tools
 
-**Zion Tech Group** spotlights the [Dev & Ops Tools](../network/dev-ops-tools.md) category in the [Zion AI App Network](https://network.ziontechgroup.com) — 90 free, open-source utilities for engineering and operations teams.
+90 apps in the [Dev & Ops Tools category](../network/dev-ops-tools.md) cover the engineering lifecycle — code quality, docs, incidents, runbooks and infrastructure.
 
-## Highlights
-- **Ops Runbook AI** — AI-generated operational runbooks: [Try it](https://ziontechgroup.com/ops-runbook-ai/) · [GitHub](https://github.com/Zion-support/ops-runbook-ai)
-- **Postmortem Generator** — blameless postmortems from incident data: [Try it](https://ziontechgroup.com/postmortem-generator/) · [GitHub](https://github.com/Zion-support/postmortem-generator)
-- **Regex Builder** — build and test regex visually: [Try it](https://ziontechgroup.com/regex-builder/) · [GitHub](https://github.com/Zion-support/regex-builder)
-- **Mock API Generator** — instant mock APIs for development: [Try it](https://ziontechgroup.com/mock-api-generator/) · [GitHub](https://github.com/Zion-support/mock-api-generator)
-- **Status Page Generator** — incident status pages in minutes: [Try it](https://ziontechgroup.com/status-page-generator/) · [GitHub](https://github.com/Zion-support/status-page-generator)
-- **Tech Debt Radar** — find and prioritize technical debt: [Try it](https://ziontechgroup.com/tech-debt-radar/) · [GitHub](https://github.com/Zion-support/tech-debt-radar)
-- **RTO/RPO Planner** — disaster-recovery objective planning: [Try it](https://ziontechgroup.com/rto-rpo-planner/) · [GitHub](https://github.com/Zion-support/rto-rpo-planner)
+## Featured
+- **Ops Runbook AI** — AI-generated operational runbooks → https://ziontechgroup.com/ops-runbook-ai/
+- **AI Code Migration** — automated codebase migration → https://ziontechgroup.com/ai-code-migration/
+- **AI ML Ops Platform** — end-to-end ML lifecycle → https://ziontechgroup.com/ai-ml-ops-platform/
+- **AI Infrastructure Monitor** — infrastructure observability → https://ziontechgroup.com/ai-infrastructure-monitor/
+- **Zion AI API Guardian** — API protection & monitoring → https://ziontechgroup.com/zion-ai-api-guardian/
+- **Postmortem Generator** — structured incident postmortems → https://ziontechgroup.com/postmortem-generator/
+- **Status Page Generator** — instant public status pages → https://ziontechgroup.com/status-page-generator/
 
-## Full category
-[network/dev-ops-tools.md](../network/dev-ops-tools.md) · Related spotlights: [DevSecOps & Quality](devsecops-quality.md) · [AI Ops & Incident Response](ai-ops-incident-response.md) · [Security & Compliance](security-compliance.md)
-
-Managed deployment & SLAs: [plans & pricing](https://ziontechgroup.com/plans/) · [ziontechgroup.com](https://ziontechgroup.com)
+Category page: [network/dev-ops-tools.md](../network/dev-ops-tools.md) · Related: [AI Ops & Incident Response](ai-ops-incident-response.md) · [DevSecOps & Quality](devsecops-quality.md) · Master directory: [APPS_NETWORK.md](../APPS_NETWORK.md) · Homepage: https://ziontechgroup.com
