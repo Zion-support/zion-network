@@ -148,6 +148,82 @@ Downtime cost by tier and SLA credit exposure.
 
 **Full category:** [Cost, FinOps & Cloud](network/cost-finops-cloud.md) · [Spotlight](spotlights/cost-finops-cloud.md)
 
+## 🏥 Healthcare & Education AI (homepage cards) — NEW
+
+### AI Healthcare Platform
+Medical AI and patient management workflows for clinics and hospitals.
+[Try it live](https://ziontechgroup.com/ai-healthcare-platform/) · [GitHub](https://github.com/Zion-support/ai-healthcare-platform)
+
+### AI Health Tracker
+Wellness insights and medical data analysis.
+[Try it live](https://ziontechgroup.com/ai-health-tracker/) · [GitHub](https://github.com/Zion-support/ai-health-tracker)
+
+### AI Education Platform
+Personalized learning paths, quizzes and AI tutoring.
+[Try it live](https://ai-education-platform.ziontechgroup.com) · [GitHub](https://github.com/Zion-support/ai-education-platform)
+
+### AI Language Tutor
+Personalized language learning and practice.
+[Try it live](https://ziontechgroup.com/ai-language-tutor/) · [GitHub](https://github.com/Zion-support/ai-language-tutor)
+
+**Full category:** [Healthcare & Education AI](network/healthcare-education-ai.md) · [Spotlight](spotlights/healthcare-education-ai.md)
+
+## 🧠 LLM, Prompts & RAG (homepage cards) — NEW
+
+### Zion LLM Gateway
+Smart model routing, caching & failover.
+[Try it live](https://ziontechgroup.com/llm-gateway/) · [GitHub](https://github.com/Zion-support/llm-gateway)
+
+### RAG Forge
+Production RAG pipelines & knowledge copilots.
+[Try it live](https://ziontechgroup.com/rag-forge/) · [GitHub](https://github.com/Zion-support/rag-forge)
+
+### Zion RAG Platform
+RAG infrastructure as a service.
+[Try it live](https://rag.ziontechgroup.com) · [GitHub](https://github.com/Zion-support/zion-rag-platform)
+
+### Prompt Shield
+LLM security testing & prompt-injection defense.
+[Try it live](https://ziontechgroup.com/prompt-shield/) · [GitHub](https://github.com/Zion-support/prompt-shield)
+
+### RAG Eval Kit
+Score retrieval quality, groundedness and latency.
+[Try it live](https://ziontechgroup.com/zion-rag-eval-kit/) · [GitHub](https://github.com/Zion-support/zion-rag-eval-kit)
+
+### LLM Cost Optimizer
+Token spend estimator and model comparison.
+[Try it live](https://ziontechgroup.com/llm-cost-optimizer/) · [GitHub](https://github.com/Zion-support/llm-cost-optimizer)
+
+**Full category:** [LLM, Prompts & RAG](network/llm-prompts-rag.md) · [Spotlight](spotlights/llm-prompts-rag.md)
+
+## 🏗️ Procurement, Vendor & IT Reliability AI (homepage cards) — NEW
+
+### AI Procurement Copilot
+Sourcing, RFx drafting, spend analysis & savings detection.
+[Try it live](https://ziontechgroup.com/ai-procurement-copilot/) · [GitHub](https://github.com/Zion-support/ai-procurement-copilot)
+
+### Vendor Risk Screener
+Supplier risk scoring & compliance screening.
+[Try it live](https://ziontechgroup.com/vendor-risk-screener/) · [GitHub](https://github.com/Zion-support/vendor-risk-screener)
+
+### Contract Renewal Radar
+Renewal tracking & alert automation.
+[Try it live](https://ziontechgroup.com/contract-renewal-radar/) · [GitHub](https://github.com/Zion-support/contract-renewal-radar)
+
+### Contract Clause Extractor
+Clause-level contract intelligence.
+[Try it live](https://ziontechgroup.com/contract-clause-extractor/) · [GitHub](https://github.com/Zion-support/contract-clause-extractor)
+
+### SLA Forecast Guardian
+Predicts SLA breaches before they happen.
+[Try it live](https://ziontechgroup.com/sla-forecast-guardian/) · [GitHub](https://github.com/Zion-support/sla-forecast-guardian)
+
+### AI Infrastructure Monitor
+Full-stack infrastructure health signals.
+[Try it live](https://ziontechgroup.com/ai-infrastructure-monitor/) · [GitHub](https://github.com/Zion-support/ai-infrastructure-monitor)
+
+**Full category:** [Procurement, Vendor & IT Reliability AI](network/procurement-vendor-it-reliability.md) · [Spotlight](spotlights/procurement-vendor-it-reliability.md)
+
 ## 💚 Customer Success & Retention AI (homepage cards)
 
 ### Churn Risk Radar
