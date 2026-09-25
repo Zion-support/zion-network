@@ -92,6 +92,62 @@ Bookings forecast with deal-level confidence and risk flags.
 
 **Full category:** [Sales Pipeline & Revenue AI](network/sales-pipeline-ai.md) · [Spotlight](spotlights/sales-pipeline-ai.md)
 
+## 🔐 Security & Compliance AI (homepage cards) — NEW
+
+### AI Compliance Auditor
+EU AI Act / ISO 42001 / NIST AI RMF automation — audit-ready continuously.
+[Try it live](https://ziontechgroup.com/ai-compliance-auditor/) · [GitHub](https://github.com/Zion-support/ai-compliance-auditor)
+
+### Prompt Shield
+LLM security testing & prompt-injection defense.
+[Try it live](https://ziontechgroup.com/prompt-shield/) · [GitHub](https://github.com/Zion-support/prompt-shield)
+
+### Secrets Sentinel
+Secret scanning & leak response with rotation runbooks.
+[Try it live](https://ziontechgroup.com/secrets-sentinel/) · [GitHub](https://github.com/Zion-support/secrets-sentinel)
+
+### AI Phishing Simulator
+Security awareness training with adaptive campaigns.
+[Try it live](https://ziontechgroup.com/ai-phishing-simulator/) · [GitHub](https://github.com/Zion-support/ai-phishing-simulator)
+
+### Compliance Evidence Collector
+Continuous SOC 2 / ISO 27001 evidence gathering.
+[Try it live](https://ziontechgroup.com/zion-ai-compliance-evidence-collector) · [GitHub](https://github.com/Zion-support/zion-ai-compliance-evidence-collector)
+
+### AI Contract Reviewer
+Clause-level risk scoring for NDAs, MSAs and SOWs.
+[Try it live](https://ziontechgroup.com/zion-ai-contract-reviewer) · [GitHub](https://github.com/Zion-support/zion-ai-contract-reviewer)
+
+**Full category:** [Security & Compliance](network/security-compliance.md) · [Spotlight](spotlights/security-compliance.md)
+
+## 💰 Cost, FinOps & Cloud (homepage cards) — NEW
+
+### FinOps Autopilot
+Cloud cost anomaly detection & rightsizing on autopilot.
+[Try it live](https://ziontechgroup.com/finops-autopilot/) · [GitHub](https://github.com/Zion-support/finops-autopilot)
+
+### Cloud Cost Estimator
+Multi-cloud compute & serverless price comparison.
+[Try it live](https://ziontechgroup.com/cloud-cost-estimator/) · [GitHub](https://github.com/Zion-support/cloud-cost-estimator)
+
+### AI FinOps Optimizer
+GPU and inference spend: reserved vs on-demand, cache savings.
+[Try it live](https://ziontechgroup.com/zion-ai-finops-optimizer/) · [GitHub](https://github.com/Zion-support/zion-ai-finops-optimizer)
+
+### FinOps Radar
+Streaming billing anomaly detection with auto-remediation tickets.
+[Try it live](https://ziontechgroup.com/zion-ai-finops-radar) · [GitHub](https://github.com/Zion-support/zion-ai-finops-radar)
+
+### Green Cloud Picker
+Carbon-aware cloud region advisor.
+[Try it live](https://ziontechgroup.com/green-cloud-picker/) · [GitHub](https://github.com/Zion-support/green-cloud-picker)
+
+### SLA Cost Calculator
+Downtime cost by tier and SLA credit exposure.
+[Try it live](https://ziontechgroup.com/zion-sla-cost-calculator/) · [GitHub](https://github.com/Zion-support/zion-sla-cost-calculator)
+
+**Full category:** [Cost, FinOps & Cloud](network/cost-finops-cloud.md) · [Spotlight](spotlights/cost-finops-cloud.md)
+
 ## 💚 Customer Success & Retention AI (homepage cards)
 
 ### Churn Risk Radar
@@ -265,4 +321,4 @@ Recover abandoned carts with AI-timed outreach.
 
 ## SEO paragraph (footer of homepage)
 
-Zion Tech Group operates the Zion App Network — more than 600 AI-powered applications covering agent orchestration, AI ops & incident response (runbook generation, SLA forecasting, escalation detection, drift remediation, ticket triage), HR & people AI, sales pipeline AI, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), cloud FinOps, Kubernetes tooling, marketing & sales AI, healthcare and education AI, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), e-commerce & retail AI (product copy, dynamic pricing, inventory forecasting, review insights, returns reduction, cart recovery), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
+Zion Tech Group operates the Zion App Network — more than 600 AI-powered applications covering agent orchestration, AI ops & incident response (runbook generation, SLA forecasting, escalation detection, drift remediation, ticket triage), HR & people AI, sales pipeline AI, security & compliance AI, cloud FinOps & GreenOps, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), Kubernetes tooling, marketing & sales AI, healthcare and education AI, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), e-commerce & retail AI (product copy, dynamic pricing, inventory forecasting, review insights, returns reduction, cart recovery), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
