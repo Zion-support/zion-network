@@ -1,14 +1,15 @@
-# Spotlight: Data & Analytics
+# Spotlight: Data & Analytics AI
 
-29 apps in the [Data & Analytics category](../network/data-analytics.md) turn raw data into decisions — pipelines, quality, visualization and privacy-safe synthetic data.
+29 data & analytics apps are fully interlinked in the Zion AI App Network — pipelines, quality, visualization, synthetic data, vector search and natural-language analytics.
 
 ## Featured
-- **AI Data Pipeline** — automated pipelines with AI transformations → https://ai-data-pipeline.ziontechgroup.com
-- **Data Quality Sentinel** — continuous data quality monitoring → https://ziontechgroup.com/data-quality-sentinel/
-- **Synthetic Data Lab** — privacy-safe synthetic data generation → https://ziontechgroup.com/synthetic-data-lab/
+- **Zion AI Data Analyst** — natural-language analytics & insights → https://ziontechgroup.com/zion-ai-data-analyst/
 - **Zion Smart Analytics Dashboard** — AI-powered business analytics → https://ziontechgroup.com/zion-smart-analytics-dashboard/
-- **Zion AI Data Analyst** — natural-language analytics → https://ziontechgroup.com/zion-ai-data-analyst/
+- **AI Data Pipeline** — AI-driven pipeline automation → https://ai-data-pipeline.ziontechgroup.com
+- **Data Quality Sentinel** — continuous data quality monitoring → https://ziontechgroup.com/data-quality-sentinel/
+- **Synthetic Data Lab** — privacy-safe synthetic data → https://ziontechgroup.com/synthetic-data-lab/
 - **Zion Vector Search** — hosted embeddings & vector DB API → https://ziontechgroup.com/zion-vector-search/
-- **AI Chart Builder** — automatic data visualizations → https://ai-chart-builder.ziontechgroup.com
+- **AI Data Viz** — intelligent charts & dashboards → https://ai-data-viz.ziontechgroup.com
+- **Data Readiness Audit** — scored AI-readiness assessment → https://ziontechgroup.com/zion-data-readiness-audit/
 
-Category page: [network/data-analytics.md](../network/data-analytics.md) · Related: [Data Observability](data-observability.md) · [Creative & Media AI](creative-media-ai.md) · Master directory: [APPS_NETWORK.md](../APPS_NETWORK.md) · Homepage: https://ziontechgroup.com
+Category page: [network/data-analytics.md](../network/data-analytics.md) · Master directory: [APPS_NETWORK.md](../APPS_NETWORK.md) · Homepage: https://ziontechgroup.com
