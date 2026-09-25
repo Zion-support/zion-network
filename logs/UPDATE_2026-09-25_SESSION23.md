@@ -1,13 +1,13 @@
 # Session 23 — 2026-09-25
 
 ## Done
-- New spotlights: content-marketing.md, hr-talent-ai.md, industry-platforms.md (16 + 7 + 15 apps covered).
-- New homepage advertising pages in zion-support.github.io: APP_NETWORK_SPOTLIGHT_CONTENT_MARKETING.md, APP_NETWORK_SPOTLIGHT_INDUSTRY_PLATFORMS.md.
-- HOMEPAGE_APPS.md: added Content & Marketing AI homepage card section.
-- README interlinks: pipeline-forecast-ai, proposal-writer-ai.
-- Re-checked network.ziontechgroup.com SSL.
+- Registered the 4 missing agent apps in network.json: ai-agent-fleet, ai-agent-swarm, ai-agent-swarm-v2, agent-sla-monitor.
+- New category page network/creative-media-ai.md (7 apps: audio engine, audio transcriber, avatar generator, caption generator, caption optimizer, chart builder, content translator) with interlinks to related categories.
+- New spotlight spotlights/creative-media-ai.md; network.json spotlight_latest and categories updated (apps_total registry additions = 19).
+- Homepage advertising: APP_NETWORK_SPOTLIGHT_CREATIVE_MEDIA.md in zion-support.github.io linking all 7 creative apps.
 
 ## Next
-- Spotlights remaining: ai-agents-orchestration, business-tools-calculators, data-search-documents, field-city-sites (ai-agents-automation covered by ai-agents.md; core-site-hubs optional).
-- README footers for sales-call-analyzer, deal-desk-assistant, quote-generator-ai, HR suite repos.
-- Fix network.ziontechgroup.com Pages SSL cert (needs manual reprovision in repo Pages settings).
+- Spotlights still missing for: ai-readiness-evaluation, business-tools-calculators, content-marketing, core-site-hubs, data-analytics, data-search-documents, dev-ops-tools, field-city-sites, hr-talent-ai, industry-platforms.
+- README footers for remaining flagship repos.
+- Fix network.ziontechgroup.com SSL (re-provision GitHub Pages cert for the subdomain).
+- ziontechgroup.com Cloudflare Workers build failure still flagged for engineering.
