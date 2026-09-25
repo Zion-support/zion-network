@@ -1,17 +1,11 @@
-# Session 24 — 2026-09-25 (UTC)
+# Session 24 — 2026-09-25
 
 ## Done
-- Created new category page `network/legal-contract-compliance-ai.md` with 22 interlinked apps (contract lifecycle + privacy/compliance workflows).
-- Created spotlight `spotlights/legal-contract-compliance.md`.
-- Updated `network.json`: added `legal-contract-compliance-ai` category, `legal_registry`, bumped `updated`, set `spotlight_latest`.
-- Published homepage advertising content on zion-support.github.io: `APP_NETWORK_SPOTLIGHT_LEGAL_CONTRACT.md` + `homepage-content-legal.md` linking to the 22 app pages on ziontechgroup.com.
-- Recalled prior context from Supermemory + Mem0 at session start; saved checkpoint at end.
+- New spotlights in zion-network/spotlights/: data-analytics.md, dev-ops-tools.md, content-marketing.md, hr-talent-ai.md, ai-readiness-evaluation.md — each with app links, live URLs and related-category interlinks.
+- Homepage advertising: APP_NETWORK_SPOTLIGHT_SEP25_BATCH31.md in zion-support.github.io covering the 5 categories (154 apps).
 
-## Still open
-- network.ziontechgroup.com HTTPS certificate still broken — manual fix: remove/re-add custom domain in zion-network Settings > Pages.
-- ziontechgroup.com Cloudflare Workers build failing — engineering attention.
-- network.json `apps` array still abbreviated; full registries live in network/*.md.
-
-## Next session ideas
-- New category: Supply Chain & Logistics AI (ai-supply-chain, freight-rate-scout, dock-appointment-scheduler, driver-hours-compliance, fleet-fuel-optimizer, depot-stock-balancer, shipping-delay-alerter, customs-doc-generator...).
-- Verify Pages deploy of the new files and spotlights.
+## Next
+- Spotlights still missing for: business-tools-calculators, core-site-hubs, data-search-documents, field-city-sites, industry-platforms.
+- README footers for remaining flagship repos.
+- Fix network.ziontechgroup.com SSL (re-provision GitHub Pages cert for the subdomain).
+- ziontechgroup.com Cloudflare Workers build failure still flagged for engineering.
