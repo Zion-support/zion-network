@@ -88,27 +88,141 @@
    "title": "AI Tools"
   }
  ],
- "note": "apps array abbreviated; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry, legal_registry.",
+ "note": "apps array abbreviated in this update; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry.",
  "apps_added_2026_09_25": [
-  {"id": "ai-pr-review-swarm", "title": "AI PR Review Swarm", "url": "https://ziontechgroup.com/ai-pr-review-swarm/", "repo": "Zion-support/zion-ai-pr-review-swarm", "category": "ai-agents-autonomous-ops"},
-  {"id": "ai-dispatch-orchestrator", "title": "AI Dispatch Orchestrator", "url": "https://ziontechgroup.com/ai-dispatch-orchestrator/", "repo": "Zion-support/zion-ai-dispatch-orchestrator", "category": "ai-agents-autonomous-ops"},
-  {"id": "ai-ticket-sentinel", "title": "AI Ticket Sentinel", "url": "https://ziontechgroup.com/ai-ticket-sentinel/", "repo": "Zion-support/zion-ai-ticket-sentinel", "category": "ai-agents-autonomous-ops"},
-  {"id": "voice-agent-studio", "title": "Voice Agent Studio", "url": "https://ziontechgroup.com/voice-agent-studio/", "repo": "Zion-support/voice-agent-studio", "category": "ai-agents-autonomous-ops"},
-  {"id": "finops-autopilot", "title": "FinOps Autopilot", "url": "https://ziontechgroup.com/finops-autopilot/", "repo": "Zion-support/finops-autopilot", "category": "ai-agents-autonomous-ops"},
-  {"id": "ai-sales-email-copilot", "title": "AI Sales Email Copilot", "url": "https://ziontechgroup.com/ai-sales-email-copilot/", "repo": "Zion-support/ai-sales-email-copilot", "category": "ai-agents-autonomous-ops"},
-  {"id": "ai-growth-marketing-hub", "title": "AI Growth Marketing Hub", "url": "https://ziontechgroup.com/ai-growth-marketing-hub/", "repo": "Zion-support/ai-growth-marketing-hub", "category": "ai-agents-autonomous-ops"},
-  {"id": "churn-radar", "title": "Churn Radar", "url": "https://ziontechgroup.com/churn-radar/", "repo": "Zion-support/churn-radar", "category": "ai-agents-autonomous-ops"},
-  {"id": "ai-agent-fleet", "title": "AI Agent Fleet", "url": "https://ai-agent-fleet.ziontechgroup.com", "repo": "Zion-support/ai-agent-fleet", "category": "ai-agents-autonomous-ops"},
-  {"id": "ai-agent-swarm", "title": "AI Agent Swarm", "url": "https://ai-agent-swarm.ziontechgroup.com", "repo": "Zion-support/ai-agent-swarm", "category": "ai-agents-autonomous-ops"},
-  {"id": "ai-agent-swarm-v2", "title": "AI Agent Swarm v2", "url": "https://ai-agent-swarm-v2.ziontechgroup.com", "repo": "Zion-support/ai-agent-swarm-v2", "category": "ai-agents-autonomous-ops"},
-  {"id": "agent-sla-monitor", "title": "Agent SLA Monitor", "url": "https://ziontechgroup.com/agent-sla-monitor/", "repo": "Zion-support/agent-sla-monitor", "category": "ai-agents-autonomous-ops"},
-  {"id": "ai-audio-engine", "title": "AI Audio Engine", "url": "https://ai-audio-engine.ziontechgroup.com", "repo": "Zion-support/ai-audio-engine", "category": "creative-media-ai"},
-  {"id": "ai-audio-transcriber", "title": "AI Audio Transcriber", "url": "https://ai-audio-transcriber.ziontechgroup.com", "repo": "Zion-support/ai-audio-transcriber", "category": "creative-media-ai"},
-  {"id": "ai-avatar-generator", "title": "AI Avatar Generator", "url": "https://ai-avatar-generator.ziontechgroup.com", "repo": "Zion-support/ai-avatar-generator", "category": "creative-media-ai"},
-  {"id": "ai-caption-generator", "title": "AI Caption Generator", "url": "https://ai-caption-generator.ziontechgroup.com", "repo": "Zion-support/ai-caption-generator", "category": "creative-media-ai"},
-  {"id": "ai-caption-optimizer", "title": "AI Caption Optimizer", "url": "https://ai-caption-optimizer.ziontechgroup.com", "repo": "Zion-support/ai-caption-optimizer", "category": "creative-media-ai"},
-  {"id": "ai-chart-builder", "title": "AI Chart Builder", "url": "https://ai-chart-builder.ziontechgroup.com", "repo": "Zion-support/ai-chart-builder", "category": "creative-media-ai"},
-  {"id": "ai-content-translator", "title": "AI Content Translator", "url": "https://ziontechgroup.com/ai-content-translator/", "repo": "Zion-support/ai-content-translator", "category": "creative-media-ai"}
+  {
+   "id": "ai-pr-review-swarm",
+   "title": "AI PR Review Swarm",
+   "url": "https://ziontechgroup.com/ai-pr-review-swarm/",
+   "repo": "Zion-support/zion-ai-pr-review-swarm",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "ai-dispatch-orchestrator",
+   "title": "AI Dispatch Orchestrator",
+   "url": "https://ziontechgroup.com/ai-dispatch-orchestrator/",
+   "repo": "Zion-support/zion-ai-dispatch-orchestrator",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "ai-ticket-sentinel",
+   "title": "AI Ticket Sentinel",
+   "url": "https://ziontechgroup.com/ai-ticket-sentinel/",
+   "repo": "Zion-support/zion-ai-ticket-sentinel",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "voice-agent-studio",
+   "title": "Voice Agent Studio",
+   "url": "https://ziontechgroup.com/voice-agent-studio/",
+   "repo": "Zion-support/voice-agent-studio",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "finops-autopilot",
+   "title": "FinOps Autopilot",
+   "url": "https://ziontechgroup.com/finops-autopilot/",
+   "repo": "Zion-support/finops-autopilot",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "ai-sales-email-copilot",
+   "title": "AI Sales Email Copilot",
+   "url": "https://ziontechgroup.com/ai-sales-email-copilot/",
+   "repo": "Zion-support/ai-sales-email-copilot",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "ai-growth-marketing-hub",
+   "title": "AI Growth Marketing Hub",
+   "url": "https://ziontechgroup.com/ai-growth-marketing-hub/",
+   "repo": "Zion-support/ai-growth-marketing-hub",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "churn-radar",
+   "title": "Churn Radar",
+   "url": "https://ziontechgroup.com/churn-radar/",
+   "repo": "Zion-support/churn-radar",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "ai-agent-fleet",
+   "title": "AI Agent Fleet",
+   "url": "https://ai-agent-fleet.ziontechgroup.com",
+   "repo": "Zion-support/ai-agent-fleet",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "ai-agent-swarm",
+   "title": "AI Agent Swarm",
+   "url": "https://ai-agent-swarm.ziontechgroup.com",
+   "repo": "Zion-support/ai-agent-swarm",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "ai-agent-swarm-v2",
+   "title": "AI Agent Swarm v2",
+   "url": "https://ai-agent-swarm-v2.ziontechgroup.com",
+   "repo": "Zion-support/ai-agent-swarm-v2",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "agent-sla-monitor",
+   "title": "Agent SLA Monitor",
+   "url": "https://ziontechgroup.com/agent-sla-monitor/",
+   "repo": "Zion-support/agent-sla-monitor",
+   "category": "ai-agents-autonomous-ops"
+  },
+  {
+   "id": "ai-audio-engine",
+   "title": "AI Audio Engine",
+   "url": "https://ai-audio-engine.ziontechgroup.com",
+   "repo": "Zion-support/ai-audio-engine",
+   "category": "creative-media-ai"
+  },
+  {
+   "id": "ai-audio-transcriber",
+   "title": "AI Audio Transcriber",
+   "url": "https://ai-audio-transcriber.ziontechgroup.com",
+   "repo": "Zion-support/ai-audio-transcriber",
+   "category": "creative-media-ai"
+  },
+  {
+   "id": "ai-avatar-generator",
+   "title": "AI Avatar Generator",
+   "url": "https://ai-avatar-generator.ziontechgroup.com",
+   "repo": "Zion-support/ai-avatar-generator",
+   "category": "creative-media-ai"
+  },
+  {
+   "id": "ai-caption-generator",
+   "title": "AI Caption Generator",
+   "url": "https://ai-caption-generator.ziontechgroup.com",
+   "repo": "Zion-support/ai-caption-generator",
+   "category": "creative-media-ai"
+  },
+  {
+   "id": "ai-caption-optimizer",
+   "title": "AI Caption Optimizer",
+   "url": "https://ai-caption-optimizer.ziontechgroup.com",
+   "repo": "Zion-support/ai-caption-optimizer",
+   "category": "creative-media-ai"
+  },
+  {
+   "id": "ai-chart-builder",
+   "title": "AI Chart Builder",
+   "url": "https://ai-chart-builder.ziontechgroup.com",
+   "repo": "Zion-support/ai-chart-builder",
+   "category": "creative-media-ai"
+  },
+  {
+   "id": "ai-content-translator",
+   "title": "AI Content Translator",
+   "url": "https://ziontechgroup.com/ai-content-translator/",
+   "repo": "Zion-support/ai-content-translator",
+   "category": "creative-media-ai"
+  }
  ],
  "field": {
   "pattern": "Zion-support/zion-field-*",
@@ -117,36 +231,289 @@
   "note": "~70 field playbook sites (countries, cities, industries). Enumerate via GitHub API repos list."
  },
  "plans": {
-  "discovery": {"usd": "https://buy.stripe.com/8x214o8NW35l5Xp3hm4ZG0b", "brl": "https://buy.stripe.com/9B69AU8NW5dt71t8BG4ZG09", "price": "$99 / R$99", "name": "Discovery", "items": "One process · report · 30-min session"},
-  "consulting": {"usd": "https://buy.stripe.com/4gM14ofck0Xd1H94lq4ZG08", "brl": "https://buy.stripe.com/00w6oIaW46hx2Ld7xC4ZG0e", "price": "$499 / R$499", "name": "Consulting", "items": "Strategy · roadmap · 3 sessions"},
-  "starter": {"usd": "https://buy.stripe.com/7sY00k7JScFV99Bf044ZG06", "brl": "https://buy.stripe.com/6oUcN6d4c8pFgC305a4ZG0d", "price": "$2,500 / R$2.500", "name": "Starter", "items": "One automation in production · 30-day support"},
-  "growth": {"usd": "https://buy.stripe.com/aFa5kEd4c21h3PhdW04ZG07", "brl": "https://buy.stripe.com/bJecN6e8gfS7gC3dW04ZG0c", "price": "$8,000/mo", "name": "Growth", "items": "Continuous ops · contracted SLA"}
+  "discovery": {
+   "usd": "https://buy.stripe.com/8x214o8NW35l5Xp3hm4ZG0b",
+   "brl": "https://buy.stripe.com/9B69AU8NW5dt71t8BG4ZG09",
+   "price": "$99 / R$99",
+   "name": "Discovery",
+   "items": "One process \u00b7 report \u00b7 30-min session"
+  },
+  "consulting": {
+   "usd": "https://buy.stripe.com/4gM14ofck0Xd1H94lq4ZG08",
+   "brl": "https://buy.stripe.com/00w6oIaW46hx2Ld7xC4ZG0e",
+   "price": "$499 / R$499",
+   "name": "Consulting",
+   "items": "Strategy \u00b7 roadmap \u00b7 3 sessions"
+  },
+  "starter": {
+   "usd": "https://buy.stripe.com/7sY00k7JScFV99Bf044ZG06",
+   "brl": "https://buy.stripe.com/6oUcN6d4c8pFgC305a4ZG0d",
+   "price": "$2,500 / R$2.500",
+   "name": "Starter",
+   "items": "One automation in production \u00b7 30-day support"
+  },
+  "growth": {
+   "usd": "https://buy.stripe.com/aFa5kEd4c21h3PhdW04ZG07",
+   "brl": "https://buy.stripe.com/bJecN6e8gfS7gC3dW04ZG0c",
+   "price": "$8,000/mo",
+   "name": "Growth",
+   "items": "Continuous ops \u00b7 contracted SLA"
+  }
  },
  "dns": [
-  {"host": "network", "type": "CNAME", "value": "zion-support.github.io"},
-  {"host": "agents", "type": "CNAME", "value": "zion-support.github.io"},
-  {"host": "plans", "type": "CNAME", "value": "zion-support.github.io"},
-  {"host": "status", "type": "CNAME", "value": "zion-support.github.io"},
-  {"host": "tools", "type": "CNAME", "value": "zion-support.github.io"},
-  {"host": "portal", "type": "CNAME", "value": "zion-support.github.io"}
+  {
+   "host": "network",
+   "type": "CNAME",
+   "value": "zion-support.github.io"
+  },
+  {
+   "host": "agents",
+   "type": "CNAME",
+   "value": "zion-support.github.io"
+  },
+  {
+   "host": "plans",
+   "type": "CNAME",
+   "value": "zion-support.github.io"
+  },
+  {
+   "host": "status",
+   "type": "CNAME",
+   "value": "zion-support.github.io"
+  },
+  {
+   "host": "tools",
+   "type": "CNAME",
+   "value": "zion-support.github.io"
+  },
+  {
+   "host": "portal",
+   "type": "CNAME",
+   "value": "zion-support.github.io"
+  }
  ],
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 19,
+ "apps_total": 32,
  "msp_registry": "https://github.com/Zion-support/zion-network/blob/main/network/msp-apps.json",
  "cs_registry": "https://github.com/Zion-support/zion-network/blob/main/network/customer-success-ai.md",
  "ecommerce_registry": "https://github.com/Zion-support/zion-network/blob/main/network/ecommerce-retail-ai.md",
  "aiops_registry": "https://github.com/Zion-support/zion-network/blob/main/network/aiops-apps.json",
  "agents_registry": "https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-autonomous-ops.md",
  "creative_media_registry": "https://github.com/Zion-support/zion-network/blob/main/network/creative-media-ai.md",
- "legal_registry": "https://github.com/Zion-support/zion-network/blob/main/network/legal-contract-compliance-ai.md",
  "categories": {
-  "ai-readiness-evaluation": {"title": "AI Readiness, Evaluation & Benchmarking", "page": "network/ai-readiness-evaluation.md", "apps": ["ai-readiness-assessment", "ai-readiness-score", "zion-ai-readiness-quiz", "ai-assessment-engine", "ai-eval-harness", "rag-evaluator", "ai-benchmark-lab", "ai-benchmark-tracker", "zion-benchmark-explainer", "ai-model-cost-calculator", "token-context-calculator"]},
-  "hr-people-ai": {"title": "HR & People AI", "page": "network/hr-people-ai.md", "apps": ["skills-gap-analyzer", "learning-path-copilot", "attrition-risk-radar", "onboarding-journey-ai", "ai-resume-screener", "interview-prep-copilot"]},
-  "sales-pipeline-ai": {"title": "Sales Pipeline & Revenue AI", "page": "network/sales-pipeline-ai.md", "apps": ["lead-score-copilot", "deal-desk-assistant", "sales-call-analyzer", "quote-generator-ai", "pipeline-forecast-ai", "proposal-writer-ai"]},
-  "ai-ops-incident-response": {"title": "AI Ops, Incident Response & Reliability", "page": "network/ai-ops-incident-response.md", "apps": ["incident-runbook-ai", "zion-ai-incident-commander", "zion-ai-incident-runbook", "zion-ai-incident-responder", "ai-incident-timeline", "incident-timeline-reconstructor", "incident-comms-writer", "ops-runbook-ai", "sla-risk-forecaster", "sla-forecast-guardian", "escalation-sentinel", "api-health-probe", "metric-anomaly-alerter", "etl-pipeline-monitor", "zion-ai-drift-detector", "maintenance-ticket-triage", "support-ticket-triager", "warranty-claim-triager"]},
-  "ai-agents-autonomous-ops": {"title": "AI Agents & Autonomous Operations", "page": "network/ai-agents-autonomous-ops.md", "apps": ["ai-pr-review-swarm", "ai-dispatch-orchestrator", "ai-ticket-sentinel", "voice-agent-studio", "finops-autopilot", "ai-sales-email-copilot", "ai-growth-marketing-hub", "churn-radar", "ai-agent-fleet", "ai-agent-swarm", "ai-agent-swarm-v2", "agent-sla-monitor"]},
-  "creative-media-ai": {"title": "Creative & Media AI", "page": "network/creative-media-ai.md", "apps": ["ai-audio-engine", "ai-audio-transcriber", "ai-avatar-generator", "ai-caption-generator", "ai-caption-optimizer", "ai-chart-builder", "ai-content-translator"]},
-  "legal-contract-compliance-ai": {"title": "Legal, Contract & Compliance AI", "page": "network/legal-contract-compliance-ai.md", "apps": ["ai-contract-reviewer", "ai-contract-clause-screener", "contract-clause-extractor", "contract-clause-reviewer", "contract-clause-sentry", "contract-obligation-tracker", "contract-redline-copilot", "contract-renewal-radar", "ai-legal-intelligence", "ai-legal-advisor", "ai-patent-search", "compliance-policy-writer", "compliance-evidence-collector", "audit-readiness-copilot", "dpia-assistant", "dpia-generator", "data-retention-enforcer", "privacy-dsr-assistant", "regulatory-change-radar", "policy-attestation-tracker", "policy-change-tracker", "ai-policy-generator"]}
+  "ai-readiness-evaluation": {
+   "title": "AI Readiness, Evaluation & Benchmarking",
+   "page": "network/ai-readiness-evaluation.md",
+   "apps": [
+    "ai-readiness-assessment",
+    "ai-readiness-score",
+    "zion-ai-readiness-quiz",
+    "ai-assessment-engine",
+    "ai-eval-harness",
+    "rag-evaluator",
+    "ai-benchmark-lab",
+    "ai-benchmark-tracker",
+    "zion-benchmark-explainer",
+    "ai-model-cost-calculator",
+    "token-context-calculator"
+   ]
+  },
+  "hr-people-ai": {
+   "title": "HR & People AI",
+   "page": "network/hr-people-ai.md",
+   "apps": [
+    "skills-gap-analyzer",
+    "learning-path-copilot",
+    "attrition-risk-radar",
+    "onboarding-journey-ai",
+    "ai-resume-screener",
+    "interview-prep-copilot"
+   ]
+  },
+  "sales-pipeline-ai": {
+   "title": "Sales Pipeline & Revenue AI",
+   "page": "network/sales-pipeline-ai.md",
+   "apps": [
+    "lead-score-copilot",
+    "deal-desk-assistant",
+    "sales-call-analyzer",
+    "quote-generator-ai",
+    "pipeline-forecast-ai",
+    "proposal-writer-ai"
+   ]
+  },
+  "ai-ops-incident-response": {
+   "title": "AI Ops, Incident Response & Reliability",
+   "page": "network/ai-ops-incident-response.md",
+   "apps": [
+    "incident-runbook-ai",
+    "zion-ai-incident-commander",
+    "zion-ai-incident-runbook",
+    "zion-ai-incident-responder",
+    "ai-incident-timeline",
+    "incident-timeline-reconstructor",
+    "incident-comms-writer",
+    "ops-runbook-ai",
+    "sla-risk-forecaster",
+    "sla-forecast-guardian",
+    "escalation-sentinel",
+    "api-health-probe",
+    "metric-anomaly-alerter",
+    "etl-pipeline-monitor",
+    "zion-ai-drift-detector",
+    "maintenance-ticket-triage",
+    "support-ticket-triager",
+    "warranty-claim-triager"
+   ]
+  },
+  "ai-agents-autonomous-ops": {
+   "title": "AI Agents & Autonomous Operations",
+   "page": "network/ai-agents-autonomous-ops.md",
+   "apps": [
+    "ai-pr-review-swarm",
+    "ai-dispatch-orchestrator",
+    "ai-ticket-sentinel",
+    "voice-agent-studio",
+    "finops-autopilot",
+    "ai-sales-email-copilot",
+    "ai-growth-marketing-hub",
+    "churn-radar",
+    "ai-agent-fleet",
+    "ai-agent-swarm",
+    "ai-agent-swarm-v2",
+    "agent-sla-monitor"
+   ]
+  },
+  "creative-media-ai": {
+   "title": "Creative & Media AI",
+   "page": "network/creative-media-ai.md",
+   "apps": [
+    "ai-audio-engine",
+    "ai-audio-transcriber",
+    "ai-avatar-generator",
+    "ai-caption-generator",
+    "ai-caption-optimizer",
+    "ai-chart-builder",
+    "ai-content-translator"
+   ]
+  },
+  "industry-verticals-suites": {
+   "title": "Industry Vertical AI Suites",
+   "page": "network/industry-verticals-suites.md",
+   "apps": [
+    "ai-banking-platform",
+    "ai-insurance-suite",
+    "ai-pharma-suite",
+    "ai-education-suite",
+    "ai-media-entertainment-hub",
+    "ai-energy-utilities-suite",
+    "ai-transportation-suite",
+    "ai-construction-suite",
+    "ai-agriculture-platform",
+    "ai-hospitality-suite",
+    "ai-real-estate-hub",
+    "ai-gov-services-platform",
+    "ai-nonprofit-hub"
+   ]
+  }
  },
- "spotlight_latest": "spotlights/legal-contract-compliance.md"
+ "spotlight_latest": {
+  "date": "2026-09-25",
+  "title": "Industry Vertical AI Suites",
+  "path": "spotlights/industry-verticals-suites.md",
+  "homepage_spotlight": "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md"
+ },
+ "apps_added_2026_09_25_industry_suites": [
+  {
+   "id": "ai-banking-platform",
+   "title": "AI Banking Platform",
+   "url": "https://ziontechgroup.com/ai-banking-platform/",
+   "repo": "Zion-support/ai-banking-platform",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-insurance-suite",
+   "title": "AI Insurance Suite",
+   "url": "https://ziontechgroup.com/ai-insurance-suite/",
+   "repo": "Zion-support/ai-insurance-suite",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-pharma-suite",
+   "title": "AI Pharma Suite",
+   "url": "https://ziontechgroup.com/ai-pharma-suite/",
+   "repo": "Zion-support/ai-pharma-suite",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-education-suite",
+   "title": "AI Education Suite",
+   "url": "https://ziontechgroup.com/ai-education-suite/",
+   "repo": "Zion-support/ai-education-suite",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-media-entertainment-hub",
+   "title": "AI Media & Entertainment Hub",
+   "url": "https://ziontechgroup.com/ai-media-entertainment-hub/",
+   "repo": "Zion-support/ai-media-entertainment-hub",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-energy-utilities-suite",
+   "title": "AI Energy & Utilities Suite",
+   "url": "https://ziontechgroup.com/ai-energy-utilities-suite/",
+   "repo": "Zion-support/ai-energy-utilities-suite",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-transportation-suite",
+   "title": "AI Transportation Suite",
+   "url": "https://ziontechgroup.com/ai-transportation-suite/",
+   "repo": "Zion-support/ai-transportation-suite",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-construction-suite",
+   "title": "AI Construction Suite",
+   "url": "https://ziontechgroup.com/ai-construction-suite/",
+   "repo": "Zion-support/ai-construction-suite",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-agriculture-platform",
+   "title": "AI Agriculture Platform",
+   "url": "https://ziontechgroup.com/ai-agriculture-platform/",
+   "repo": "Zion-support/ai-agriculture-platform",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-hospitality-suite",
+   "title": "AI Hospitality Suite",
+   "url": "https://ziontechgroup.com/ai-hospitality-suite/",
+   "repo": "Zion-support/ai-hospitality-suite",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-real-estate-hub",
+   "title": "AI Real Estate Hub",
+   "url": "https://ziontechgroup.com/ai-real-estate-hub/",
+   "repo": "Zion-support/ai-real-estate-hub",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-gov-services-platform",
+   "title": "AI Gov Services Platform",
+   "url": "https://ziontechgroup.com/ai-gov-services-platform/",
+   "repo": "Zion-support/ai-gov-services-platform",
+   "category": "industry-verticals-suites"
+  },
+  {
+   "id": "ai-nonprofit-hub",
+   "title": "AI Nonprofit Hub",
+   "url": "https://ziontechgroup.com/ai-nonprofit-hub/",
+   "repo": "Zion-support/ai-nonprofit-hub",
+   "category": "industry-verticals-suites"
+  }
+ ]
 }
