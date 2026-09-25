@@ -36,6 +36,62 @@ AI classification and auto-adjudication routing of warranty claims.
 
 **Full category:** [AI Ops, Incident Response & Reliability](network/ai-ops-incident-response.md) · [Spotlight](spotlights/ai-ops-incident-response.md) · [Registry](network/aiops-apps.json)
 
+## 👥 HR & People AI (homepage cards) — NEW
+
+### Skills Gap Analyzer
+Map workforce skills vs. role requirements and flag gaps before they hurt delivery.
+[Try it live](https://ziontechgroup.com/skills-gap-analyzer/) · [GitHub](https://github.com/Zion-support/skills-gap-analyzer)
+
+### AI Resume Screener
+Bias-aware screening and ranking of resumes against job requirements.
+[Try it live](https://ziontechgroup.com/ai-resume-screener/) · [GitHub](https://github.com/Zion-support/ai-resume-screener)
+
+### Interview Prep Copilot
+Structured interview guides and question banks per role.
+[Try it live](https://ziontechgroup.com/interview-prep-copilot/) · [GitHub](https://github.com/Zion-support/interview-prep-copilot)
+
+### Onboarding Journey AI
+Orchestrated 30-60-90 onboarding journeys with nudges and check-ins.
+[Try it live](https://ziontechgroup.com/onboarding-journey-ai/) · [GitHub](https://github.com/Zion-support/onboarding-journey-ai)
+
+### Learning Path Copilot
+Personalized upskilling paths generated from gap analysis results.
+[Try it live](https://ziontechgroup.com/learning-path-copilot/) · [GitHub](https://github.com/Zion-support/learning-path-copilot)
+
+### Attrition Risk Radar
+Predict flight risk per team/employee and trigger retention actions.
+[Try it live](https://ziontechgroup.com/attrition-risk-radar/) · [GitHub](https://github.com/Zion-support/attrition-risk-radar)
+
+**Full category:** [HR & People AI](network/hr-people-ai.md) · [Spotlight](spotlights/hr-people-ai.md)
+
+## 💼 Sales Pipeline & Revenue AI (homepage cards) — NEW
+
+### Lead Score Copilot
+Explainable inbound lead scoring and routing in real time.
+[Try it live](https://ziontechgroup.com/lead-score-copilot/) · [GitHub](https://github.com/Zion-support/lead-score-copilot)
+
+### Sales Call Analyzer
+Transcribe calls, extract objections, next steps and coaching cues.
+[Try it live](https://ziontechgroup.com/sales-call-analyzer/) · [GitHub](https://github.com/Zion-support/sales-call-analyzer)
+
+### Deal Desk Assistant
+Approvals, discount guardrails and deal structuring in one flow.
+[Try it live](https://ziontechgroup.com/deal-desk-assistant/) · [GitHub](https://github.com/Zion-support/deal-desk-assistant)
+
+### Quote Generator AI
+Accurate branded quotes from CRM context in seconds.
+[Try it live](https://ziontechgroup.com/quote-generator-ai/) · [GitHub](https://github.com/Zion-support/quote-generator-ai)
+
+### Proposal Writer AI
+Tailored proposals drafted from discovery notes and past wins.
+[Try it live](https://ziontechgroup.com/proposal-writer-ai/) · [GitHub](https://github.com/Zion-support/proposal-writer-ai)
+
+### Pipeline Forecast AI
+Bookings forecast with deal-level confidence and risk flags.
+[Try it live](https://ziontechgroup.com/pipeline-forecast-ai/) · [GitHub](https://github.com/Zion-support/pipeline-forecast-ai)
+
+**Full category:** [Sales Pipeline & Revenue AI](network/sales-pipeline-ai.md) · [Spotlight](spotlights/sales-pipeline-ai.md)
+
 ## 💚 Customer Success & Retention AI (homepage cards)
 
 ### Churn Risk Radar
