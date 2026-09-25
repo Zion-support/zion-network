@@ -126,13 +126,15 @@
   {"host": "portal", "type": "CNAME", "value": "zion-support.github.io"}
  ],
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 545,
+ "apps_total": 600,
  "msp_registry": "https://github.com/Zion-support/zion-network/blob/main/network/msp-apps.json",
  "cs_registry": "https://github.com/Zion-support/zion-network/blob/main/network/customer-success-ai.md",
  "ecommerce_registry": "https://github.com/Zion-support/zion-network/blob/main/network/ecommerce-retail-ai.md",
+ "aiops_registry": "https://github.com/Zion-support/zion-network/blob/main/network/aiops-apps.json",
  "categories": {
   "ai-readiness-evaluation": {"title": "AI Readiness, Evaluation & Benchmarking", "page": "network/ai-readiness-evaluation.md", "apps": ["ai-readiness-assessment", "ai-readiness-score", "zion-ai-readiness-quiz", "ai-assessment-engine", "ai-eval-harness", "rag-evaluator", "ai-benchmark-lab", "ai-benchmark-tracker", "zion-benchmark-explainer", "ai-model-cost-calculator", "token-context-calculator"]},
   "hr-people-ai": {"title": "HR & People AI", "page": "network/hr-people-ai.md", "apps": ["skills-gap-analyzer", "learning-path-copilot", "attrition-risk-radar", "onboarding-journey-ai", "ai-resume-screener", "interview-prep-copilot"]},
-  "sales-pipeline-ai": {"title": "Sales Pipeline & Revenue AI", "page": "network/sales-pipeline-ai.md", "apps": ["lead-score-copilot", "deal-desk-assistant", "sales-call-analyzer", "quote-generator-ai", "pipeline-forecast-ai", "proposal-writer-ai"]}
+  "sales-pipeline-ai": {"title": "Sales Pipeline & Revenue AI", "page": "network/sales-pipeline-ai.md", "apps": ["lead-score-copilot", "deal-desk-assistant", "sales-call-analyzer", "quote-generator-ai", "pipeline-forecast-ai", "proposal-writer-ai"]},
+  "ai-ops-incident-response": {"title": "AI Ops, Incident Response & Reliability", "page": "network/ai-ops-incident-response.md", "apps": ["incident-runbook-ai", "zion-ai-incident-commander", "zion-ai-incident-runbook", "zion-ai-incident-responder", "ai-incident-timeline", "incident-timeline-reconstructor", "incident-comms-writer", "ops-runbook-ai", "sla-risk-forecaster", "sla-forecast-guardian", "escalation-sentinel", "api-health-probe", "metric-anomaly-alerter", "etl-pipeline-monitor", "zion-ai-drift-detector", "maintenance-ticket-triage", "support-ticket-triager", "warranty-claim-triager"]}
  }
 }
