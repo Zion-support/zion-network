@@ -16,7 +16,7 @@
   {"id": "partners", "repo": "Zion-support/partners", "pages": "https://zion-support.github.io/partners/", "subdomain": "https://partners.ziontechgroup.com", "title": "Partner Program"},
   {"id": "ai-tools", "repo": "Zion-support/tools", "pages": "https://zion-support.github.io/tools/", "subdomain": "https://ai-tools.ziontechgroup.com", "title": "AI Tools"}
  ],
- "note": "apps array abbreviated; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry, legal_registry, supply_chain_registry, knowledge_support_registry, finance_registry.",
+ "note": "apps array abbreviated; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry, legal_registry, supply_chain_registry, knowledge_support_registry.",
  "apps_added_2026_09_25": [
   {"id": "ai-pr-review-swarm", "title": "AI PR Review Swarm", "url": "https://ziontechgroup.com/ai-pr-review-swarm/", "repo": "Zion-support/zion-ai-pr-review-swarm", "category": "ai-agents-autonomous-ops"},
   {"id": "ai-dispatch-orchestrator", "title": "AI Dispatch Orchestrator", "url": "https://ziontechgroup.com/ai-dispatch-orchestrator/", "repo": "Zion-support/zion-ai-dispatch-orchestrator", "category": "ai-agents-autonomous-ops"},
@@ -38,12 +38,7 @@
   {"id": "ai-chart-builder", "title": "AI Chart Builder", "url": "https://ai-chart-builder.ziontechgroup.com", "repo": "Zion-support/ai-chart-builder", "category": "creative-media-ai"},
   {"id": "ai-content-translator", "title": "AI Content Translator", "url": "https://ziontechgroup.com/ai-content-translator/", "repo": "Zion-support/ai-content-translator", "category": "creative-media-ai"}
  ],
- "field": {
-  "pattern": "Zion-support/zion-field-*",
-  "pages_pattern": "https://zion-support.github.io/{repo}/",
-  "subdomain_pattern": "https://field-{slug}.ziontechgroup.com/",
-  "note": "~70 field playbook sites (countries, cities, industries). Enumerate via GitHub API repos list."
- },
+ "field": {"pattern": "Zion-support/zion-field-*", "pages_pattern": "https://zion-support.github.io/{repo}/", "subdomain_pattern": "https://field-{slug}.ziontechgroup.com/", "note": "~70 field playbook sites (countries, cities, industries). Enumerate via GitHub API repos list."},
  "plans": {
   "discovery": {"usd": "https://buy.stripe.com/8x214o8NW35l5Xp3hm4ZG0b", "brl": "https://buy.stripe.com/9B69AU8NW5dt71t8BG4ZG09", "price": "$99 / R$99", "name": "Discovery", "items": "One process · report · 30-min session"},
   "consulting": {"usd": "https://buy.stripe.com/4gM14ofck0Xd1H94lq4ZG08", "brl": "https://buy.stripe.com/00w6oIaW46hx2Ld7xC4ZG0e", "price": "$499 / R$499", "name": "Consulting", "items": "Strategy · roadmap · 3 sessions"},
@@ -69,19 +64,17 @@
  "legal_registry": "https://github.com/Zion-support/zion-network/blob/main/network/legal-contract-compliance-ai.md",
  "supply_chain_registry": "https://github.com/Zion-support/zion-network/blob/main/network/supply-chain-logistics-ai.md",
  "knowledge_support_registry": "https://github.com/Zion-support/zion-network/blob/main/network/knowledge-support-ai.md",
- "finance_registry": "https://github.com/Zion-support/zion-network/blob/main/network/finance-accounting-ai.md",
  "categories": {
   "ai-readiness-evaluation": {"title": "AI Readiness, Evaluation & Benchmarking", "page": "network/ai-readiness-evaluation.md", "apps": ["ai-readiness-assessment", "ai-readiness-score", "zion-ai-readiness-quiz", "ai-assessment-engine", "ai-eval-harness", "rag-evaluator", "ai-benchmark-lab", "ai-benchmark-tracker", "zion-benchmark-explainer", "ai-model-cost-calculator", "token-context-calculator"]},
   "hr-people-ai": {"title": "HR & People AI", "page": "network/hr-people-ai.md", "apps": ["skills-gap-analyzer", "learning-path-copilot", "attrition-risk-radar", "onboarding-journey-ai", "ai-resume-screener", "interview-prep-copilot"]},
   "sales-pipeline-ai": {"title": "Sales Pipeline & Revenue AI", "page": "network/sales-pipeline-ai.md", "apps": ["lead-score-copilot", "deal-desk-assistant", "sales-call-analyzer", "quote-generator-ai", "pipeline-forecast-ai", "proposal-writer-ai"]},
   "ai-ops-incident-response": {"title": "AI Ops, Incident Response & Reliability", "page": "network/ai-ops-incident-response.md", "apps": ["incident-runbook-ai", "zion-ai-incident-commander", "zion-ai-incident-runbook", "zion-ai-incident-responder", "ai-incident-timeline", "incident-timeline-reconstructor", "incident-comms-writer", "ops-runbook-ai", "sla-risk-forecaster", "sla-forecast-guardian", "escalation-sentinel", "api-health-probe", "metric-anomaly-alerter", "etl-pipeline-monitor", "zion-ai-drift-detector", "maintenance-ticket-triage", "support-ticket-triager", "warranty-claim-triager"]},
-  "ai-agents-autonomous-ops": {"title": "AI Agents & Autonomous Operations", "page": "network/ai-agents-autonomous-ops.md", "apps": ["ai-pr-review-swarm", "ai-dispatch-orchestrator", "ai-ticket-sentinel", "voice-agent-studio", "finops-autopilot", "ai-sales-email-copilot", "ai-growth-marketing-hub", "churn-radar", "ai-agent-fleet", "ai-agent-swarm", "ai-agent-swarm-v2", "agent-sla-monitor"]},
+  "ai-agents-autonomous-ops": {"title": "AI Agents & Autonomous Operations", "page": "network/ai-agents-autonomous-ops.md", "spotlight_pages": "spotlights/ai-agents-autonomous-ops.html", "apps": ["ai-pr-review-swarm", "ai-dispatch-orchestrator", "ai-ticket-sentinel", "voice-agent-studio", "finops-autopilot", "ai-sales-email-copilot", "ai-growth-marketing-hub", "churn-radar", "ai-agent-fleet", "ai-agent-swarm", "ai-agent-swarm-v2", "agent-sla-monitor"]},
   "creative-media-ai": {"title": "Creative & Media AI", "page": "network/creative-media-ai.md", "apps": ["ai-audio-engine", "ai-audio-transcriber", "ai-avatar-generator", "ai-caption-generator", "ai-caption-optimizer", "ai-chart-builder", "ai-content-translator"]},
   "legal-contract-compliance-ai": {"title": "Legal, Contract & Compliance AI", "page": "network/legal-contract-compliance-ai.md", "apps": ["ai-contract-reviewer", "ai-contract-clause-screener", "contract-clause-extractor", "contract-clause-reviewer", "contract-clause-sentry", "contract-obligation-tracker", "contract-redline-copilot", "contract-renewal-radar", "ai-legal-intelligence", "ai-legal-advisor", "ai-patent-search", "compliance-policy-writer", "compliance-evidence-collector", "audit-readiness-copilot", "dpia-assistant", "dpia-generator", "data-retention-enforcer", "privacy-dsr-assistant", "regulatory-change-radar", "policy-attestation-tracker", "policy-change-tracker", "ai-policy-generator"]},
   "supply-chain-logistics-ai": {"title": "Supply Chain & Logistics AI", "page": "network/supply-chain-logistics-ai.md", "apps": ["ai-supply-chain", "ai-supply-chain-optimizer", "demand-sensing-hub", "ai-inventory-forecaster", "inventory-forecast-ai", "freight-rate-scout", "dock-appointment-scheduler", "fleet-fuel-optimizer", "driver-hours-compliance", "depot-stock-balancer", "shipping-delay-alerter", "customs-doc-generator", "route-density-planner", "ai-transportation-suite"]},
-  "knowledge-support-ai": {"title": "Knowledge & Support AI", "page": "network/knowledge-support-ai.md", "apps": ["knowledge-base-copilot", "help-center-copilot", "knowledge-gap-finder", "support-deflection-analyzer", "support-sentiment-monitor", "support-ticket-triager", "nps-insight-engine", "ai-customer-experience-hub", "ai-neural-search", "ai-document-search", "ai-document-summarizer", "ai-document-classifier", "ai-email-classifier", "ai-meeting-notes-copilot", "onboarding-buddy-ai", "report-scheduler-ai"]},
-  "finance-accounting-ai": {"title": "Finance & Accounting AI", "page": "network/finance-accounting-ai.md", "apps": ["ai-book-keeper", "ai-billing-automation", "invoice-match-ai", "expense-audit-ai", "ar-collections-prioritizer", "revenue-leak-detector", "quote-to-cash-accelerator", "ai-asset-depreciation", "subscription-dunning-hero", "ai-fraud-prevention", "ai-roi-calculator", "roi-calculator", "ai-financial-services-suite"]}
+  "knowledge-support-ai": {"title": "Knowledge & Support AI", "page": "network/knowledge-support-ai.md", "apps": ["knowledge-base-copilot", "help-center-copilot", "knowledge-gap-finder", "support-deflection-analyzer", "support-sentiment-monitor", "support-ticket-triager", "nps-insight-engine", "ai-customer-experience-hub", "ai-neural-search", "ai-document-search", "ai-document-summarizer", "ai-document-classifier", "ai-email-classifier", "ai-meeting-notes-copilot", "onboarding-buddy-ai", "report-scheduler-ai"]}
  },
- "spotlight_latest": "spotlights/finance-accounting.md",
+ "spotlight_latest": "spotlights/ai-agents-autonomous-ops.html",
  "spotlight_previous": "spotlights/knowledge-support-ai.md"
 }
