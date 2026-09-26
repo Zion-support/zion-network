@@ -1,30 +1,27 @@
 # Marketing & Growth AI — Zion App Network
 
-12 apps in this category. Scale demand generation, content, SEO, social, ads, referrals and webinars with AI — fully interlinked with the rest of the Zion App Network.
+14 apps in this category. AI-powered marketing, demand generation, and growth tooling from Zion Tech Group.
 
 | App | Description | Live |
 |---|---|---|
-| [ai-growth-marketing-hub](https://github.com/Zion-support/ai-growth-marketing-hub) | AI Growth Marketing Hub — full-funnel growth marketing automation | [live](https://ziontechgroup.com/ai-growth-marketing-hub/) |
-| [newsletter-growth-copilot](https://github.com/Zion-support/newsletter-growth-copilot) | Newsletter Growth Copilot — grow and monetize newsletters with AI | [live](https://ziontechgroup.com/newsletter-growth-copilot/) |
-| [social-listening-radar](https://github.com/Zion-support/social-listening-radar) | Social Listening Radar — track brand mentions and sentiment in real time | [live](https://ziontechgroup.com/social-listening-radar/) |
-| [ad-budget-optimizer](https://github.com/Zion-support/ad-budget-optimizer) | Ad Budget Optimizer — AI budget allocation across ad channels | [live](https://ziontechgroup.com/ad-budget-optimizer/) |
-| [landing-page-ab-tester](https://github.com/Zion-support/landing-page-ab-tester) | Landing Page A/B Tester — experiment and lift conversion rates | [live](https://ziontechgroup.com/landing-page-ab-tester/) |
-| [seo-content-optimizer](https://github.com/Zion-support/seo-content-optimizer) | SEO Content Optimizer — rank higher with AI-optimized content | [live](https://ziontechgroup.com/seo-content-optimizer/) |
-| [content-roi-dashboard](https://github.com/Zion-support/content-roi-dashboard) | Content ROI Dashboard — measure revenue impact of every content piece | [live](https://ziontechgroup.com/content-roi-dashboard/) |
-| [zion-content-studio](https://github.com/Zion-support/zion-content-studio) | Zion Content Studio — end-to-end AI content production suite | [live](https://content-studio.ziontechgroup.com) |
-| [ai-social-manager](https://github.com/Zion-support/ai-social-manager) | AI Social Manager — schedule, publish and analyze social posts | [live](https://ziontechgroup.com/ai-social-manager/) |
+| [ai-growth-marketing-hub](https://github.com/Zion-support/ai-growth-marketing-hub) | AI Growth Marketing Hub — orchestrate full-funnel AI marketing campaigns | [live](https://ziontechgroup.com/ai-growth-marketing-hub/) |
+| [newsletter-growth-copilot](https://github.com/Zion-support/newsletter-growth-copilot) | Newsletter Growth Copilot — grow subscribers with AI-driven subject lines and send-time optimization | [live](https://ziontechgroup.com/newsletter-growth-copilot/) |
+| [social-listening-radar](https://github.com/Zion-support/social-listening-radar) | Social Listening Radar — track brand mentions, sentiment, and trends across social channels | [live](https://ziontechgroup.com/social-listening-radar/) |
+| [ad-budget-optimizer](https://github.com/Zion-support/ad-budget-optimizer) | Ad Budget Optimizer — AI allocation of ad spend across channels for maximum ROAS | [live](https://ziontechgroup.com/ad-budget-optimizer/) |
+| [landing-page-ab-tester](https://github.com/Zion-support/landing-page-ab-tester) | Landing Page A/B Tester — AI-generated variants and automated experiment analysis | [live](https://ziontechgroup.com/landing-page-ab-tester/) |
+| [seo-content-optimizer](https://github.com/Zion-support/seo-content-optimizer) | SEO Content Optimizer — rank higher with AI content scoring and semantic keyword coverage | [live](https://ziontechgroup.com/seo-content-optimizer/) |
+| [content-roi-dashboard](https://github.com/Zion-support/content-roi-dashboard) | Content ROI Dashboard — attribute revenue to every content asset | [live](https://ziontechgroup.com/content-roi-dashboard/) |
+| [zion-content-studio](https://github.com/Zion-support/zion-content-studio) | Zion Content Studio — AI content creation studio for blogs, social, and campaigns | [live](https://content-studio.ziontechgroup.com) |
+| [ai-social-manager](https://github.com/Zion-support/ai-social-manager) | AI Social Manager — schedule, publish, and analyze social posts with AI | [live](https://ziontechgroup.com/ai-social-manager/) |
 | [ai-caption-generator](https://github.com/Zion-support/ai-caption-generator) | AI Caption Generator — engaging social captions in seconds | [live](https://ai-caption-generator.ziontechgroup.com) |
-| [referral-engine-ai](https://github.com/Zion-support/referral-engine-ai) | Referral Engine AI — turn customers into a growth channel | [live](https://ziontechgroup.com/referral-engine-ai/) |
-| [webinar-funnel-hub](https://github.com/Zion-support/webinar-funnel-hub) | Webinar Funnel Hub — AI-powered webinar funnels that convert | [live](https://ziontechgroup.com/webinar-funnel-hub/) |
+| [referral-engine-ai](https://github.com/Zion-support/referral-engine-ai) | Referral Engine AI — turn customers into advocates with AI-optimized referral programs | [live](https://ziontechgroup.com/referral-engine-ai/) |
+| [webinar-funnel-hub](https://github.com/Zion-support/webinar-funnel-hub) | Webinar Funnel Hub — end-to-end webinar promotion, registration, and follow-up funnels | [live](https://ziontechgroup.com/webinar-funnel-hub/) |
+| [zion-ai-email-marketing-pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) | Zion AI Email Marketing Pro — AI email campaigns, segmentation, and deliverability | [live](https://email-marketing.ziontechgroup.com) |
+| [ai-sales-email-copilot](https://github.com/Zion-support/ai-sales-email-copilot) | AI Sales Email Copilot — personalized outbound sales emails that convert | [live](https://ziontechgroup.com/ai-sales-email-copilot/) |
 
-## Related categories
-- 💼 [Sales & Lead Gen AI](sales-lead-gen-ai.md) — feed qualified leads into your growth engine
-- 📣 [Content & Marketing](content-marketing.md) — content production and media apps
-- 📊 [Data & Analytics](data-analytics.md) — measure growth performance
-- 🤖 [AI Agents & Autonomous Operations](ai-agents-autonomous-ops.md) — automate growth workflows
-- 🧑‍💼 [Customer Success AI](customer-success-ai.md) — retain the customers you win
-
-## Spotlight
-See the suite spotlight: [spotlights/marketing-growth.md](../spotlights/marketing-growth.md)
-
-**Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com) · [App Network Hub](../APPS_NETWORK.md)**
+## Interlinks
+- 💼 [Sales & Lead Gen AI](sales-lead-gen-ai.md) — pipeline-ready leads from your campaigns
+- 📣 [Content & Marketing](content-marketing.md) — creative & media AI apps
+- 🧝 [Customer Success AI](customer-success-ai.md) — retain and expand the customers you win
+- 📊 [Data & Analytics](data-analytics.md) — measure growth end-to-end
+- 🌐 [Master Index](../APPS_NETWORK.md) · [Hub](https://zion-support.github.io/zion-network/) · [ziontechgroup.com](https://ziontechgroup.com)
