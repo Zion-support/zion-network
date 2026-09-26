@@ -1,9 +1,17 @@
-# Session 25 — 2026-09-25
+# Session 25 — 2026-09-25 (UTC)
 
 ## Done
-- New spotlights: spotlights/core-site-hubs.md, spotlights/data-search-documents.md, spotlights/field-city-sites.md — completing spotlight coverage for every category page in network/.
-- Homepage advertising: APP_NETWORK_SPOTLIGHT_SEP25_BATCH32.md in zion-support.github.io (core hubs, data/search/docs, field & city sites — 328 sites/apps).
-- Note: concurrent sessions added spotlights industry-platforms.md, industry-verticals-suites.md, legal-contract-compliance.md earlier today — verified present, no duplicates created.
+- Recalled Session 24 checkpoint from Supermemory + Mem0 (next planned category: Supply Chain & Logistics AI).
+- Created category page `network/supply-chain-logistics-ai.md` with 14 interlinked apps and a plan-to-deliver workflow.
+- Created spotlight `spotlights/supply-chain-logistics.md`.
+- Updated `network.json`: added `supply-chain-logistics-ai` category, `supply_chain_registry`, set `spotlight_latest`.
+- Published homepage advertising on zion-support.github.io: `APP_NETWORK_SPOTLIGHT_SUPPLY_CHAIN.md` + `homepage-content-supply-chain.md` linking to the 14 app pages on ziontechgroup.com.
 
-## Next
-- All category spotlights now exist. Remaining: README network footers for flagship repos; fix network.ziontechgroup.com SSL (GitHub Pages cert re-provision); ziontechgroup.com Cloudflare Workers build failure (engineering).
+## Still open
+- network.ziontechgroup.com HTTPS certificate still broken — manual fix: remove/re-add custom domain in zion-network Settings > Pages.
+- ziontechgroup.com Cloudflare Workers build failing — homepage md files 404 until build fixed.
+- network.json `apps` array still abbreviated; full registries live in network/*.md.
+
+## Next session ideas
+- New category: Support & Contact Center AI (support-ticket-triager, help-center-copilot, knowledge-base-copilot, support-deflection-analyzer, support-sentiment-monitor, escalation-sentinel...).
+- Re-verify ziontechgroup.com deploy of homepage spotlight files (legal + supply chain).
