@@ -130,3 +130,27 @@ Every app links back to this index. To add a new app:
 ```
 
 _Updated 2026-09-26 (Batch 36) — 535+ public repos, 107+ flagship apps; all 38 category pages indexed._
+
+
+---
+
+## 🆕 Batch 36b — 2026-09-26 (Session 26) — Spotlight: Finance & Accounting AI
+
+- Spotlight page: [spotlights/finance-accounting-ai.md](spotlights/finance-accounting-ai.md)
+- Category page: [network/finance-accounting-ai.md](network/finance-accounting-ai.md)
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_FINANCE_AI.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md) (live at https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md)
+- Registry restored: [network.json](network.json) compact flagship apps array now lists **179 apps** with id/repo/URL (was an abbreviated pointer).
+- READMEs refreshed with network footers + interlinks: [zion-insight-dashboard](https://github.com/Zion-support/zion-insight-dashboard), [ai-talent-onboarding-copilot](https://github.com/Zion-support/ai-talent-onboarding-copilot), [ai-energy-optimizer](https://github.com/Zion-support/ai-energy-optimizer).
+
+Featured apps:
+- [ai-asset-depreciation](https://ziontechgroup.com/ai-asset-depreciation/) — https://github.com/Zion-support/ai-asset-depreciation
+- [ai-billing-automation](https://ziontechgroup.com/ai-billing-automation/) — https://github.com/Zion-support/ai-billing-automation
+- [ai-financial-services-suite](https://ziontechgroup.com/ai-financial-services-suite/) — https://github.com/Zion-support/ai-financial-services-suite
+- [ai-roi-calculator](https://ziontechgroup.com/ai-roi-calculator/) — https://github.com/Zion-support/ai-roi-calculator
+- [ar-collections-prioritizer](https://ziontechgroup.com/ar-collections-prioritizer/) — https://github.com/Zion-support/ar-collections-prioritizer
+- [expense-audit-ai](https://ziontechgroup.com/expense-audit-ai/) — https://github.com/Zion-support/expense-audit-ai
+- [invoice-match-ai](https://ziontechgroup.com/invoice-match-ai/) — https://github.com/Zion-support/invoice-match-ai
+- [quote-to-cash-accelerator](https://ziontechgroup.com/quote-to-cash-accelerator/) — https://github.com/Zion-support/quote-to-cash-accelerator
+- [revenue-leak-detector](https://ziontechgroup.com/revenue-leak-detector/) — https://github.com/Zion-support/revenue-leak-detector
+- [roi-calculator](https://ziontechgroup.com/roi-calculator/) — https://github.com/Zion-support/roi-calculator
+- [subscription-dunning-hero](https://ziontechgroup.com/subscription-dunning-hero/) — https://github.com/Zion-support/subscription-dunning-hero
