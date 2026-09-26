@@ -32,6 +32,33 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[📣 Marketing & Growth AI](network/marketing-growth-ai.md)** — NEW: 12 apps (growth hub, newsletters, social, ads, SEO, A/B testing, referrals, webinars, ROI — [registry](network/marketing-growth-apps.json))
 - **[🛡️ Compliance & GRC AI](network/compliance-grc-ai.md)** — NEW: 8 apps (compliance scanning, vendor risk, audit readiness, policy tracking, clause extraction, evidence, drift, SLA guardian — [registry](network/compliance-grc-apps.json))
 
+### Additional categories (indexed in Batch 36)
+
+- **[🤖 AI Agents & Automation](network/ai-agents-automation.md)**
+- **[🤖 AI Ops, Incident Response & Reliability](network/ai-ops-incident-response.md)**
+- **[🧭 AI Readiness, Evaluation & Benchmarking](network/ai-readiness-evaluation.md)**
+- **[🎬 Creative & Media AI](network/creative-media-ai.md)**
+- **[🔎 Data, Search & Documents](network/data-search-documents.md)**
+- **[👩‍💻 Developer Productivity & Code AI](network/developer-productivity-code-ai.md)**
+- **[🛡️ DevSecOps & Quality](network/devsecops-quality.md)**
+- **[⚡ Everyday AI Productivity](network/everyday-ai-productivity.md)**
+- **[💵 Finance & Accounting AI](network/finance-accounting-ai.md)**
+- **[🌿 Green IT & Sustainability](network/green-it-sustainability.md)**
+- **[🧑‍💼 HR & People AI](network/hr-people-ai.md)**
+- **[📚 Knowledge & Support AI](network/knowledge-support-ai.md)**
+- **[⚖️ Legal, Contract & Compliance AI](network/legal-contract-compliance-ai.md)**
+- **[🧪 MLOps & AI Infrastructure](network/mlops-ai-infrastructure.md)**
+- **[📈 Sales Pipeline & Revenue AI](network/sales-pipeline-ai.md)**
+- **[🚚 Supply Chain & Logistics AI](network/supply-chain-logistics-ai.md)**
+- **[🎧 Support & Service Desk AI](network/support-service-desk-ai.md)**
+
+## 🚀 Latest Additions (2026-09-26, Batch 36 — Session 27)
+
+- Index completeness fix: added **17 category pages** that existed under `network/` but were missing from this index (AI Agents & Automation, AI Ops & Incident Response, AI Readiness & Evaluation, Creative & Media AI, Data/Search/Documents, Developer Productivity, DevSecOps & Quality, Everyday AI, Finance & Accounting, Green IT, HR & People, Knowledge & Support, Legal & Contract, MLOps, Sales Pipeline, Supply Chain, Support & Service Desk). All 38 category pages are now listed.
+- network.json: registered the missing categories (marketing-growth-ai, compliance-grc-ai, industry-verticals-suites, green-it-sustainability, support-service-desk-ai, everyday-ai-productivity, ai-agents-automation, data-search-documents, devsecops-quality) + registries; spotlight_latest now points to the Marketing & Growth AI spotlight.
+- Verified: previously size-0 repos (zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer) already have README + NETWORK.md + index.html — no action needed.
+- New homepage advertising: APP_NETWORK_SPOTLIGHT_FULL_DIRECTORY.md (all-categories directory) + zion-app-network homepage-content-batch36.md.
+
 ## 🚀 Latest Additions (2026-09-26, Batch 35 — Session 25)
 
 - Fixed broken links: recreated [network/compliance-grc-ai.md](network/compliance-grc-ai.md), [network/compliance-grc-apps.json](network/compliance-grc-apps.json), [spotlights/compliance-grc.md](spotlights/compliance-grc.md), [network/industry-verticals-suites.md](network/industry-verticals-suites.md), [spotlights/industry-verticals-suites.md](spotlights/industry-verticals-suites.md), [spotlights/data-observability.html](spotlights/data-observability.html) and [logs/SESSION21.md](logs/SESSION21.md) — all referenced by this index but missing after a concurrent-session overwrite.
@@ -102,4 +129,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-26 (Batch 35) — 535+ public repos, 107+ flagship apps; 21 categories incl. Data Observability (re-merged), Compliance & GRC AI, and Marketing & Growth AI._
+_Updated 2026-09-26 (Batch 36) — 535+ public repos, 107+ flagship apps; all 38 category pages indexed._
