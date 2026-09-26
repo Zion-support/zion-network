@@ -1,11 +1,22 @@
-# Spotlight: Industry Vertical AI Suites (2026-09-25)
+# 🏙️ Spotlight: Industry Vertical AI Suites
 
-Homepage spotlight: [APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md) · Category page: [network/industry-verticals-suites.md](../network/industry-verticals-suites.md)
+One platform per industry. Zion's vertical AI suites ship with the data models, compliance controls and workflows your sector actually needs — no blank-page builds.
 
-13 industry vertical AI suites — banking, insurance, pharma, education, media & entertainment, energy & utilities, transportation, construction, agriculture, hospitality, real estate, government services and nonprofit.
+- 🏦 [AI Banking Platform](https://ziontechgroup.com/ai-banking-platform/) — KYC, risk, core-banking copilots
+- 🛡️ [AI Insurance Suite](https://ziontechgroup.com/ai-insurance-suite/) — underwriting, claims, fraud
+- 💊 [AI Pharma Suite](https://ziontechgroup.com/ai-pharma-suite/) — research, trials, regulatory
+- 🎓 [AI Education Suite](https://ziontechgroup.com/ai-education-suite/) — tutoring, admin, outcomes
+- 🎬 [AI Media & Entertainment Hub](https://ziontechgroup.com/ai-media-entertainment-hub/) — content ops and audience AI
+- ⚡ [AI Energy & Utilities Suite](https://ziontechgroup.com/ai-energy-utilities-suite/) — grid, forecasting, field ops
+- 🚆 [AI Transportation Suite](https://ziontechgroup.com/ai-transportation-suite/) — routing, fleet, demand
+- 🏗️ [AI Construction Suite](https://ziontechgroup.com/ai-construction-suite/) — bids, schedules, site safety
+- 🌾 [AI Agriculture Platform](https://ziontechgroup.com/ai-agriculture-platform/) — crop intelligence and supply
+- 🏨 [AI Hospitality Suite](https://ziontechgroup.com/ai-hospitality-suite/) — guest experience and RevOps
+- 🏠 [AI Real Estate Hub](https://ziontechgroup.com/ai-real-estate-hub/) — listings, valuation, property ops
+- 🏛️ [AI Gov Services Platform](https://ziontechgroup.com/ai-gov-services-platform/) — citizen services and casework
+- 💛 [AI Nonprofit Hub](https://ziontechgroup.com/ai-nonprofit-hub/) — fundraising and impact reporting
 
-Each suite bundles the network's agents, analytics and automation apps pre-configured for the vertical's workflows and compliance needs.
+Category page: [network/industry-verticals-suites.md](../network/industry-verticals-suites.md)
 
-Related: [Green IT & Sustainability AI](./green-it-sustainability.md) · [Network master index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-
-Plans: https://ziontechgroup.com/en/plans/ · Discovery $99: https://ziontechgroup.com/discovery/ · commercial@ziontechgroup.com
+## Part of the Zion App Network
+🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
