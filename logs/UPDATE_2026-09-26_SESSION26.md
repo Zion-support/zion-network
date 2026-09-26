@@ -1,16 +1,19 @@
 # Session 26 — 2026-09-26 (Batch 36)
 
 ## Done
-- network.json: registered `marketing-growth-ai`, `compliance-grc-ai` and new `revops-quote-to-cash-ai` categories; added marketing_growth_registry + compliance_grc_registry keys; spotlight_latest → revops-quote-to-cash.
-- Verified all 9 network.json registry targets exist (creative-media, legal, supply-chain, knowledge-support, finance, dev-productivity, mlops pages + 2 spotlights) — no broken links.
-- Verified previously size-0 repos now have README + NETWORK.md + index.html: zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer. Also confirmed proposal-writer-ai, pipeline-forecast-ai, quote-to-cash-accelerator, deal-desk-copilot, demand-sensing-hub, freight-rate-scout all carry NETWORK.md.
-- New spotlight: spotlights/revops-quote-to-cash.md (8 RevOps apps).
+- Verified the three size-0 repos from last session's queue are already fixed (zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer all have README + NETWORK.md + index.html).
+- Cross-checked every category page referenced in network.json against the repo tree — zero missing pages.
+- network.json: registered marketing-growth-ai, compliance-grc-ai and industry-verticals-suites categories + registry links (15 categories total); spotlight_latest → spotlights/marketing-growth-ai.md. Commit d29c37ef.
+- New homepage advertising: APP_NETWORK_SPOTLIGHT_FIELD_SERVICE.md (Field Service AI suite, 6 apps) in zion-support.github.io.
 - zion-app-network: SPOTLIGHT-2026-09-26-BATCH36.md + homepage-content-batch36.md.
-- Homepage repo: APP_NETWORK_SPOTLIGHT_REVOPS_QUOTE_TO_CASH.md.
 
-## Pending (carry-over)
-- ziontechgroup.com/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md — homepage Pages build lag (raw 200).
-- network.ziontechgroup.com — TLS cert still *.github.io (GitHub provisioning); 200 with -k.
+## Still pending (from Batch 35)
+- ziontechgroup.com/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md — homepage Pages build lag.
+- network.ziontechgroup.com — GitHub Pages custom-domain TLS cert still provisioning (*.github.io cert served; 200 with -k).
+
+## Next session ideas
+- Recheck pending URLs (also the new APP_NETWORK_SPOTLIGHT_FIELD_SERVICE.md).
+- Pick next homepage spotlight theme (candidates: Knowledge & Support AI, Finance & Accounting AI, Supply Chain & Logistics AI).
 
 ## Part of the Zion App Network
 🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/)
