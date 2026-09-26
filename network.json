@@ -16,7 +16,7 @@
   {"id": "partners", "repo": "Zion-support/partners", "pages": "https://zion-support.github.io/partners/", "subdomain": "https://partners.ziontechgroup.com", "title": "Partner Program"},
   {"id": "ai-tools", "repo": "Zion-support/tools", "pages": "https://zion-support.github.io/tools/", "subdomain": "https://ai-tools.ziontechgroup.com", "title": "AI Tools"}
  ],
- "note": "apps array abbreviated; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry, legal_registry, supply_chain_registry, knowledge_support_registry, finance_registry.",
+ "note": "apps array abbreviated; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry, legal_registry, supply_chain_registry, knowledge_support_registry, finance_registry, green_it_registry, industry_suites_registry, marketing_growth_registry, grc_registry, support_desk_registry, everyday_ai_registry.",
  "apps_added_2026_09_25": [
   {"id": "ai-pr-review-swarm", "title": "AI PR Review Swarm", "url": "https://ziontechgroup.com/ai-pr-review-swarm/", "repo": "Zion-support/zion-ai-pr-review-swarm", "category": "ai-agents-autonomous-ops"},
   {"id": "ai-dispatch-orchestrator", "title": "AI Dispatch Orchestrator", "url": "https://ziontechgroup.com/ai-dispatch-orchestrator/", "repo": "Zion-support/zion-ai-dispatch-orchestrator", "category": "ai-agents-autonomous-ops"},
@@ -38,7 +38,12 @@
   {"id": "ai-chart-builder", "title": "AI Chart Builder", "url": "https://ai-chart-builder.ziontechgroup.com", "repo": "Zion-support/ai-chart-builder", "category": "creative-media-ai"},
   {"id": "ai-content-translator", "title": "AI Content Translator", "url": "https://ziontechgroup.com/ai-content-translator/", "repo": "Zion-support/ai-content-translator", "category": "creative-media-ai"}
  ],
- "field": {"pattern": "Zion-support/zion-field-*", "pages_pattern": "https://zion-support.github.io/{repo}/", "subdomain_pattern": "https://field-{slug}.ziontechgroup.com/", "note": "~70 field playbook sites (countries, cities, industries). Enumerate via GitHub API repos list."},
+ "field": {
+  "pattern": "Zion-support/zion-field-*",
+  "pages_pattern": "https://zion-support.github.io/{repo}/",
+  "subdomain_pattern": "https://field-{slug}.ziontechgroup.com/",
+  "note": "~70 field playbook sites (countries, cities, industries). Enumerate via GitHub API repos list."
+ },
  "plans": {
   "discovery": {"usd": "https://buy.stripe.com/8x214o8NW35l5Xp3hm4ZG0b", "brl": "https://buy.stripe.com/9B69AU8NW5dt71t8BG4ZG09", "price": "$99 / R$99", "name": "Discovery", "items": "One process · report · 30-min session"},
   "consulting": {"usd": "https://buy.stripe.com/4gM14ofck0Xd1H94lq4ZG08", "brl": "https://buy.stripe.com/00w6oIaW46hx2Ld7xC4ZG0e", "price": "$499 / R$499", "name": "Consulting", "items": "Strategy · roadmap · 3 sessions"},
@@ -65,6 +70,12 @@
  "supply_chain_registry": "https://github.com/Zion-support/zion-network/blob/main/network/supply-chain-logistics-ai.md",
  "knowledge_support_registry": "https://github.com/Zion-support/zion-network/blob/main/network/knowledge-support-ai.md",
  "finance_registry": "https://github.com/Zion-support/zion-network/blob/main/network/finance-accounting-ai.md",
+ "green_it_registry": "https://github.com/Zion-support/zion-network/blob/main/network/green-it-sustainability.md",
+ "industry_suites_registry": "https://github.com/Zion-support/zion-network/blob/main/network/industry-verticals-suites.md",
+ "marketing_growth_registry": "https://github.com/Zion-support/zion-network/blob/main/network/marketing-growth-ai.md",
+ "grc_registry": "https://github.com/Zion-support/zion-network/blob/main/network/compliance-grc-ai.md",
+ "support_desk_registry": "https://github.com/Zion-support/zion-network/blob/main/network/support-service-desk-ai.md",
+ "everyday_ai_registry": "https://github.com/Zion-support/zion-network/blob/main/network/everyday-ai-productivity.md",
  "categories": {
   "ai-readiness-evaluation": {"title": "AI Readiness, Evaluation & Benchmarking", "page": "network/ai-readiness-evaluation.md", "apps": ["ai-readiness-assessment", "ai-readiness-score", "zion-ai-readiness-quiz", "ai-assessment-engine", "ai-eval-harness", "rag-evaluator", "ai-benchmark-lab", "ai-benchmark-tracker", "zion-benchmark-explainer", "ai-model-cost-calculator", "token-context-calculator"]},
   "hr-people-ai": {"title": "HR & People AI", "page": "network/hr-people-ai.md", "apps": ["skills-gap-analyzer", "learning-path-copilot", "attrition-risk-radar", "onboarding-journey-ai", "ai-resume-screener", "interview-prep-copilot"]},
@@ -75,8 +86,14 @@
   "legal-contract-compliance-ai": {"title": "Legal, Contract & Compliance AI", "page": "network/legal-contract-compliance-ai.md", "apps": ["ai-contract-reviewer", "ai-contract-clause-screener", "contract-clause-extractor", "contract-clause-reviewer", "contract-clause-sentry", "contract-obligation-tracker", "contract-redline-copilot", "contract-renewal-radar", "ai-legal-intelligence", "ai-legal-advisor", "ai-patent-search", "compliance-policy-writer", "compliance-evidence-collector", "audit-readiness-copilot", "dpia-assistant", "dpia-generator", "data-retention-enforcer", "privacy-dsr-assistant", "regulatory-change-radar", "policy-attestation-tracker", "policy-change-tracker", "ai-policy-generator"]},
   "supply-chain-logistics-ai": {"title": "Supply Chain & Logistics AI", "page": "network/supply-chain-logistics-ai.md", "apps": ["ai-supply-chain", "ai-supply-chain-optimizer", "demand-sensing-hub", "ai-inventory-forecaster", "inventory-forecast-ai", "freight-rate-scout", "dock-appointment-scheduler", "fleet-fuel-optimizer", "driver-hours-compliance", "depot-stock-balancer", "shipping-delay-alerter", "customs-doc-generator", "route-density-planner", "ai-transportation-suite"]},
   "knowledge-support-ai": {"title": "Knowledge & Support AI", "page": "network/knowledge-support-ai.md", "apps": ["knowledge-base-copilot", "help-center-copilot", "knowledge-gap-finder", "support-deflection-analyzer", "support-sentiment-monitor", "support-ticket-triager", "nps-insight-engine", "ai-customer-experience-hub", "ai-neural-search", "ai-document-search", "ai-document-summarizer", "ai-document-classifier", "ai-email-classifier", "ai-meeting-notes-copilot", "onboarding-buddy-ai", "report-scheduler-ai"]},
-  "finance-accounting-ai": {"title": "Finance & Accounting AI", "page": "network/finance-accounting-ai.md", "apps": ["ai-book-keeper", "ai-billing-automation", "invoice-match-ai", "expense-audit-ai", "ar-collections-prioritizer", "revenue-leak-detector", "quote-to-cash-accelerator", "ai-asset-depreciation", "subscription-dunning-hero", "ai-fraud-prevention", "ai-roi-calculator", "roi-calculator", "ai-financial-services-suite"]}
+  "finance-accounting-ai": {"title": "Finance & Accounting AI", "page": "network/finance-accounting-ai.md", "apps": ["ai-book-keeper", "ai-billing-automation", "invoice-match-ai", "expense-audit-ai", "ar-collections-prioritizer", "revenue-leak-detector", "quote-to-cash-accelerator", "ai-asset-depreciation", "subscription-dunning-hero", "ai-fraud-prevention", "ai-roi-calculator", "roi-calculator", "ai-financial-services-suite"]},
+  "green-it-sustainability": {"title": "Green IT & Sustainability AI", "page": "network/green-it-sustainability.md", "apps": ["green-cloud-picker", "carbon-aware-scheduler", "energy-dashboard-ai", "e-waste-lifecycle-tracker", "sustainable-code-profiler", "pue-optimizer", "green-procurement-scorer", "carbon-report-builder"]},
+  "industry-verticals-suites": {"title": "Industry Vertical AI Suites", "page": "network/industry-verticals-suites.md", "apps": ["ai-banking-platform", "ai-insurance-suite", "ai-pharma-suite", "ai-education-suite", "ai-media-entertainment-hub", "ai-energy-utilities-suite", "ai-transportation-suite", "ai-construction-suite", "ai-agriculture-platform", "ai-hospitality-suite", "ai-real-estate-hub", "ai-gov-services-platform", "ai-nonprofit-hub"]},
+  "marketing-growth-ai": {"title": "Marketing & Growth AI", "page": "network/marketing-growth-ai.md", "apps": ["ai-growth-marketing-hub", "newsletter-growth-copilot", "social-listening-radar", "ad-budget-optimizer", "landing-page-ab-tester", "seo-content-optimizer", "content-roi-dashboard", "zion-content-studio", "ai-social-manager", "ai-caption-generator", "referral-engine-ai", "webinar-funnel-hub"]},
+  "compliance-grc-ai": {"title": "Compliance & GRC AI", "page": "network/compliance-grc-ai.md", "apps": ["zion-ai-compliance-scanner", "vendor-risk-screener", "audit-readiness-copilot", "policy-change-tracker", "contract-clause-extractor", "compliance-evidence-collector", "zion-ai-drift-detector", "sla-forecast-guardian"]},
+  "support-service-desk-ai": {"title": "Support & Service Desk AI", "page": "network/support-service-desk-ai.md", "apps": ["help-center-copilot", "knowledge-base-copilot", "knowledge-gap-finder", "support-deflection-analyzer", "support-sentiment-monitor", "escalation-sentinel", "maintenance-ticket-triage", "warranty-claim-triager", "nps-insight-engine", "voice-of-customer-hub", "upsell-signal-scout", "churn-radar"]},
+  "everyday-ai-productivity": {"title": "Everyday AI & Productivity", "page": "network/everyday-ai-productivity.md", "apps": ["ai-recipe-generator", "ai-coach", "ai-language-tutor", "ai-health-tracker", "ai-resume-builder", "meeting-cost-calculator", "ai-weather-forecast", "prompt-forge", "tech-stack-recommender", "ai-vendor-comparator", "synthetic-data-lab", "landing-page-ab-tester"]}
  },
- "spotlight_latest": "spotlights/finance-accounting.md",
- "spotlight_previous": "spotlights/ai-agents-autonomous-ops.html"
+ "spotlight_latest": "spotlights/everyday-ai-productivity.md",
+ "spotlight_previous": "spotlights/finance-accounting.md"
 }
