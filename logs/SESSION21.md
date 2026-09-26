@@ -1,12 +1,12 @@
-# SESSION 21 — 2026-09-26 (Batch 21: Compliance & GRC AI + re-merge + Pages fix)
+# Session 21 — 2026-09-26
 
-## Done
-- Re-merged Data Operations & Observability AI category into APPS_NETWORK.md (lost in concurrent-session overwrite)
-- New category: network/compliance-grc-ai.md (8 interlinked GRC apps) + network/compliance-grc-apps.json registry
-- Spotlights: spotlights/compliance-grc.md + spotlights/data-observability.html (HTML, guaranteed live via network.ziontechgroup.com)
-- Homepage: compliance-grc-ai-suite/index.html + APP_NETWORK_SPOTLIGHT_GRC.md + .pages-trigger bump (retry deploy of ai-data-observability-suite, commit f3325c08 still not serving)
+## Summary
+- Re-merged the **Data Operations & Observability AI** category (`network/data-observability-ai.md`) after it was lost in a concurrent-session overwrite; added guaranteed-live HTML spotlight `spotlights/data-observability.html` (served via network.ziontechgroup.com while homepage Pages builds lag).
+- New category: **Compliance & GRC AI** (`network/compliance-grc-ai.md`) — 8 interlinked apps with registry `network/compliance-grc-apps.json` and spotlight `spotlights/compliance-grc.md`.
+- New homepage advertising page: ziontechgroup.com/compliance-grc-ai-suite/ + `APP_NETWORK_SPOTLIGHT_GRC.md` in the homepage repo.
 
-## Next
-- Verify network.ziontechgroup.com/spotlights/data-observability.html and homepage suite pages live
-- Add data-observability suite link to the 9 app repo READMEs
-- Continue NETWORK.md interlinking (251/640)
+## Notes
+- Concurrent sessions can overwrite each other on shared index files — always re-read APPS_NETWORK.md sha before updating.
+
+## Part of the Zion App Network
+🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/)
