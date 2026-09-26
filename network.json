@@ -1,7 +1,7 @@
 {
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
- "updated": "2026-09-25",
+ "updated": "2026-09-26",
  "sites": [
   {"id": "network", "repo": "Zion-support/zion-network", "pages": "https://zion-support.github.io/zion-network/", "subdomain": "https://network.ziontechgroup.com", "title": "Zion Network"},
   {"id": "agents", "repo": "Zion-support/agents", "pages": "https://zion-support.github.io/agents/", "subdomain": "https://agents.ziontechgroup.com", "title": "Zion Agents"},
@@ -16,7 +16,7 @@
   {"id": "partners", "repo": "Zion-support/partners", "pages": "https://zion-support.github.io/partners/", "subdomain": "https://partners.ziontechgroup.com", "title": "Partner Program"},
   {"id": "ai-tools", "repo": "Zion-support/tools", "pages": "https://zion-support.github.io/tools/", "subdomain": "https://ai-tools.ziontechgroup.com", "title": "AI Tools"}
  ],
- "note": "apps array abbreviated in this update; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry.",
+ "note": "apps array abbreviated in this update; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry, creative_media_registry, green_it_registry, industry_suites_registry.",
  "field": {
   "pattern": "Zion-support/zion-field-*",
   "pages_pattern": "https://zion-support.github.io/{repo}/",
@@ -46,16 +46,19 @@
  "agents_registry": "https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-autonomous-ops.md",
  "creative_media_registry": "https://github.com/Zion-support/zion-network/blob/main/network/creative-media-ai.md",
  "green_it_registry": "https://github.com/Zion-support/zion-network/blob/main/network/green-it-sustainability.md",
+ "industry_suites_registry": "https://github.com/Zion-support/zion-network/blob/main/network/industry-verticals-suites.md",
  "categories": {
   "ai-readiness-evaluation": {"title": "AI Readiness, Evaluation & Benchmarking", "page": "network/ai-readiness-evaluation.md", "apps": ["ai-readiness-assessment", "ai-readiness-score", "zion-ai-readiness-quiz", "ai-assessment-engine", "ai-eval-harness", "rag-evaluator", "ai-benchmark-lab", "ai-benchmark-tracker", "zion-benchmark-explainer", "ai-model-cost-calculator", "token-context-calculator"]},
   "hr-people-ai": {"title": "HR & People AI", "page": "network/hr-people-ai.md", "apps": ["skills-gap-analyzer", "learning-path-copilot", "attrition-risk-radar", "onboarding-journey-ai", "ai-resume-screener", "interview-prep-copilot"]},
   "sales-pipeline-ai": {"title": "Sales Pipeline & Revenue AI", "page": "network/sales-pipeline-ai.md", "apps": ["lead-score-copilot", "deal-desk-assistant", "sales-call-analyzer", "quote-generator-ai", "pipeline-forecast-ai", "proposal-writer-ai"]},
   "ai-ops-incident-response": {"title": "AI Ops, Incident Response & Reliability", "page": "network/ai-ops-incident-response.md", "apps": ["incident-runbook-ai", "zion-ai-incident-commander", "zion-ai-incident-runbook", "zion-ai-incident-responder", "ai-incident-timeline", "incident-timeline-reconstructor", "incident-comms-writer", "ops-runbook-ai", "sla-risk-forecaster", "sla-forecast-guardian", "escalation-sentinel", "api-health-probe", "metric-anomaly-alerter", "etl-pipeline-monitor", "zion-ai-drift-detector", "maintenance-ticket-triage", "support-ticket-triager", "warranty-claim-triager"]},
   "ai-agents-autonomous-ops": {"title": "AI Agents & Autonomous Operations", "page": "network/ai-agents-autonomous-ops.md", "apps": ["ai-pr-review-swarm", "ai-dispatch-orchestrator", "ai-ticket-sentinel", "voice-agent-studio", "finops-autopilot", "ai-sales-email-copilot", "ai-growth-marketing-hub", "churn-radar", "ai-agent-fleet", "ai-agent-swarm", "ai-agent-swarm-v2", "agent-sla-monitor"]},
-  "creative-media-ai": {"title": "Creative & Media AI", "page": "network/creative-media-ai.md", "apps": ["ai-audio-engine", "ai-audio-transcriber", "ai-avatar-generator", "ai-caption-generator", "ai-caption-optimizer", "ai-chart-builder", "ai-content-translator"]},
+  "creative-media-ai": {"title": "Creative & Media AI", "page": "network/creative-media-ai.md", "apps": ["ai-audio-engine", "ai-audio-transcriber", "ai-avatar-generator", "ai-caption-generator", "ai-caption-optimizer", "ai-chart-builder", "ai-content-translator", "ai-image-editor"]},
   "industry-verticals-suites": {"title": "Industry Vertical AI Suites", "page": "network/industry-verticals-suites.md", "apps": ["ai-banking-platform", "ai-insurance-suite", "ai-pharma-suite", "ai-education-suite", "ai-media-entertainment-hub", "ai-energy-utilities-suite", "ai-transportation-suite", "ai-construction-suite", "ai-agriculture-platform", "ai-hospitality-suite", "ai-real-estate-hub", "ai-gov-services-platform", "ai-nonprofit-hub"]},
   "green-it-sustainability": {"title": "Green IT & Sustainability AI", "page": "network/green-it-sustainability.md", "apps": ["green-cloud-picker", "carbon-aware-scheduler", "energy-dashboard-ai", "e-waste-lifecycle-tracker", "sustainable-code-profiler", "pue-optimizer", "green-procurement-scorer", "carbon-report-builder"]}
  },
- "spotlight_latest": {"date": "2026-09-25", "title": "Green IT & Sustainability AI", "path": "spotlights/green-it-sustainability.md", "homepage_spotlight": "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_GREEN_IT.md"},
- "apps_added_2026_09_25_greenit": ["green-cloud-picker", "carbon-aware-scheduler", "energy-dashboard-ai", "e-waste-lifecycle-tracker", "sustainable-code-profiler", "pue-optimizer", "green-procurement-scorer", "carbon-report-builder"]
+ "spotlight_latest": {"date": "2026-09-26", "title": "Creative & Media AI + Industry Vertical Suites", "paths": ["spotlights/creative-media.md", "spotlights/industry-verticals.md"], "homepage_spotlights": ["https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CREATIVE_MEDIA.md", "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md"]},
+ "spotlight_previous": {"date": "2026-09-25", "title": "Green IT & Sustainability AI", "path": "spotlights/green-it-sustainability.md", "homepage_spotlight": "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_GREEN_IT.md"},
+ "apps_added_2026_09_25_greenit": ["green-cloud-picker", "carbon-aware-scheduler", "energy-dashboard-ai", "e-waste-lifecycle-tracker", "sustainable-code-profiler", "pue-optimizer", "green-procurement-scorer", "carbon-report-builder"],
+ "pages_fixed_2026_09_26": ["network/green-it-sustainability.md", "network/creative-media-ai.md", "network/industry-verticals-suites.md", "spotlights/green-it-sustainability.md", "spotlights/industry-verticals.md", "spotlights/creative-media.md"]
 }
