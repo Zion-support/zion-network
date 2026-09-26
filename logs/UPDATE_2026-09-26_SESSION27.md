@@ -1,10 +1,17 @@
-# Session 27 — 2026-09-26
+# Session 27 — 2026-09-26 (UTC)
 
 ## Done
-- Audited ai-data-* and zion-field-* READMEs; found 5 bare ones and upgraded all with Zion App Network footers, live URLs and related-app/site interlinks: ai-data-pipeline, ai-data-viz, ai-data-labeling, zion-field-americas, zion-field-apac.
-- Homepage advertising: APP_NETWORK_SPOTLIGHT_SEP26_BATCH46.md in zion-support.github.io — AI Agent Fleet & Swarm orchestration (the 4 agent apps registered in Session 23 finally get a homepage feature).
-- network.json untouched (concurrent sessions own it; latest = Green IT & Sustainability AI).
+- Recalled checkpoint from Supermemory + Mem0 (next: Developer Productivity & Code AI).
+- Created category page `network/developer-productivity-code-ai.md` with 13 interlinked apps (ship-faster workflow).
+- Created spotlight `spotlights/developer-productivity.md`.
+- Updated `network.json`: added `developer-productivity-code-ai` category + `dev_productivity_registry`, rotated spotlight latest/previous.
+- Published homepage advertising on zion-support.github.io: `APP_NETWORK_SPOTLIGHT_DEV_PRODUCTIVITY.md` + `homepage-content-dev-productivity.md`.
 
-## Next
-- Fix network.ziontechgroup.com SSL (GitHub Pages cert re-provision) and ziontechgroup.com Cloudflare Workers build failure (engineering).
-- Optional: audit more ai-*/zion-field-* repos for bare READMEs; next homepage batch number: 47.
+## Still open
+- network.ziontechgroup.com HTTPS certificate broken — manual fix in zion-network Settings > Pages.
+- ziontechgroup.com Cloudflare Workers build failing — homepage md files 404 on domain until fixed.
+- Site automation overwrites network.json concurrently — always fetch fresh sha before updating.
+
+## Next session ideas
+- New category: Marketing & SEO AI (seo-content-optimizer, newsletter-growth-copilot, social-listening-radar, landing-page-ab-tester, ai-social-manager, ad-budget-optimizer, ai-advertising-optimizer...).
+- Re-verify network.json retained finance + developer categories (concurrent overwrites).
