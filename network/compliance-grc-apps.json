@@ -1,19 +1,15 @@
 {
-  "category": "Compliance & GRC AI",
+  "category": "compliance-grc-ai",
+  "title": "Compliance & GRC AI",
   "updated": "2026-09-26",
   "apps": [
-    {"slug": "zion-ai-compliance-scanner", "name": "Zion AI Compliance Scanner", "description": "Automated compliance scanning — CIS benchmarks, policy enforcement, and audit reports.", "live": "https://ziontechgroup.com/zion-ai-compliance-scanner/", "repo": "https://github.com/Zion-support/zion-ai-compliance-scanner"},
-    {"slug": "vendor-risk-screener", "name": "Vendor Risk Screener", "description": "AI vendor risk screening — security, financial, and compliance signals scored.", "live": "https://ziontechgroup.com/vendor-risk-screener/", "repo": "https://github.com/Zion-support/vendor-risk-screener"},
-    {"slug": "audit-readiness-copilot", "name": "Audit Readiness Copilot", "description": "AI audit-readiness copilot — control gaps, evidence status, and auditor Q&A prep.", "live": "https://ziontechgroup.com/audit-readiness-copilot/", "repo": "https://github.com/Zion-support/audit-readiness-copilot"},
-    {"slug": "policy-change-tracker", "name": "Policy Change Tracker", "description": "AI regulatory & policy change tracking — alerts with impact summaries per jurisdiction.", "live": "https://ziontechgroup.com/policy-change-tracker/", "repo": "https://github.com/Zion-support/policy-change-tracker"},
-    {"slug": "contract-clause-extractor", "name": "Contract Clause Extractor", "description": "AI contract clause extraction — pull obligations, dates, and risks from any contract.", "live": "https://ziontechgroup.com/contract-clause-extractor/", "repo": "https://github.com/Zion-support/contract-clause-extractor"},
-    {"slug": "compliance-evidence-collector", "name": "Compliance Evidence Collector", "description": "AI compliance evidence collection — SOC2/ISO evidence gathered continuously.", "live": "https://ziontechgroup.com/compliance-evidence-collector/", "repo": "https://github.com/Zion-support/compliance-evidence-collector"},
-    {"slug": "zion-ai-drift-detector", "name": "Zion AI Drift Detector", "description": "Configuration drift detection and auto-remediation for multi-vendor IT fleets.", "live": "https://ziontechgroup.com/zion-ai-drift-detector/", "repo": "https://github.com/Zion-support/zion-ai-drift-detector"},
-    {"slug": "sla-forecast-guardian", "name": "SLA Forecast Guardian", "description": "Predict SLA breaches before they happen and auto-escalate.", "live": "https://ziontechgroup.com/sla-forecast-guardian/", "repo": "https://github.com/Zion-support/sla-forecast-guardian"}
-  ],
-  "interlinks": {
-    "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
-    "homepage_suite": "https://ziontechgroup.com/compliance-grc-ai-suite/",
-    "spotlight": "https://github.com/Zion-support/zion-network/blob/main/spotlights/compliance-grc.md"
-  }
+    {"id": "zion-ai-compliance-scanner", "repo": "Zion-support/zion-ai-compliance-scanner", "url": "https://ziontechgroup.com/zion-ai-compliance-scanner/", "summary": "Continuous compliance posture scanning."},
+    {"id": "vendor-risk-screener", "repo": "Zion-support/vendor-risk-screener", "url": "https://ziontechgroup.com/vendor-risk-screener/", "summary": "AI vendor risk scoring."},
+    {"id": "audit-readiness-copilot", "repo": "Zion-support/audit-readiness-copilot", "url": "https://ziontechgroup.com/audit-readiness-copilot/", "summary": "Always-on audit preparation."},
+    {"id": "policy-change-tracker", "repo": "Zion-support/policy-change-tracker", "url": "https://ziontechgroup.com/policy-change-tracker/", "summary": "Regulatory and policy change tracking."},
+    {"id": "contract-clause-extractor", "repo": "Zion-support/contract-clause-extractor", "url": "https://ziontechgroup.com/contract-clause-extractor/", "summary": "Contract clause extraction and classification."},
+    {"id": "compliance-evidence-collector", "repo": "Zion-support/compliance-evidence-collector", "url": "https://ziontechgroup.com/compliance-evidence-collector/", "summary": "Automated compliance evidence gathering."},
+    {"id": "zion-ai-drift-detector", "repo": "Zion-support/zion-ai-drift-detector", "url": "https://ziontechgroup.com/zion-ai-drift-detector/", "summary": "Configuration and model drift detection."},
+    {"id": "sla-forecast-guardian", "repo": "Zion-support/sla-forecast-guardian", "url": "https://ziontechgroup.com/sla-forecast-guardian/", "summary": "SLA breach forecasting."}
+  ]
 }
