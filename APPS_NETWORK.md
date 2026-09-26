@@ -28,6 +28,15 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[🤝 MSP & Partner Ecosystem](network/msp-partner-ecosystem.md)** — NEW: 20 apps for MSPs, IT partners & resellers ([registry](network/msp-apps.json))
 - **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — NEW: 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
 - **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — NEW: 6 apps (product copy, pricing, inventory, reviews, returns, cart recovery)
+- **[📈 Data Operations & Observability AI](network/data-observability-ai.md)** — 9 apps (catalog, quality, ETL monitoring, anomalies, narratives, reports, API uptime, cost, diagrams — [registry](network/data-observability-apps.json))
+- **[🛡️ Compliance & GRC AI](network/compliance-grc-ai.md)** — NEW: 8 apps (compliance scanning, vendor risk, audit readiness, policy tracking, clause extraction, evidence, drift, SLA guardian — [registry](network/compliance-grc-apps.json))
+
+## 🚀 Latest Additions (2026-09-26, Batch 21)
+
+- Re-merge: **[📈 Data Operations & Observability AI](network/data-observability-ai.md)** category restored (lost in a concurrent-session overwrite); new guaranteed-live HTML spotlight: [spotlights/data-observability.html](spotlights/data-observability.html) (served via network.ziontechgroup.com while the homepage Pages build lags).
+- New category: **[🛡️ Compliance & GRC AI](network/compliance-grc-ai.md)** — 8 interlinked apps with [registry](network/compliance-grc-apps.json) and [spotlight](spotlights/compliance-grc.md): [Zion AI Compliance Scanner](https://ziontechgroup.com/zion-ai-compliance-scanner/), [Vendor Risk Screener](https://ziontechgroup.com/vendor-risk-screener/), [Audit Readiness Copilot](https://ziontechgroup.com/audit-readiness-copilot/), [Policy Change Tracker](https://ziontechgroup.com/policy-change-tracker/), [Contract Clause Extractor](https://ziontechgroup.com/contract-clause-extractor/), [Compliance Evidence Collector](https://ziontechgroup.com/compliance-evidence-collector/), [Zion AI Drift Detector](https://ziontechgroup.com/zion-ai-drift-detector/), [SLA Forecast Guardian](https://ziontechgroup.com/sla-forecast-guardian/).
+- New homepage advertising page: [ziontechgroup.com/compliance-grc-ai-suite/](https://ziontechgroup.com/compliance-grc-ai-suite/) + [APP_NETWORK_SPOTLIGHT_GRC.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_GRC.md).
+- Session log: [logs/SESSION21.md](logs/SESSION21.md).
 
 ## 🚀 Latest Additions (2026-09-25)
 
@@ -86,4 +95,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-25 — 535 public repos, 99 flagship apps registered in network.json._
+_Updated 2026-09-26 — 535+ public repos, 107 flagship apps; 20 categories incl. Data Observability (re-merged) and Compliance & GRC AI._
