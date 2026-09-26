@@ -1,7 +1,7 @@
 {
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
- "updated": "2026-09-25",
+ "updated": "2026-09-26",
  "sites": [
   {"id": "network", "repo": "Zion-support/zion-network", "pages": "https://zion-support.github.io/zion-network/", "subdomain": "https://network.ziontechgroup.com", "title": "Zion Network"},
   {"id": "agents", "repo": "Zion-support/agents", "pages": "https://zion-support.github.io/agents/", "subdomain": "https://agents.ziontechgroup.com", "title": "Zion Agents"},
@@ -16,7 +16,7 @@
   {"id": "partners", "repo": "Zion-support/partners", "pages": "https://zion-support.github.io/partners/", "subdomain": "https://partners.ziontechgroup.com", "title": "Partner Program"},
   {"id": "ai-tools", "repo": "Zion-support/tools", "pages": "https://zion-support.github.io/tools/", "subdomain": "https://ai-tools.ziontechgroup.com", "title": "AI Tools"}
  ],
- "note": "apps array abbreviated; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry, legal_registry, supply_chain_registry.",
+ "note": "apps array abbreviated; full registry lives in network/*.md and network/*-apps.json files. See agents_registry, msp_registry, cs_registry, aiops_registry, legal_registry, supply_chain_registry, knowledge_support_registry.",
  "apps_added_2026_09_25": [
   {"id": "ai-pr-review-swarm", "title": "AI PR Review Swarm", "url": "https://ziontechgroup.com/ai-pr-review-swarm/", "repo": "Zion-support/zion-ai-pr-review-swarm", "category": "ai-agents-autonomous-ops"},
   {"id": "ai-dispatch-orchestrator", "title": "AI Dispatch Orchestrator", "url": "https://ziontechgroup.com/ai-dispatch-orchestrator/", "repo": "Zion-support/zion-ai-dispatch-orchestrator", "category": "ai-agents-autonomous-ops"},
@@ -68,6 +68,7 @@
  "creative_media_registry": "https://github.com/Zion-support/zion-network/blob/main/network/creative-media-ai.md",
  "legal_registry": "https://github.com/Zion-support/zion-network/blob/main/network/legal-contract-compliance-ai.md",
  "supply_chain_registry": "https://github.com/Zion-support/zion-network/blob/main/network/supply-chain-logistics-ai.md",
+ "knowledge_support_registry": "https://github.com/Zion-support/zion-network/blob/main/network/knowledge-support-ai.md",
  "categories": {
   "ai-readiness-evaluation": {"title": "AI Readiness, Evaluation & Benchmarking", "page": "network/ai-readiness-evaluation.md", "apps": ["ai-readiness-assessment", "ai-readiness-score", "zion-ai-readiness-quiz", "ai-assessment-engine", "ai-eval-harness", "rag-evaluator", "ai-benchmark-lab", "ai-benchmark-tracker", "zion-benchmark-explainer", "ai-model-cost-calculator", "token-context-calculator"]},
   "hr-people-ai": {"title": "HR & People AI", "page": "network/hr-people-ai.md", "apps": ["skills-gap-analyzer", "learning-path-copilot", "attrition-risk-radar", "onboarding-journey-ai", "ai-resume-screener", "interview-prep-copilot"]},
@@ -76,7 +77,9 @@
   "ai-agents-autonomous-ops": {"title": "AI Agents & Autonomous Operations", "page": "network/ai-agents-autonomous-ops.md", "apps": ["ai-pr-review-swarm", "ai-dispatch-orchestrator", "ai-ticket-sentinel", "voice-agent-studio", "finops-autopilot", "ai-sales-email-copilot", "ai-growth-marketing-hub", "churn-radar", "ai-agent-fleet", "ai-agent-swarm", "ai-agent-swarm-v2", "agent-sla-monitor"]},
   "creative-media-ai": {"title": "Creative & Media AI", "page": "network/creative-media-ai.md", "apps": ["ai-audio-engine", "ai-audio-transcriber", "ai-avatar-generator", "ai-caption-generator", "ai-caption-optimizer", "ai-chart-builder", "ai-content-translator"]},
   "legal-contract-compliance-ai": {"title": "Legal, Contract & Compliance AI", "page": "network/legal-contract-compliance-ai.md", "apps": ["ai-contract-reviewer", "ai-contract-clause-screener", "contract-clause-extractor", "contract-clause-reviewer", "contract-clause-sentry", "contract-obligation-tracker", "contract-redline-copilot", "contract-renewal-radar", "ai-legal-intelligence", "ai-legal-advisor", "ai-patent-search", "compliance-policy-writer", "compliance-evidence-collector", "audit-readiness-copilot", "dpia-assistant", "dpia-generator", "data-retention-enforcer", "privacy-dsr-assistant", "regulatory-change-radar", "policy-attestation-tracker", "policy-change-tracker", "ai-policy-generator"]},
-  "supply-chain-logistics-ai": {"title": "Supply Chain & Logistics AI", "page": "network/supply-chain-logistics-ai.md", "apps": ["ai-supply-chain", "ai-supply-chain-optimizer", "demand-sensing-hub", "ai-inventory-forecaster", "inventory-forecast-ai", "freight-rate-scout", "dock-appointment-scheduler", "fleet-fuel-optimizer", "driver-hours-compliance", "depot-stock-balancer", "shipping-delay-alerter", "customs-doc-generator", "route-density-planner", "ai-transportation-suite"]}
+  "supply-chain-logistics-ai": {"title": "Supply Chain & Logistics AI", "page": "network/supply-chain-logistics-ai.md", "apps": ["ai-supply-chain", "ai-supply-chain-optimizer", "demand-sensing-hub", "ai-inventory-forecaster", "inventory-forecast-ai", "freight-rate-scout", "dock-appointment-scheduler", "fleet-fuel-optimizer", "driver-hours-compliance", "depot-stock-balancer", "shipping-delay-alerter", "customs-doc-generator", "route-density-planner", "ai-transportation-suite"]},
+  "knowledge-support-ai": {"title": "Knowledge & Support AI", "page": "network/knowledge-support-ai.md", "apps": ["knowledge-base-copilot", "help-center-copilot", "knowledge-gap-finder", "support-deflection-analyzer", "support-sentiment-monitor", "support-ticket-triager", "nps-insight-engine", "ai-customer-experience-hub", "ai-neural-search", "ai-document-search", "ai-document-summarizer", "ai-document-classifier", "ai-email-classifier", "ai-meeting-notes-copilot", "onboarding-buddy-ai", "report-scheduler-ai"]}
  },
- "spotlight_latest": "spotlights/supply-chain-logistics.md"
+ "spotlight_latest": "spotlights/knowledge-support-ai.md",
+ "spotlight_previous": "spotlights/supply-chain-logistics.md"
 }
