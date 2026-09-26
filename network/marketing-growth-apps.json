@@ -1,0 +1,19 @@
+{
+  "category": "marketing-growth-ai",
+  "title": "Marketing & Growth AI",
+  "updated": "2026-09-26",
+  "apps": [
+    {"id": "ai-growth-marketing-hub", "repo": "Zion-support/ai-growth-marketing-hub", "url": "https://ziontechgroup.com/ai-growth-marketing-hub/", "summary": "AI growth marketing command center."},
+    {"id": "newsletter-growth-copilot", "repo": "Zion-support/newsletter-growth-copilot", "url": "https://ziontechgroup.com/newsletter-growth-copilot/", "summary": "Newsletter growth and monetization."},
+    {"id": "social-listening-radar", "repo": "Zion-support/social-listening-radar", "url": "https://ziontechgroup.com/social-listening-radar/", "summary": "Real-time social listening."},
+    {"id": "ad-budget-optimizer", "repo": "Zion-support/ad-budget-optimizer", "url": "https://ziontechgroup.com/ad-budget-optimizer/", "summary": "Ad spend optimization."},
+    {"id": "landing-page-ab-tester", "repo": "Zion-support/landing-page-ab-tester", "url": "https://ziontechgroup.com/landing-page-ab-tester/", "summary": "AI A/B testing for landing pages."},
+    {"id": "seo-content-optimizer", "repo": "Zion-support/seo-content-optimizer", "url": "https://ziontechgroup.com/seo-content-optimizer/", "summary": "SEO briefs and content scoring."},
+    {"id": "content-roi-dashboard", "repo": "Zion-support/content-roi-dashboard", "url": "https://ziontechgroup.com/content-roi-dashboard/", "summary": "Content revenue attribution."},
+    {"id": "zion-content-studio", "repo": "Zion-support/zion-content-studio", "url": "https://content-studio.ziontechgroup.com", "summary": "AI content production studio."},
+    {"id": "ai-social-manager", "repo": "Zion-support/ai-social-manager", "url": "https://ziontechgroup.com/ai-social-manager/", "summary": "Social media management AI."},
+    {"id": "ai-caption-generator", "repo": "Zion-support/ai-caption-generator", "url": "https://ai-caption-generator.ziontechgroup.com", "summary": "AI caption generation."},
+    {"id": "referral-engine-ai", "repo": "Zion-support/referral-engine-ai", "url": "https://ziontechgroup.com/referral-engine-ai/", "summary": "Referral program engine."},
+    {"id": "webinar-funnel-hub", "repo": "Zion-support/webinar-funnel-hub", "url": "https://ziontechgroup.com/webinar-funnel-hub/", "summary": "Webinar funnel automation."}
+  ]
+}
