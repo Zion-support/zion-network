@@ -1,29 +1,38 @@
-# 🏙️ Industry Vertical AI Suites
+# Industry Vertical AI Suites — Zion App Network
 
-Thirteen production-grade, industry-specific AI suites from the [Zion App Network](../APPS_NETWORK.md). Each suite packages the data models, workflows and compliance guardrails of its vertical, and every suite interlinks with the rest of the network.
+Thirteen ready-made AI suites tuned to the workflows, vocabulary and compliance needs of specific industries. All are free, browser-based tools in the [Zion App Network](https://ziontechgroup.com/apps/) (530+ open-source AI & IT ops apps).
 
-| Suite | Focus | Source |
+## The suites
+
+| Suite | Focus | Links |
 |---|---|---|
-| [AI Banking Platform](https://ziontechgroup.com/ai-banking-platform/) | banking intelligence, risk and customer 360. | [repo](https://github.com/Zion-support/ai-banking-platform) |
-| [AI Insurance Suite](https://ziontechgroup.com/ai-insurance-suite/) | underwriting intelligence, claims triage and policy servicing. | [repo](https://github.com/Zion-support/ai-insurance-suite) |
-| [AI Pharma Suite](https://ziontechgroup.com/ai-pharma-suite/) | clinical trial intelligence, pharmacovigilance and regulatory ops. | [repo](https://github.com/Zion-support/ai-pharma-suite) |
-| [AI Education Suite](https://ziontechgroup.com/ai-education-suite/) | adaptive learning, grading copilots and institutional analytics. | [repo](https://github.com/Zion-support/ai-education-suite) |
-| [AI Media & Entertainment Hub](https://ziontechgroup.com/ai-media-entertainment-hub/) | content intelligence, audience analytics and rights management. | [repo](https://github.com/Zion-support/ai-media-entertainment-hub) |
-| [AI Energy & Utilities Suite](https://ziontechgroup.com/ai-energy-utilities-suite/) | grid analytics, outage prediction and demand forecasting. | [repo](https://github.com/Zion-support/ai-energy-utilities-suite) |
-| [AI Transportation Suite](https://ziontechgroup.com/ai-transportation-suite/) | fleet, routing and logistics intelligence. | [repo](https://github.com/Zion-support/ai-transportation-suite) |
-| [AI Construction Suite](https://ziontechgroup.com/ai-construction-suite/) | project controls, safety monitoring and site intelligence. | [repo](https://github.com/Zion-support/ai-construction-suite) |
-| [AI Agriculture Platform](https://ziontechgroup.com/ai-agriculture-platform/) | crop intelligence, precision farming and supply forecasting. | [repo](https://github.com/Zion-support/ai-agriculture-platform) |
-| [AI Hospitality Suite](https://ziontechgroup.com/ai-hospitality-suite/) | guest experience, revenue management and operations intelligence. | [repo](https://github.com/Zion-support/ai-hospitality-suite) |
-| [AI Real Estate Hub](https://ziontechgroup.com/ai-real-estate-hub/) | valuation models, lead routing and property intelligence. | [repo](https://github.com/Zion-support/ai-real-estate-hub) |
-| [AI Gov Services Platform](https://ziontechgroup.com/ai-gov-services-platform/) | citizen services, permitting and case management. | [repo](https://github.com/Zion-support/ai-gov-services-platform) |
-| [AI Nonprofit Hub](https://ziontechgroup.com/ai-nonprofit-hub/) | donor intelligence, grant writing and impact reporting. | [repo](https://github.com/Zion-support/ai-nonprofit-hub) |
+| **AI Banking Platform** | Fraud signals, KYC copilots, credit memo drafting | [Live app](https://ziontechgroup.com/ai-banking-platform/) · [Repo](https://github.com/Zion-support/ai-banking-platform) |
+| **AI Insurance Suite** | Claims triage, underwriting notes, FNOL intake | [Live app](https://ziontechgroup.com/ai-insurance-suite/) · [Repo](https://github.com/Zion-support/ai-insurance-suite) |
+| **AI Pharma Suite** | Literature monitoring, PV signal triage, MLR drafting | [Live app](https://ziontechgroup.com/ai-pharma-suite/) · [Repo](https://github.com/Zion-support/ai-pharma-suite) |
+| **AI Education Suite** | Lesson planning, rubric grading, student risk signals | [Live app](https://ziontechgroup.com/ai-education-suite/) · [Repo](https://github.com/Zion-support/ai-education-suite) |
+| **AI Media & Entertainment Hub** | Content tagging, recommendations, rights tracking | [Live app](https://ziontechgroup.com/ai-media-entertainment-hub/) · [Repo](https://github.com/Zion-support/ai-media-entertainment-hub) |
+| **AI Energy & Utilities Suite** | Load forecasting, outage triage, grid asset health | [Live app](https://ziontechgroup.com/ai-energy-utilities-suite/) · [Repo](https://github.com/Zion-support/ai-energy-utilities-suite) |
+| **AI Transportation Suite** | ETA prediction, fleet maintenance, route optimization | [Live app](https://ziontechgroup.com/ai-transportation-suite/) · [Repo](https://github.com/Zion-support/ai-transportation-suite) |
+| **AI Construction Suite** | Bid takeoff, safety observations, schedule risk | [Live app](https://ziontechgroup.com/ai-construction-suite/) · [Repo](https://github.com/Zion-support/ai-construction-suite) |
+| **AI Agriculture Platform** | Crop signals, irrigation advice, yield forecasting | [Live app](https://ziontechgroup.com/ai-agriculture-platform/) · [Repo](https://github.com/Zion-support/ai-agriculture-platform) |
+| **AI Hospitality Suite** | Review insights, staffing forecasts, upsell prompts | [Live app](https://ziontechgroup.com/ai-hospitality-suite/) · [Repo](https://github.com/Zion-support/ai-hospitality-suite) |
+| **AI Real Estate Hub** | Listing enrichment, valuation signals, lead routing | [Live app](https://ziontechgroup.com/ai-real-estate-hub/) · [Repo](https://github.com/Zion-support/ai-real-estate-hub) |
+| **AI Gov Services Platform** | Citizen intake, casework triage, accessibility checks | [Live app](https://ziontechgroup.com/ai-gov-services-platform/) · [Repo](https://github.com/Zion-support/ai-gov-services-platform) |
+| **AI Nonprofit Hub** | Grant drafting, donor signals, impact reporting | [Live app](https://ziontechgroup.com/ai-nonprofit-hub/) · [Repo](https://github.com/Zion-support/ai-nonprofit-hub) |
 
-## 🔗 Interlinks
-- Master index: [APPS_NETWORK.md](../APPS_NETWORK.md) · registry: [network.json](../network.json)
-- Related categories: [Industry Platforms](industry-platforms.md) · [Healthcare & Education AI](healthcare-education-ai.md) · [Data & Analytics](data-analytics.md) · [Security & Compliance](security-compliance.md) · [Field & City Sites](field-city-sites.md)
-- Spotlight: [spotlights/industry-verticals-suites.md](../spotlights/industry-verticals-suites.md)
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md)
-- Hub: https://ziontechgroup.com · Network hub: https://zion-support.github.io/zion-network/
+## Why it matters
+
+- **Day-one value** — pre-built prompts, checklists and KPIs per industry instead of a blank canvas.
+- **Composable with the network** — e.g. healthcare onboarding pairs with [Healthcare & Education AI](./healthcare-education-ai.md); energy pairs with [Green IT & Sustainability](./green-it-sustainability.md).
+- **Enterprise path** — every suite can be deployed and customized by [Zion services](https://ziontechgroup.com/services/) starting with a [$99 Discovery](https://ziontechgroup.com/discovery/).
+
+## Interlinks
+
+- 📚 [Network master index (APPS_NETWORK.md)](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🏭 [Industry Platforms](./industry-platforms.md) · 🌱 [Green IT & Sustainability](./green-it-sustainability.md)
+- 🎨 [Creative & Media AI](./creative-media-ai.md) · 🤖 [AI Agents & Autonomous Ops](./ai-agents-autonomous-ops.md)
+- 🗺️ [Network status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com/) · [Services](https://ziontechgroup.com/services/) · [Discovery $99](https://ziontechgroup.com/discovery/)
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
