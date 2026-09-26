@@ -10,6 +10,7 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 ## Categories
 
 - **[🤖 AI Agents & Autonomous Operations](network/ai-agents-autonomous-ops.md)** — NEW: 8 agent apps (PR swarm, dispatch, ticket sentinel, voice agents, FinOps autopilot, sales copilot, churn)
+- **[📈 Marketing & Growth AI](network/marketing-growth-ai.md)** — NEW: 12 apps (SEO, ads, social, newsletters, referrals, webinars, content ROI) — [spotlight](spotlights/marketing-growth.md)
 - **[🏠 Core Site & Hubs](network/core-site-hubs.md)** — 19 apps
 - **[🤖 AI Agents & Orchestration](network/ai-agents-orchestration.md)** — 25 apps
 - **[🧠 LLM, Prompts & RAG](network/llm-prompts-rag.md)** — 39 apps
@@ -82,6 +83,11 @@ Field Service & Support AI suite, freshly interlinked:
 ## 🚀 Latest Additions (2026-09-25 — Session 24)
 
 New category: **[🏙️ Industry Vertical AI Suites](network/industry-verticals-suites.md)** — 13 vertical suites now interlinked: [AI Banking](https://ziontechgroup.com/ai-banking-platform/) · [AI Insurance](https://ziontechgroup.com/ai-insurance-suite/) · [AI Pharma](https://ziontechgroup.com/ai-pharma-suite/) · [AI Education](https://ziontechgroup.com/ai-education-suite/) · [AI Media & Entertainment](https://ziontechgroup.com/ai-media-entertainment-hub/) · [AI Energy & Utilities](https://ziontechgroup.com/ai-energy-utilities-suite/) · [AI Transportation](https://ziontechgroup.com/ai-transportation-suite/) · [AI Construction](https://ziontechgroup.com/ai-construction-suite/) · [AI Agriculture](https://ziontechgroup.com/ai-agriculture-platform/) · [AI Hospitality](https://ziontechgroup.com/ai-hospitality-suite/) · [AI Real Estate](https://ziontechgroup.com/ai-real-estate-hub/) · [AI Gov Services](https://ziontechgroup.com/ai-gov-services-platform/) · [AI Nonprofit](https://ziontechgroup.com/ai-nonprofit-hub/). Spotlight: [spotlights/industry-verticals-suites.md](spotlights/industry-verticals-suites.md) · Homepage copy: [APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md).
+
+## 🆕 Latest Additions (2026-09-25, Batch 35)
+
+- New category: **[📈 Marketing & Growth AI](network/marketing-growth-ai.md)** — 12 interlinked apps (AI Growth Marketing Hub, Newsletter Growth Copilot, Social Listening Radar, Ad Budget Optimizer, Landing Page A/B Tester, SEO Content Optimizer, Content ROI Dashboard, Zion Content Studio, AI Social Manager, AI Caption Generator, Referral Engine AI, Webinar Funnel Hub) with [spotlight](spotlights/marketing-growth.md) and homepage advertising page [APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md).
+- Session log: [logs/UPDATE_2026-09-25_SESSION23.md](logs/UPDATE_2026-09-25_SESSION23.md).
 
 ## 🔗 Interlinks
 
