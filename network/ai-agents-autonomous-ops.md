@@ -11,7 +11,7 @@ Autonomous AI agents that plan, execute and verify multi-step work across IT ope
 | **AI Ticket Sentinel** | Watches queues, classifies, dedupes and escalates tickets automatically | [Live app](https://ziontechgroup.com/ai-ticket-sentinel/) · [Repo](https://github.com/Zion-support/zion-ai-ticket-sentinel) |
 | **Voice Agent Studio** | Build, test and deploy voice AI agents for inbound/outbound calls | [Live app](https://ziontechgroup.com/voice-agent-studio/) · [Repo](https://github.com/Zion-support/voice-agent-studio) |
 | **FinOps Autopilot** | Autonomous cloud cost guardrails: detect, decide, remediate | [Live app](https://ziontechgroup.com/finops-autopilot/) · [Repo](https://github.com/Zion-support/finops-autopilot) |
-| **AI Sales Email Copilot** | Agentic outbound sales emails with research and follow-up cadences | [Live app](https://ziontechgroup.com/ai-sales-email-copilot/) · [Repo](https://github.com/Zion-support/zion-ai-sales-email-copilot) |
+| **AI Sales Email Copilot** | Agentic outbound sales emails with research and follow-up cadences | [Live app](https://ziontechgroup.com/ai-sales-email-copilot/) · [Repo](https://github.com/Zion-support/ai-sales-email-copilot) |
 | **AI Growth Marketing Hub** | Autonomous campaign planning, generation and optimization | [Live app](https://ziontechgroup.com/ai-growth-marketing-hub/) |
 | **Churn Radar** | Agent that monitors usage signals and triggers save plays | [Live app](https://ziontechgroup.com/churn-radar/) · [Repo](https://github.com/Zion-support/churn-radar) |
 
@@ -24,6 +24,7 @@ Autonomous AI agents that plan, execute and verify multi-step work across IT ope
 ## Interlinks
 
 - 🌐 [Network master index (APPS_NETWORK.md)](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📊 [Data Observability & Reliability AI](./data-observability-ai.md)
 - 📂 [Sales, Lead Gen & Marketing AI](./sales-lead-gen-ai.md) · [MSP & Partner Ecosystem](./msp-partner-ecosystem.md)
 - 🛰 [Network status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 - 🏠 [ziontechgroup.com](https://ziontechgroup.com/) · [Services](https://ziontechgroup.com/services/) · [Discovery $99](https://ziontechgroup.com/discovery/)
