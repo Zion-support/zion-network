@@ -1,13 +1,13 @@
-# Session 26 log — 2026-09-26 (Batch 36b)
+# SESSION 26 LOG — 2026-09-26
 
-DONE:
-1. Restored compact flagship apps array in network.json (179 apps with id/repo/URL, 16 categories) — had been an abbreviated pointer since Session 23. Commit bc2416f.
-2. New spotlight: Finance & Accounting AI — zion-network/spotlights/finance-accounting-ai.md (commit b350807) + zion-app-network/SPOTLIGHT-2026-09-26-BATCH36.md + homepage-content-batch36.md.
-3. Homepage advertising: zion-support.github.io/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md (commit 73d4117) → https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md
-4. READMEs + network footers + interlinks for zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer (commits 23e9bb0, 316e19a, 537702f).
-5. APPS_NETWORK.md updated with Batch 36b section (kept concurrent Session 27 Batch 36 section intact).
+## Done
+- Registered 130 additional flagship apps in network.json (apps_total: 174 → 304).
+- Created spotlights/full-network-registry.md (Batch: full-registry).
+- Homepage repo (Zion-support/zion-support.github.io): created APP_NETWORK_SPOTLIGHT_FULL_REGISTRY.html (new advertising page) and APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.html (HTML version fixing the .md 404 from Session 25). Commit 8494482b.
+- Confirmed size-0 repo task obsolete: zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer no longer exist as size-0; zero size-0 repos remain.
+- zion-field-* repos already carry NETWORK.md footers (verified zion-field-manufacturing, zion-field-logistics).
 
-PENDING / NEXT SESSION:
-- Verify https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md and /APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md return 200 after GitHub Pages build (known deploy lag; raw URLs verified 200).
-- Continue interlinking remaining zion-field-* repos.
-- Next spotlight theme suggestion: HR & People AI or E-commerce & Retail AI.
+## Next session
+- Verify https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_FULL_REGISTRY.html and /APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.html return 200 after Pages build.
+- Add network footers/READMEs to remaining small app repos without NETWORK.md.
+- Consider splitting network.json apps into category arrays for faster loads.
