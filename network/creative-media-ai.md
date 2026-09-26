@@ -1,31 +1,33 @@
-# Creative & Media AI — Zion App Network Category
+# Creative & Media AI — Zion App Network
 
-AI-powered creative and media apps from [Zion Tech Group](https://ziontechgroup.com): audio production, transcription, avatars, social captions, data visualizations and multilingual content. Every app is free to try and open-source on GitHub.
+Free, browser-based AI tools for content, audio, visuals and charts. Part of the [Zion App Network](https://ziontechgroup.com/apps/) (530+ open-source AI & IT ops apps).
 
-**Network hub:** [network.ziontechgroup.com](https://network.ziontechgroup.com) · [Master directory (APPS_NETWORK.md)](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [network.json](https://github.com/Zion-support/zion-network/blob/main/network.json)
+## The apps
 
-## Apps in this category
+| App | What it does | Links |
+|---|---|---|
+| **AI Audio Engine** | Generate and process audio with AI | [Live app](https://ziontechgroup.com/ai-audio-engine/) · [Repo](https://github.com/Zion-support/ai-audio-engine) |
+| **AI Audio Transcriber** | Fast, accurate speech-to-text with speaker labels | [Live app](https://ziontechgroup.com/ai-audio-transcriber/) · [Repo](https://github.com/Zion-support/ai-audio-transcriber) |
+| **AI Avatar Generator** | Branded avatars for profiles, videos and support | [Live app](https://ziontechgroup.com/ai-avatar-generator/) · [Repo](https://github.com/Zion-support/ai-avatar-generator) |
+| **AI Caption Generator** | Engaging social media captions with hashtags | [Live app](https://ai-caption-generator.ziontechgroup.com) · [Repo](https://github.com/Zion-support/ai-caption-generator) |
+| **AI Caption Optimizer** | A/B-test captions for reach and engagement | [Live app](https://ziontechgroup.com/ai-caption-optimizer/) · [Repo](https://github.com/Zion-support/ai-caption-optimizer) |
+| **AI Chart Builder** | Turn data into publication-ready charts in seconds | [Live app](https://ziontechgroup.com/ai-chart-builder/) · [Repo](https://github.com/Zion-support/ai-chart-builder) |
+| **AI Content Translator** | Context-aware translation that keeps tone and terminology | [Live app](https://ziontechgroup.com/ai-content-translator/) · [Repo](https://github.com/Zion-support/ai-content-translator) |
+| **AI Image Editor** | Edit, retouch and generate images with AI | [Live app](https://ziontechgroup.com/ai-image-editor/) · [Repo](https://github.com/Zion-support/ai-image-editor) |
 
-| App | What it does | Live | Repo |
-|---|---|---|---|
-| **AI Audio Engine** | Professional audio processing, synthesis and sound design powered by AI. | [Open app](https://ai-audio-engine.ziontechgroup.com) | [GitHub](https://github.com/Zion-support/ai-audio-engine) |
-| **AI Audio Transcriber** | Speech-to-text with speaker diarization and transcript summarization. | [Open app](https://ai-audio-transcriber.ziontechgroup.com) | [GitHub](https://github.com/Zion-support/ai-audio-transcriber) |
-| **AI Avatar Generator** | Create personalized 3D avatars and digital identities with AI. | [Open app](https://ai-avatar-generator.ziontechgroup.com) | [GitHub](https://github.com/Zion-support/ai-avatar-generator) |
-| **AI Caption Generator** | Generate engaging social media captions with AI. | [Open app](https://ai-caption-generator.ziontechgroup.com) | [GitHub](https://github.com/Zion-support/ai-caption-generator) |
-| **AI Caption Optimizer** | AI-generated captions with A/B testing and engagement optimization. | [Open app](https://ai-caption-optimizer.ziontechgroup.com) | [GitHub](https://github.com/Zion-support/ai-caption-optimizer) |
-| **AI Chart Builder** | Generate beautiful, data-driven charts and visualizations automatically. | [Open app](https://ai-chart-builder.ziontechgroup.com) | [GitHub](https://github.com/Zion-support/ai-chart-builder) |
-| **AI Content Translator** | Multilingual content translation with context and tone preservation. | [Open app](https://ziontechgroup.com/ai-content-translator/) | [GitHub](https://github.com/Zion-support/ai-content-translator) |
+## Why it matters
 
-## Related categories
-- [AI Agents & Autonomous Operations](ai-agents-autonomous-ops.md)
-- [Content & Marketing](content-marketing.md)
-- [Data & Analytics](data-analytics.md)
-- [LLM, Prompts & RAG](llm-prompts-rag.md)
-- [E-commerce & Retail AI](ecommerce-retail-ai.md)
-- [Sales Pipeline & Revenue AI](sales-pipeline-ai.md)
+- **Ship content faster** — pair with [AI Social Manager](https://ziontechgroup.com/ai-social-manager/) and the [Content Marketing](./content-marketing.md) category.
+- **Go global** — combine [AI Content Translator](https://ziontechgroup.com/ai-content-translator/) with [AI Localizer](https://ziontechgroup.com/ai-localizer/) and the [i18n AI Readiness Checker](https://ziontechgroup.com/zion-i18n-ai-checker/).
+- **Measure what works** — attribute pipeline with the [Content ROI Dashboard](https://ziontechgroup.com/content-roi-dashboard/).
 
-## Spotlight
-Read the launch spotlight: [spotlights/creative-media-ai.md](../spotlights/creative-media-ai.md)
+## Interlinks
+
+- 📚 [Network master index (APPS_NETWORK.md)](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- ✍️ [Content & Marketing](./content-marketing.md) · 📈 [Sales, Lead Gen & Marketing AI](./sales-lead-gen-ai.md)
+- 🤖 [AI Agents & Autonomous Ops](./ai-agents-autonomous-ops.md) · 🏭 [Industry Platforms](./industry-platforms.md)
+- 🗺️ [Network status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com/) · [Services](https://ziontechgroup.com/services/) · [Discovery $99](https://ziontechgroup.com/discovery/)
 
 ---
-Part of the Zion AI App Network — 600+ repos and growing. [Plans & pricing](https://ziontechgroup.com/plans/) · [Homepage](https://ziontechgroup.com)
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
