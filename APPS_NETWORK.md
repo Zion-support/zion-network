@@ -154,3 +154,25 @@ Featured apps:
 - [revenue-leak-detector](https://ziontechgroup.com/revenue-leak-detector/) — https://github.com/Zion-support/revenue-leak-detector
 - [roi-calculator](https://ziontechgroup.com/roi-calculator/) — https://github.com/Zion-support/roi-calculator
 - [subscription-dunning-hero](https://ziontechgroup.com/subscription-dunning-hero/) — https://github.com/Zion-support/subscription-dunning-hero
+
+
+---
+
+## 🆕 Batch 37 — 2026-09-26 (Session 27) — Spotlight: Emerging Tech AI
+
+- Category page: [network/emerging-tech-ai.md](network/emerging-tech-ai.md)
+- Spotlight page: [spotlights/emerging-tech-ai.md](spotlights/emerging-tech-ai.md)
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP26_BATCH53_EMERGING_TECH.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP26_BATCH53_EMERGING_TECH.md) (live at https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_SEP26_BATCH53_EMERGING_TECH.md)
+
+Featured apps:
+- [ai-crypto-tracker](https://ziontechgroup.com/ai-crypto-tracker/) — https://github.com/Zion-support/ai-crypto-tracker
+- [ai-crypto-arbitrage](https://ziontechgroup.com/ai-crypto-arbitrage/) — https://github.com/Zion-support/ai-crypto-arbitrage
+- [ai-blockchain-ai](https://ziontechgroup.com/ai-blockchain-ai/) — https://github.com/Zion-support/ai-blockchain-ai
+- [ai-deepfake-detector](https://ziontechgroup.com/ai-deepfake-detector/) — https://github.com/Zion-support/ai-deepfake-detector
+- [ai-deep-research](https://ziontechgroup.com/ai-deep-research/) — https://github.com/Zion-support/ai-deep-research
+- [ai-real-estate-valuer](https://ziontechgroup.com/ai-real-estate-valuer/) — https://github.com/Zion-support/ai-real-estate-valuer
+- [ai-carbon-tracker](https://ziontechgroup.com/ai-carbon-tracker/) — https://github.com/Zion-support/ai-carbon-tracker
+- [ai-energy-optimizer](https://ziontechgroup.com/ai-energy-optimizer/) — https://github.com/Zion-support/ai-energy-optimizer
+- [ai-edge-deployer](https://ziontechgroup.com/ai-edge-deployer/) — https://github.com/Zion-support/ai-edge-deployer
+- [ai-cluster-manager](https://ziontechgroup.com/ai-cluster-manager/) — https://github.com/Zion-support/ai-cluster-manager
+- [ai-image-generator](https://ziontechgroup.com/ai-image-generator/) — https://github.com/Zion-support/ai-image-generator
