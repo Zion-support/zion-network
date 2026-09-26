@@ -10,7 +10,6 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 ## Categories
 
 - **[🤖 AI Agents & Autonomous Operations](network/ai-agents-autonomous-ops.md)** — NEW: 8 agent apps (PR swarm, dispatch, ticket sentinel, voice agents, FinOps autopilot, sales copilot, churn)
-- **[📈 Marketing & Growth AI](network/marketing-growth-ai.md)** — NEW: 14 apps (growth hub, ad budget, A/B testing, SEO, referral, webinars)
 - **[🏠 Core Site & Hubs](network/core-site-hubs.md)** — 19 apps
 - **[🤖 AI Agents & Orchestration](network/ai-agents-orchestration.md)** — 25 apps
 - **[🧠 LLM, Prompts & RAG](network/llm-prompts-rag.md)** — 39 apps
@@ -30,13 +29,14 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — NEW: 8 apps (churn, health, NPS, sentiment, upsell, onboarding, VoC)
 - **[🛒 E-commerce & Retail AI](network/ecommerce-retail-ai.md)** — NEW: 6 apps (product copy, pricing, inventory, reviews, returns, cart recovery)
 - **[📈 Data Operations & Observability AI](network/data-observability-ai.md)** — 9 apps (catalog, quality, ETL monitoring, anomalies, narratives, reports, API uptime, cost, diagrams — [registry](network/data-observability-apps.json))
+- **[📣 Marketing & Growth AI](network/marketing-growth-ai.md)** — NEW: 12 apps (growth hub, newsletters, social, ads, SEO, A/B testing, referrals, webinars, ROI — [registry](network/marketing-growth-apps.json))
 - **[🛡️ Compliance & GRC AI](network/compliance-grc-ai.md)** — NEW: 8 apps (compliance scanning, vendor risk, audit readiness, policy tracking, clause extraction, evidence, drift, SLA guardian — [registry](network/compliance-grc-apps.json))
 
-## 🚀 Latest Additions (2026-09-25, Batch 35)
+## 🚀 Latest Additions (2026-09-26, Batch 35 — Session 25)
 
-- New category: **[📈 Marketing & Growth AI](network/marketing-growth-ai.md)** — 14 interlinked apps (AI Growth Marketing Hub, Newsletter Growth Copilot, Social Listening Radar, Ad Budget Optimizer, Landing Page A/B Tester, SEO Content Optimizer, Content ROI Dashboard, Zion Content Studio, AI Social Manager, AI Caption Generator, Referral Engine AI, Webinar Funnel Hub, Zion AI Email Marketing Pro, AI Sales Email Copilot) with spotlight: [spotlights/marketing-growth-ai.md](spotlights/marketing-growth-ai.md).
-- New homepage advertising copy: [APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md).
-- Verified category files network/compliance-grc-ai.md and network/industry-verticals-suites.md resolve correctly.
+- Fixed broken links: recreated [network/compliance-grc-ai.md](network/compliance-grc-ai.md), [network/compliance-grc-apps.json](network/compliance-grc-apps.json), [spotlights/compliance-grc.md](spotlights/compliance-grc.md), [network/industry-verticals-suites.md](network/industry-verticals-suites.md), [spotlights/industry-verticals-suites.md](spotlights/industry-verticals-suites.md), [spotlights/data-observability.html](spotlights/data-observability.html) and [logs/SESSION21.md](logs/SESSION21.md) — all referenced by this index but missing after a concurrent-session overwrite.
+- New category: **[📣 Marketing & Growth AI](network/marketing-growth-ai.md)** — 12 interlinked apps with [registry](network/marketing-growth-apps.json) and [spotlight](spotlights/marketing-growth-ai.md).
+- New homepage advertising: [APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md) + zion-app-network [homepage-content-batch35.md](https://github.com/Zion-support/zion-app-network/blob/main/homepage-content-batch35.md).
 
 ## 🚀 Latest Additions (2026-09-26, Batch 21)
 
@@ -102,4 +102,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-26 — 535+ public repos, 107 flagship apps; 21 categories incl. Marketing & Growth AI, Data Observability (re-merged) and Compliance & GRC AI._
+_Updated 2026-09-26 (Batch 35) — 535+ public repos, 107+ flagship apps; 21 categories incl. Data Observability (re-merged), Compliance & GRC AI, and Marketing & Growth AI._
