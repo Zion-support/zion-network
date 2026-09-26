@@ -1,17 +1,18 @@
-# Session 27 — 2026-09-26 (Batch 36)
+# Session 27 — 2026-09-26 (Batch 37)
 
 ## Done
-- Index completeness fix: APPS_NETWORK.md now lists all 38 category pages (added 17 missing: ai-agents-automation, ai-ops-incident-response, ai-readiness-evaluation, creative-media-ai, data-search-documents, developer-productivity-code-ai, devsecops-quality, everyday-ai-productivity, finance-accounting-ai, green-it-sustainability, hr-people-ai, knowledge-support-ai, legal-contract-compliance-ai, mlops-ai-infrastructure, sales-pipeline-ai, supply-chain-logistics-ai, support-service-desk-ai).
-- network.json: added 9 missing categories + marketing/GRC registries; spotlight_latest → spotlights/marketing-growth-ai.md; categories_total=21.
-- Verified: previously size-0 repos (zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer) already have README + NETWORK.md + index.html.
-- Homepage repo: APP_NETWORK_SPOTLIGHT_FULL_DIRECTORY.md (all-categories advertising directory).
-- zion-app-network: homepage-content-batch36.md.
+- Memory resumed from Batch 36 checkpoint; rechecked pending URLs (homepage .md spotlights still 404 = Pages build lag; network.ziontechgroup.com TLS cert still provisioning).
+- Audited repo list page 2: smallest repos (etl-copilot-ai, warehouse-optimizer-ai, stream-analytics-hub, data-quality-guard, zion-data-pipeline-hub, ai-agriculture-platform, ai-insurance-suite, etc.) all already carry README + ZION_APP_NETWORK.md + index.html — repo-level interlinks complete; no fixes needed.
+- New homepage advertising: APP_NETWORK_SPOTLIGHT_DATA_PLATFORM.md (Data Platform & Engineering AI, 5 newest data apps) in zion-support.github.io.
+- zion-app-network: SPOTLIGHT-2026-09-26-BATCH37.md + homepage-content-batch37.md.
 
-## Still pending from Batch 35
-- ziontechgroup.com/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md — homepage Pages build lag (recheck)
-- network.ziontechgroup.com TLS cert — GitHub cert provisioning pending (200 with -k)
+## Still pending (deploy lag, recheck next session)
+- ziontechgroup.com/APP_NETWORK_SPOTLIGHT_{MARKETING_GROWTH,FIELD_SERVICE,DATA_PLATFORM}.md — homepage Pages build lag (raw 200).
+- network.ziontechgroup.com — TLS cert still *.github.io (200 with -k; GitHub provisioning).
 
 ## Next session ideas
-- Recheck the two pending URLs.
-- Spot-check NETWORK.md footers on recently created app repos.
-- Consider HTML versions of the newest category pages for guaranteed Pages availability.
+- Recheck pending URLs; next spotlight themes: Knowledge & Support AI, Finance & Accounting AI, Supply Chain & Logistics AI, or Industry Verticals wave 2.
+- Note: concurrent sessions are numbering homepage batches up to 46 — coordinate numbering via memory before creating batch files.
+
+## Part of the Zion App Network
+🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/)
