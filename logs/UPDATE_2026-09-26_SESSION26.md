@@ -1,18 +1,16 @@
-# Session 26 — 2026-09-26 (UTC)
+# Session 26 — 2026-09-26 (Batch 36)
 
 ## Done
-- Recalled checkpoint from Supermemory + Mem0; noted a parallel session already added Knowledge & Support AI — pivoted to Finance & Accounting AI to avoid duplication.
-- Created category page `network/finance-accounting-ai.md` with 13 interlinked apps (record-to-report + quote-to-cash workflows).
-- Created spotlight `spotlights/finance-accounting.md`.
-- Updated `network.json`: added `finance-accounting-ai` category + `finance_registry`, rotated spotlight latest/previous (now 10 categories).
-- Published homepage advertising on zion-support.github.io: `APP_NETWORK_SPOTLIGHT_FINANCE.md` + `homepage-content-finance.md`.
-- Verified all new content live (raw URLs + Pages).
+- network.json: registered `marketing-growth-ai`, `compliance-grc-ai` and new `revops-quote-to-cash-ai` categories; added marketing_growth_registry + compliance_grc_registry keys; spotlight_latest → revops-quote-to-cash.
+- Verified all 9 network.json registry targets exist (creative-media, legal, supply-chain, knowledge-support, finance, dev-productivity, mlops pages + 2 spotlights) — no broken links.
+- Verified previously size-0 repos now have README + NETWORK.md + index.html: zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer. Also confirmed proposal-writer-ai, pipeline-forecast-ai, quote-to-cash-accelerator, deal-desk-copilot, demand-sensing-hub, freight-rate-scout all carry NETWORK.md.
+- New spotlight: spotlights/revops-quote-to-cash.md (8 RevOps apps).
+- zion-app-network: SPOTLIGHT-2026-09-26-BATCH36.md + homepage-content-batch36.md.
+- Homepage repo: APP_NETWORK_SPOTLIGHT_REVOPS_QUOTE_TO_CASH.md.
 
-## Still open
-- network.ziontechgroup.com HTTPS certificate broken — manual fix in zion-network Settings > Pages.
-- ziontechgroup.com Cloudflare Workers build failing — homepage md files 404 on domain until fixed.
-- network.json `apps` array abbreviated by design; registries in network/*.md.
+## Pending (carry-over)
+- ziontechgroup.com/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md — homepage Pages build lag (raw 200).
+- network.ziontechgroup.com — TLS cert still *.github.io (GitHub provisioning); 200 with -k.
 
-## Next session ideas
-- New category: Developer Productivity & Code AI (ai-code-migration, ai-code-formatter, changelog-writer, regex-builder, sql-query-explainer, mock-api-generator, k8s-yaml-linter, prompt-forge, tech-debt-radar...).
-- Re-verify ziontechgroup.com deploy of homepage spotlight files (legal, supply chain, finance).
+## Part of the Zion App Network
+🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/)
