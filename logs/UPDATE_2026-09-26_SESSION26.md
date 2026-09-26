@@ -1,19 +1,13 @@
-# Session 26 — 2026-09-26 (Batch 36)
+# Session 26 log — 2026-09-26 (Batch 36b)
 
-## Done
-- Verified the three size-0 repos from last session's queue are already fixed (zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer all have README + NETWORK.md + index.html).
-- Cross-checked every category page referenced in network.json against the repo tree — zero missing pages.
-- network.json: registered marketing-growth-ai, compliance-grc-ai and industry-verticals-suites categories + registry links (15 categories total); spotlight_latest → spotlights/marketing-growth-ai.md. Commit d29c37ef.
-- New homepage advertising: APP_NETWORK_SPOTLIGHT_FIELD_SERVICE.md (Field Service AI suite, 6 apps) in zion-support.github.io.
-- zion-app-network: SPOTLIGHT-2026-09-26-BATCH36.md + homepage-content-batch36.md.
+DONE:
+1. Restored compact flagship apps array in network.json (179 apps with id/repo/URL, 16 categories) — had been an abbreviated pointer since Session 23. Commit bc2416f.
+2. New spotlight: Finance & Accounting AI — zion-network/spotlights/finance-accounting-ai.md (commit b350807) + zion-app-network/SPOTLIGHT-2026-09-26-BATCH36.md + homepage-content-batch36.md.
+3. Homepage advertising: zion-support.github.io/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md (commit 73d4117) → https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md
+4. READMEs + network footers + interlinks for zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer (commits 23e9bb0, 316e19a, 537702f).
+5. APPS_NETWORK.md updated with Batch 36b section (kept concurrent Session 27 Batch 36 section intact).
 
-## Still pending (from Batch 35)
-- ziontechgroup.com/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md — homepage Pages build lag.
-- network.ziontechgroup.com — GitHub Pages custom-domain TLS cert still provisioning (*.github.io cert served; 200 with -k).
-
-## Next session ideas
-- Recheck pending URLs (also the new APP_NETWORK_SPOTLIGHT_FIELD_SERVICE.md).
-- Pick next homepage spotlight theme (candidates: Knowledge & Support AI, Finance & Accounting AI, Supply Chain & Logistics AI).
-
-## Part of the Zion App Network
-🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/)
+PENDING / NEXT SESSION:
+- Verify https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md and /APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md return 200 after GitHub Pages build (known deploy lag; raw URLs verified 200).
+- Continue interlinking remaining zion-field-* repos.
+- Next spotlight theme suggestion: HR & People AI or E-commerce & Retail AI.
