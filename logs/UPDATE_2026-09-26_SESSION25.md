@@ -1,17 +1,20 @@
-# Session 25 — 2026-09-26 (UTC)
+# Session 25 — 2026-09-26 (Batch 35)
 
-## Done
-- Created `network/supply-chain-logistics-ai.md` — 19 interlinked apps with Plan→Source→Make→Deliver→Return workflow.
-- Created spotlight `spotlights/supply-chain-logistics.md`.
-- Updated `network.json`: re-added `legal-contract-compliance-ai` category (dropped by an intermediate session overwrite) + `legal_registry`; added `supply-chain-logistics-ai` category + `supply_chain_registry`; rotated `spotlight_latest`/`spotlight_previous`.
-- Published homepage advertising on zion-support.github.io: `APP_NETWORK_SPOTLIGHT_SUPPLY_CHAIN.md` + `homepage-content-supply-chain.md`.
-- Recalled context from Supermemory + Mem0 at session start; checkpoint saved at end.
+## Fixes
+- Recreated 7 files referenced by APPS_NETWORK.md but missing after a concurrent-session overwrite: `network/compliance-grc-ai.md`, `network/compliance-grc-apps.json`, `spotlights/compliance-grc.md`, `network/industry-verticals-suites.md`, `spotlights/industry-verticals-suites.md`, `spotlights/data-observability.html`, `logs/SESSION21.md`.
 
-## Still open
-- network.ziontechgroup.com HTTPS certificate broken — manual fix in zion-network Settings > Pages.
-- ziontechgroup.com Cloudflare Workers build failing — homepage md files 404 on the domain until fixed.
-- network.json `apps` array abbreviated; registries live in network/*.md.
+## New content
+- New category: `network/marketing-growth-ai.md` — 12 interlinked Marketing & Growth AI apps with registry `network/marketing-growth-apps.json` and spotlight `spotlights/marketing-growth-ai.md`.
+- Updated indexes: `APPS_NETWORK.md` (new category + batch 35 section) and `NETWORK.md` (featured categories).
+- zion-app-network: `SPOTLIGHT-2026-09-26-BATCH35.md` + `homepage-content-batch35.md`.
+- Homepage repo: `APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md` advertising page.
+
+## Verification
+- Raw URLs + Pages URLs checked via curl; results recorded in memory.
 
 ## Next session ideas
-- New category: Knowledge & Support AI (knowledge-base-copilot, help-center-copilot, support-deflection-analyzer, support-sentiment-monitor, nps-insight-engine, knowledge-gap-finder, support-ticket-triager...).
-- Verify Pages deploy + homepage spotlight rendering.
+- Register remaining unregistered flagship apps in network.json.
+- Add READMEs/network footers to the remaining size-0 repos (zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer).
+
+## Part of the Zion App Network
+🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/)
