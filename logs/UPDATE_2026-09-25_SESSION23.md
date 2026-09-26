@@ -1,12 +1,14 @@
-# Session 23 — 2026-09-25 (Batch 35: Marketing & Growth AI)
+# Session 23 — 2026-09-25
 
 ## Done
-- New category page `network/marketing-growth-ai.md` — 12 marketing/growth apps with live links.
-- New spotlight `spotlights/marketing-growth.md`.
-- `APPS_NETWORK.md` and `NETWORK.md` updated with the new category.
-- zion-app-network: `SPOTLIGHT-2026-09-25-BATCH35.md` + `homepage-content-batch35.md`.
-- Homepage repo: `APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md` advertising the suite with live app links.
+- NEW category page: network/marketing-growth-ai.md (14 Marketing & Growth AI apps, interlinked)
+- NEW spotlight: spotlights/marketing-growth-ai.md
+- APPS_NETWORK.md + NETWORK.md updated with links to the new category
+- zion-app-network: SPOTLIGHT-2026-09-25-BATCH35.md + homepage-content-batch35.md
+- Homepage repo: APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md (advertising copy with live app links)
+- Verified: network/compliance-grc-ai.md and network/industry-verticals-suites.md exist and resolve (concurrent-session files confirmed)
 
-## Next session ideas
-- Verify Pages propagation for new pages; register remaining apps in network.json apps array if needed.
-- Batch 36 candidate theme: Field Service AI expansion or Data Observability wave 2.
+## Next
+- Verify Pages deploy lag for new files (zion-network Pages + ziontechgroup.com cache)
+- Continue interlinking remaining zion-field-* and empty app repos (size 0: zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer) with README/NETWORK.md stubs
+- Decide next spotlight theme (candidate: Field Service AI expansion)
