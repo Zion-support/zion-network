@@ -9,6 +9,7 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 
 ## Categories
 
+- **[🤖 AI Agent Builder Toolkit](network/agent-builder-toolkit.md)** — NEW: 12 apps covering the full agent lifecycle — design, orchestrate, route, test, observe, monetize ([registry](network/agent-builder-apps.json))
 - **[🤖 AI Agents & Autonomous Operations](network/ai-agents-autonomous-ops.md)** — NEW: 8 agent apps (PR swarm, dispatch, ticket sentinel, voice agents, FinOps autopilot, sales copilot, churn)
 - **[🏠 Core Site & Hubs](network/core-site-hubs.md)** — 19 apps
 - **[🤖 AI Agents & Orchestration](network/ai-agents-orchestration.md)** — 25 apps
@@ -51,6 +52,26 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[📈 Sales Pipeline & Revenue AI](network/sales-pipeline-ai.md)**
 - **[🚚 Supply Chain & Logistics AI](network/supply-chain-logistics-ai.md)**
 - **[🎧 Support & Service Desk AI](network/support-service-desk-ai.md)**
+
+## 🚀 Latest Additions (2026-09-27, Batch 39 — Session 27)
+
+- New category: **[🤖 AI Agent Builder Toolkit](network/agent-builder-toolkit.md)** — 12 interlinked apps covering the full agent lifecycle: design, orchestrate, route, test, observe, monetize. Registry: [network/agent-builder-apps.json](network/agent-builder-apps.json).
+- New spotlight: [spotlights/agent-builder-toolkit.md](spotlights/agent-builder-toolkit.md).
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_AGENT_TOOLKIT.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_AGENT_TOOLKIT.md) (live at https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_AGENT_TOOLKIT.md).
+
+Featured apps:
+- [zion-agentforge](https://agentforge.ziontechgroup.com/) — https://github.com/Zion-support/zion-agentforge
+- [zion-ai-agent-builder](https://ziontechgroup.com/zion-ai-agent-builder/) — https://github.com/Zion-support/zion-ai-agent-builder
+- [zion-agent-stack-builder](https://ziontechgroup.com/zion-agent-stack-builder/) — https://github.com/Zion-support/zion-agent-stack-builder
+- [zion-agent-handoff-designer](https://ziontechgroup.com/zion-agent-handoff-designer/) — https://github.com/Zion-support/zion-agent-handoff-designer
+- [zion-ai-agent-orchestrator](https://orchestrator.ziontechgroup.com/) — https://github.com/Zion-support/zion-ai-agent-orchestrator
+- [zion-agents](https://zion-support.github.io/zion-agents/) — https://github.com/Zion-support/zion-agents
+- [zion-ai-gateway](https://ziontechgroup.com/zion-ai-gateway/) — https://github.com/Zion-support/zion-ai-gateway
+- [zion-ai-prompt-router](https://ziontechgroup.com/zion-ai-prompt-router) — https://github.com/Zion-support/zion-ai-prompt-router
+- [zion-agent-contract-tester](https://ziontechgroup.com/zion-agent-contract-tester/) — https://github.com/Zion-support/zion-agent-contract-tester
+- [zion-agent-observability](https://ziontechgroup.com/zion-agent-observability/) — https://github.com/Zion-support/zion-agent-observability
+- [zion-ai-observability](https://observability.ziontechgroup.com/) — https://github.com/Zion-support/zion-ai-observability
+- [zion-ai-agent-marketplace](https://ziontechgroup.com/zion-ai-agent-marketplace/) — https://github.com/Zion-support/zion-ai-agent-marketplace
 
 ## 🚀 Latest Additions (2026-09-27, Batch 38 — Session 28)
 
@@ -137,7 +158,7 @@ Field Service & Support AI suite, freshly interlinked: [Zion AI Ticket Triage](h
 
 Every app links back to this index. To add a new app:
 1. Create the repo under `Zion-support` with description + homepage.
-2. Register it in [`network.json`](network.json).
+2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README:
 
 ```md
@@ -145,4 +166,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-27 (Batch 38) — 535+ public repos, 107+ flagship apps; all 38 category pages indexed._
+_Updated 2026-09-27 (Batch 39) — 535+ public repos, 316+ registered apps; all 39 category pages indexed._

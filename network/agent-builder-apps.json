@@ -1,0 +1,28 @@
+{
+  "category": "AI Agent Builder Toolkit",
+  "category_page": "https://github.com/Zion-support/zion-network/blob/main/network/agent-builder-toolkit.md",
+  "spotlight": "https://github.com/Zion-support/zion-network/blob/main/spotlights/agent-builder-toolkit.md",
+  "updated": "2026-09-27",
+  "apps": [
+    {"id": "zion-agentforge", "repo": "zion-agentforge", "url": "https://agentforge.ziontechgroup.com/", "stage": "build"},
+    {"id": "zion-ai-agent-builder", "repo": "zion-ai-agent-builder", "url": "https://ziontechgroup.com/zion-ai-agent-builder/", "stage": "build"},
+    {"id": "zion-agent-stack-builder", "repo": "zion-agent-stack-builder", "url": "https://ziontechgroup.com/zion-agent-stack-builder/", "stage": "build"},
+    {"id": "zion-agent-handoff-designer", "repo": "zion-agent-handoff-designer", "url": "https://ziontechgroup.com/zion-agent-handoff-designer/", "stage": "build"},
+    {"id": "zion-ai-agent-orchestrator", "repo": "zion-ai-agent-orchestrator", "url": "https://orchestrator.ziontechgroup.com/", "stage": "orchestrate"},
+    {"id": "zion-agents", "repo": "zion-agents", "url": "https://zion-support.github.io/zion-agents/", "stage": "orchestrate"},
+    {"id": "zion-ai-gateway", "repo": "zion-ai-gateway", "url": "https://ziontechgroup.com/zion-ai-gateway/", "stage": "orchestrate"},
+    {"id": "zion-ai-prompt-router", "repo": "zion-ai-prompt-router", "url": "https://ziontechgroup.com/zion-ai-prompt-router", "stage": "orchestrate"},
+    {"id": "zion-agent-contract-tester", "repo": "zion-agent-contract-tester", "url": "https://ziontechgroup.com/zion-agent-contract-tester/", "stage": "test-observe"},
+    {"id": "zion-agent-observability", "repo": "zion-agent-observability", "url": "https://ziontechgroup.com/zion-agent-observability/", "stage": "test-observe"},
+    {"id": "zion-ai-observability", "repo": "zion-ai-observability", "url": "https://observability.ziontechgroup.com/", "stage": "test-observe"},
+    {"id": "zion-ai-agent-marketplace", "repo": "zion-ai-agent-marketplace", "url": "https://ziontechgroup.com/zion-ai-agent-marketplace/", "stage": "monetize"}
+  ],
+  "related_categories": [
+    "network/ai-agents-automation.md",
+    "network/ai-agents-autonomous-ops.md",
+    "network/ai-agents-orchestration.md",
+    "network/llm-prompts-rag.md",
+    "network/mlops-ai-infrastructure.md",
+    "network/ai-ops-incident-response.md"
+  ]
+}
