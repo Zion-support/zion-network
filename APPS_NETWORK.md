@@ -57,7 +57,7 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 
 ## 🚀 Latest Additions (2026-09-27, Batch 40)
 
-Master index completed: **[💚 Customer Success & Retention AI Suite](network/customer-success-retention.md)** and **[🧑‍💼 HR & Talent AI](network/hr-talent-ai.md)** are now indexed and interlinked. New spotlight: [spotlights/customer-success-retention.md](spotlights/customer-success-retention.md). Homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP27_BATCH56](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP27_BATCH56.md).
+Master index completed: **[💚 Customer Success & Retention AI Suite](network/customer-success-retention.md)** and **[🧑‍💼 HR & Talent AI](network/hr-talent-ai.md)** are now indexed and interlinked. New spotlight: [spotlights/customer-success-retention.md](spotlights/customer-success-retention.md). Homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP27_BATCH56](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP27_BATCH56.md). network.json: apps array temporarily trimmed; full restore pointer recorded (blob 7d79919c3688f6b51ec086e2524f77efd1500786) — restore scheduled next session.
 
 ## 🚀 Latest Additions (2026-09-27, Batch 39 — Session 27)
 
@@ -68,6 +68,10 @@ Master index completed: **[💚 Customer Success & Retention AI Suite](network/c
 ## 🚀 Latest Additions (2026-09-23)
 
 New categories: **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** and **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)**.
+
+## 🚀 Latest Additions (2026-09-22)
+
+Field Service & Support AI suite, freshly interlinked: [Zion AI Ticket Triage](https://ziontechgroup.com/zion-ai-ticket-triage/) · [Zion AI Spare Parts Matcher](https://ziontechgroup.com/zion-ai-spare-parts-matcher/) · [Zion AI RMA Tracker](https://ziontechgroup.com/zion-ai-rma-tracker/) · [Zion AI Field Dispatch Optimizer](https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/) · [Zion AI Threat Modeler](https://ziontechgroup.com/zion-ai-threat-modeler/) · [Zion AI Data Contract Enforcer](https://ziontechgroup.com/zion-ai-data-contract-enforcer/) · [Zion AI PR Review Swarm](https://ziontechgroup.com/zion-ai-pr-review-swarm/) · [Zion AI API Guardian](https://ziontechgroup.com/zion-ai-api-guardian/) · [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/) · [Churn Radar](https://ziontechgroup.com/churn-radar/) · [Voice Agent Studio](https://ziontechgroup.com/voice-agent-studio/).
 
 ## 🔗 Interlinks
 
@@ -81,4 +85,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-27 (Batch 40) — 535+ public repos, 316+ registered apps; all 41 category pages indexed (100% coverage)._
+_Updated 2026-09-27 (Batch 40) — 535+ public repos, 316+ registered apps; all 41 category pages indexed (100% coverage). Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
