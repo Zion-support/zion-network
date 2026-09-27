@@ -35,7 +35,6 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[📣 Marketing & Growth AI](network/marketing-growth-ai.md)** — NEW: 12 apps (growth hub, newsletters, social, ads, SEO, A/B testing, referrals, webinars, ROI — [registry](network/marketing-growth-apps.json))
 - **[🛡️ Compliance & GRC AI](network/compliance-grc-ai.md)** — NEW: 8 apps (compliance scanning, vendor risk, audit readiness, policy tracking, clause extraction, evidence, drift, SLA guardian — [registry](network/compliance-grc-apps.json))
 - **[🎙️ Voice, Video & Meeting AI](network/voice-video-meetings-ai.md)** — NEW: 8 apps (voice agents, VoC, transcription, meeting notes, captions, webinars, summaries — [registry](network/voice-video-apps.json))
-- **[🤝 AI Copilots Suite](network/ai-copilots-suite.md)** — NEW: 14 department copilots (sales, support, legal, finance, data, HR, vendor, meetings — [registry](network/ai-copilots-apps.json))
 
 ### Additional categories (indexed in Batch 36)
 
@@ -57,13 +56,11 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[🚚 Supply Chain & Logistics AI](network/supply-chain-logistics-ai.md)**
 - **[🎧 Support & Service Desk AI](network/support-service-desk-ai.md)**
 
-## 🚀 Latest Additions (2026-09-27, Batch 42 — Session 31)
+## 🚀 Latest Additions (2026-09-27, Batch 67)
 
-- **Restored full network.json**: all 304 flagship apps re-merged from git history (blob 7d79919c); registry integrity fixed.
-- New category: **[🤝 AI Copilots Suite](network/ai-copilots-suite.md)** — 14 interlinked department copilots with [registry](network/ai-copilots-apps.json).
-- Spotlight: [spotlights/ai-copilots-suite.md](spotlights/ai-copilots-suite.md) (canonical).
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP27_BATCH66_COPILOTS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP27_BATCH66_COPILOTS.md); re-added Batch 54 COPILOTS page to SPOTLIGHTS_INDEX.md.
-- Session log: [logs/SESSION31.md](logs/SESSION31.md).
+- New spotlight: **[♿ Accessibility & Compliance AI Suite](spotlights/accessibility-compliance-suite.md)** — 6 interlinked apps: WCAG 2.2 audit → auto-fix → statement evidence → access governance → AI Act compliance.
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP27_BATCH67_ACCESSIBILITY.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP27_BATCH67_ACCESSIBILITY.md) (+ instantly-served [.html version](https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_SEP27_BATCH67_ACCESSIBILITY.html)).
+- Spotlights index updated: [spotlights/README.md](spotlights/README.md).
 
 ## 🚀 Latest Additions (2026-09-27, Batch 41)
 
@@ -103,4 +100,6 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-27 (Batch 42) — 535+ public repos, 304 registered flagship apps; 43 category pages indexed. Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
+Latest spotlight: [Accessibility & Compliance AI Suite (Batch 67)](spotlights/accessibility-compliance-suite.md).
+
+_Updated 2026-09-27 (Batch 67) — 535+ public repos, 316+ registered apps; 42 category pages indexed. Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
