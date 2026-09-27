@@ -8,6 +8,7 @@ Pages-servable advertising spotlights for each suite of the [Zion App Network](.
 - 🛒 [E-commerce & Retail AI](ecommerce-retail.md) — product copy, pricing, inventory, reviews, returns, cart recovery
 - 🤝 [MSP & Partner Ecosystem](msp-ecosystem.md) — service desk, dispatch, hardware assets, security & compliance, commercial growth
 - 💼 [Sales & Lead Gen AI](sales-leadgen.md) — outbound, ads, growth, CX, churn
+- ♿ [Accessibility & Compliance AI Suite](accessibility-compliance-suite.md) — WCAG 2.2 auditing, accessibility statements, access reviews, AI Act compliance
 
 > Homepage spotlight markdown files in the [zion-support.github.io root repo](https://github.com/Zion-support/zion-support.github.io) are not served by GitHub Pages — these copies under `spotlights/` are the canonical web-servable versions.
 
