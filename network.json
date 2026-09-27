@@ -2,10 +2,10 @@
   "company": "Zion Tech Group",
   "hub": "https://ziontechgroup.com",
   "updated": "2026-09-27",
-  "note": "Compact flagship apps array restored (Session 26 / Batch 36): id, repo name, live URL. All repos under github.com/Zion-support. Per-category details in network/*.md and network/*-apps.json. Session 29 (2026-09-27): added AI Copilots Suite spotlight. Session 30 / Batch 40 (2026-09-27): master index completed (41/41 categories), Customer Success & Retention spotlight added.",
+  "note": "Compact flagship apps array restored (Session 26 / Batch 36): id, repo name, live URL. All repos under github.com/Zion-support. Per-category details in network/*.md and network/*-apps.json. Session 29 (2026-09-27): added AI Copilots Suite spotlight. Session 30 / Batch 40 (2026-09-27): master index completed (41/41 categories), Customer Success & Retention spotlight added. Session 30 / Batch 41: added Voice, Video & Meeting AI category (42 categories).",
   "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
   "apps_total": 304,
-  "spotlight_latest": "spotlights/customer-success-retention.md",
-  "spotlight_previous": "spotlights/ai-copilots-suite.md",
-  "apps_note": "Full 304-app array temporarily trimmed in Batch 40 commits fe5b602/b7a17ab; restore pending from git history blob 7d79919c3688f6b51ec086e2524f77efd1500786 (next session)."
+  "spotlight_latest": "spotlights/voice-video-meetings.md",
+  "spotlight_previous": "spotlights/customer-success-retention.md",
+  "apps_note": "Full 304-app array temporarily trimmed in Batch 40 commits fe5b602/b7a17ab; restore pending from git history blob 7d79919c3688f6b51ec086e2524f77efd1500786."
 }

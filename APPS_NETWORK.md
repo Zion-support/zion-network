@@ -34,6 +34,7 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[📈 Data Operations & Observability AI](network/data-observability-ai.md)** — 9 apps (catalog, quality, ETL monitoring, anomalies, narratives, reports, API uptime, cost, diagrams — [registry](network/data-observability-apps.json))
 - **[📣 Marketing & Growth AI](network/marketing-growth-ai.md)** — NEW: 12 apps (growth hub, newsletters, social, ads, SEO, A/B testing, referrals, webinars, ROI — [registry](network/marketing-growth-apps.json))
 - **[🛡️ Compliance & GRC AI](network/compliance-grc-ai.md)** — NEW: 8 apps (compliance scanning, vendor risk, audit readiness, policy tracking, clause extraction, evidence, drift, SLA guardian — [registry](network/compliance-grc-apps.json))
+- **[🎙️ Voice, Video & Meeting AI](network/voice-video-meetings-ai.md)** — NEW: 8 apps (voice agents, VoC, transcription, meeting notes, captions, webinars, summaries — [registry](network/voice-video-apps.json))
 
 ### Additional categories (indexed in Batch 36)
 
@@ -54,6 +55,14 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[📈 Sales Pipeline & Revenue AI](network/sales-pipeline-ai.md)**
 - **[🚚 Supply Chain & Logistics AI](network/supply-chain-logistics-ai.md)**
 - **[🎧 Support & Service Desk AI](network/support-service-desk-ai.md)**
+
+## 🚀 Latest Additions (2026-09-27, Batch 41)
+
+- New category: **[🎙️ Voice, Video & Meeting AI](network/voice-video-meetings-ai.md)** — 8 interlinked apps: capture → transcribe → summarize → caption → act → learn. Registry: [network/voice-video-apps.json](network/voice-video-apps.json).
+- New spotlight: [spotlights/voice-video-meetings.md](spotlights/voice-video-meetings.md).
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP27_BATCH57_VOICE.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP27_BATCH57_VOICE.md).
+- network.json: spotlight_latest → voice-video-meetings.
+- Session log: [logs/SESSION30.md](logs/SESSION30.md).
 
 ## 🚀 Latest Additions (2026-09-27, Batch 40)
 
@@ -85,4 +94,4 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-_Updated 2026-09-27 (Batch 40) — 535+ public repos, 316+ registered apps; all 41 category pages indexed (100% coverage). Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
+_Updated 2026-09-27 (Batch 41) — 535+ public repos, 316+ registered apps; 42 category pages indexed. Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
