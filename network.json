@@ -6,5 +6,6 @@
   "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
   "apps_total": 304,
   "spotlight_latest": "spotlights/customer-success-retention.md",
-  "spotlight_previous": "spotlights/ai-copilots-suite.md"
+  "spotlight_previous": "spotlights/ai-copilots-suite.md",
+  "apps_note": "Full 304-app array temporarily trimmed in Batch 40 commits fe5b602/b7a17ab; restore pending from git history blob 7d79919c3688f6b51ec086e2524f77efd1500786 (next session)."
 }
