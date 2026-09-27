@@ -52,113 +52,20 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[🚚 Supply Chain & Logistics AI](network/supply-chain-logistics-ai.md)**
 - **[🎧 Support & Service Desk AI](network/support-service-desk-ai.md)**
 
-## 🚀 Latest Additions (2026-09-26, Batch 36 — Session 27)
+## 🚀 Latest Additions (2026-09-27, Batch 38 — Session 28)
 
-- Index completeness fix: added **17 category pages** that existed under `network/` but were missing from this index (AI Agents & Automation, AI Ops & Incident Response, AI Readiness & Evaluation, Creative & Media AI, Data/Search/Documents, Developer Productivity, DevSecOps & Quality, Everyday AI, Finance & Accounting, Green IT, HR & People, Knowledge & Support, Legal & Contract, MLOps, Sales Pipeline, Supply Chain, Support & Service Desk). All 38 category pages are now listed.
-- network.json: registered the missing categories (marketing-growth-ai, compliance-grc-ai, industry-verticals-suites, green-it-sustainability, support-service-desk-ai, everyday-ai-productivity, ai-agents-automation, data-search-documents, devsecops-quality) + registries; spotlight_latest now points to the Marketing & Growth AI spotlight.
-- Verified: previously size-0 repos (zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer) already have README + NETWORK.md + index.html — no action needed.
-- New homepage advertising: APP_NETWORK_SPOTLIGHT_FULL_DIRECTORY.md (all-categories directory) + zion-app-network homepage-content-batch36.md.
-
-## 🚀 Latest Additions (2026-09-26, Batch 35 — Session 25)
-
-- Fixed broken links: recreated [network/compliance-grc-ai.md](network/compliance-grc-ai.md), [network/compliance-grc-apps.json](network/compliance-grc-apps.json), [spotlights/compliance-grc.md](spotlights/compliance-grc.md), [network/industry-verticals-suites.md](network/industry-verticals-suites.md), [spotlights/industry-verticals-suites.md](spotlights/industry-verticals-suites.md), [spotlights/data-observability.html](spotlights/data-observability.html) and [logs/SESSION21.md](logs/SESSION21.md) — all referenced by this index but missing after a concurrent-session overwrite.
-- New category: **[📣 Marketing & Growth AI](network/marketing-growth-ai.md)** — 12 interlinked apps with [registry](network/marketing-growth-apps.json) and [spotlight](spotlights/marketing-growth-ai.md).
-- New homepage advertising: [APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md) + zion-app-network [homepage-content-batch35.md](https://github.com/Zion-support/zion-app-network/blob/main/homepage-content-batch35.md).
-
-## 🚀 Latest Additions (2026-09-26, Batch 21)
-
-- Re-merge: **[📈 Data Operations & Observability AI](network/data-observability-ai.md)** category restored (lost in a concurrent-session overwrite); new guaranteed-live HTML spotlight: [spotlights/data-observability.html](spotlights/data-observability.html) (served via network.ziontechgroup.com while the homepage Pages build lags).
-- New category: **[🛡️ Compliance & GRC AI](network/compliance-grc-ai.md)** — 8 interlinked apps with [registry](network/compliance-grc-apps.json) and [spotlight](spotlights/compliance-grc.md): [Zion AI Compliance Scanner](https://ziontechgroup.com/zion-ai-compliance-scanner/), [Vendor Risk Screener](https://ziontechgroup.com/vendor-risk-screener/), [Audit Readiness Copilot](https://ziontechgroup.com/audit-readiness-copilot/), [Policy Change Tracker](https://ziontechgroup.com/policy-change-tracker/), [Contract Clause Extractor](https://ziontechgroup.com/contract-clause-extractor/), [Compliance Evidence Collector](https://ziontechgroup.com/compliance-evidence-collector/), [Zion AI Drift Detector](https://ziontechgroup.com/zion-ai-drift-detector/), [SLA Forecast Guardian](https://ziontechgroup.com/sla-forecast-guardian/).
-- New homepage advertising page: [ziontechgroup.com/compliance-grc-ai-suite/](https://ziontechgroup.com/compliance-grc-ai-suite/) + [APP_NETWORK_SPOTLIGHT_GRC.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_GRC.md).
-- Session log: [logs/SESSION21.md](logs/SESSION21.md).
-
-## 🚀 Latest Additions (2026-09-25)
-
-- New category: **[🤖 AI Agents & Autonomous Operations](network/ai-agents-autonomous-ops.md)** — 8 interlinked autonomous agent apps (AI PR Review Swarm, AI Dispatch Orchestrator, AI Ticket Sentinel, Voice Agent Studio, FinOps Autopilot, AI Sales Email Copilot, AI Growth Marketing Hub, Churn Radar) with interlinks to Sales/MSP categories, status, plans and portal.
-- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_AI_AGENTS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_AI_AGENTS.md) — advertising the autonomous agent suite.
-- Verified: remaining flagship READMEs (vendor-questionnaire-autopilot, security-awareness-coach, zion-ai-vendor-risk, it-staffing-calculator, incident-comms-writer, expense-audit-ai, cloud-budget-guard) all carry network footers — flagship footer rollout complete.
-
-## 🚀 Latest Additions (2026-09-24, Batch 28)
-
-- New category: **[🧰 Procurement, Vendor & IT Reliability AI](network/procurement-vendor-it-reliability.md)** — 12 interlinked apps (AI Procurement Copilot, Incident Runbook AI, Vendor Risk Screener, Contract Renewal Radar, Contract Clause Extractor, AI Incident Timeline, AI Infrastructure Monitor, AI API Health Monitor, Agent SLA Monitor, SLA Forecast Guardian, SLA Risk Forecaster, ETL Pipeline Monitor).
-- Fixed empty repos: [ai-procurement-copilot](https://github.com/Zion-support/ai-procurement-copilot) and [incident-runbook-ai](https://github.com/Zion-support/incident-runbook-ai) now have README + interlinked landing pages.
-- network.json now registers 86 flagship apps (6 new added).
-- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md).
-
-## 🚀 Latest Additions (2026-09-23, evening)
-
-- New category: **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — 8 interlinked apps; homepage cards added to [HOMEPAGE_APPS.md](HOMEPAGE_APPS.md); spotlight copies now served from this repo under [spotlights/](spotlights/) for Pages availability (index: [spotlights/README.md](spotlights/README.md); suites: [Customer Success](spotlights/customer-success.md), [MSP](spotlights/msp-ecosystem.md), [Sales & Lead Gen](spotlights/sales-leadgen.md), [E-commerce & Retail](spotlights/ecommerce-retail.md)). E-commerce app repos created and interlinked: [ai-product-description-writer](https://github.com/Zion-support/ai-product-description-writer), [ai-pricing-optimizer](https://github.com/Zion-support/ai-pricing-optimizer), [ai-inventory-forecaster](https://github.com/Zion-support/ai-inventory-forecaster), [ai-review-insights](https://github.com/Zion-support/ai-review-insights), [ai-returns-reducer](https://github.com/Zion-support/ai-returns-reducer), [ai-cart-recovery](https://github.com/Zion-support/ai-cart-recovery).
-
-- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md) — Renewals, Revenue & Customer Growth suite.
-- SPOTLIGHTS_INDEX.md fixed: all 30+ homepage spotlight pages now listed and interlinked.
-- MSP & Partner Ecosystem category added to this index (20 apps, see [msp-apps.json](network/msp-apps.json)).
-
-## 🚀 Latest Additions (2026-09-23)
-
-New categories: **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** (AI Sales Email Copilot, AI Advertising Optimizer, AI Growth Marketing Hub, AI Customer Experience Hub, AI Email Classifier, Churn Radar) and **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** (AI Healthcare Platform, AI Health Tracker, AI Education Platform, AI Language Tutor).
-
-## 🚀 Latest Additions (2026-09-22)
-
-Field Service & Support AI suite, freshly interlinked:
-
-- [Zion AI Ticket Triage](https://ziontechgroup.com/zion-ai-ticket-triage/) · [repo](https://github.com/Zion-support/zion-ai-ticket-triage)
-- [Zion AI Spare Parts Matcher](https://ziontechgroup.com/zion-ai-spare-parts-matcher/) · [repo](https://github.com/Zion-support/zion-ai-spare-parts-matcher)
-- [Zion AI RMA Tracker](https://ziontechgroup.com/zion-ai-rma-tracker/) · [repo](https://github.com/Zion-support/zion-ai-rma-tracker)
-- [Zion AI Field Dispatch Optimizer](https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/) · [repo](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer)
-- [Zion AI Threat Modeler](https://ziontechgroup.com/zion-ai-threat-modeler/) · [repo](https://github.com/Zion-support/zion-ai-threat-modeler)
-- [Zion AI Data Contract Enforcer](https://ziontechgroup.com/zion-ai-data-contract-enforcer/) · [repo](https://github.com/Zion-support/zion-ai-data-contract-enforcer)
-- [Zion AI PR Review Swarm](https://ziontechgroup.com/zion-ai-pr-review-swarm/) · [repo](https://github.com/Zion-support/zion-ai-pr-review-swarm)
-- [Zion AI API Guardian](https://ziontechgroup.com/zion-ai-api-guardian/) · [repo](https://github.com/Zion-support/zion-ai-api-guardian)
-- [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/) · [repo](https://github.com/Zion-support/finops-autopilot)
-- [Churn Radar](https://ziontechgroup.com/churn-radar/) · [repo](https://github.com/Zion-support/churn-radar)
-- [Voice Agent Studio](https://ziontechgroup.com/voice-agent-studio/) · [repo](https://github.com/Zion-support/voice-agent-studio)
-
-## 🚀 Latest Additions (2026-09-25 — Session 24)
-
-New category: **[🏙️ Industry Vertical AI Suites](network/industry-verticals-suites.md)** — 13 vertical suites now interlinked: [AI Banking](https://ziontechgroup.com/ai-banking-platform/) · [AI Insurance](https://ziontechgroup.com/ai-insurance-suite/) · [AI Pharma](https://ziontechgroup.com/ai-pharma-suite/) · [AI Education](https://ziontechgroup.com/ai-education-suite/) · [AI Media & Entertainment](https://ziontechgroup.com/ai-media-entertainment-hub/) · [AI Energy & Utilities](https://ziontechgroup.com/ai-energy-utilities-suite/) · [AI Transportation](https://ziontechgroup.com/ai-transportation-suite/) · [AI Construction](https://ziontechgroup.com/ai-construction-suite/) · [AI Agriculture](https://ziontechgroup.com/ai-agriculture-platform/) · [AI Hospitality](https://ziontechgroup.com/ai-hospitality-suite/) · [AI Real Estate](https://ziontechgroup.com/ai-real-estate-hub/) · [AI Gov Services](https://ziontechgroup.com/ai-gov-services-platform/) · [AI Nonprofit](https://ziontechgroup.com/ai-nonprofit-hub/). Spotlight: [spotlights/industry-verticals-suites.md](spotlights/industry-verticals-suites.md) · Homepage copy: [APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_SUITES.md).
-
-## 🔗 Interlinks
-
-Every app links back to this index. To add a new app:
-1. Create the repo under `Zion-support` with description + homepage.
-2. Register it in [`network.json`](network.json).
-3. Add the network footer to the app's README:
-
-```md
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
-```
-
-_Updated 2026-09-26 (Batch 36) — 535+ public repos, 107+ flagship apps; all 38 category pages indexed._
-
-
----
-
-## 🆕 Batch 36b — 2026-09-26 (Session 26) — Spotlight: Finance & Accounting AI
-
-- Spotlight page: [spotlights/finance-accounting-ai.md](spotlights/finance-accounting-ai.md)
-- Category page: [network/finance-accounting-ai.md](network/finance-accounting-ai.md)
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_FINANCE_AI.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md) (live at https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md)
-- Registry restored: [network.json](network.json) compact flagship apps array now lists **179 apps** with id/repo/URL (was an abbreviated pointer).
-- READMEs refreshed with network footers + interlinks: [zion-insight-dashboard](https://github.com/Zion-support/zion-insight-dashboard), [ai-talent-onboarding-copilot](https://github.com/Zion-support/ai-talent-onboarding-copilot), [ai-energy-optimizer](https://github.com/Zion-support/ai-energy-optimizer).
+- Spotlight: **Healthcare, Wellness & Education AI** — [spotlights/healthcare-wellness.md](spotlights/healthcare-wellness.md) · Pages-guaranteed [spotlights/healthcare-wellness.html](spotlights/healthcare-wellness.html).
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_HEALTHCARE_WELLNESS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_HEALTHCARE_WELLNESS.md) (live at https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_HEALTHCARE_WELLNESS.md after Pages deploy).
+- zion-app-network: [SPOTLIGHT-2026-09-27-BATCH38.md](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH38.md) + [homepage-content-batch38.md](https://github.com/Zion-support/zion-app-network/blob/main/homepage-content-batch38.md).
+- NETWORK.md featured categories updated; session log: [logs/UPDATE_2026-09-27_SESSION28.md](logs/UPDATE_2026-09-27_SESSION28.md).
 
 Featured apps:
-- [ai-asset-depreciation](https://ziontechgroup.com/ai-asset-depreciation/) — https://github.com/Zion-support/ai-asset-depreciation
-- [ai-billing-automation](https://ziontechgroup.com/ai-billing-automation/) — https://github.com/Zion-support/ai-billing-automation
-- [ai-financial-services-suite](https://ziontechgroup.com/ai-financial-services-suite/) — https://github.com/Zion-support/ai-financial-services-suite
-- [ai-roi-calculator](https://ziontechgroup.com/ai-roi-calculator/) — https://github.com/Zion-support/ai-roi-calculator
-- [ar-collections-prioritizer](https://ziontechgroup.com/ar-collections-prioritizer/) — https://github.com/Zion-support/ar-collections-prioritizer
-- [expense-audit-ai](https://ziontechgroup.com/expense-audit-ai/) — https://github.com/Zion-support/expense-audit-ai
-- [invoice-match-ai](https://ziontechgroup.com/invoice-match-ai/) — https://github.com/Zion-support/invoice-match-ai
-- [quote-to-cash-accelerator](https://ziontechgroup.com/quote-to-cash-accelerator/) — https://github.com/Zion-support/quote-to-cash-accelerator
-- [revenue-leak-detector](https://ziontechgroup.com/revenue-leak-detector/) — https://github.com/Zion-support/revenue-leak-detector
-- [roi-calculator](https://ziontechgroup.com/roi-calculator/) — https://github.com/Zion-support/roi-calculator
-- [subscription-dunning-hero](https://ziontechgroup.com/subscription-dunning-hero/) — https://github.com/Zion-support/subscription-dunning-hero
+- [ai-healthcare-platform](https://ziontechgroup.com/ai-healthcare-platform/) — https://github.com/Zion-support/ai-healthcare-platform
+- [ai-health-tracker](https://ziontechgroup.com/ai-health-tracker/) — https://github.com/Zion-support/ai-health-tracker
+- [ai-education-platform](https://ai-education-platform.ziontechgroup.com) — https://github.com/Zion-support/ai-education-platform
+- [ai-language-tutor](https://ziontechgroup.com/ai-language-tutor/) — https://github.com/Zion-support/ai-language-tutor
 
-
----
-
-## 🆕 Batch 37 — 2026-09-26 (Session 27) — Spotlight: Emerging Tech AI
+## 🚀 Latest Additions (2026-09-26, Batch 37 — Session 27)
 
 - Category page: [network/emerging-tech-ai.md](network/emerging-tech-ai.md)
 - Spotlight page: [spotlights/emerging-tech-ai.md](spotlights/emerging-tech-ai.md)
@@ -176,3 +83,66 @@ Featured apps:
 - [ai-edge-deployer](https://ziontechgroup.com/ai-edge-deployer/) — https://github.com/Zion-support/ai-edge-deployer
 - [ai-cluster-manager](https://ziontechgroup.com/ai-cluster-manager/) — https://github.com/Zion-support/ai-cluster-manager
 - [ai-image-generator](https://ziontechgroup.com/ai-image-generator/) — https://github.com/Zion-support/ai-image-generator
+
+## 🚀 Latest Additions (2026-09-26, Batch 36 — Session 27)
+
+- Index completeness fix: added **17 category pages** that existed under `network/` but were missing from this index. All 38 category pages are now listed.
+- network.json: registered the missing categories + registries; spotlight_latest points to the Marketing & Growth AI spotlight.
+- Verified: previously size-0 repos (zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer) already have README + NETWORK.md + index.html — no action needed.
+- New homepage advertising: APP_NETWORK_SPOTLIGHT_FULL_DIRECTORY.md (all-categories directory) + zion-app-network homepage-content-batch36.md.
+
+## 🚀 Latest Additions (2026-09-26, Batch 35 — Session 25)
+
+- Fixed broken links: recreated [network/compliance-grc-ai.md](network/compliance-grc-ai.md), [network/compliance-grc-apps.json](network/compliance-grc-apps.json), [spotlights/compliance-grc.md](spotlights/compliance-grc.md), [network/industry-verticals-suites.md](network/industry-verticals-suites.md), [spotlights/industry-verticals-suites.md](spotlights/industry-verticals-suites.md), [spotlights/data-observability.html](spotlights/data-observability.html) and [logs/SESSION21.md](logs/SESSION21.md).
+- New category: **[📣 Marketing & Growth AI](network/marketing-growth-ai.md)** — 12 interlinked apps with [registry](network/marketing-growth-apps.json) and [spotlight](spotlights/marketing-growth-ai.md).
+- New homepage advertising: [APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_MARKETING_GROWTH.md) + zion-app-network [homepage-content-batch35.md](https://github.com/Zion-support/zion-app-network/blob/main/homepage-content-batch35.md).
+
+## 🚀 Latest Additions (2026-09-26, Batch 21)
+
+- Re-merge: **[📈 Data Operations & Observability AI](network/data-observability-ai.md)** category restored; guaranteed-live HTML spotlight: [spotlights/data-observability.html](spotlights/data-observability.html).
+- New category: **[🛡️ Compliance & GRC AI](network/compliance-grc-ai.md)** — 8 interlinked apps with [registry](network/compliance-grc-apps.json) and [spotlight](spotlights/compliance-grc.md).
+- New homepage advertising page: [ziontechgroup.com/compliance-grc-ai-suite/](https://ziontechgroup.com/compliance-grc-ai-suite/) + [APP_NETWORK_SPOTLIGHT_GRC.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_GRC.md).
+- Session log: [logs/SESSION21.md](logs/SESSION21.md).
+
+## 🚀 Latest Additions (2026-09-25)
+
+- New category: **[🤖 AI Agents & Autonomous Operations](network/ai-agents-autonomous-ops.md)** — 8 interlinked autonomous agent apps with interlinks to Sales/MSP categories, status, plans and portal.
+- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_AI_AGENTS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_AI_AGENTS.md).
+- Verified: remaining flagship READMEs all carry network footers — flagship footer rollout complete.
+
+## 🚀 Latest Additions (2026-09-24, Batch 28)
+
+- New category: **[🧰 Procurement, Vendor & IT Reliability AI](network/procurement-vendor-it-reliability.md)** — 12 interlinked apps.
+- Fixed empty repos: [ai-procurement-copilot](https://github.com/Zion-support/ai-procurement-copilot) and [incident-runbook-ai](https://github.com/Zion-support/incident-runbook-ai) now have README + interlinked landing pages.
+- network.json now registers 86 flagship apps (6 new added).
+- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md).
+
+## 🚀 Latest Additions (2026-09-23, evening)
+
+- New category: **[💚 Customer Success & Retention AI](network/customer-success-ai.md)** — 8 interlinked apps; homepage cards added to [HOMEPAGE_APPS.md](HOMEPAGE_APPS.md); spotlight copies now served from this repo under [spotlights/](spotlights/).
+
+- New homepage spotlight: [APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_REVENUE_RENEWALS.md).
+- SPOTLIGHTS_INDEX.md fixed: all 30+ homepage spotlight pages now listed and interlinked.
+- MSP & Partner Ecosystem category added to this index (20 apps, see [msp-apps.json](network/msp-apps.json)).
+
+## 🚀 Latest Additions (2026-09-23)
+
+New categories: **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** and **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)**.
+
+## 🚀 Latest Additions (2026-09-22)
+
+Field Service & Support AI suite, freshly interlinked: [Zion AI Ticket Triage](https://ziontechgroup.com/zion-ai-ticket-triage/) · [Zion AI Spare Parts Matcher](https://ziontechgroup.com/zion-ai-spare-parts-matcher/) · [Zion AI RMA Tracker](https://ziontechgroup.com/zion-ai-rma-tracker/) · [Zion AI Field Dispatch Optimizer](https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/) · [Zion AI Threat Modeler](https://ziontechgroup.com/zion-ai-threat-modeler/) · [Zion AI Data Contract Enforcer](https://ziontechgroup.com/zion-ai-data-contract-enforcer/) · [Zion AI PR Review Swarm](https://ziontechgroup.com/zion-ai-pr-review-swarm/) · [Zion AI API Guardian](https://ziontechgroup.com/zion-ai-api-guardian/) · [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/) · [Churn Radar](https://ziontechgroup.com/churn-radar/) · [Voice Agent Studio](https://ziontechgroup.com/voice-agent-studio/).
+
+## 🔗 Interlinks
+
+Every app links back to this index. To add a new app:
+1. Create the repo under `Zion-support` with description + homepage.
+2. Register it in [`network.json`](network.json).
+3. Add the network footer to the app's README:
+
+```md
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+```
+
+_Updated 2026-09-27 (Batch 38) — 535+ public repos, 107+ flagship apps; all 38 category pages indexed._
