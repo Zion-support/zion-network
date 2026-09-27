@@ -1,0 +1,26 @@
+{
+  "category": "AI Copilots Suite",
+  "updated": "2026-09-27",
+  "count": 14,
+  "apps": [
+    {"id":"ai-sales-email-copilot","name":"Sales Email Copilot","repo":"ai-sales-email-copilot","url":"https://ziontechgroup.com/ai-sales-email-copilot/","description":"Drafts, personalizes & follows up outreach"},
+    {"id":"audit-readiness-copilot","name":"Audit Readiness Copilot","repo":"audit-readiness-copilot","url":"https://ziontechgroup.com/audit-readiness-copilot/","description":"Evidence collection & audit prep"},
+    {"id":"ai-meeting-notes-copilot","name":"AI Meeting Notes Copilot","repo":"ai-meeting-notes-copilot","url":"https://ziontechgroup.com/ai-meeting-notes-copilot/","description":"Notes, decisions & action items from every meeting"},
+    {"id":"help-center-copilot","name":"Help Center Copilot","repo":"help-center-copilot","url":"https://ziontechgroup.com/help-center-copilot/","description":"Instant answers from your help center"},
+    {"id":"knowledge-base-copilot","name":"Knowledge Base Copilot","repo":"knowledge-base-copilot","url":"https://ziontechgroup.com/knowledge-base-copilot/","description":"Instant answers from your docs"},
+    {"id":"contract-redline-copilot","name":"Contract Redline Copilot","repo":"contract-redline-copilot","url":"https://ziontechgroup.com/contract-redline-copilot/","description":"Clause review & redline suggestions"},
+    {"id":"newsletter-growth-copilot","name":"Newsletter Growth Copilot","repo":"newsletter-growth-copilot","url":"https://ziontechgroup.com/newsletter-growth-copilot/","description":"Grow & monetize newsletters"},
+    {"id":"ai-talent-onboarding-copilot","name":"Talent Onboarding Copilot","repo":"ai-talent-onboarding-copilot","url":"https://ziontechgroup.com/ai-talent-onboarding-copilot/","description":"Guided 30/60/90 onboarding journeys"},
+    {"id":"revenue-recognition-copilot","name":"Revenue Recognition Copilot","repo":"revenue-recognition-copilot","url":"https://ziontechgroup.com/revenue-recognition-copilot/","description":"ASC 606-ready revenue schedules"},
+    {"id":"support-copilot-ai","name":"Support Copilot","repo":"support-copilot-ai","url":"https://ziontechgroup.com/support-copilot-ai/","description":"Agent-assist replies & ticket triage"},
+    {"id":"etl-copilot-ai","name":"ETL Copilot","repo":"etl-copilot-ai","url":"https://ziontechgroup.com/etl-copilot-ai/","description":"Pipeline building & repair"},
+    {"id":"onsite-support-copilot","name":"Onsite Support Copilot","repo":"onsite-support-copilot","url":"https://ziontechgroup.com/onsite-support-copilot/","description":"Field technician guided support"},
+    {"id":"vendor-onboarding-copilot","name":"Vendor Onboarding Copilot","repo":"vendor-onboarding-copilot","url":"https://ziontechgroup.com/vendor-onboarding-copilot/","description":"Faster, compliant vendor setup"},
+    {"id":"data-catalog-copilot","name":"Data Catalog Copilot","repo":"data-catalog-copilot","url":"https://ziontechgroup.com/data-catalog-copilot/","description":"Discover, document & govern data"}
+  ],
+  "interlinks": {
+    "index": "../APPS_NETWORK.md",
+    "spotlight": "../spotlights/ai-copilots-suite.md",
+    "related": ["voice-video-meetings-ai.md","ai-agents-orchestration.md","customer-success-ai.md","legal-contract-compliance-ai.md"]
+  }
+}
