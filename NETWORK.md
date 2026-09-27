@@ -10,8 +10,9 @@ Constellation hub of Zion Tech Group sites.
 - Field network: [zion-field](https://github.com/Zion-support/zion-field)
 
 ## Featured categories
-- 📣 [Marketing & Growth AI](network/marketing-growth-ai.md) — NEW 2026-09-26 (Batch 35)
-- 🛡️ [Compliance & GRC AI](network/compliance-grc-ai.md) — NEW 2026-09-26
+- 🏥 [Healthcare & Education AI](network/healthcare-education-ai.md) — Spotlight 2026-09-27 (Batch 38)
+- 📣 [Marketing & Growth AI](network/marketing-growth-ai.md) — 2026-09-26 (Batch 35)
+- 🛡️ [Compliance & GRC AI](network/compliance-grc-ai.md) — 2026-09-26
 - 🏙️ [Industry Vertical AI Suites](network/industry-verticals-suites.md)
 - 💼 [Sales & Lead Gen AI](network/sales-lead-gen-ai.md)
 - 🧑‍💼 [HR & Talent AI](network/hr-talent-ai.md)
