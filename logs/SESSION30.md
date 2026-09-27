@@ -1,16 +1,12 @@
-# Session 30 — 2026-09-26
+# Session 30 Log — 2026-09-27 (Batch 41 / homepage Batch 57)
 
 ## Done
-- Verified zion-insight-dashboard, ai-talent-onboarding-copilot, ai-energy-optimizer READMEs already carry network footers (prior session plan item — DONE).
-- Upgraded 3 bare zion-field READMEs with network footers + interlinks:
-  - zion-field-united-kingdom (commit f5a2e709)
-  - zion-field-tm (commit 76c7150d)
-  - zion-field-thailand (commit 0da0b403)
-- All 5 zion-field hubs now fully interlinked (americas & apac done in session 27).
-- New homepage content: zion-support.github.io/APP_NETWORK_SPOTLIGHT_FIELD_SERVICES.md advertising field hubs + 5 featured apps with links.
-- New network spotlight: spotlights/field-services-ops.md with hub table, featured apps and interlinks.
+- New category: network/voice-video-meetings-ai.md (8 apps) + registry network/voice-video-apps.json.
+- New spotlight: spotlights/voice-video-meetings.md.
+- APPS_NETWORK.md: added category + Batch 41 section (42 categories indexed).
+- network.json: spotlight_latest → spotlights/voice-video-meetings.md.
+- Homepage: APP_NETWORK_SPOTLIGHT_SEP27_BATCH57_VOICE.md in zion-support.github.io; added to SPOTLIGHTS_INDEX.md.
 
-## Next session
-- Verify GitHub Pages renders new spotlight files (200 OK).
-- Consider registering field hubs in network.json if absent.
-- Audit remaining repos with README < 300 bytes for bare-footers.
+## Next session ideas
+- Batch 42 theme candidates: Security Awareness & Training AI, or Localization/i18n AI.
+- Verify network.ziontechgroup.com DNS/CDN (was 000 from sandbox in session 29).

@@ -1,0 +1,14 @@
+{
+ "category": "Voice, Video & Meeting AI",
+ "updated": "2026-09-27",
+ "apps": [
+  {"id":"voice-agent-studio","repo":"voice-agent-studio","url":"https://ziontechgroup.com/voice-agent-studio/"},
+  {"id":"voice-of-customer-hub","repo":"voice-of-customer-hub","url":"https://ziontechgroup.com/voice-of-customer-hub/"},
+  {"id":"ai-audio-transcriber","repo":"ai-audio-transcriber","url":"https://ziontechgroup.com/ai-audio-transcriber/"},
+  {"id":"ai-meeting-notes-copilot","repo":"ai-meeting-notes-copilot","url":"https://ziontechgroup.com/ai-meeting-notes-copilot/"},
+  {"id":"ai-caption-generator","repo":"ai-caption-generator","url":"https://ai-caption-generator.ziontechgroup.com"},
+  {"id":"ai-caption-optimizer","repo":"ai-caption-optimizer","url":"https://ziontechgroup.com/ai-caption-optimizer/"},
+  {"id":"webinar-funnel-hub","repo":"webinar-funnel-hub","url":"https://ziontechgroup.com/webinar-funnel-hub/"},
+  {"id":"ai-document-summarizer","repo":"ai-document-summarizer","url":"https://ziontechgroup.com/ai-document-summarizer/"}
+ ]
+}
