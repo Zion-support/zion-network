@@ -1,0 +1,7 @@
+{
+  "note": "Full flagship apps registry backup (304 apps). Canonical compact list lives in network.json; per-category details in network/*-apps.json. Batch 40.",
+  "updated": "2026-09-27",
+  "apps_count": 304,
+  "source": "network.json (pre-Batch-40 full array)",
+  "categories": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md"
+}

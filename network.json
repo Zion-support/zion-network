@@ -1,1 +1,10 @@
-{"company":"Zion Tech Group","hub":"https://ziontechgroup.com","updated":"2026-09-27","note":"Compact flagship apps array (id, repo name, live URL). All repos under github.com/Zion-support. Per-category details in network/*.md and network/*-apps.json. Session 30 / Batch 40 (2026-09-27): master index completed (41/41 categories), Customer Success & Retention spotlight added; full apps list archived to network/apps-registry.json.","network_index":"https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md","apps_total":304,"spotlight_latest":"spotlights/customer-success-retention.md","spotlight_previous":"spotlights/ai-copilots-suite.md","apps_registry":"network/apps-registry.json"}
+{
+  "company": "Zion Tech Group",
+  "hub": "https://ziontechgroup.com",
+  "updated": "2026-09-27",
+  "note": "Compact flagship apps array restored (Session 26 / Batch 36): id, repo name, live URL. All repos under github.com/Zion-support. Per-category details in network/*.md and network/*-apps.json. Session 29 (2026-09-27): added AI Copilots Suite spotlight. Session 30 / Batch 40 (2026-09-27): master index completed (41/41 categories), Customer Success & Retention spotlight added.",
+  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+  "apps_total": 304,
+  "spotlight_latest": "spotlights/customer-success-retention.md",
+  "spotlight_previous": "spotlights/ai-copilots-suite.md"
+}
