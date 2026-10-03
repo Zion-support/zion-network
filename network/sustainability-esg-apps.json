@@ -1,0 +1,21 @@
+{
+  "suite": "Sustainability & ESG AI",
+  "batch": 68,
+  "date": "2026-10-03",
+  "loop": "measure → audit → optimize → forecast → balance → report",
+  "apps": [
+    {"name": "Carbon Footprint Tracker", "repo": "https://github.com/Zion-support/carbon-footprint-tracker", "role": "measure", "stage": 1},
+    {"name": "Energy Audit Copilot", "repo": "https://github.com/Zion-support/energy-audit-copilot", "role": "audit", "stage": 2},
+    {"name": "Energy Optimizer AI", "repo": "https://github.com/Zion-support/energy-optimizer-ai", "role": "optimize", "stage": 3},
+    {"name": "Renewable Energy Forecaster", "repo": "https://github.com/Zion-support/renewable-energy-forecaster", "role": "forecast", "stage": 4},
+    {"name": "Smart Grid Load Balancer", "repo": "https://github.com/Zion-support/smart-grid-load-balancer", "role": "balance", "stage": 5},
+    {"name": "ESG Report Builder", "repo": "https://github.com/Zion-support/esg-report-builder", "role": "report", "stage": 6}
+  ],
+  "related": [
+    "https://github.com/Zion-support/zion-ai-governance",
+    "https://github.com/Zion-support/zion-field-energy",
+    "https://zion-support.github.io/zion-tools/"
+  ],
+  "spotlight": "spotlights/sustainability-esg-suite.md",
+  "homepage_ad": "https://zion-support.github.io/APP_NETWORK_SPOTLIGHT_OCT3_ESG.html"
+}
