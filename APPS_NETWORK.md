@@ -19,6 +19,7 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[🔐 Security & Compliance](network/security-compliance.md)** — 52 apps
 - **[🧰 Business Tools & Calculators](network/business-tools-calculators.md)** — 23 apps
 - **[💼 Sales & Lead Gen AI](network/sales-lead-gen-ai.md)** — NEW: 6 apps (outbound, ads, growth, CX, churn)
+- **[🌱 Sustainability & ESG AI](network/sustainability-esg-ai.md)** — NEW: 8 apps (carbon accounting, ESG reporting, climate risk, circularity, green procurement, renewables, water)
 - **[🏥🎓 Healthcare & Education AI](network/healthcare-education-ai.md)** — NEW: 4 apps (patient mgmt, wellness, tutoring)
 - **[🎨 Content & Marketing](network/content-marketing.md)** — 24 apps
 - **[🏭 Industry Platforms](network/industry-platforms.md)** — 13 apps
@@ -56,11 +57,13 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[🚚 Supply Chain & Logistics AI](network/supply-chain-logistics-ai.md)**
 - **[🎧 Support & Service Desk AI](network/support-service-desk-ai.md)**
 
-## 🚀 Latest Additions (2026-10-03, Batch 68)
+## 🚀 Latest Additions (2026-10-03, Batch 62)
 
-- New spotlight: **[🌱 Sustainability & ESG AI Suite](spotlights/sustainability-esg-suite.md)** — 6 interlinked apps in a closed loop (measure → audit → optimize → forecast → balance → report): Carbon Footprint Tracker, Energy Audit Copilot, Energy Optimizer AI, Renewable Energy Forecaster, Smart Grid Load Balancer, ESG Report Builder. Registry: [network/sustainability-esg-apps.json](network/sustainability-esg-apps.json).
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT3_ESG.html](https://zion-support.github.io/APP_NETWORK_SPOTLIGHT_OCT3_ESG.html) (+ [markdown source](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT3_ESG.md)).
-- Session log: [logs/UPDATE_2026-10-03_SESSION_B.md](logs/UPDATE_2026-10-03_SESSION_B.md).
+- New category: **[🌱 Sustainability & ESG AI](network/sustainability-esg-ai.md)** — 8 interlinked apps covering the full ESG lifecycle: collect → account → assess → report → optimize.
+- New spotlight: **[Sustainability & ESG AI Suite](spotlights/sustainability-esg-suite.md)**.
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT3_ESG.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT3_ESG.md) (live at https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_OCT3_ESG.md) + daily [SPOTLIGHT-2026-10-03.md](https://github.com/Zion-support/zion-support.github.io/blob/main/SPOTLIGHT-2026-10-03.md).
+- network.json: 8 Batch 62 apps registered (312 total); spotlight_latest → ESG suite.
+- All 8 Batch 62 repos now carry complete `ZION_APP_NETWORK.md` interlink docs (Renewable ROI Calculator + Water Usage Optimizer added).
 
 ## 🚀 Latest Additions (2026-09-27, Batch 67)
 
@@ -106,6 +109,6 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-Latest spotlight: [Sustainability & ESG AI Suite (Batch 68)](spotlights/sustainability-esg-suite.md).
+Latest spotlight: [Sustainability & ESG AI Suite (Batch 62)](spotlights/sustainability-esg-suite.md).
 
-_Updated 2026-10-03 (Batch 68) — 535+ public repos, 316+ registered apps; 42 category pages indexed. Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
+_Updated 2026-10-03 (Batch 62) — 535+ public repos, 316+ registered apps; 43 category pages indexed. Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
