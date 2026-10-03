@@ -4,6 +4,7 @@ Pages-servable advertising spotlights for each suite of the [Zion App Network](.
 
 ## Spotlights
 
+- 🗓️ [Meeting & Productivity AI](meeting-productivity.md) — meeting copilot, voice assistant, chatbot builder, content studio, workflow automation, project master (Batch 65, Oct 2026)
 - 💚 [Customer Success & Retention AI](customer-success.md) — churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking
 - 🛒 [E-commerce & Retail AI](ecommerce-retail.md) — product copy, pricing, inventory, reviews, returns, cart recovery
 - 🤝 [MSP & Partner Ecosystem](msp-ecosystem.md) — service desk, dispatch, hardware assets, security & compliance, commercial growth
