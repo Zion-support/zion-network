@@ -54,7 +54,15 @@ The Zion Tech Group app network spans **535 public apps and sites** under [@Zion
 - **[🧪 MLOps & AI Infrastructure](network/mlops-ai-infrastructure.md)**
 - **[📈 Sales Pipeline & Revenue AI](network/sales-pipeline-ai.md)**
 - **[🚚 Supply Chain & Logistics AI](network/supply-chain-logistics-ai.md)**
+- **[🏭 Manufacturing & Industrial AI](network/manufacturing-industrial-ai.md)** — NEW (Batch 69): 9 apps (plant floor, warehouse, inventory, supply chain, fleet fuel, energy)
 - **[🎧 Support & Service Desk AI](network/support-service-desk-ai.md)**
+
+## 🚀 Latest Additions (2026-10-03, Batch 69)
+
+- New category: **[🏭 Manufacturing & Industrial AI](network/manufacturing-industrial-ai.md)** — 9 interlinked apps: plan → produce → store → move → power → optimize.
+- New spotlight: [spotlights/manufacturing-industrial-ai-suite.md](spotlights/manufacturing-industrial-ai-suite.md).
+- Homepage ad: [APP_NETWORK_SPOTLIGHT_OCT3_MANUFACTURING.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT3_MANUFACTURING.md).
+- network.json: spotlight_latest → manufacturing-industrial-ai-suite (304 apps registry unchanged).
 
 ## 🚀 Latest Additions (2026-09-27, Batch 67)
 
@@ -100,6 +108,6 @@ Every app links back to this index. To add a new app:
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 ```
 
-Latest spotlight: [Accessibility & Compliance AI Suite (Batch 67)](spotlights/accessibility-compliance-suite.md).
+Latest spotlight: [Smart Manufacturing & Industrial AI Suite (Batch 69)](spotlights/manufacturing-industrial-ai-suite.md).
 
-_Updated 2026-09-27 (Batch 67) — 535+ public repos, 316+ registered apps; 42 category pages indexed. Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
+_Updated 2026-10-03 (Batch 69) — 535+ public repos, 316+ registered apps; 42 category pages indexed. Historical batch details (Batches 21–38) preserved in git history; see commit 0a0739ca9ae8fa780b33ed10f5c4e6aab4f435a8 for full archive._
