@@ -1,4 +1,4 @@
-# Telecom & Connectivity AI — Batch 79 (2026-10-04)
+# Telecom & Connectivity AI — Batch 82 (2026-10-04)
 
 Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Ten interlinked apps for carriers, ISPs, tower operators and enterprise connectivity teams. Free to explore online; deploy via the official plans (Discovery free → Consulting $499 → Starter $2,500 → Growth $8,000/mo).
 
@@ -20,5 +20,5 @@ Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). 
 - Hub: [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Network index](https://zion-support.github.io/zion-network/)
 - Related categories: [Field Service AI](./field-service-ai.md) · [AI Ops & Incident Response](./ai-ops-incident-response.md) · [Data & Analytics](./data-analytics.md) · [GovTech & Smart City AI](./govtech-smart-city-ai.md) · [Energy & Utilities AI](./energy-utilities-ai.md)
 - Free Discovery (always online, results emailed instantly to you and commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
-- Spotlight: [Batch 79 spotlight](../spotlights/2026-10-04-batch79-telecom-connectivity.md)
+- Spotlight: [Batch 82 spotlight](../spotlights/2026-10-04-batch82-telecom-connectivity.md)
 - Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch6.html

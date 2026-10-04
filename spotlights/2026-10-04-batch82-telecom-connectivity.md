@@ -1,4 +1,4 @@
-# Spotlight — Batch 79: Telecom & Connectivity AI (2026-10-04)
+# Spotlight — Batch 82: Telecom & Connectivity AI (2026-10-04)
 
 Ten interlinked apps for carriers, ISPs, tower operators and enterprise connectivity teams, now live in the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/).
 
