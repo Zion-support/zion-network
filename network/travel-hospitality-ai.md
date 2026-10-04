@@ -1,31 +1,24 @@
-# Travel & Hospitality AI — Category Hub
+# ✈️ Travel, Hospitality & Guest Experience AI (Batch 74)
 
-Eight free, open-source AI apps for travel, hospitality and food-service teams. Part of the [Zion App Network](../APPS_NETWORK.md) — 320+ interlinked apps by [Zion Tech Group](https://ziontechgroup.com).
+Eight interlinked apps covering the guest journey: plan → price → message → listen → recover → schedule → upsell → coordinate.
 
-> 🎯 **Not sure which apps fit your business?** Take the free 2-minute [AI Discovery Questionnaire](https://ziontechgroup.com/discovery/) — instant recommendations, results emailed to you immediately.
+## Apps
 
-## Apps in this suite
+- **[AI Itinerary Planner](https://ziontechgroup.com/itinerary-ai-planner/)** — Builds day-by-day travel itineraries from budget, dates and preferences. Repo: [zion-itinerary-ai-planner](https://github.com/Zion-support/zion-itinerary-ai-planner).
+- **[Dynamic Pricing Engine](https://ziontechgroup.com/dynamic-pricing-engine/)** — Room & rate pricing suggestions from demand, events and competitor signals. Repo: [zion-dynamic-pricing-engine](https://github.com/Zion-support/zion-dynamic-pricing-engine).
+- **[Guest Messaging Copilot](https://ziontechgroup.com/guest-messaging-copilot/)** — Answers guest questions 24/7 in their language, escalates to staff when needed. Repo: [zion-guest-messaging-copilot](https://github.com/Zion-support/zion-guest-messaging-copilot).
+- **[Review Sentiment Radar](https://ziontechgroup.com/review-sentiment-radar/)** — Aggregates reviews across OTAs and flags sentiment shifts before they hurt bookings. Repo: [zion-review-sentiment-radar](https://github.com/Zion-support/zion-review-sentiment-radar).
+- **[Booking Recovery Agent](https://ziontechgroup.com/booking-recovery-agent/)** — Recovers abandoned bookings with timed, personalized follow-ups. Repo: [zion-booking-recovery-agent](https://github.com/Zion-support/zion-booking-recovery-agent).
+- **[Housekeeping Scheduler](https://ziontechgroup.com/housekeeping-scheduler/)** — Optimizes housekeeping routes around check-ins, check-outs and priorities. Repo: [zion-housekeeping-scheduler](https://github.com/Zion-support/zion-housekeeping-scheduler).
+- **[Upsell Concierge](https://ziontechgroup.com/upsell-concierge/)** — Offers the right upgrade, late check-out or experience at the right moment. Repo: [zion-upsell-concierge](https://github.com/Zion-support/zion-upsell-concierge).
+- **[Group & Events Coordinator](https://ziontechgroup.com/group-events-coordinator/)** — Coordinates group bookings, room blocks and event logistics end-to-end. Repo: [zion-group-events-coordinator](https://github.com/Zion-support/zion-group-events-coordinator).
 
-| App | What it does | Live | Repo |
-|---|---|---|---|
-| Travel Itinerary Planner | Builds day-by-day itineraries from budget, interests and constraints | [Open](https://ziontechgroup.com/zion-travel-itinerary-planner/) | [GitHub](https://github.com/Zion-support/zion-travel-itinerary-planner) |
-| Hotel Rate Optimizer | Dynamic room-rate recommendations from demand signals | [Open](https://ziontechgroup.com/zion-hotel-rate-optimizer/) | [GitHub](https://github.com/Zion-support/zion-hotel-rate-optimizer) |
-| Flight Deal Scanner | Monitors routes and alerts on fare drops | [Open](https://ziontechgroup.com/zion-flight-deal-scanner/) | [GitHub](https://github.com/Zion-support/zion-flight-deal-scanner) |
-| Guest Experience Copilot | Drafts guest replies, upsell offers and review responses | [Open](https://ziontechgroup.com/zion-guest-experience-copilot/) | [GitHub](https://github.com/Zion-support/zion-guest-experience-copilot) |
-| Tour Demand Forecaster | Predicts bookings by season, events and weather | [Open](https://ziontechgroup.com/zion-tour-demand-forecaster/) | [GitHub](https://github.com/Zion-support/zion-tour-demand-forecaster) |
-| Restaurant Revenue Manager | Menu engineering, table turns and demand-based pricing | [Open](https://ziontechgroup.com/zion-restaurant-revenue-manager/) | [GitHub](https://github.com/Zion-support/zion-restaurant-revenue-manager) |
-| Travel Expense Auditor | Flags out-of-policy spend and duplicate claims | [Open](https://ziontechgroup.com/zion-travel-expense-auditor/) | [GitHub](https://github.com/Zion-support/zion-travel-expense-auditor) |
-| Loyalty Program Optimizer | Points liability modeling and reward ROI tuning | [Open](https://ziontechgroup.com/zion-loyalty-program-optimizer/) | [GitHub](https://github.com/Zion-support/zion-loyalty-program-optimizer) |
+## Interlinks
 
-Registry: [travel-hospitality-apps.json](travel-hospitality-apps.json) · Spotlight: [spotlights/travel-hospitality-suite.md](../spotlights/travel-hospitality-suite.md) · [HTML spotlight](../spotlights/travel-hospitality.html)
+- Registry: [network/travel-hospitality-apps.json](travel-hospitality-apps.json)
+- Spotlight: [../spotlights/travel-hospitality-ai.md](../spotlights/travel-hospitality-ai.md)
+- Related suites: [Real Estate & Education AI](real-estate-education-ai.md) · [E-commerce & Retail AI](ecommerce-retail-ai.md) · [Marketing & Growth AI](marketing-growth-ai.md) · [Customer Success & Retention](customer-success-retention.md)
+- Hub: [APPS_NETWORK.md](../APPS_NETWORK.md) · [network.json](../network.json)
+- **Free Discovery questionnaire:** [ziontechgroup.com/zion-discovery/](https://ziontechgroup.com/zion-discovery/) — results emailed instantly to you and our commercial team.
 
-## Related categories
-- [Everyday AI & Productivity](everyday-ai-productivity.md)
-- [Ecommerce & Retail AI](ecommerce-retail-ai.md)
-- [Finance & Accounting AI](finance-accounting-ai.md) (expense audit)
-- [Customer Success & Retention](customer-success-retention.md) (loyalty)
-- [Sustainability & ESG AI](sustainability-esg-ai.md) (green travel)
-- [Growth & Intelligence AI](growth-intelligence-ai.md)
-
----
-Part of the [Zion App Network](../APPS_NETWORK.md) · [Spotlights index](../spotlights/README.md) · [Discovery](https://ziontechgroup.com/discovery/) · commercial@ziontechgroup.com
+_Added 2026-10-04 (Batch 74)._
