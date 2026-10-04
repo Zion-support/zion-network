@@ -1,0 +1,20 @@
+{
+ "category": "travel-hospitality-events-ai",
+ "batch": 74,
+ "date": "2026-10-04",
+ "category_doc": "network/travel-hospitality-ai.md",
+ "spotlight": "spotlights/travel-hospitality.md",
+ "discovery": "discovery/index.html",
+ "apps": [
+  {"id": "travel-itinerary-planner-ai", "repo": "zion-travel-itinerary-planner-ai", "url": "https://ziontechgroup.com/travel-itinerary-planner-ai/"},
+  {"id": "hotel-revenue-manager-ai", "repo": "zion-hotel-revenue-manager-ai", "url": "https://ziontechgroup.com/hotel-revenue-manager-ai/"},
+  {"id": "dynamic-pricing-hospitality", "repo": "zion-dynamic-pricing-hospitality", "url": "https://ziontechgroup.com/dynamic-pricing-hospitality/"},
+  {"id": "guest-experience-copilot", "repo": "zion-guest-experience-copilot", "url": "https://ziontechgroup.com/guest-experience-copilot/"},
+  {"id": "event-planning-copilot", "repo": "zion-event-planning-copilot", "url": "https://ziontechgroup.com/event-planning-copilot/"},
+  {"id": "venue-capacity-optimizer", "repo": "zion-venue-capacity-optimizer", "url": "https://ziontechgroup.com/venue-capacity-optimizer/"},
+  {"id": "travel-expense-auditor", "repo": "zion-travel-expense-auditor", "url": "https://ziontechgroup.com/travel-expense-auditor/"},
+  {"id": "airline-ops-disruption-ai", "repo": "zion-airline-ops-disruption-ai", "url": "https://ziontechgroup.com/airline-ops-disruption-ai/"},
+  {"id": "restaurant-demand-forecaster", "repo": "zion-restaurant-demand-forecaster", "url": "https://ziontechgroup.com/restaurant-demand-forecaster/"},
+  {"id": "loyalty-engagement-ai", "repo": "zion-loyalty-engagement-ai", "url": "https://ziontechgroup.com/loyalty-engagement-ai/"}
+ ]
+}
