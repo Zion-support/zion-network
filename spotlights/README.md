@@ -4,6 +4,7 @@ Pages-servable advertising spotlights for each suite of the [Zion App Network](.
 
 ## Spotlights
 
+- ⚡👥🛠️ **[Energy, HR & ITOps AI (Batch 72)](batch-72-energy-hr-itops.html)** — NEW 2026-10-04 — energy forecasting, solar ROI, grid balancing, building audits, shift scheduling, recruiting screening, sentiment pulse, onboarding, infra monitoring, capacity planning, cluster management, backup integrity
 - 🗓️ [Meeting & Productivity AI](meeting-productivity.md) — meeting copilot, voice assistant, chatbot builder, content studio, workflow automation, project master (Batch 65, Oct 2026)
 - 💚 [Customer Success & Retention AI](customer-success.md) — churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking
 - 🛒 [E-commerce & Retail AI](ecommerce-retail.md) — product copy, pricing, inventory, reviews, returns, cart recovery
@@ -19,7 +20,7 @@ Pages-servable advertising spotlights for each suite of the [Zion App Network](.
 - 🗂️ Master index: [APPS_NETWORK.md](../APPS_NETWORK.md) · Hub: [network.ziontechgroup.com](https://network.ziontechgroup.com)
 - 📣 Homepage showcase copy: [HOMEPAGE_APPS.md](../HOMEPAGE_APPS.md)
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
-- 💳 Plans & pricing: [ziontechgroup.com/en/plans](https://ziontechgroup.com/en/plans/) · 📞 [Discovery call](https://ziontechgroup.com/discovery/) · 📧 commercial@ziontechgroup.com
+- 💳 Plans & pricing: [ziontechgroup.com/en/plans](https://ziontechgroup.com/en/plans/) · 🧭 [Free AI Discovery](https://ziontechgroup.com/discovery/) · 📧 commercial@ziontechgroup.com
 
 ---
 © 2026 [Zion Tech Group](https://ziontechgroup.com)
