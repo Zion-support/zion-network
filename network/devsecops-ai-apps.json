@@ -1,0 +1,19 @@
+{
+  "suite": "DevSecOps & AI Code Quality",
+  "batch": 78,
+  "date": "2026-10-04",
+  "loop": "review → threat-model → evaluate → route",
+  "apps": [
+    {"name": "Zion AI PR Review Swarm", "repo": "https://github.com/Zion-support/zion-ai-pr-review-swarm", "live": "https://ziontechgroup.com/zion-ai-pr-review-swarm/", "role": "review", "stage": 1},
+    {"name": "Zion AI Threat Modeler", "repo": "https://github.com/Zion-support/zion-ai-threat-modeler", "live": "https://ziontechgroup.com/zion-ai-threat-modeler/", "role": "threat-model", "stage": 2},
+    {"name": "RAG Eval Kit", "repo": "https://github.com/Zion-support/zion-rag-eval-kit", "live": "https://ziontechgroup.com/zion-rag-eval-kit/", "role": "evaluate", "stage": 3},
+    {"name": "Model Router Configurator", "repo": "https://github.com/Zion-support/zion-model-router", "live": "https://ziontechgroup.com/zion-model-router/", "role": "route", "stage": 4}
+  ],
+  "related": [
+    "https://github.com/Zion-support/zion-ai-api-guardian",
+    "https://github.com/Zion-support/zion-ai-data-contract-enforcer",
+    "https://github.com/Zion-support/zion-ai-governance"
+  ],
+  "spotlight": "spotlights/devsecops-ai-code-quality-suite.md",
+  "homepage_ad": "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_DEVSECOPS.md"
+}

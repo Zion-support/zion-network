@@ -6,6 +6,14 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
 - 🗂️ Hub: [zion-network](https://zion-support.github.io/zion-network/) · [network.ziontechgroup.com](https://network.ziontechgroup.com)
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
+- 🔎 Free AI Discovery: [app-network-discovery.html](https://ziontechgroup.com/app-network-discovery.html) — always online, always free, instant results to you + our commercial team
+
+## 🚀 Latest Additions (2026-10-04, Batch 78)
+
+- New spotlight: **[🛡️ DevSecOps & AI Code Quality Suite](spotlights/devsecops-ai-code-quality-suite.md)** — 4 interlinked apps: review → threat-model → evaluate → route ([registry](network/devsecops-ai-apps.json)).
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT4_DEVSECOPS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_DEVSECOPS.md) (+ HTML version).
+- Discovery upgrade: app-network-discovery.html refreshed — 840+ apps, new industry/challenge picks, instant auto-reply to client + commercial@ziontechgroup.com, mailto fallback; new homepage ad APP_NETWORK_DISCOVERY_AD.md.
+- Session log: [logs/UPDATE_2026-10-04_SESSION_B.md](logs/UPDATE_2026-10-04_SESSION_B.md).
 
 ## 🚀 Latest Additions (2026-10-04, Batch 77)
 
@@ -63,6 +71,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [Space & Satellite Ops AI Suite (Batch 77)](spotlights/space-satellite-ops-suite.md).
+Latest spotlight: [DevSecOps & AI Code Quality Suite (Batch 78)](spotlights/devsecops-ai-code-quality-suite.md).
 
-_Updated 2026-10-04 (Batch 77) — 544+ public repos, 325+ registered apps; 44+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-04 (Batch 78) — 544+ public repos, 325+ registered apps; 44+ category pages indexed. Historical batch details preserved in git history._
