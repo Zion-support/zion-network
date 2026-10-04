@@ -1,0 +1,19 @@
+{
+  "suite": "Education & Learning AI",
+  "batch": 80,
+  "date": "2026-10-04",
+  "loop": "align → plan → tutor → track → prove → assess",
+  "apps": [
+    {"name": "Curriculum Alignment Checker", "repo": "https://github.com/Zion-support/curriculum-alignment-checker", "live": "https://ziontechgroup.com/curriculum-alignment-checker/", "role": "align", "stage": 1},
+    {"name": "Lesson Plan Generator", "repo": "https://github.com/Zion-support/lesson-plan-generator", "live": "https://ziontechgroup.com/lesson-plan-generator/", "role": "plan", "stage": 2},
+    {"name": "Tutoring Session Analyzer", "repo": "https://github.com/Zion-support/tutoring-session-analyzer", "live": "https://ziontechgroup.com/tutoring-session-analyzer/", "role": "tutor", "stage": 3},
+    {"name": "Student Progress Tracker", "repo": "https://github.com/Zion-support/student-progress-tracker", "live": "https://ziontechgroup.com/student-progress-tracker/", "role": "track", "stage": 4},
+    {"name": "Learning Outcome Dashboard", "repo": "https://github.com/Zion-support/learning-outcome-dashboard", "live": "https://ziontechgroup.com/learning-outcome-dashboard/", "role": "prove", "stage": 5},
+    {"name": "AI Assessment Engine", "repo": "https://github.com/Zion-support/ai-assessment-engine", "live": "https://ziontechgroup.com/ai-assessment-engine/", "role": "assess", "stage": 6}
+  ],
+  "related": [
+    "https://github.com/Zion-support/zion-ai-governance"
+  ],
+  "spotlight": "spotlights/education-learning-ai-suite.md",
+  "homepage_ad": "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_EDUCATION.md"
+}
