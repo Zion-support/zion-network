@@ -453,4 +453,28 @@ Recover abandoned carts with AI-timed outreach.
 
 ## SEO paragraph (footer of homepage)
 
-Zion Tech Group operates the Zion App Network — more than 600 AI-powered applications covering agent orchestration, AI ops & incident response (runbook generation, SLA forecasting, escalation detection, drift remediation, ticket triage), HR & people AI, sales pipeline AI, security & compliance AI, cloud FinOps & GreenOps, content & marketing AI, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), Kubernetes tooling, healthcare and education AI, industry platforms, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), e-commerce & retail AI (product copy, dynamic pricing, inventory forecasting, review insights, returns reduction, cart recovery), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with a $99 Discovery to scope production deployment.
+Zion Tech Group operates the Zion App Network — more than 600 AI-powered applications covering agent orchestration, AI ops & incident response (runbook generation, SLA forecasting, escalation detection, drift remediation, ticket triage), HR & people AI, sales pipeline AI, security & compliance AI, cloud FinOps & GreenOps, content & marketing AI, LLM cost optimization, prompt security, RAG pipelines, compliance automation (EU AI Act, ISO 42001, NIST AI RMF), Kubernetes tooling, healthcare and education AI, industry platforms, customer success & retention AI (churn prediction, health scoring, NPS insight, sentiment monitoring, upsell signals, onboarding tracking), e-commerce & retail AI (product copy, dynamic pricing, inventory forecasting, review insights, returns reduction, cart recovery), and field-service intelligence across +250 cities on 6 continents. Try any app free at ziontechgroup.com, or start with the free, always-online AI Discovery questionnaire at ziontechgroup.com/discovery/ — instant personalized results emailed to you and to our commercial team.
+
+## ⚡👥🛠️ Batch 72 — Energy, HR & ITOps AI (homepage cards) — NEW 2026-10-04
+
+> **Discovery is free and always online:** run the [2-minute AI Discovery questionnaire](https://ziontechgroup.com/discovery/) — personalized results emailed instantly to you and to commercial@ziontechgroup.com for optional expert follow-up.
+
+### Energy & Facilities AI
+- **Energy Consumption Forecaster** — load & usage forecasting with anomaly alerts → [live](https://ziontechgroup.com/energy-consumption-forecaster/) · [repo](https://github.com/Zion-support/energy-consumption-forecaster)
+- **Solar ROI Optimizer** — PV sizing, payback & incentives → [live](https://ziontechgroup.com/solar-roi-optimizer/) · [repo](https://github.com/Zion-support/solar-roi-optimizer)
+- **Grid Demand Balancer** — demand response & peak shaving → [live](https://ziontechgroup.com/grid-demand-balancer/) · [repo](https://github.com/Zion-support/grid-demand-balancer)
+- **Building Efficiency Auditor** — HVAC/lighting/envelope audits → [live](https://ziontechgroup.com/building-efficiency-auditor/) · [repo](https://github.com/Zion-support/building-efficiency-auditor)
+
+### HR & Workforce AI
+- **Shift Scheduler AI** — fair, compliant rosters → [live](https://ziontechgroup.com/shift-scheduler-ai/) · [repo](https://github.com/Zion-support/shift-scheduler-ai)
+- **Recruiting Screening AI** — bias-aware screening → [live](https://ziontechgroup.com/recruiting-screening-ai/) · [repo](https://github.com/Zion-support/recruiting-screening-ai)
+- **Employee Sentiment Pulse** — engagement analytics → [live](https://ziontechgroup.com/employee-sentiment-pulse/) · [repo](https://github.com/Zion-support/employee-sentiment-pulse)
+- **HR Onboarding Copilot** — guided onboarding → [live](https://ziontechgroup.com/hr-onboarding-copilot/) · [repo](https://github.com/Zion-support/hr-onboarding-copilot)
+
+### ITOps AI
+- **AI Infrastructure Monitor** — anomaly detection → [live](https://ziontechgroup.com/ai-infrastructure-monitor/) · [repo](https://github.com/Zion-support/ai-infrastructure-monitor)
+- **AI Capacity Planner** — capacity forecasting → [live](https://ziontechgroup.com/ai-capacity-planner/) · [repo](https://github.com/Zion-support/ai-capacity-planner)
+- **AI Cluster Manager** — K8s/VM fleet ops → [live](https://ziontechgroup.com/ai-cluster-manager/) · [repo](https://github.com/Zion-support/ai-cluster-manager)
+- **AI Backup Integrity** — backup verification & ransomware detection → [live](https://ziontechgroup.com/ai-backup-integrity/) · [repo](https://github.com/Zion-support/ai-backup-integrity)
+
+Full spotlight: [spotlights/batch-72-energy-hr-itops.html](spotlights/batch-72-energy-hr-itops.html) · Site page: https://ziontechgroup.com/app-network-batch72-oct04.html
