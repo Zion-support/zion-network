@@ -1,0 +1,20 @@
+{
+  "suite": "Field Service & Dispatch Ops AI",
+  "batch": 81,
+  "date": "2026-10-04",
+  "loop": "quote → cover → dispatch → route → execute → staff",
+  "apps": [
+    {"name": "Field Service Quote Engine", "repo": "https://github.com/Zion-support/field-service-quote-engine", "live": "https://ziontechgroup.com/field-service-quote-engine/", "role": "quote", "stage": 1},
+    {"name": "Geo Coverage Finder", "repo": "https://github.com/Zion-support/geo-coverage-finder", "live": "https://ziontechgroup.com/geo-coverage-finder/", "role": "cover", "stage": 2},
+    {"name": "Smart Dispatch Optimizer", "repo": "https://github.com/Zion-support/smart-dispatch-optimizer", "live": "https://ziontechgroup.com/smart-dispatch-optimizer/", "role": "dispatch", "stage": 3},
+    {"name": "Technician Route AI", "repo": "https://github.com/Zion-support/technician-route-ai", "live": "https://ziontechgroup.com/technician-route-ai/", "role": "route", "stage": 4},
+    {"name": "Onsite Work Order Copilot", "repo": "https://github.com/Zion-support/onsite-work-order-copilot", "live": "https://ziontechgroup.com/onsite-work-order-copilot/", "role": "execute", "stage": 5},
+    {"name": "Field Tech Marketplace", "repo": "https://github.com/Zion-support/field-tech-marketplace", "live": "https://ziontechgroup.com/field-tech-marketplace/", "role": "staff", "stage": 6}
+  ],
+  "related": [
+    "https://github.com/Zion-support/zion-network/blob/main/network/field-service-ai.md",
+    "https://github.com/Zion-support/zion-network/blob/main/network/field-city-sites.md"
+  ],
+  "spotlight": "spotlights/field-service-dispatch-ops-suite.md",
+  "homepage_ad": "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_FIELDOPS.md"
+}
