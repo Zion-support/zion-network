@@ -1,0 +1,17 @@
+{
+  "category": "Energy & Utilities AI",
+  "batch": 75,
+  "date": "2026-10-04",
+  "apps": [
+    {"name": "Energy Consumption Forecaster", "repo": "https://github.com/Zion-support/energy-consumption-forecaster", "live": "https://ziontechgroup.com/energy-consumption-forecaster/"},
+    {"name": "Grid Demand Balancer", "repo": "https://github.com/Zion-support/grid-demand-balancer", "live": "https://ziontechgroup.com/grid-demand-balancer/"},
+    {"name": "Smart Grid Load Balancer", "repo": "https://github.com/Zion-support/smart-grid-load-balancer", "live": "https://ziontechgroup.com/smart-grid-load-balancer/"},
+    {"name": "Building Efficiency Auditor", "repo": "https://github.com/Zion-support/building-efficiency-auditor", "live": "https://ziontechgroup.com/building-efficiency-auditor/"},
+    {"name": "Energy Audit Copilot", "repo": "https://github.com/Zion-support/energy-audit-copilot", "live": "https://ziontechgroup.com/energy-audit-copilot/"},
+    {"name": "Energy Optimizer AI", "repo": "https://github.com/Zion-support/energy-optimizer-ai", "live": "https://ziontechgroup.com/energy-optimizer-ai/"},
+    {"name": "Renewable Energy Forecaster", "repo": "https://github.com/Zion-support/renewable-energy-forecaster", "live": "https://ziontechgroup.com/renewable-energy-forecaster/"},
+    {"name": "Solar ROI Optimizer", "repo": "https://github.com/Zion-support/solar-roi-optimizer", "live": "https://ziontechgroup.com/solar-roi-optimizer/"},
+    {"name": "Renewable ROI Calculator", "repo": "https://github.com/Zion-support/renewable-roi-calculator", "live": "https://ziontechgroup.com/renewable-roi-calculator/"}
+  ],
+  "related_categories": ["sustainability-esg-ai", "cost-finops-cloud", "manufacturing-industrial-ai"]
+}
