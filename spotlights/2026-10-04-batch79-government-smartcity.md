@@ -1,4 +1,4 @@
-# Spotlight — Batch 76: Government, Public Sector & Smart City AI (2026-10-04)
+# Spotlight — Batch 79: Government, Public Sector & Smart City AI (2026-10-04)
 
 Ten interlinked apps for agencies, municipalities and smart-city operators, now live in the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/).
 

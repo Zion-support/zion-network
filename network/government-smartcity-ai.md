@@ -1,4 +1,4 @@
-# Government, Public Sector & Smart City AI — Batch 76 (2026-10-04)
+# Government, Public Sector & Smart City AI — Batch 79 (2026-10-04)
 
 Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Ten interlinked apps for governments, public sector agencies and smart-city operators. All free to explore online; deploy via the official plans (Discovery free → Consulting $499 → Starter $2,500 → Growth $8,000/mo).
 
@@ -20,5 +20,5 @@ Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). 
 - Hub: [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Network index](https://zion-support.github.io/zion-network/)
 - Related categories: [Legal & Contract Compliance AI](./legal-contract-compliance-ai.md) · [Compliance & GRC AI](./compliance-grc-ai.md) · [Data & Analytics](./data-analytics.md) · [Energy & Utilities AI](./energy-utilities-ai.md)
 - Free Discovery (always online, results emailed instantly to you and commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
-- Spotlight: [Batch 76 spotlight](../spotlights/2026-10-04-batch76-government-smartcity.md)
+- Spotlight: [Batch 79 spotlight](../spotlights/2026-10-04-batch79-government-smartcity.md)
 - Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch6.html

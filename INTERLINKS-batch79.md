@@ -1,8 +1,8 @@
-# INTERLINKS — Batch 76 (Government, Public Sector & Smart City AI)
+# INTERLINKS — Batch 79 (Government, Public Sector & Smart City AI)
 
-Every Batch 76 app links back to the hub, the category, sibling apps and the free Discovery questionnaire.
+Every Batch 79 app links back to the hub, the category, sibling apps and the free Discovery questionnaire.
 
-## Standard footer for each Batch 76 app page
+## Standard footer for each Batch 79 app page
 
 ```
 Part of the Zion AI App Network → https://ziontechgroup.com/zion-app-network/
@@ -16,5 +16,5 @@ Contact: commercial@ziontechgroup.com
 ## Outbound links added this batch
 
 - network/government-smartcity-ai.md → hub, 4 sibling categories, discovery, spotlight, homepage showcase
-- spotlights/2026-10-04-batch76-government-smartcity.md → all 10 apps + categories + discovery
+- spotlights/2026-10-04-batch79-government-smartcity.md → all 10 apps + categories + discovery
 - Homepage: https://ziontechgroup.com/apps/october-2026-batch6.html → all 10 apps + apps index + discovery
