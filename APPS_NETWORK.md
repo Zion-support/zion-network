@@ -8,6 +8,13 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 - 🔎 Free AI Discovery: [app-network-discovery.html](https://ziontechgroup.com/app-network-discovery.html) — always online, always free, instant results to you + our commercial team
 
+## 🚀 Latest Additions (2026-10-04, Batch 79)
+
+- New spotlight: **[🏥 Healthcare & Life Sciences AI Suite](spotlights/healthcare-life-sciences-v2-suite.md)** — 6 interlinked apps: screen → plan → monitor → document → bill → engage ([registry](network/healthcare-v2-apps.json)).
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT4_HEALTHCARE.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_HEALTHCARE.md) (+ HTML version).
+- Discovery v2 (auto-reply + dual email) committed — Pages deploy queue still serving v1; re-verification pending.
+- Session log: [logs/UPDATE_2026-10-04_SESSION_C.md](logs/UPDATE_2026-10-04_SESSION_C.md).
+
 ## 🚀 Latest Additions (2026-10-04, Batch 78)
 
 - New spotlight: **[🛡️ DevSecOps & AI Code Quality Suite](spotlights/devsecops-ai-code-quality-suite.md)** — 4 interlinked apps: review → threat-model → evaluate → route ([registry](network/devsecops-ai-apps.json)).
@@ -71,6 +78,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [DevSecOps & AI Code Quality Suite (Batch 78)](spotlights/devsecops-ai-code-quality-suite.md).
+Latest spotlight: [Healthcare & Life Sciences AI Suite (Batch 79)](spotlights/healthcare-life-sciences-v2-suite.md).
 
-_Updated 2026-10-04 (Batch 78) — 544+ public repos, 325+ registered apps; 44+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-04 (Batch 79) — 544+ public repos, 325+ registered apps; 44+ category pages indexed. Historical batch details preserved in git history._

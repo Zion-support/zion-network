@@ -1,0 +1,20 @@
+{
+  "suite": "Healthcare & Life Sciences AI (v2)",
+  "batch": 79,
+  "date": "2026-10-04",
+  "loop": "screen → plan → monitor → document → bill → engage",
+  "compliance": ["HIPAA-conscious design", "audit-ready logging", "role-based access"],
+  "apps": [
+    {"name": "Health Risk Screener", "repo": "https://github.com/Zion-support/health-risk-screener", "live": "https://ziontechgroup.com/health-risk-screener/", "role": "screen", "stage": 1},
+    {"name": "Care Plan Generator", "repo": "https://github.com/Zion-support/care-plan-generator", "live": "https://ziontechgroup.com/care-plan-generator/", "role": "plan", "stage": 2},
+    {"name": "Remote Patient Monitoring AI", "repo": "https://github.com/Zion-support/remote-patient-monitoring-ai", "live": "https://ziontechgroup.com/remote-patient-monitoring-ai/", "role": "monitor", "stage": 3},
+    {"name": "Clinical Documentation AI", "repo": "https://github.com/Zion-support/clinical-documentation-ai", "live": "https://ziontechgroup.com/clinical-documentation-ai/", "role": "document", "stage": 4},
+    {"name": "Medical Billing Auditor", "repo": "https://github.com/Zion-support/medical-billing-auditor", "live": "https://ziontechgroup.com/medical-billing-auditor/", "role": "bill", "stage": 5},
+    {"name": "Patient Engagement Copilot", "repo": "https://github.com/Zion-support/patient-engagement-copilot", "live": "https://ziontechgroup.com/patient-engagement-copilot/", "role": "engage", "stage": 6}
+  ],
+  "related": [
+    "https://github.com/Zion-support/zion-ai-governance"
+  ],
+  "spotlight": "spotlights/healthcare-life-sciences-v2-suite.md",
+  "homepage_ad": "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_HEALTHCARE.md"
+}
