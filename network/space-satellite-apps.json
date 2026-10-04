@@ -1,0 +1,18 @@
+{
+  "suite": "Space & Satellite Ops AI",
+  "batch": 77,
+  "date": "2026-10-04",
+  "loop": "screen → schedule → monitor → deploy",
+  "apps": [
+    {"name": "Orbital Conjunction Screener", "repo": "https://github.com/Zion-support/orbital-conjunction-screener", "live": "https://ziontechgroup.com/orbital-conjunction-screener/", "role": "screen", "stage": 1},
+    {"name": "Satellite Pass Scheduler", "repo": "https://github.com/Zion-support/satellite-pass-scheduler", "live": "https://ziontechgroup.com/satellite-pass-scheduler/", "role": "schedule", "stage": 2},
+    {"name": "Ground Station Link Monitor", "repo": "https://github.com/Zion-support/ground-station-link-monitor", "live": "https://ziontechgroup.com/ground-station-link-monitor/", "role": "monitor", "stage": 3},
+    {"name": "AI Edge Deployer", "repo": "https://github.com/Zion-support/ai-edge-deployer", "live": "https://ziontechgroup.com/ai-edge-deployer/", "role": "deploy", "stage": 4}
+  ],
+  "related": [
+    "https://github.com/Zion-support/zion-ai-governance",
+    "https://github.com/Zion-support/zion-edge-ai-platform"
+  ],
+  "spotlight": "spotlights/space-satellite-ops-suite.md",
+  "homepage_ad": "https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_SPACE.md"
+}

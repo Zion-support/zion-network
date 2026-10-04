@@ -7,6 +7,13 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - 🗂️ Hub: [zion-network](https://zion-support.github.io/zion-network/) · [network.ziontechgroup.com](https://network.ziontechgroup.com)
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 
+## 🚀 Latest Additions (2026-10-04, Batch 77)
+
+- New spotlight: **[🛰️ Space & Satellite Ops AI Suite](spotlights/space-satellite-ops-suite.md)** — 4 interlinked apps: screen conjunctions → schedule passes → monitor links → deploy edge AI. Registry: [network/space-satellite-apps.json](network/space-satellite-apps.json).
+- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT4_SPACE.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_SPACE.md) (+ [HTML version](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_SPACE.html)).
+- ai-edge-deployer README enriched with live links + full interlink block; network footers added to all 4 suite repos.
+- Session log: [logs/UPDATE_2026-10-04_SESSION.md](logs/UPDATE_2026-10-04_SESSION.md).
+
 ## 🚀 Latest Additions (2026-10-04, Batch 75)
 
 - New category: **[⚡ Energy & Utilities AI](network/energy-utilities-ai.md)** — 9 interlinked apps: forecast → balance → audit → optimize → report ([registry](network/energy-utilities-apps.json)).
@@ -56,6 +63,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [Energy & Utilities AI (Batch 75)](spotlights/2026-10-04-batch75-energy-utilities.md).
+Latest spotlight: [Space & Satellite Ops AI Suite (Batch 77)](spotlights/space-satellite-ops-suite.md).
 
-_Updated 2026-10-04 (Batch 75) — 544+ public repos, 325+ registered apps; 44+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-04 (Batch 77) — 544+ public repos, 325+ registered apps; 44+ category pages indexed. Historical batch details preserved in git history._
