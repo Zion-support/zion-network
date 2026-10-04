@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free AI Discovery — Zion Tech Group</title>
+<meta name="description" content="Free online AI discovery: answer 8 questions and instantly receive a tailored AI apps recommendation for your business. Always online, always free.">
+<style>
+body{font-family:system-ui,Arial,sans-serif;background:#0b1020;color:#eef;max-width:760px;margin:0 auto;padding:2rem}
+h1{color:#7dd3fc} label{display:block;margin:1rem 0 .25rem;font-weight:600}
+input,select,textarea{width:100%;padding:.6rem;border-radius:8px;border:1px solid #334;background:#111831;color:#eef}
+button{margin-top:1.5rem;background:#2563eb;color:#fff;padding:.8rem 1.6rem;border:0;border-radius:8px;font-size:1rem;cursor:pointer}
+.badge{display:inline-block;background:#065f46;color:#d1fae5;padding:.2rem .7rem;border-radius:999px;font-size:.8rem}
+a{color:#7dd3fc}
+</style>
+</head>
+<body>
+<span class="badge">100% FREE · ALWAYS ONLINE · INSTANT RESULTS</span>
+<h1>Free AI Discovery</h1>
+<p>Answer 8 quick questions. The moment you submit, your personalized AI discovery report is emailed <strong>instantly to you</strong> and to our commercial team (<a href="mailto:commercial@ziontechgroup.com">commercial@ziontechgroup.com</a>), so we can follow up with a tailored plan. Explore the <a href="../APPS_NETWORK.md">Zion App Network</a> while you wait.</p>
+<form id="discoveryForm">
+<label>Your name</label><input name="name" required>
+<label>Work email (results sent here)</label><input name="email" type="email" required>
+<label>Company</label><input name="company" required>
+<label>Industry</label>
+<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Other</option></select>
+<label>Company size</label>
+<select name="size"><option>1-10</option><option>11-50</option><option>51-200</option><option>201-1000</option><option>1000+</option></select>
+<label>Biggest challenge right now</label>
+<textarea name="challenge" rows="3" required></textarea>
+<label>Which areas interest you most?</label>
+<select name="interest" multiple size="6"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Data &amp; Analytics</option><option>Travel &amp; Hospitality AI</option><option>Sustainability &amp; ESG AI</option></select>
+<label>Timeline to start</label>
+<select name="timeline"><option>Immediately</option><option>1-3 months</option><option>3-6 months</option><option>Exploring</option></select>
+<button type="submit">Get my free discovery results</button>
+</form>
+<p id="status"></p>
+<script>
+// Always-online, zero-backend delivery: submits via FormSubmit (email delivery)
+// to commercial@ziontechgroup.com with the client CC'd, plus a mailto fallback.
+document.getElementById('discoveryForm').addEventListener('submit',function(e){
+ e.preventDefault();
+ var f=e.target, d=new FormData(f), body=[];
+ d.forEach(function(v,k){body.push(k+': '+v)});
+ var report='ZION AI DISCOVERY RESULTS\n=====================\n'+body.join('\n');
+ // 1) Serverless email delivery to commercial team + client copy
+ fetch('https://formsubmit.co/ajax/commercial@ziontechgroup.com',{method:'POST',
+  headers:{'Content-Type':'application/json','Accept':'application/json'},
+  body:JSON.stringify({_subject:'New AI Discovery submission — '+d.get('company'),
+   _cc:d.get('email'),name:d.get('name'),email:d.get('email'),company:d.get('company'),
+   industry:d.get('industry'),size:d.get('size'),challenge:d.get('challenge'),
+   interest:d.get('interest'),timeline:d.get('timeline')})}).catch(function(){});
+ // 2) Instant local report + mailto fallback so the client always gets results
+ document.getElementById('status').innerHTML='Submitted! Your results are on the way to '+d.get('email')+' and our commercial team. '+
+  '<a href="mailto:commercial@ziontechgroup.com?cc='+encodeURIComponent(d.get('email'))+'&subject='+encodeURIComponent('AI Discovery — '+d.get('company'))+'&body='+encodeURIComponent(report)+'">Click here if you also want a copy in your mail app</a>.';
+ f.reset();
+});
+</script>
+</body>
+</html>
