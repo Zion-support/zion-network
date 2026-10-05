@@ -1,0 +1,24 @@
+{
+ "batch": 85,
+ "category": "AgTech & Food Supply Chain AI",
+ "date": "2026-10-05",
+ "apps": [
+  {"id":"ai-crop-yield-forecaster","repo":"zion-ai-crop-yield-forecaster","url":"https://ziontechgroup.com/zion-ai-crop-yield-forecaster/"},
+  {"id":"ai-pest-disease-scout","repo":"zion-ai-pest-disease-scout","url":"https://ziontechgroup.com/zion-ai-pest-disease-scout/"},
+  {"id":"ai-smart-irrigation-planner","repo":"zion-ai-smart-irrigation-planner","url":"https://ziontechgroup.com/zion-ai-smart-irrigation-planner/"},
+  {"id":"ai-soil-health-analyzer","repo":"zion-ai-soil-health-analyzer","url":"https://ziontechgroup.com/zion-ai-soil-health-analyzer/"},
+  {"id":"ai-livestock-health-monitor","repo":"zion-ai-livestock-health-monitor","url":"https://ziontechgroup.com/zion-ai-livestock-health-monitor/"},
+  {"id":"ai-harvest-scheduler","repo":"zion-ai-harvest-scheduler","url":"https://ziontechgroup.com/zion-ai-harvest-scheduler/"},
+  {"id":"ai-cold-chain-guardian","repo":"zion-ai-cold-chain-guardian","url":"https://ziontechgroup.com/zion-ai-cold-chain-guardian/"},
+  {"id":"ai-food-safety-compliance","repo":"zion-ai-food-safety-compliance","url":"https://ziontechgroup.com/zion-ai-food-safety-compliance/"},
+  {"id":"ai-farm-market-pricer","repo":"zion-ai-farm-market-pricer","url":"https://ziontechgroup.com/zion-ai-farm-market-pricer/"},
+  {"id":"ai-supply-traceability-ledger","repo":"zion-ai-supply-traceability-ledger","url":"https://ziontechgroup.com/zion-ai-supply-traceability-ledger/"}
+ ],
+ "interlinks": {
+  "spotlight": "spotlights/2026-10-05-batch85-agtech-food-supply.md",
+  "category": "network/agtech-food-supply-ai.md",
+  "registry": "network.json",
+  "discovery": "discovery/",
+  "hub": "https://ziontechgroup.com"
+ }
+}
