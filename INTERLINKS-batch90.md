@@ -1,16 +1,43 @@
-# 🔗 INTERLINKS — Batch 90 (Sports, Fitness & Fan Engagement AI)
+# 🔗 INTERLINKS — Batch 90: Sports, Fitness & Wellness AI (2026-10-05)
 
-Every app README links back to the network. Cross-links:
+Every app cross-links to the other 7 and to hub/discovery.
 
-- `fan-engagement-copilot` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `ticket-dynamic-pricing` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `athlete-performance-analyzer` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `injury-risk-predictor` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `training-plan-generator` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `match-day-ops-planner` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `sponsorship-roi-tracker` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `highlight-reel-generator` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `concessions-demand-forecaster` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
-- `fitness-retention-predictor` → category: network/sports-fitness-fan-ai.md · hub: https://ziontechgroup.com/apps/ · discovery: https://ziontechgroup.com/discovery/
+## ai-training-load-optimizer
+- Self: https://ziontechgroup.com/ai-training-load-optimizer/
+- Links: https://ziontechgroup.com/ai-injury-risk-predictor/, https://ziontechgroup.com/ai-nutrition-meal-planner/, https://ziontechgroup.com/ai-game-footage-analyst/, https://ziontechgroup.com/ai-fitness-class-scheduler/, https://ziontechgroup.com/ai-member-churn-guardian/, https://ziontechgroup.com/ai-wellness-coach-chat/, https://ziontechgroup.com/ai-event-ticket-pricer/
+- Hub: https://ziontechgroup.com/app-network/ · Discovery: https://zion-support.github.io/zion-network/discovery/
 
-Related categories: hospitality-travel-ai (batch 89), construction-proptech-ai (batch 88), automotive-mobility-ai (batch 86), marketing-growth-ai, data-analytics.
+## ai-injury-risk-predictor
+- Self: https://ziontechgroup.com/ai-injury-risk-predictor/
+- Links: https://ziontechgroup.com/ai-training-load-optimizer/, https://ziontechgroup.com/ai-nutrition-meal-planner/, https://ziontechgroup.com/ai-game-footage-analyst/, https://ziontechgroup.com/ai-fitness-class-scheduler/, https://ziontechgroup.com/ai-member-churn-guardian/, https://ziontechgroup.com/ai-wellness-coach-chat/, https://ziontechgroup.com/ai-event-ticket-pricer/
+- Hub: https://ziontechgroup.com/app-network/ · Discovery: https://zion-support.github.io/zion-network/discovery/
+
+## ai-nutrition-meal-planner
+- Self: https://ziontechgroup.com/ai-nutrition-meal-planner/
+- Links: https://ziontechgroup.com/ai-training-load-optimizer/, https://ziontechgroup.com/ai-injury-risk-predictor/, https://ziontechgroup.com/ai-game-footage-analyst/, https://ziontechgroup.com/ai-fitness-class-scheduler/, https://ziontechgroup.com/ai-member-churn-guardian/, https://ziontechgroup.com/ai-wellness-coach-chat/, https://ziontechgroup.com/ai-event-ticket-pricer/
+- Hub: https://ziontechgroup.com/app-network/ · Discovery: https://zion-support.github.io/zion-network/discovery/
+
+## ai-game-footage-analyst
+- Self: https://ziontechgroup.com/ai-game-footage-analyst/
+- Links: https://ziontechgroup.com/ai-training-load-optimizer/, https://ziontechgroup.com/ai-injury-risk-predictor/, https://ziontechgroup.com/ai-nutrition-meal-planner/, https://ziontechgroup.com/ai-fitness-class-scheduler/, https://ziontechgroup.com/ai-member-churn-guardian/, https://ziontechgroup.com/ai-wellness-coach-chat/, https://ziontechgroup.com/ai-event-ticket-pricer/
+- Hub: https://ziontechgroup.com/app-network/ · Discovery: https://zion-support.github.io/zion-network/discovery/
+
+## ai-fitness-class-scheduler
+- Self: https://ziontechgroup.com/ai-fitness-class-scheduler/
+- Links: https://ziontechgroup.com/ai-training-load-optimizer/, https://ziontechgroup.com/ai-injury-risk-predictor/, https://ziontechgroup.com/ai-nutrition-meal-planner/, https://ziontechgroup.com/ai-game-footage-analyst/, https://ziontechgroup.com/ai-member-churn-guardian/, https://ziontechgroup.com/ai-wellness-coach-chat/, https://ziontechgroup.com/ai-event-ticket-pricer/
+- Hub: https://ziontechgroup.com/app-network/ · Discovery: https://zion-support.github.io/zion-network/discovery/
+
+## ai-member-churn-guardian
+- Self: https://ziontechgroup.com/ai-member-churn-guardian/
+- Links: https://ziontechgroup.com/ai-training-load-optimizer/, https://ziontechgroup.com/ai-injury-risk-predictor/, https://ziontechgroup.com/ai-nutrition-meal-planner/, https://ziontechgroup.com/ai-game-footage-analyst/, https://ziontechgroup.com/ai-fitness-class-scheduler/, https://ziontechgroup.com/ai-wellness-coach-chat/, https://ziontechgroup.com/ai-event-ticket-pricer/
+- Hub: https://ziontechgroup.com/app-network/ · Discovery: https://zion-support.github.io/zion-network/discovery/
+
+## ai-wellness-coach-chat
+- Self: https://ziontechgroup.com/ai-wellness-coach-chat/
+- Links: https://ziontechgroup.com/ai-training-load-optimizer/, https://ziontechgroup.com/ai-injury-risk-predictor/, https://ziontechgroup.com/ai-nutrition-meal-planner/, https://ziontechgroup.com/ai-game-footage-analyst/, https://ziontechgroup.com/ai-fitness-class-scheduler/, https://ziontechgroup.com/ai-member-churn-guardian/, https://ziontechgroup.com/ai-event-ticket-pricer/
+- Hub: https://ziontechgroup.com/app-network/ · Discovery: https://zion-support.github.io/zion-network/discovery/
+
+## ai-event-ticket-pricer
+- Self: https://ziontechgroup.com/ai-event-ticket-pricer/
+- Links: https://ziontechgroup.com/ai-training-load-optimizer/, https://ziontechgroup.com/ai-injury-risk-predictor/, https://ziontechgroup.com/ai-nutrition-meal-planner/, https://ziontechgroup.com/ai-game-footage-analyst/, https://ziontechgroup.com/ai-fitness-class-scheduler/, https://ziontechgroup.com/ai-member-churn-guardian/, https://ziontechgroup.com/ai-wellness-coach-chat/
+- Hub: https://ziontechgroup.com/app-network/ · Discovery: https://zion-support.github.io/zion-network/discovery/

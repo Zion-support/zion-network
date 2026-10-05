@@ -1,26 +1,37 @@
-# Sports, Fitness & Wellness AI — Batch 90
+# 🏆 Sports, Fitness & Wellness AI — Batch 90 (2026-10-05)
 
-10 AI apps for clubs, gyms, teams, athletes and corporate wellness programs. Fully interlinked with the [Zion App Network](../APPS_NETWORK.md).
+8 fully interlinked AI apps covering the athlete-to-fan journey: train smarter, stay healthy, fill classes, price tickets.
 
-| App | Repo | Live |
-|---|---|---|
-| Training Plan AI | [Zion-support/training-plan-ai](https://github.com/Zion-support/training-plan-ai) | https://ziontechgroup.com/training-plan-ai/ |
-| Injury Risk Monitor | [Zion-support/injury-risk-monitor](https://github.com/Zion-support/injury-risk-monitor) | https://ziontechgroup.com/injury-risk-monitor/ |
-| Nutrition Coach AI | [Zion-support/nutrition-coach-ai](https://github.com/Zion-support/nutrition-coach-ai) | https://ziontechgroup.com/nutrition-coach-ai/ |
-| Gym Membership Retention | [Zion-support/gym-membership-retention](https://github.com/Zion-support/gym-membership-retention) | https://ziontechgroup.com/gym-membership-retention/ |
-| Class Schedule Optimizer | [Zion-support/class-schedule-optimizer](https://github.com/Zion-support/class-schedule-optimizer) | https://ziontechgroup.com/class-schedule-optimizer/ |
-| Sports Video Highlights | [Zion-support/sports-video-highlights](https://github.com/Zion-support/sports-video-highlights) | https://ziontechgroup.com/sports-video-highlights/ |
-| Fan Engagement AI | [Zion-support/fan-engagement-ai](https://github.com/Zion-support/fan-engagement-ai) | https://ziontechgroup.com/fan-engagement-ai/ |
-| Wellness Program Tracker | [Zion-support/wellness-program-tracker](https://github.com/Zion-support/wellness-program-tracker) | https://ziontechgroup.com/wellness-program-tracker/ |
-| Sleep Recovery Coach | [Zion-support/sleep-recovery-coach](https://github.com/Zion-support/sleep-recovery-coach) | https://ziontechgroup.com/sleep-recovery-coach/ |
-| Race Event Planner | [Zion-support/race-event-planner](https://github.com/Zion-support/race-event-planner) | https://ziontechgroup.com/race-event-planner/ |
+| App | What it does |
+|---|---|
+| [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/) | AI periodization & training-load optimizer for athletes and teams |
+| [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/) | Computer-vision + wearable injury risk prediction and prevention alerts |
+| [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/) | Personalized sports nutrition & meal planning engine |
+| [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/) | Automated game-footage tagging, scouting reports and highlight reels |
+| [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/) | Gym & studio class scheduling, capacity and instructor optimization |
+| [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/) | Membership churn prediction and win-back automation for gyms & clubs |
+| [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/) | 24/7 AI wellness coach: sleep, stress, recovery and habit coaching |
+| [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/) | Dynamic pricing & demand forecasting for sports and live events |
 
 ## Interlink mesh
-- Athlete stack: Training Plan AI + Injury Risk Monitor + Sleep Recovery Coach + Nutrition Coach AI
-- Gym stack: Gym Membership Retention + Class Schedule Optimizer + Wellness Program Tracker
-- Club/league stack: Fan Engagement AI + Sports Video Highlights + Race Event Planner
+Every app links to every other app in this suite and back to the network hub:
+- **[ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/)** ↔ [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/), [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/), [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/), [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/), [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/), [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/), [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/)
+- **[ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/)** ↔ [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/), [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/), [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/), [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/), [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/), [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/), [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/)
+- **[ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/)** ↔ [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/), [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/), [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/), [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/), [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/), [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/), [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/)
+- **[ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/)** ↔ [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/), [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/), [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/), [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/), [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/), [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/), [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/)
+- **[ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/)** ↔ [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/), [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/), [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/), [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/), [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/), [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/), [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/)
+- **[ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/)** ↔ [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/), [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/), [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/), [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/), [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/), [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/), [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/)
+- **[ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/)** ↔ [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/), [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/), [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/), [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/), [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/), [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/), [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/)
+- **[ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/)** ↔ [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/), [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/), [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/), [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/), [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/), [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/), [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/)
 
 ## Related categories
-- [Healthcare & Education AI](healthcare-education-ai.md) · [Travel & Hospitality AI](travel-hospitality-ai.md) · [Marketing & Growth AI](marketing-growth-ai.md)
+- [Travel, Hospitality & Guest Experience AI](travel-hospitality-ai.md)
+- [Healthcare & Education AI](healthcare-education-ai.md)
+- [Energy & Utilities AI](energy-utilities-ai.md)
+- [Construction & PropTech AI](construction-proptech-ai.md)
+- [Nonprofit & Social Impact AI](nonprofit-social-impact-ai.md)
 
-Registry: [sports-fitness-wellness-apps.json](sports-fitness-wellness-apps.json) · Spotlight: [batch90 spotlight](../spotlights/2026-10-05-batch90-sports-fitness-wellness.md) · Free discovery: https://zion-support.github.io/zion-network/discovery/
+## Free Discovery
+Not sure which fits? Take the **[free, always-online Discovery questionnaire](../discovery/index.html)** — instant results to you and our commercial team (commercial@ziontechgroup.com).
+
+**[← Back to App Network Index](../APPS_NETWORK.md)** · Registry: [sports-fitness-wellness-apps.json](sports-fitness-wellness-apps.json)

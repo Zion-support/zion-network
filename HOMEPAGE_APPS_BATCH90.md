@@ -1,18 +1,19 @@
-# 🏟️ HOMEPAGE APPS — Batch 90: Sports, Fitness & Fan Engagement AI (2026-10-05)
+# 🏠 Homepage Content — Batch 90: Sports, Fitness & Wellness AI (2026-10-05)
 
-Copy-paste block for the ziontechgroup.com homepage apps section.
+**Live on the homepage:** spotlight ad [APP_NETWORK_SPOTLIGHT_OCT05_BATCH90_SPORTS.md/.html](https://github.com/Zion-support/zion-support.github.io) and showcase [apps/october-2026-batch13.html](https://ziontechgroup.com/apps/october-2026-batch13.html).
 
-| App | URL | Repo |
-|---|---|---|
-| Fan Engagement Copilot | https://ziontechgroup.com/fan-engagement-copilot/ | https://github.com/Zion-support/fan-engagement-copilot |
-| Ticket Dynamic Pricing | https://ziontechgroup.com/ticket-dynamic-pricing/ | https://github.com/Zion-support/ticket-dynamic-pricing |
-| Athlete Performance Analyzer | https://ziontechgroup.com/athlete-performance-analyzer/ | https://github.com/Zion-support/athlete-performance-analyzer |
-| Injury Risk Predictor | https://ziontechgroup.com/injury-risk-predictor/ | https://github.com/Zion-support/injury-risk-predictor |
-| Training Plan Generator | https://ziontechgroup.com/training-plan-generator/ | https://github.com/Zion-support/training-plan-generator |
-| Match-Day Ops Planner | https://ziontechgroup.com/match-day-ops-planner/ | https://github.com/Zion-support/match-day-ops-planner |
-| Sponsorship ROI Tracker | https://ziontechgroup.com/sponsorship-roi-tracker/ | https://github.com/Zion-support/sponsorship-roi-tracker |
-| Highlight Reel Generator | https://ziontechgroup.com/highlight-reel-generator/ | https://github.com/Zion-support/highlight-reel-generator |
-| Concessions Demand Forecaster | https://ziontechgroup.com/concessions-demand-forecaster/ | https://github.com/Zion-support/concessions-demand-forecaster |
-| Fitness Retention Predictor | https://ziontechgroup.com/fitness-retention-predictor/ | https://github.com/Zion-support/fitness-retention-predictor |
+## Headline
+New: Sports, Fitness & Wellness AI — 8 apps that take you from training load to ticket pricing.
 
-CTA: Start the free AI Discovery questionnaire → https://ziontechgroup.com/discovery/ (100% free, online, always available — results instantly emailed to you and our commercial team).
+## Apps
+- [ai-training-load-optimizer](https://ziontechgroup.com/ai-training-load-optimizer/) — AI periodization & training-load optimizer for athletes and teams
+- [ai-injury-risk-predictor](https://ziontechgroup.com/ai-injury-risk-predictor/) — Computer-vision + wearable injury risk prediction and prevention alerts
+- [ai-nutrition-meal-planner](https://ziontechgroup.com/ai-nutrition-meal-planner/) — Personalized sports nutrition & meal planning engine
+- [ai-game-footage-analyst](https://ziontechgroup.com/ai-game-footage-analyst/) — Automated game-footage tagging, scouting reports and highlight reels
+- [ai-fitness-class-scheduler](https://ziontechgroup.com/ai-fitness-class-scheduler/) — Gym & studio class scheduling, capacity and instructor optimization
+- [ai-member-churn-guardian](https://ziontechgroup.com/ai-member-churn-guardian/) — Membership churn prediction and win-back automation for gyms & clubs
+- [ai-wellness-coach-chat](https://ziontechgroup.com/ai-wellness-coach-chat/) — 24/7 AI wellness coach: sleep, stress, recovery and habit coaching
+- [ai-event-ticket-pricer](https://ziontechgroup.com/ai-event-ticket-pricer/) — Dynamic pricing & demand forecasting for sports and live events
+
+## Discovery CTA (always online, always free)
+Take the free 60-second Discovery questionnaire → instant personalized results on-screen **and** emailed to you + commercial@ziontechgroup.com: https://ziontechgroup.com/app-network-discovery.html
