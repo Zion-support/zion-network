@@ -1,25 +1,16 @@
-# Spotlight 2026-10-05 — Batch 89: Space, Edge & Sustainability AI
+# 🔦 SPOTLIGHT — 2026-10-05 — Batch 89: Hospitality & Travel AI
 
-Six new micro-apps join the Zion AI App Network. All are free to explore online and wired into the [free AI Discovery questionnaire](https://ziontechgroup.com/discovery/).
+Six new free, open-source AI micro-apps join the Zion App Network, fully interlinked:
 
-| App | Repo | Live URL |
-|---|---|---|
-| Orbital Conjunction Screener | Zion-support/orbital-conjunction-screener | https://ziontechgroup.com/orbital-conjunction-screener/ |
-| Ground Station Link Monitor | Zion-support/ground-station-link-monitor | https://ziontechgroup.com/ground-station-link-monitor/ |
-| Satellite Pass Scheduler | Zion-support/satellite-pass-scheduler | https://ziontechgroup.com/satellite-pass-scheduler/ |
-| AI Edge Deployer | Zion-support/ai-edge-deployer | https://ziontechgroup.com/ai-edge-deployer/ |
-| Website Carbon Estimator | Zion-support/website-carbon-estimator | https://ziontechgroup.com/website-carbon-estimator/ |
-| Water Usage Optimizer | Zion-support/water-usage-optimizer | https://ziontechgroup.com/water-usage-optimizer/ |
+1. **[Guest Experience Concierge](https://github.com/Zion-support/guest-experience-concierge)** — AI concierge: upsells, request routing, local recs. → https://ziontechgroup.com/guest-experience-concierge/
+2. **[Hotel Dynamic Pricing](https://github.com/Zion-support/hotel-dynamic-pricing)** — demand/event/competitor-aware rates. → https://ziontechgroup.com/hotel-dynamic-pricing/
+3. **[Booking Channel Optimizer](https://github.com/Zion-support/booking-channel-optimizer)** — cut OTA commissions, grow direct. → https://ziontechgroup.com/booking-channel-optimizer/
+4. **[Housekeeping Scheduler AI](https://github.com/Zion-support/housekeeping-scheduler-ai)** — turnover prediction + staff assignment. → https://ziontechgroup.com/housekeeping-scheduler-ai/
+5. **[Travel Itinerary Builder](https://github.com/Zion-support/travel-itinerary-builder)** — multi-city plans with budgets. → https://ziontechgroup.com/travel-itinerary-builder/
+6. **[Menu Margin Optimizer](https://github.com/Zion-support/menu-margin-optimizer)** — menu engineering & margin analysis. → https://ziontechgroup.com/menu-margin-optimizer/
 
-## Why this batch
-- **Space & satellite ops**: screen conjunction risks, monitor ground-station links, and schedule passes without a mission-control budget.
-- **Edge AI**: deploy and manage models at the edge with the AI Edge Deployer, complementing the flagship [Edge AI Platform](https://edge-ai.ziontechgroup.com).
-- **Sustainability**: measure website carbon and optimize water usage — pairs with batch-72 Energy & Sustainability apps (carbon-footprint-tracker, esg-report-builder, energy-consumption-forecaster).
+## Discovery CTA
+Free, online, always available → https://ziontechgroup.com/discovery/
+Results are instantly emailed to the client and to commercial@ziontechgroup.com.
 
-## Discovery benefits (always free, always online)
-- Instant app recommendations matched to your industry and score.
-- Results emailed simultaneously to you and our commercial team (commercial@ziontechgroup.com) the moment you submit.
-- Zero cost, zero signup wall: https://ziontechgroup.com/discovery/
-
-## Interlinks
-See [INTERLINKS-batch89.md](INTERLINKS-batch89.md), [HOMEPAGE_APPS_BATCH89.md](HOMEPAGE_APPS_BATCH89.md), [homepage-content-batch89.md](homepage-content-batch89.md). Hub: https://zion-support.github.io/zion-network/ — Showcase: https://ziontechgroup.com/apps/network.html
+Previous spotlight: [Batch 75 — Logistics & Supply Chain AI](SPOTLIGHT-2026-10-05-BATCH75.md)
