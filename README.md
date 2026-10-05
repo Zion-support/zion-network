@@ -31,27 +31,20 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 90: Healthcare & Wellness AI (2026-10-05)
-See [SPOTLIGHT-2026-10-05-BATCH90.md](SPOTLIGHT-2026-10-05-BATCH90.md), [INTERLINKS-batch90.md](INTERLINKS-batch90.md) and homepage pack [HOMEPAGE_APPS_BATCH90.md](HOMEPAGE_APPS_BATCH90.md)
+## Latest batch — Batch 93: Manufacturing & Industrial AI (2026-10-05)
+See [SPOTLIGHT-2026-10-05-BATCH93.md](SPOTLIGHT-2026-10-05-BATCH93.md), [INTERLINKS-batch93.md](INTERLINKS-batch93.md) and homepage pack [HOMEPAGE_APPS_BATCH93.md](HOMEPAGE_APPS_BATCH93.md)
 | App | Repo | URL |
 |---|---|---|
-| Appointment No-Show Predictor | Zion-support/appointment-no-show-predictor | https://ziontechgroup.com/appointment-no-show-predictor/ |
-| Patient Intake Copilot | Zion-support/patient-intake-copilot | https://ziontechgroup.com/patient-intake-copilot/ |
-| Claim Denial Appealer | Zion-support/claim-denial-appealer | https://ziontechgroup.com/claim-denial-appealer/ |
-| Wellness Program Planner | Zion-support/wellness-program-planner | https://ziontechgroup.com/wellness-program-planner/ |
-| Telehealth Triage AI | Zion-support/telehealth-triage-ai | https://ziontechgroup.com/telehealth-triage-ai/ |
-| Clinic Inventory Tracker | Zion-support/clinic-inventory-tracker | https://ziontechgroup.com/clinic-inventory-tracker/ |
+| Production Scheduler AI | Zion-support/production-scheduler-ai | https://ziontechgroup.com/production-scheduler-ai/ |
+| OEE Analytics Copilot | Zion-support/oee-analytics-copilot | https://ziontechgroup.com/oee-analytics-copilot/ |
+| Energy Load Shifter | Zion-support/energy-load-shifter | https://ziontechgroup.com/energy-load-shifter/ |
+| Safety Incident Analyzer | Zion-support/safety-incident-analyzer | https://ziontechgroup.com/safety-incident-analyzer/ |
+| Downtime Root Cause AI | Zion-support/downtime-root-cause-ai | https://ziontechgroup.com/downtime-root-cause-ai/ |
+| Spare Parts Forecaster | Zion-support/spare-parts-forecaster | https://ziontechgroup.com/spare-parts-forecaster/ |
 
-## Previous batch — Batch 89: Hospitality & Travel AI (2026-10-05)
-See [SPOTLIGHT-2026-10-05-BATCH89.md](SPOTLIGHT-2026-10-05-BATCH89.md), [INTERLINKS-batch89.md](INTERLINKS-batch89.md), [HOMEPAGE_APPS_BATCH89.md](HOMEPAGE_APPS_BATCH89.md)
-| App | Repo | URL |
-|---|---|---|
-| Guest Experience Concierge | Zion-support/guest-experience-concierge | https://ziontechgroup.com/guest-experience-concierge/ |
-| Hotel Dynamic Pricing | Zion-support/hotel-dynamic-pricing | https://ziontechgroup.com/hotel-dynamic-pricing/ |
-| Booking Channel Optimizer | Zion-support/booking-channel-optimizer | https://ziontechgroup.com/booking-channel-optimizer/ |
-| Housekeeping Scheduler AI | Zion-support/housekeeping-scheduler-ai | https://ziontechgroup.com/housekeeping-scheduler-ai/ |
-| Travel Itinerary Builder | Zion-support/travel-itinerary-builder | https://ziontechgroup.com/travel-itinerary-builder/ |
-| Menu Margin Optimizer | Zion-support/menu-margin-optimizer | https://ziontechgroup.com/menu-margin-optimizer/ |
+## Recent batches
+- **Batch 90 — Healthcare & Wellness AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH90.md) · [interlinks](INTERLINKS-batch90.md) · [homepage pack](HOMEPAGE_APPS_BATCH90.md) — appointment-no-show-predictor, patient-intake-copilot, claim-denial-appealer, wellness-program-planner, telehealth-triage-ai, clinic-inventory-tracker
+- **Batch 89 — Hospitality & Travel AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH89.md) · [interlinks](INTERLINKS-batch89.md) · [homepage pack](HOMEPAGE_APPS_BATCH89.md) — guest-experience-concierge, hotel-dynamic-pricing, booking-channel-optimizer, housekeeping-scheduler-ai, travel-itinerary-builder, menu-margin-optimizer
 
 ## Older batches
 Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](INTERLINKS-batch82.md) · [83](INTERLINKS-batch83.md) · [84](INTERLINKS-batch84.md) · [85](INTERLINKS-batch85.md) · [86](INTERLINKS-batch86.md) · [87](INTERLINKS-batch87.md) · [88](INTERLINKS-batch88.md)
