@@ -1,11 +1,11 @@
 {
- "note": "Full flagship apps registry. 360 apps. Batch 74 Retail & E-commerce AI (2026-10-05) registered with full interlink mesh; Batch 84 Nonprofit (2026-10-05), Batch 85 AgTech & Food Supply Chain AI (2026-10-05), Batch 86 Automotive & Mobility AI (2026-10-05) registered; discovery upgraded with instant on-screen results; index.html hub restored.",
+ "note": "Full flagship apps registry. 366 apps. Batch 75 Logistics & Supply Chain AI (2026-10-05) registered with full interlink mesh; Batch 74 Retail & E-commerce AI (2026-10-05) live & verified; Batch 84 Nonprofit, Batch 85 AgTech, Batch 86 Automotive registered; discovery upgraded with instant on-screen results; index.html hub restored.",
  "updated": "2026-10-05",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 360,
- "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH74.md",
- "spotlight_previous": "spotlights/2026-10-05-batch86-automotive-mobility.md",
+ "apps_total": 366,
+ "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH75.md",
+ "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH74.md",
  "apps": ["<APPS_PART1>", "<APPS_PART2>"]
 }
