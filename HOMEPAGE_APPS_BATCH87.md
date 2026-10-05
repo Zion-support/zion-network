@@ -1,8 +1,5 @@
-# Homepage copy — Batch 87 (Construction & PropTech AI)
+# ⚠️ Renumbered
 
-Section title: "New — Oct 5, 2026: Construction & PropTech AI (Batch 87)"
-8 cards linking to apps + discovery CTA. See apps/october-2026-batch11.html on the homepage repo.
+Homepage copy notes for Construction & PropTech AI were renumbered to **Batch 88**.
 
-Discovery benefits banner stays on top of /apps/: always online, always free, instant email results to client + commercial@ziontechgroup.com.
-
-Apps: bid-iq-bid-intelligence · site-progress-vision · safety-compliance-monitor · equipment-telematics-ai · project-cost-forecaster · permit-navigator-ai · proptech-tenant-experience · building-energy-twin.
+Go to: [HOMEPAGE_APPS_BATCH88.md](HOMEPAGE_APPS_BATCH88.md) · live page: https://ziontechgroup.com/apps/october-2026-batch12.html
