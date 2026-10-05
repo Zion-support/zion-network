@@ -1,21 +1,19 @@
 {
+  "category": "sports-fitness-wellness-ai",
   "batch": 90,
   "date": "2026-10-05",
-  "category": "Sports, Fitness & Wellness AI",
   "apps": [
-    {"id": "workout-plan-generator", "name": "Workout Plan Generator", "url": "https://github.com/Zion-support/workout-plan-generator", "description": "Personalized training plans by goal, equipment and schedule."},
-    {"id": "training-plan-ai", "name": "Training Plan AI", "url": "https://github.com/Zion-support/training-plan-ai", "description": "Adaptive periodized training plans that adjust to performance and recovery."},
-    {"id": "nutrition-coach-ai", "name": "Nutrition Coach AI", "url": "https://github.com/Zion-support/nutrition-coach-ai", "description": "AI nutrition coaching: meal plans, macros and habit tracking."},
-    {"id": "nutrition-meal-planner-ai", "name": "Nutrition Meal Planner AI", "url": "https://github.com/Zion-support/nutrition-meal-planner-ai", "description": "Automated weekly meal plans with grocery lists and dietary constraints."},
-    {"id": "mental-wellness-companion", "name": "Mental Wellness Companion", "url": "https://github.com/Zion-support/mental-wellness-companion", "description": "Check-ins, journaling prompts and escalation-safe wellness support."},
-    {"id": "corporate-wellness-platform", "name": "Corporate Wellness Platform", "url": "https://github.com/Zion-support/corporate-wellness-platform", "description": "Company-wide wellness challenges, incentives and analytics."},
-    {"id": "wellness-program-tracker", "name": "Wellness Program Tracker", "url": "https://github.com/Zion-support/wellness-program-tracker", "description": "Program participation, outcomes and ROI tracking for wellness initiatives."},
-    {"id": "fitness-retention-predictor", "name": "Fitness Retention Predictor", "url": "https://github.com/Zion-support/fitness-retention-predictor", "description": "Churn-risk scoring for gym and studio members with save-playbooks."},
-    {"id": "gym-membership-retention", "name": "Gym Membership Retention", "url": "https://github.com/Zion-support/gym-membership-retention", "description": "Member churn prediction and automated win-back campaigns."},
-    {"id": "class-schedule-optimizer", "name": "Class Schedule Optimizer", "url": "https://github.com/Zion-support/class-schedule-optimizer", "description": "Optimize fitness class schedules by demand, instructor and room capacity."},
-    {"id": "race-event-planner", "name": "Race Event Planner", "url": "https://github.com/Zion-support/race-event-planner", "description": "End-to-end race and sports event planning: registrations, logistics, comms."},
-    {"id": "sports-video-highlights", "name": "Sports Video Highlights", "url": "https://github.com/Zion-support/sports-video-highlights", "description": "Auto-generate sports game highlights with key-moment detection."},
-    {"id": "ticket-dynamic-pricing", "name": "Ticket Dynamic Pricing", "url": "https://github.com/Zion-support/ticket-dynamic-pricing", "description": "Demand-based dynamic ticket pricing for sports and live events."},
-    {"id": "sponsorship-roi-tracker", "name": "Sponsorship ROI Tracker", "url": "https://github.com/Zion-support/sponsorship-roi-tracker", "description": "Sponsorship media value and ROI measurement across channels."}
-  ]
+    {"id": "workout-plan-generator", "name": "Workout Plan Generator", "repo": "Zion-support/workout-plan-generator", "url": "https://ziontechgroup.com/workout-plan-generator/", "description": "AI personalized training plans by goal, equipment and schedule with progressive overload", "keywords": ["workout","fitness","training","gym","exercise"]},
+    {"id": "nutrition-meal-planner-ai", "name": "Nutrition & Meal Planner AI", "repo": "Zion-support/nutrition-meal-planner-ai", "url": "https://ziontechgroup.com/nutrition-meal-planner-ai/", "description": "Macros, meal plans and grocery lists tailored to goals, allergies and budget", "keywords": ["nutrition","meal","diet","macros","food"]},
+    {"id": "athlete-load-monitor", "name": "Athlete Load Monitor", "repo": "Zion-support/athlete-load-monitor", "url": "https://ziontechgroup.com/athlete-load-monitor/", "description": "Training load, HRV and injury-risk monitoring with return-to-play insights", "keywords": ["athlete","injury","hrv","load","sports"]},
+    {"id": "team-performance-analytics", "name": "Team Performance Analytics", "repo": "Zion-support/team-performance-analytics", "url": "https://ziontechgroup.com/team-performance-analytics/", "description": "Match stats, player load and tactical insights for coaches and analysts", "keywords": ["team","sports","analytics","coach","match"]},
+    {"id": "fan-loyalty-engine", "name": "Fan Loyalty Engine", "repo": "Zion-support/fan-loyalty-engine", "url": "https://ziontechgroup.com/fan-loyalty-engine/", "description": "Fan engagement scoring, churn signals and personalized club campaigns", "keywords": ["fan","loyalty","club","engagement","churn"]},
+    {"id": "venue-demand-forecaster", "name": "Venue Demand Forecaster", "repo": "Zion-support/venue-demand-forecaster", "url": "https://ziontechgroup.com/venue-demand-forecaster/", "description": "Attendance, staffing and concession demand forecasts for venues and events", "keywords": ["venue","event","attendance","forecast","stadium"]},
+    {"id": "recovery-readiness-coach", "name": "Recovery & Readiness Coach", "repo": "Zion-support/recovery-readiness-coach", "url": "https://ziontechgroup.com/recovery-readiness-coach/", "description": "Sleep, strain and readiness scores with personalized recovery protocols", "keywords": ["sleep","recovery","readiness","wellness","strain"]},
+    {"id": "mental-wellness-companion", "name": "Mental Wellness Companion", "repo": "Zion-support/mental-wellness-companion", "url": "https://ziontechgroup.com/mental-wellness-companion/", "description": "AI check-ins, journaling prompts and escalation paths for mental wellness", "keywords": ["mental","wellness","wellbeing","journaling","health"]},
+    {"id": "corporate-wellness-platform", "name": "Corporate Wellness Platform", "repo": "Zion-support/corporate-wellness-platform", "url": "https://ziontechgroup.com/corporate-wellness-platform/", "description": "Employee wellness challenges, incentives and wellbeing ROI analytics", "keywords": ["corporate","wellness","employee","wellbeing","hr"]},
+    {"id": "personal-trainer-copilot", "name": "Personal Trainer Copilot", "repo": "Zion-support/personal-trainer-copilot", "url": "https://ziontechgroup.com/personal-trainer-copilot/", "description": "Copilot for personal trainers and gyms: client plans, retention and upsell signals", "keywords": ["trainer","gym","fitness","client","retention"]}
+  ],
+  "discovery": "https://ziontechgroup.com/discovery/",
+  "homepage_showcase": "https://ziontechgroup.com/apps/october-2026-batch13.html"
 }
