@@ -1,11 +1,11 @@
 {
- "note": "Full flagship apps registry. 366 apps. Batch 75 Logistics & Supply Chain AI (2026-10-05) registered with full interlink mesh; Batch 74 Retail & E-commerce AI (2026-10-05) live & verified; Batch 84 Nonprofit, Batch 85 AgTech, Batch 86 Automotive registered; discovery upgraded with instant on-screen results; index.html hub restored.",
+ "note": "Full flagship apps registry. 372 apps. Batch 89 Hospitality & Travel AI (2026-10-05) created & interlinked: guest-experience-concierge, hotel-dynamic-pricing, booking-channel-optimizer, housekeeping-scheduler-ai, travel-itinerary-builder, menu-margin-optimizer; README refreshed to Batch 89; discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com. Batch 75 registered with full interlink mesh; Batch 74 live & verified; Batches 84-88 registered; discovery upgraded with instant on-screen results; index.html hub restored.",
  "updated": "2026-10-05",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 366,
- "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH75.md",
- "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH74.md",
+ "apps_total": 372,
+ "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH89.md",
+ "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH75.md",
  "apps": ["<APPS_PART1>", "<APPS_PART2>"]
 }
