@@ -32,22 +32,22 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
 ## Discovery — free & always online
-Free AI Discovery questionnaire with instant results emailed to the client and commercial@ziontechgroup.com simultaneously: https://ziontechgroup.com/discovery/ — benefits copy in [homepage-content-batch90.md](homepage-content-batch90.md), benefits page: https://ziontechgroup.com/apps/discovery-benefits.html
+Free AI Discovery questionnaire with instant results emailed to the client and commercial@ziontechgroup.com simultaneously: https://ziontechgroup.com/discovery/ — benefits copy in [homepage-content-batch89.md](homepage-content-batch89.md), benefits page: https://ziontechgroup.com/apps/discovery-benefits.html
 
-## Latest batch — Batch 90: Media, Entertainment & Creator Economy AI (2026-10-05)
-See [SPOTLIGHT-2026-10-05-BATCH90.md](SPOTLIGHT-2026-10-05-BATCH90.md), [INTERLINKS-batch90.md](INTERLINKS-batch90.md) and showcase https://ziontechgroup.com/apps/october-2026-batch13.html
+## Latest batch — Batch 90: Sports, Fitness & Wellness AI (2026-10-05)
+See [spotlights/sports-fitness-wellness.md](spotlights/sports-fitness-wellness.md), [INTERLINKS-batch90.md](INTERLINKS-batch90.md), [network/sports-fitness-wellness-ai.md](network/sports-fitness-wellness-ai.md) and showcase https://ziontechgroup.com/apps/october-2026-batch13.html
 | App | Repo | URL |
 |---|---|---|
-| Trend Wave Forecaster | Zion-support/zion-trend-wave-forecaster | https://ziontechgroup.com/trend-wave-forecaster/ |
-| Script & Story Outline AI | Zion-support/zion-script-story-outline-ai | https://ziontechgroup.com/script-story-outline-ai/ |
-| Content Repurposing Engine | Zion-support/zion-content-repurposing-engine | https://ziontechgroup.com/content-repurposing-engine/ |
-| Podcast Show Notes Generator | Zion-support/zion-podcast-show-notes-generator | https://ziontechgroup.com/podcast-show-notes-generator/ |
-| Video Highlight Reel AI | Zion-support/zion-video-highlight-reel-ai | https://ziontechgroup.com/video-highlight-reel-ai/ |
-| Thumbnail & Cover A/B Tester | Zion-support/zion-thumbnail-ab-tester | https://ziontechgroup.com/thumbnail-ab-tester/ |
-| Audience Sentiment Radar | Zion-support/zion-audience-sentiment-radar | https://ziontechgroup.com/audience-sentiment-radar/ |
-| Fan Engagement Copilot | Zion-support/zion-fan-engagement-copilot | https://ziontechgroup.com/fan-engagement-copilot/ |
-| Creator Sponsorship Matcher | Zion-support/zion-creator-sponsorship-matcher | https://ziontechgroup.com/creator-sponsorship-matcher/ |
-| Royalty & Rights Tracker AI | Zion-support/zion-royalty-rights-tracker-ai | https://ziontechgroup.com/royalty-rights-tracker-ai/ |
+| Workout Plan Generator | Zion-support/workout-plan-generator | https://ziontechgroup.com/workout-plan-generator/ |
+| Nutrition & Meal Planner AI | Zion-support/nutrition-meal-planner-ai | https://ziontechgroup.com/nutrition-meal-planner-ai/ |
+| Athlete Load Monitor | Zion-support/athlete-load-monitor | https://ziontechgroup.com/athlete-load-monitor/ |
+| Team Performance Analytics | Zion-support/team-performance-analytics | https://ziontechgroup.com/team-performance-analytics/ |
+| Fan Loyalty Engine | Zion-support/fan-loyalty-engine | https://ziontechgroup.com/fan-loyalty-engine/ |
+| Venue Demand Forecaster | Zion-support/venue-demand-forecaster | https://ziontechgroup.com/venue-demand-forecaster/ |
+| Recovery & Readiness Coach | Zion-support/recovery-readiness-coach | https://ziontechgroup.com/recovery-readiness-coach/ |
+| Mental Wellness Companion | Zion-support/mental-wellness-companion | https://ziontechgroup.com/mental-wellness-companion/ |
+| Corporate Wellness Platform | Zion-support/corporate-wellness-platform | https://ziontechgroup.com/corporate-wellness-platform/ |
+| Personal Trainer Copilot | Zion-support/personal-trainer-copilot | https://ziontechgroup.com/personal-trainer-copilot/ |
 
 ## Batch 89: Space, Edge & Sustainability AI (2026-10-05)
 See [SPOTLIGHT-2026-10-05-BATCH89.md](SPOTLIGHT-2026-10-05-BATCH89.md), [INTERLINKS-batch89.md](INTERLINKS-batch89.md)
