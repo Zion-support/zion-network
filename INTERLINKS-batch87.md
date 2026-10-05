@@ -1,5 +1,3 @@
-# ⚠️ Renumbered
+# Renumbered → Batch 88
 
-Construction & PropTech AI interlinks were renumbered to **Batch 88** (Batch 87 = Field Services & Dispatch AI).
-
-Go to: [INTERLINKS-batch88.md](INTERLINKS-batch88.md)
+Construction & PropTech AI interlinks moved to [INTERLINKS-batch88.md](INTERLINKS-batch88.md) (Batch 87 was used by a parallel session for Field Services & Dispatch AI).
