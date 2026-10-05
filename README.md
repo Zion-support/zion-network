@@ -31,18 +31,19 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 93: Manufacturing & Industrial AI (2026-10-05)
-See [SPOTLIGHT-2026-10-05-BATCH93.md](SPOTLIGHT-2026-10-05-BATCH93.md), [INTERLINKS-batch93.md](INTERLINKS-batch93.md) and homepage pack [HOMEPAGE_APPS_BATCH93.md](HOMEPAGE_APPS_BATCH93.md)
+## Latest batch — Batch 94: Legal & Compliance AI (2026-10-05)
+See [SPOTLIGHT-2026-10-05-BATCH94.md](SPOTLIGHT-2026-10-05-BATCH94.md), [INTERLINKS-batch94.md](INTERLINKS-batch94.md) and homepage pack [HOMEPAGE_APPS_BATCH94.md](HOMEPAGE_APPS_BATCH94.md)
 | App | Repo | URL |
 |---|---|---|
-| Production Scheduler AI | Zion-support/production-scheduler-ai | https://ziontechgroup.com/production-scheduler-ai/ |
-| OEE Analytics Copilot | Zion-support/oee-analytics-copilot | https://ziontechgroup.com/oee-analytics-copilot/ |
-| Energy Load Shifter | Zion-support/energy-load-shifter | https://ziontechgroup.com/energy-load-shifter/ |
-| Safety Incident Analyzer | Zion-support/safety-incident-analyzer | https://ziontechgroup.com/safety-incident-analyzer/ |
-| Downtime Root Cause AI | Zion-support/downtime-root-cause-ai | https://ziontechgroup.com/downtime-root-cause-ai/ |
-| Spare Parts Forecaster | Zion-support/spare-parts-forecaster | https://ziontechgroup.com/spare-parts-forecaster/ |
+| Legal Research Copilot | Zion-support/legal-research-copilot | https://ziontechgroup.com/legal-research-copilot/ |
+| Regulatory Change Tracker | Zion-support/regulatory-change-tracker | https://ziontechgroup.com/regulatory-change-tracker/ |
+| GDPR DSAR Automator | Zion-support/gdpr-dsar-automator | https://ziontechgroup.com/gdpr-dsar-automator/ |
+| Contract Risk Scorer | Zion-support/contract-risk-scorer | https://ziontechgroup.com/contract-risk-scorer/ |
+| Litigation Deadline Tracker | Zion-support/litigation-deadline-tracker | https://ziontechgroup.com/litigation-deadline-tracker/ |
+| Privacy Audit Checklist | Zion-support/privacy-audit-checklist | https://ziontechgroup.com/privacy-audit-checklist/ |
 
 ## Recent batches
+- **Batch 93 — Manufacturing & Industrial AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH93.md) · [interlinks](INTERLINKS-batch93.md) · [homepage pack](HOMEPAGE_APPS_BATCH93.md) — production-scheduler-ai, oee-analytics-copilot, energy-load-shifter, safety-incident-analyzer, downtime-root-cause-ai, spare-parts-forecaster
 - **Batch 90 — Healthcare & Wellness AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH90.md) · [interlinks](INTERLINKS-batch90.md) · [homepage pack](HOMEPAGE_APPS_BATCH90.md) — appointment-no-show-predictor, patient-intake-copilot, claim-denial-appealer, wellness-program-planner, telehealth-triage-ai, clinic-inventory-tracker
 - **Batch 89 — Hospitality & Travel AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH89.md) · [interlinks](INTERLINKS-batch89.md) · [homepage pack](HOMEPAGE_APPS_BATCH89.md) — guest-experience-concierge, hotel-dynamic-pricing, booking-channel-optimizer, housekeeping-scheduler-ai, travel-itinerary-builder, menu-margin-optimizer
 
