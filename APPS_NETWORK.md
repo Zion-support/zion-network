@@ -8,6 +8,15 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 - 🔎 Free AI Discovery: [app-network-discovery.html](https://ziontechgroup.com/app-network-discovery.html) — always online, always free, instant results to you + our commercial team
 
+## 🚀 Latest Additions (2026-10-05, Batch 84)
+
+- New category: **[💚 Nonprofit, NGO & Social Impact AI](network/nonprofit-social-impact-ai.md)** — 10 interlinked apps: grants → donors → appeals → volunteers → impact → budgets → intake → CSR → board → crisis logistics ([registry](network/nonprofit-social-impact-apps.json)).
+- New spotlight: [Batch 84 spotlight](spotlights/2026-10-05-batch84-nonprofit-social-impact.md) · [INTERLINKS-batch84.md](INTERLINKS-batch84.md).
+- Fix: restored missing Batch 83 spotlight [2026-10-04-batch83-insurance-risk.md](spotlights/2026-10-04-batch83-insurance-risk.md) (was a broken link from the Batch 83 category page).
+- Homepage: new showcase [apps/october-2026-batch8.html](https://ziontechgroup.com/apps/october-2026-batch8.html) + ad [APP_NETWORK_SPOTLIGHT_OCT05_BATCH84_NONPROFIT.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT05_BATCH84_NONPROFIT.md); apps index now links Batch 84.
+- Discovery: homepage questionnaire upgraded — Nonprofit/NGO, Telecom and Insurance industries added with instant on-page recommendations; dual email (client + commercial@ziontechgroup.com) unchanged.
+- network.json: 324 → 334 apps; spotlight pointers refreshed.
+
 ## 🚀 Latest Additions (2026-10-04, Batch 81)
 
 - New spotlight: **[🔧 Field Service & Dispatch Ops AI Suite](spotlights/field-service-dispatch-ops-suite.md)** — 6 interlinked apps: quote → cover → dispatch → route → execute → staff ([registry](network/field-ops-ai-apps.json)).
@@ -83,6 +92,10 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - **[📈 Growth Intelligence AI](network/growth-intelligence-ai.md)**
 - **[🏠 Real Estate & Education AI](network/real-estate-education-ai.md)**
 - **[✈️ Travel & Hospitality AI](network/travel-hospitality-ai.md)** ([registry](network/travel-hospitality-apps.json))
+- **[📶 Telecom & Connectivity AI](network/telecom-connectivity-ai.md)** — Batch 82
+- **[🛡️ Insurance & Risk AI](network/insurance-risk-ai.md)** — Batch 83
+- **[💚 Nonprofit, NGO & Social Impact AI](network/nonprofit-social-impact-ai.md)** — Batch 84 ([registry](network/nonprofit-social-impact-apps.json))
+- **[🏙️ GovTech & Smart City AI](network/govtech-smart-city-ai.md)** — Batch 77
 
 ## 🔗 Interlinks
 
@@ -91,6 +104,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [Field Service & Dispatch Ops AI Suite (Batch 81)](spotlights/field-service-dispatch-ops-suite.md).
+Latest spotlight: [Nonprofit, NGO & Social Impact AI (Batch 84)](spotlights/2026-10-05-batch84-nonprofit-social-impact.md). Previous: [Insurance & Risk AI (Batch 83)](spotlights/2026-10-04-batch83-insurance-risk.md).
 
-_Updated 2026-10-04 (Batch 81) — 544+ public repos, 325+ registered apps; 44+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-05 (Batch 84) — 544+ public repos, 334 registered apps; 45+ category pages indexed. Historical batch details preserved in git history._
