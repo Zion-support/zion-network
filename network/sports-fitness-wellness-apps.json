@@ -1,0 +1,21 @@
+{
+  "batch": 90,
+  "date": "2026-10-05",
+  "category": "Sports, Fitness & Wellness AI",
+  "apps": [
+    {"id": "workout-plan-generator", "name": "Workout Plan Generator", "url": "https://github.com/Zion-support/workout-plan-generator", "description": "Personalized training plans by goal, equipment and schedule."},
+    {"id": "training-plan-ai", "name": "Training Plan AI", "url": "https://github.com/Zion-support/training-plan-ai", "description": "Adaptive periodized training plans that adjust to performance and recovery."},
+    {"id": "nutrition-coach-ai", "name": "Nutrition Coach AI", "url": "https://github.com/Zion-support/nutrition-coach-ai", "description": "AI nutrition coaching: meal plans, macros and habit tracking."},
+    {"id": "nutrition-meal-planner-ai", "name": "Nutrition Meal Planner AI", "url": "https://github.com/Zion-support/nutrition-meal-planner-ai", "description": "Automated weekly meal plans with grocery lists and dietary constraints."},
+    {"id": "mental-wellness-companion", "name": "Mental Wellness Companion", "url": "https://github.com/Zion-support/mental-wellness-companion", "description": "Check-ins, journaling prompts and escalation-safe wellness support."},
+    {"id": "corporate-wellness-platform", "name": "Corporate Wellness Platform", "url": "https://github.com/Zion-support/corporate-wellness-platform", "description": "Company-wide wellness challenges, incentives and analytics."},
+    {"id": "wellness-program-tracker", "name": "Wellness Program Tracker", "url": "https://github.com/Zion-support/wellness-program-tracker", "description": "Program participation, outcomes and ROI tracking for wellness initiatives."},
+    {"id": "fitness-retention-predictor", "name": "Fitness Retention Predictor", "url": "https://github.com/Zion-support/fitness-retention-predictor", "description": "Churn-risk scoring for gym and studio members with save-playbooks."},
+    {"id": "gym-membership-retention", "name": "Gym Membership Retention", "url": "https://github.com/Zion-support/gym-membership-retention", "description": "Member churn prediction and automated win-back campaigns."},
+    {"id": "class-schedule-optimizer", "name": "Class Schedule Optimizer", "url": "https://github.com/Zion-support/class-schedule-optimizer", "description": "Optimize fitness class schedules by demand, instructor and room capacity."},
+    {"id": "race-event-planner", "name": "Race Event Planner", "url": "https://github.com/Zion-support/race-event-planner", "description": "End-to-end race and sports event planning: registrations, logistics, comms."},
+    {"id": "sports-video-highlights", "name": "Sports Video Highlights", "url": "https://github.com/Zion-support/sports-video-highlights", "description": "Auto-generate sports game highlights with key-moment detection."},
+    {"id": "ticket-dynamic-pricing", "name": "Ticket Dynamic Pricing", "url": "https://github.com/Zion-support/ticket-dynamic-pricing", "description": "Demand-based dynamic ticket pricing for sports and live events."},
+    {"id": "sponsorship-roi-tracker", "name": "Sponsorship ROI Tracker", "url": "https://github.com/Zion-support/sponsorship-roi-tracker", "description": "Sponsorship media value and ROI measurement across channels."}
+  ]
+}
