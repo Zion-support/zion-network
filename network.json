@@ -1,1 +1,14 @@
-<CONTENT>
+{
+ "note": "Full flagship apps registry. 334 apps. Batch 84 Nonprofit, NGO & Social Impact AI registered 2026-10-05. Batch 85 AgTech & Food Supply Chain AI (10 apps) registered 2026-10-05; discovery upgraded with instant on-screen results.",
+ "updated": "2026-10-05",
+ "company": "Zion Tech Group",
+ "hub": "https://ziontechgroup.com",
+ "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+ "apps_total": 344,
+ "spotlight_latest": "spotlights/2026-10-05-batch85-agtech-food-supply.md",
+ "spotlight_previous": "spotlights/2026-10-05-batch84-nonprofit-social-impact.md",
+ "apps": [
+<APPS_PART1>
+<APPS_PART2>
+ ]
+}
