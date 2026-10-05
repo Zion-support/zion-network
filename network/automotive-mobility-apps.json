@@ -1,0 +1,19 @@
+{
+ "batch": 86,
+ "category": "Automotive & Mobility AI",
+ "date": "2026-10-05",
+ "discovery": "https://ziontechgroup.com/discovery/ (free, always online, instant email results to client + commercial@ziontechgroup.com)",
+ "apps": [
+  {"name": "fleet-health-monitor", "repo": "https://github.com/Zion-support/fleet-health-monitor", "description": "Predictive fleet maintenance — telematics + failure prediction per vehicle."},
+  {"name": "ev-charging-planner", "repo": "https://github.com/Zion-support/ev-charging-planner", "description": "EV charging siting & utilization optimizer for depots and public networks."},
+  {"name": "dealer-lead-copilot", "repo": "https://github.com/Zion-support/dealer-lead-copilot", "description": "Scores dealership leads, drafts follow-ups, books test drives."},
+  {"name": "route-optimization-ai", "repo": "https://github.com/Zion-support/route-optimization-ai", "description": "Multi-stop routing with traffic, EV range and delivery windows."},
+  {"name": "driver-safety-coach", "repo": "https://github.com/Zion-support/driver-safety-coach", "description": "Telematics coaching: harsh events, scoring, training plans."},
+  {"name": "vehicle-inspection-vision", "repo": "https://github.com/Zion-support/vehicle-inspection-vision", "description": "Computer-vision inspection reports from photos/video walkarounds."},
+  {"name": "parts-inventory-forecaster", "repo": "https://github.com/Zion-support/parts-inventory-forecaster", "description": "Parts demand forecasting to cut stockouts and dead inventory."},
+  {"name": "mobility-demand-forecaster", "repo": "https://github.com/Zion-support/mobility-demand-forecaster", "description": "Ride-share/rental demand forecasting by zone and hour."},
+  {"name": "warranty-claims-triage", "repo": "https://github.com/Zion-support/warranty-claims-triage", "description": "Classifies warranty claims, flags fraud, drafts decisions."},
+  {"name": "recall-comms-assistant", "repo": "https://github.com/Zion-support/recall-comms-assistant", "description": "Recall outreach: VIN matching, multilingual owner comms, completion tracking."}
+ ],
+ "interlinks": ["supply-chain-logistics-ai", "manufacturing-industrial-ai", "energy-utilities-ai", "telecom-connectivity-ai", "govtech-smart-city-ai", "insurance-risk-ai"]
+}
