@@ -31,7 +31,21 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 75: Logistics & Supply Chain AI (2026-10-05)
+## Discovery — free & always online
+Free AI Discovery questionnaire with instant results emailed to the client and commercial@ziontechgroup.com simultaneously: https://ziontechgroup.com/discovery/ — benefits copy in [homepage-content-batch89.md](homepage-content-batch89.md), benefits page: https://ziontechgroup.com/apps/discovery-benefits.html
+
+## Latest batch — Batch 89: Space, Edge & Sustainability AI (2026-10-05)
+See [SPOTLIGHT-2026-10-05-BATCH89.md](SPOTLIGHT-2026-10-05-BATCH89.md), [INTERLINKS-batch89.md](INTERLINKS-batch89.md)
+| App | Repo | URL |
+|---|---|---|
+| Orbital Conjunction Screener | Zion-support/orbital-conjunction-screener | https://ziontechgroup.com/orbital-conjunction-screener/ |
+| Ground Station Link Monitor | Zion-support/ground-station-link-monitor | https://ziontechgroup.com/ground-station-link-monitor/ |
+| Satellite Pass Scheduler | Zion-support/satellite-pass-scheduler | https://ziontechgroup.com/satellite-pass-scheduler/ |
+| AI Edge Deployer | Zion-support/ai-edge-deployer | https://ziontechgroup.com/ai-edge-deployer/ |
+| Website Carbon Estimator | Zion-support/website-carbon-estimator | https://ziontechgroup.com/website-carbon-estimator/ |
+| Water Usage Optimizer | Zion-support/water-usage-optimizer | https://ziontechgroup.com/water-usage-optimizer/ |
+
+## Batch 75: Logistics & Supply Chain AI (2026-10-05)
 See [SPOTLIGHT-2026-10-05-BATCH75.md](SPOTLIGHT-2026-10-05-BATCH75.md), [INTERLINKS-batch75.md](INTERLINKS-batch75.md) and showcase https://ziontechgroup.com/apps/network-batch75.html
 | App | Repo | URL |
 |---|---|---|
@@ -42,7 +56,7 @@ See [SPOTLIGHT-2026-10-05-BATCH75.md](SPOTLIGHT-2026-10-05-BATCH75.md), [INTERLI
 | Supplier Risk Radar | Zion-support/supplier-risk-radar | https://ziontechgroup.com/supplier-risk-radar/ |
 | Demand Sensing Forecaster | Zion-support/demand-sensing-forecaster | https://ziontechgroup.com/demand-sensing-forecaster/ |
 
-## Previous batch — Batch 74: Retail & E-commerce AI (2026-10-05)
+## Batch 74: Retail & E-commerce AI (2026-10-05)
 See [SPOTLIGHT-2026-10-05-BATCH74.md](SPOTLIGHT-2026-10-05-BATCH74.md), [INTERLINKS-batch74.md](INTERLINKS-batch74.md) and showcase https://ziontechgroup.com/apps/network-batch74.html
 | App | Repo | URL |
 |---|---|---|
@@ -56,4 +70,4 @@ See [SPOTLIGHT-2026-10-05-BATCH74.md](SPOTLIGHT-2026-10-05-BATCH74.md), [INTERLI
 ## Field playbooks
 ~70 `zion-field-*` repos (countries, cities, industries) — see `network.json` `field` section and the [org repo list](https://github.com/orgs/Zion-support/repositories).
 
-Main site: https://ziontechgroup.com · Contact: kleber@ziontechgroup.com
+Main site: https://ziontechgroup.com • Contact: kleber@ziontechgroup.com
