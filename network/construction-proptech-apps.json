@@ -1,0 +1,17 @@
+{
+  "category": "construction-proptech-ai",
+  "batch": 88,
+  "date": "2026-10-05",
+  "apps": [
+    {"slug": "bid-iq-bid-intelligence", "name": "Bid IQ — Bid Intelligence", "url": "https://ziontechgroup.com/bid-iq-bid-intelligence/"},
+    {"slug": "site-progress-vision", "name": "Site Progress Vision", "url": "https://ziontechgroup.com/site-progress-vision/"},
+    {"slug": "safety-compliance-monitor", "name": "Safety Compliance Monitor", "url": "https://ziontechgroup.com/safety-compliance-monitor/"},
+    {"slug": "equipment-telematics-ai", "name": "Equipment Telematics AI", "url": "https://ziontechgroup.com/equipment-telematics-ai/"},
+    {"slug": "project-cost-forecaster", "name": "Project Cost Forecaster", "url": "https://ziontechgroup.com/project-cost-forecaster/"},
+    {"slug": "permit-navigator-ai", "name": "Permit Navigator AI", "url": "https://ziontechgroup.com/permit-navigator-ai/"},
+    {"slug": "proptech-tenant-experience", "name": "PropTech Tenant Experience", "url": "https://ziontechgroup.com/proptech-tenant-experience/"},
+    {"slug": "building-energy-twin", "name": "Building Energy Twin", "url": "https://ziontechgroup.com/building-energy-twin/"}
+  ],
+  "discovery": "https://ziontechgroup.com/discovery/",
+  "hub": "https://ziontechgroup.com/apps/"
+}
