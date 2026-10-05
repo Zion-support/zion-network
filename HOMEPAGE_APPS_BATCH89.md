@@ -1,14 +1,14 @@
-# 🏨 HOMEPAGE APPS — Batch 89: Hospitality & Travel AI (2026-10-05)
+# HOMEPAGE APPS — Batch 89 (2026-10-05): Supply Chain, Logistics & Retail AI
 
-Copy-paste block for the ziontechgroup.com homepage apps section.
+Content published to the homepage (ziontechgroup.com):
 
-| App | URL | Repo |
-|---|---|---|
-| Guest Experience Concierge | https://ziontechgroup.com/guest-experience-concierge/ | https://github.com/Zion-support/guest-experience-concierge |
-| Hotel Dynamic Pricing | https://ziontechgroup.com/hotel-dynamic-pricing/ | https://github.com/Zion-support/hotel-dynamic-pricing |
-| Booking Channel Optimizer | https://ziontechgroup.com/booking-channel-optimizer/ | https://github.com/Zion-support/booking-channel-optimizer |
-| Housekeeping Scheduler AI | https://ziontechgroup.com/housekeeping-scheduler-ai/ | https://github.com/Zion-support/housekeeping-scheduler-ai |
-| Travel Itinerary Builder | https://ziontechgroup.com/travel-itinerary-builder/ | https://github.com/Zion-support/travel-itinerary-builder |
-| Menu Margin Optimizer | https://ziontechgroup.com/menu-margin-optimizer/ | https://github.com/Zion-support/menu-margin-optimizer |
+1. **New showcase page:** /apps/october-2026-batch12.html — full Batch 89 showcase with live app links, repo links and Discovery CTA.
+2. **index.html highlights card** updated: latest batch = Batch 89 (Supply Chain & Retail AI, 12 apps); previous Batches 86–88 referenced.
+3. **Discovery questionnaire** (/discovery/) improved: new “Supply Chain & Logistics” industry option, Retail & Ecommerce mapping now points to live Batch 89 apps, Batch 89 added to “Explore more” links. Results continue to be emailed instantly to the client and to commercial@ziontechgroup.com via FormSubmit (free, serverless, always online).
 
-CTA: Start the free AI Discovery questionnaire → https://ziontechgroup.com/discovery/ (100% free, online, always available — results instantly emailed to you and our commercial team).
+## Homepage copy used (PT-BR card)
+> Novo: **Batch 89 — Supply Chain & Retail AI** (12 apps interligados: supplier risk, delivery exceptions, demand sensing, slotting, freight, rotas, stockout, recomendação, promo ROI, carrinho, fraude de devolução, reviews).
+
+Apps: supplier-risk-radar, delivery-exception-copilot, demand-sensing-forecaster, warehouse-slotting-optimizer, freight-rate-forecaster, route-optimization-ai, stockout-predictor, product-recommendation-ai, promo-roi-optimizer, cart-abandonment-rescue, return-fraud-detector, review-response-ai.
+
+Prev: [HOMEPAGE_APPS_BATCH88.md](HOMEPAGE_APPS_BATCH88.md)
