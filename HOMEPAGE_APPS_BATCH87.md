@@ -1,5 +1,3 @@
-# ⚠️ Renumbered
+# Renumbered → Batch 88
 
-Homepage copy notes for Construction & PropTech AI were renumbered to **Batch 88**.
-
-Go to: [HOMEPAGE_APPS_BATCH88.md](HOMEPAGE_APPS_BATCH88.md) · live page: https://ziontechgroup.com/apps/october-2026-batch12.html
+Construction & PropTech AI homepage notes moved to [HOMEPAGE_APPS_BATCH88.md](HOMEPAGE_APPS_BATCH88.md). Batch 87 = Field Services & Dispatch AI (parallel session, apps/october-2026-batch11.html).
