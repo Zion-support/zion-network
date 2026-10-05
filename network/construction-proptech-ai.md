@@ -1,6 +1,6 @@
 # 🏗️ Construction & PropTech AI — Batch 88 (2026-10-05)
 
-Eight interlinked apps covering the construction lifecycle and property operations. (Renumbered from draft Batch 87 — Batch 87 is Field Services & Dispatch AI.)
+Eight interlinked apps covering the construction lifecycle and property operations.
 
 | App | Repo | URL |
 |---|---|---|
