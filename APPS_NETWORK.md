@@ -8,6 +8,20 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 - 🔎 Free AI Discovery: [app-network-discovery.html](https://ziontechgroup.com/app-network-discovery.html) — always online, always free, instant results to you + our commercial team
 
+## 🚀 Latest Additions (2026-10-05, Batch 86)
+
+- New category: **[🚗 Automotive & Mobility AI](network/automotive-mobility-ai.md)** — 10 interlinked apps: fleet health → EV charging → dealer leads → routing → driver safety → vision inspection → parts → demand → warranty → recalls ([registry](network/automotive-mobility-apps.json)).
+- New spotlight: [Batch 86 spotlight](spotlights/2026-10-05-batch86-automotive-mobility.md) · [INTERLINKS-batch86.md](INTERLINKS-batch86.md).
+- Homepage: new showcase [apps/october-2026-batch10.html](https://ziontechgroup.com/apps/october-2026-batch10.html) and [apps/october-2026-batch9.html](https://ziontechgroup.com/apps/october-2026-batch9.html) (Batch 85 AgTech); apps index now links Batches 85 and 86.
+- Fix: restored hub `index.html` (was a 9-byte placeholder) — now a full landing page with Discovery benefits and links to index/registry/categories/spotlights.
+- network.json: 344 → 354 apps; spotlight pointers refreshed.
+
+## 🚀 Latest Additions (2026-10-05, Batch 85)
+
+- New category: **[🌾 AgTech & Food Supply Chain AI](network/agtech-food-supply-ai.md)** — crop yield, livestock health, traceability, harvest windows, irrigation, pest vision, grain storage, farm ROI, food safety, cold chain ([registry](network/agtech-food-supply-apps.json)).
+- Spotlight: [Batch 85 spotlight](spotlights/2026-10-05-batch85-agtech-food-supply.md) · [INTERLINKS-batch85.md](INTERLINKS-batch85.md).
+- Discovery upgraded with instant on-screen results; dual email (client + commercial@ziontechgroup.com) unchanged.
+
 ## 🚀 Latest Additions (2026-10-05, Batch 84)
 
 - New category: **[💚 Nonprofit, NGO & Social Impact AI](network/nonprofit-social-impact-ai.md)** — 10 interlinked apps: grants → donors → appeals → volunteers → impact → budgets → intake → CSR → board → crisis logistics ([registry](network/nonprofit-social-impact-apps.json)).
@@ -96,6 +110,8 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - **[🛡️ Insurance & Risk AI](network/insurance-risk-ai.md)** — Batch 83
 - **[💚 Nonprofit, NGO & Social Impact AI](network/nonprofit-social-impact-ai.md)** — Batch 84 ([registry](network/nonprofit-social-impact-apps.json))
 - **[🏙️ GovTech & Smart City AI](network/govtech-smart-city-ai.md)** — Batch 77
+- **[🌾 AgTech & Food Supply Chain AI](network/agtech-food-supply-ai.md)** — Batch 85 ([registry](network/agtech-food-supply-apps.json))
+- **[🚗 Automotive & Mobility AI](network/automotive-mobility-ai.md)** — Batch 86 ([registry](network/automotive-mobility-apps.json))
 
 ## 🔗 Interlinks
 
@@ -104,6 +120,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [Nonprofit, NGO & Social Impact AI (Batch 84)](spotlights/2026-10-05-batch84-nonprofit-social-impact.md). Previous: [Insurance & Risk AI (Batch 83)](spotlights/2026-10-04-batch83-insurance-risk.md).
+Latest spotlight: [Automotive & Mobility AI (Batch 86)](spotlights/2026-10-05-batch86-automotive-mobility.md). Previous: [AgTech & Food Supply Chain AI (Batch 85)](spotlights/2026-10-05-batch85-agtech-food-supply.md).
 
-_Updated 2026-10-05 (Batch 84) — 544+ public repos, 334 registered apps; 45+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-05 (Batch 86) — 544+ public repos, 354 registered apps; 46+ category pages indexed. Historical batch details preserved in git history._
