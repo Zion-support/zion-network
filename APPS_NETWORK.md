@@ -8,6 +8,14 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 - 🔎 Free AI Discovery: [app-network-discovery.html](https://ziontechgroup.com/app-network-discovery.html) — always online, always free, instant results to you + our commercial team
 
+## 🚀 Latest Additions (2026-10-05, Batch 88)
+
+- New category: **[🏗️ Construction & PropTech AI](network/construction-proptech-ai.md)** — 8 interlinked apps: bid intelligence → permits → cost forecasting → site vision → safety → telematics → tenant experience → energy twin ([registry](network/construction-proptech-apps.json)).
+- New spotlight: [Batch 88 spotlight](spotlights/2026-10-05-batch88-construction-proptech.md) · [INTERLINKS-batch88.md](INTERLINKS-batch88.md).
+- Homepage: new showcase [apps/october-2026-batch11.html](https://ziontechgroup.com/apps/october-2026-batch11.html); apps index now links Batch 88.
+- Discovery: benefits banner reinforced on homepage — always online, always free, instant results emailed to the client and commercial@ziontechgroup.com.
+- network.json: 354 → 362 apps (note: Batch 87 = Field Services & Dispatch AI, shipped in parallel by another session — see apps/october-2026-batch11.html); spotlight pointers refreshed.
+
 ## 🚀 Latest Additions (2026-10-05, Batch 86)
 
 - New category: **[🚗 Automotive & Mobility AI](network/automotive-mobility-ai.md)** — 10 interlinked apps: fleet health → EV charging → dealer leads → routing → driver safety → vision inspection → parts → demand → warranty → recalls ([registry](network/automotive-mobility-apps.json)).
@@ -112,6 +120,7 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - **[🏙️ GovTech & Smart City AI](network/govtech-smart-city-ai.md)** — Batch 77
 - **[🌾 AgTech & Food Supply Chain AI](network/agtech-food-supply-ai.md)** — Batch 85 ([registry](network/agtech-food-supply-apps.json))
 - **[🚗 Automotive & Mobility AI](network/automotive-mobility-ai.md)** — Batch 86 ([registry](network/automotive-mobility-apps.json))
+- **[🏗️ Construction & PropTech AI](network/construction-proptech-ai.md)** — Batch 88 ([registry](network/construction-proptech-apps.json))
 
 ## 🔗 Interlinks
 
@@ -122,4 +131,4 @@ Every app links back to this index. To add a new app:
 
 Latest spotlight: [Automotive & Mobility AI (Batch 86)](spotlights/2026-10-05-batch86-automotive-mobility.md). Previous: [AgTech & Food Supply Chain AI (Batch 85)](spotlights/2026-10-05-batch85-agtech-food-supply.md).
 
-_Updated 2026-10-05 (Batch 86) — 544+ public repos, 354 registered apps; 46+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-05 (Batch 88) — 544+ public repos, 362 registered apps; 47+ category pages indexed. Historical batch details preserved in git history._
