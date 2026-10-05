@@ -1,24 +1,31 @@
-# INTERLINKS — Batch 90 (GovTech & Smart City AI) — 2026-10-05
+# INTERLINKS — Batch 90: Sports, Fitness & Wellness AI (2026-10-05)
 
-Every Batch 90 asset links to every other asset and back to the hub. Mesh map:
+Cross-link map for the 14 Batch 90 apps. Every app repo README carries the network footer linking back to this file, the category registry and the hub.
 
-| Asset | Links out |
-|---|---|
-| network/govtech-smart-city-ai.md | 8 app pages · hub · legal/compliance-grc/data-analytics/energy/telecom categories · Discovery |
-| network/govtech-smart-city-apps.json | category page · spotlight · hub · network index · Discovery |
-| spotlights/2026-10-05-batch90-govtech-smart-city.md (+ .html) | 8 app pages · category · registry · related categories · Discovery · APPS_NETWORK.md |
-| network.json | Batch 90 apps in compact registry · spotlight pointer refreshed |
-| APPS_NETWORK.md | Batch 90 section → category, registry, spotlight, homepage showcase |
-| HOMEPAGE_APPS_BATCH90.md / homepage-content-batch90.md | ziontechgroup.com homepage copy → app pages + Discovery |
-| index.html (hub) | Batch 90 card + discovery benefits |
+## Apps ↔ Repos
 
-## Cross-category interlinks added
-- GovTech ↔ Compliance & GRC AI, Legal & Contract Compliance AI, Data & Analytics, Energy & Utilities AI, Telecom & Connectivity AI
-- Discovery questionnaire: GovTech, Automotive, Construction, Telecom, Insurance industries + keywords added
+| App | Repo | Category link |
+|---|---|---|
+| Workout Plan Generator | https://github.com/Zion-support/workout-plan-generator | [registry](../network/sports-fitness-wellness-apps.json) |
+| Training Plan AI | https://github.com/Zion-support/training-plan-ai | [registry](../network/sports-fitness-wellness-apps.json) |
+| Nutrition Coach AI | https://github.com/Zion-support/nutrition-coach-ai | [registry](../network/sports-fitness-wellness-apps.json) |
+| Nutrition Meal Planner AI | https://github.com/Zion-support/nutrition-meal-planner-ai | [registry](../network/sports-fitness-wellness-apps.json) |
+| Mental Wellness Companion | https://github.com/Zion-support/mental-wellness-companion | [registry](../network/sports-fitness-wellness-apps.json) |
+| Corporate Wellness Platform | https://github.com/Zion-support/corporate-wellness-platform | [registry](../network/sports-fitness-wellness-apps.json) |
+| Wellness Program Tracker | https://github.com/Zion-support/wellness-program-tracker | [registry](../network/sports-fitness-wellness-apps.json) |
+| Fitness Retention Predictor | https://github.com/Zion-support/fitness-retention-predictor | [registry](../network/sports-fitness-wellness-apps.json) |
+| Gym Membership Retention | https://github.com/Zion-support/gym-membership-retention | [registry](../network/sports-fitness-wellness-apps.json) |
+| Class Schedule Optimizer | https://github.com/Zion-support/class-schedule-optimizer | [registry](../network/sports-fitness-wellness-apps.json) |
+| Race Event Planner | https://github.com/Zion-support/race-event-planner | [registry](../network/sports-fitness-wellness-apps.json) |
+| Sports Video Highlights | https://github.com/Zion-support/sports-video-highlights | [registry](../network/sports-fitness-wellness-apps.json) |
+| Ticket Dynamic Pricing | https://github.com/Zion-support/ticket-dynamic-pricing | [registry](../network/sports-fitness-wellness-apps.json) |
+| Sponsorship ROI Tracker | https://github.com/Zion-support/sponsorship-roi-tracker | [registry](../network/sports-fitness-wellness-apps.json) |
 
-## Verification targets (all should be 200)
-- https://zion-support.github.io/zion-network/spotlights/2026-10-05-batch90-govtech-smart-city.html
-- https://zion-support.github.io/zion-network/network/govtech-smart-city-apps.json
-- https://zion-support.github.io/zion-network/network.json
-- https://zion-support.github.io/zion-network/discovery/
-- https://zion-support.github.io/zion-network/
+## Outbound links
+
+- Hub: https://ziontechgroup.com/zion-app-network/
+- Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch14.html
+- Apps index: https://ziontechgroup.com/apps/index.html
+- Free Discovery (always online, instant dual email to client + commercial@ziontechgroup.com): https://ziontechgroup.com/apps/discovery.html
+- Network index: https://zion-support.github.io/zion-network/
+- Related batches: [Batch 84 Nonprofit](./INTERLINKS-batch84.md) · [Batch 85 AgTech](./INTERLINKS-batch85.md) · [Batch 86 Automotive](./INTERLINKS-batch86.md) · [Batch 87 Construction](./INTERLINKS-batch87.md) · [Batch 88](./INTERLINKS-batch88.md) · [Batch 89 Healthcare & Life Sciences](./INTERLINKS-batch89.md)
