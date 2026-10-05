@@ -12,9 +12,9 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 
 - New category: **[🏗️ Construction & PropTech AI](network/construction-proptech-ai.md)** — 8 interlinked apps: bid intelligence → permits → cost forecasting → site vision → safety → telematics → tenant experience → energy twin ([registry](network/construction-proptech-apps.json)).
 - New spotlight: [Batch 88 spotlight](spotlights/2026-10-05-batch88-construction-proptech.md) · [INTERLINKS-batch88.md](INTERLINKS-batch88.md).
-- Homepage: new showcase [apps/october-2026-batch11.html](https://ziontechgroup.com/apps/october-2026-batch11.html); apps index now links Batch 88.
+- Homepage: new showcase [apps/october-2026-batch12.html](https://ziontechgroup.com/apps/october-2026-batch12.html) (Batch 87 Field Services & Dispatch AI shipped earlier today at [apps/october-2026-batch11.html](https://ziontechgroup.com/apps/october-2026-batch11.html)); apps index now links Batches 87 and 88.
 - Discovery: benefits banner reinforced on homepage — always online, always free, instant results emailed to the client and commercial@ziontechgroup.com.
-- network.json: 354 → 362 apps (note: Batch 87 = Field Services & Dispatch AI, shipped in parallel by another session — see apps/october-2026-batch11.html); spotlight pointers refreshed.
+- network.json: 354 → 362 apps; spotlight pointers refreshed.
 
 ## 🚀 Latest Additions (2026-10-05, Batch 86)
 
@@ -129,6 +129,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [Automotive & Mobility AI (Batch 86)](spotlights/2026-10-05-batch86-automotive-mobility.md). Previous: [AgTech & Food Supply Chain AI (Batch 85)](spotlights/2026-10-05-batch85-agtech-food-supply.md).
+Latest spotlight: [Construction & PropTech AI (Batch 88)](spotlights/2026-10-05-batch88-construction-proptech.md). Also today: Field Services & Dispatch AI (Batch 87). Previous: [AgTech & Food Supply Chain AI (Batch 85)](spotlights/2026-10-05-batch85-agtech-food-supply.md).
 
 _Updated 2026-10-05 (Batch 88) — 544+ public repos, 362 registered apps; 47+ category pages indexed. Historical batch details preserved in git history._
