@@ -31,7 +31,18 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 74: Retail & E-commerce AI (2026-10-05)
+## Latest batch — Batch 75: Logistics & Supply Chain AI (2026-10-05)
+See [SPOTLIGHT-2026-10-05-BATCH75.md](SPOTLIGHT-2026-10-05-BATCH75.md), [INTERLINKS-batch75.md](INTERLINKS-batch75.md) and showcase https://ziontechgroup.com/apps/network-batch75.html
+| App | Repo | URL |
+|---|---|---|
+| Route Optimization AI | Zion-support/route-optimization-ai | https://ziontechgroup.com/route-optimization-ai/ |
+| Freight Rate Forecaster | Zion-support/freight-rate-forecaster | https://ziontechgroup.com/freight-rate-forecaster/ |
+| Warehouse Slotting Optimizer | Zion-support/warehouse-slotting-optimizer | https://ziontechgroup.com/warehouse-slotting-optimizer/ |
+| Delivery Exception Copilot | Zion-support/delivery-exception-copilot | https://ziontechgroup.com/delivery-exception-copilot/ |
+| Supplier Risk Radar | Zion-support/supplier-risk-radar | https://ziontechgroup.com/supplier-risk-radar/ |
+| Demand Sensing Forecaster | Zion-support/demand-sensing-forecaster | https://ziontechgroup.com/demand-sensing-forecaster/ |
+
+## Previous batch — Batch 74: Retail & E-commerce AI (2026-10-05)
 See [SPOTLIGHT-2026-10-05-BATCH74.md](SPOTLIGHT-2026-10-05-BATCH74.md), [INTERLINKS-batch74.md](INTERLINKS-batch74.md) and showcase https://ziontechgroup.com/apps/network-batch74.html
 | App | Repo | URL |
 |---|---|---|
@@ -41,17 +52,6 @@ See [SPOTLIGHT-2026-10-05-BATCH74.md](SPOTLIGHT-2026-10-05-BATCH74.md), [INTERLI
 | Cart Abandonment Rescue | Zion-support/cart-abandonment-rescue | https://ziontechgroup.com/cart-abandonment-rescue/ |
 | Stockout Predictor | Zion-support/stockout-predictor | https://ziontechgroup.com/stockout-predictor/ |
 | Review Response AI | Zion-support/review-response-ai | https://ziontechgroup.com/review-response-ai/ |
-
-## Previous batch — Batch 62: HR & Workforce AI (2026-10-03)
-See [spotlights/SPOTLIGHT-2026-10-03-batch62.md](spotlights/SPOTLIGHT-2026-10-03-batch62.md) and homepage showcase https://ziontechgroup.com/app-network-batch62-oct03.html
-| App | Repo | URL |
-|---|---|---|
-| HR Onboarding Copilot | Zion-support/hr-onboarding-copilot | https://ziontechgroup.com/hr-onboarding-copilot/ |
-| Shift Scheduler AI | Zion-support/shift-scheduler-ai | https://ziontechgroup.com/shift-scheduler-ai/ |
-| Skills Gap Analyzer | Zion-support/skills-gap-analyzer | https://ziontechgroup.com/skills-gap-analyzer/ |
-| Payroll Anomaly Detector | Zion-support/payroll-anomaly-detector | https://ziontechgroup.com/payroll-anomaly-detector/ |
-| Employee Sentiment Pulse | Zion-support/employee-sentiment-pulse | https://ziontechgroup.com/employee-sentiment-pulse/ |
-| Recruiting Screening AI | Zion-support/recruiting-screening-ai | https://ziontechgroup.com/recruiting-screening-ai/ |
 
 ## Field playbooks
 ~70 `zion-field-*` repos (countries, cities, industries) — see `network.json` `field` section and the [org repo list](https://github.com/orgs/Zion-support/repositories).
