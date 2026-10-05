@@ -1,11 +1,11 @@
 {
- "note": "Full flagship apps registry. 384 apps. Batch 93 Manufacturing & Industrial AI (2026-10-05) created & interlinked: production-scheduler-ai, oee-analytics-copilot, energy-load-shifter, safety-incident-analyzer, downtime-root-cause-ai, spare-parts-forecaster. Batch 90 Healthcare (378) & Batch 89 Hospitality (372) registered. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com; Batches 84-93 registered. NOTE: Simple Static Deploy queue backlogged (~2500 runs) — showcases committed, live after drain; network.ziontechgroup.com ACME bad_authz needs domain-owner fix.",
+ "note": "Full flagship apps registry. 390 apps. Batch 94 Legal & Compliance AI (2026-10-05) created & interlinked: legal-research-copilot, regulatory-change-tracker, gdpr-dsar-automator, contract-risk-scorer, litigation-deadline-tracker, privacy-audit-checklist. Batch 93 Manufacturing (384), Batch 90 Healthcare (378), Batch 89 Hospitality (372) registered. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com; Batches 84-94 registered. NOTE: Simple Static Deploy queue backlogged (~2500 runs) — showcases committed, live after drain; network.ziontechgroup.com ACME bad_authz needs domain-owner fix.",
  "updated": "2026-10-05",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 384,
- "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH93.md",
- "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH90.md",
+ "apps_total": 390,
+ "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH94.md",
+ "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH93.md",
  "apps": ["<APPS_PART1>", "<APPS_PART2>"]
 }
