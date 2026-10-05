@@ -1,0 +1,26 @@
+{
+ "batch": 90,
+ "category": "Media, Entertainment & Creator Economy AI",
+ "date": "2026-10-05",
+ "apps": [
+  {"id": "trend-wave-forecaster", "repo": "Zion-support/zion-trend-wave-forecaster", "url": "https://ziontechgroup.com/trend-wave-forecaster/", "description": "Spot rising topics, sounds and formats before they peak — plan content around the next wave."},
+  {"id": "script-story-outline-ai", "repo": "Zion-support/zion-script-story-outline-ai", "url": "https://ziontechgroup.com/script-story-outline-ai/", "description": "Turn a brief into structured scripts, hooks and story arcs for video, podcast and streams."},
+  {"id": "content-repurposing-engine", "repo": "Zion-support/zion-content-repurposing-engine", "url": "https://ziontechgroup.com/content-repurposing-engine/", "description": "Atomize one long-form asset into clips, threads, newsletters and posts for every channel."},
+  {"id": "podcast-show-notes-generator", "repo": "Zion-support/zion-podcast-show-notes-generator", "url": "https://ziontechgroup.com/podcast-show-notes-generator/", "description": "Chapters, summaries, quotes and SEO show notes from raw episode audio in minutes."},
+  {"id": "video-highlight-reel-ai", "repo": "Zion-support/zion-video-highlight-reel-ai", "url": "https://ziontechgroup.com/video-highlight-reel-ai/", "description": "Auto-detect the most engaging moments and cut platform-ready highlight reels."},
+  {"id": "thumbnail-ab-tester", "repo": "Zion-support/zion-thumbnail-ab-tester", "url": "https://ziontechgroup.com/thumbnail-ab-tester/", "description": "Generate and test thumbnail variants; predict CTR before you publish."},
+  {"id": "audience-sentiment-radar", "repo": "Zion-support/zion-audience-sentiment-radar", "url": "https://ziontechgroup.com/audience-sentiment-radar/", "description": "Track comments, mentions and reviews across platforms; catch shifts in mood early."},
+  {"id": "fan-engagement-copilot", "repo": "Zion-support/zion-fan-engagement-copilot", "url": "https://ziontechgroup.com/fan-engagement-copilot/", "description": "Draft on-brand replies, community posts and moderation queues that scale fan love."},
+  {"id": "creator-sponsorship-matcher", "repo": "Zion-support/zion-creator-sponsorship-matcher", "url": "https://ziontechgroup.com/creator-sponsorship-matcher/", "description": "Match creators with brands by audience fit; draft media kits, rates and outreach."},
+  {"id": "royalty-rights-tracker-ai", "repo": "Zion-support/zion-royalty-rights-tracker-ai", "url": "https://ziontechgroup.com/royalty-rights-tracker-ai/", "description": "Track usage rights, licenses and royalty statements; flag unclaimed revenue."}
+ ],
+ "interlinks": {
+  "hub": "https://zion-support.github.io/zion-network/",
+  "category": "https://zion-support.github.io/zion-network/network/media-creator-economy-ai.md",
+  "spotlight": "https://zion-support.github.io/zion-network/SPOTLIGHT-2026-10-05-BATCH90.md",
+  "interlinks": "https://zion-support.github.io/zion-network/INTERLINKS-batch90.md",
+  "homepage_showcase": "https://ziontechgroup.com/apps/october-2026-batch13.html",
+  "discovery": "https://ziontechgroup.com/discovery/",
+  "previous_batch": "https://zion-support.github.io/zion-network/SPOTLIGHT-2026-10-05-BATCH89.md"
+ }
+}

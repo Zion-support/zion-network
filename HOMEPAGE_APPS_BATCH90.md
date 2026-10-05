@@ -1,26 +1,25 @@
-# HOMEPAGE APPS — Batch 90 (GovTech & Smart City AI) — 2026-10-05
+# HOMEPAGE APPS — Batch 90: Media, Entertainment & Creator Economy AI (2026-10-05)
 
-Copy for the ziontechgroup.com homepage apps section advertising Batch 90.
+Copy pack for https://ziontechgroup.com homepage and apps index.
 
-## Section headline
-**New: GovTech & Smart City AI — 8 apps that make public services instant**
+## Headline
+**New: 10 AI apps for Media, Entertainment & the Creator Economy**
 
-## Section body
-Permits that check themselves. Traffic lights that think. 311 requests routed in seconds. Budgets citizens can actually read. The Zion GovTech & Smart City AI suite gives governments and cities eight interlinked AI apps:
+## Blurb
+From trend detection to royalty collection — Batch 90 interlinks ten apps that run the whole creator pipeline: spot the wave, draft the story, repurpose everywhere, cut highlights, test thumbnails, read audience sentiment, engage fans, land sponsors, and track every right and royalty.
 
-- [Permit Application Copilot](https://ziontechgroup.com/permit-application-copilot/) — completeness checks + code references
-- [Smart City Traffic Optimizer](https://ziontechgroup.com/smart-city-traffic-optimizer/) — signal timing + congestion prediction
-- [Citizen Request Triager (311 AI)](https://ziontechgroup.com/citizen-request-triager/) — classify, dedupe, route instantly
-- [Public Budget Transparency AI](https://ziontechgroup.com/public-budget-transparency-ai/) — searchable, explainable budgets
-- [Infrastructure Asset Monitor](https://ziontechgroup.com/infrastructure-asset-monitor/) — predictive maintenance for public assets
-- [Emergency Dispatch Prioritizer](https://ziontechgroup.com/emergency-dispatch-prioritizer/) — smarter emergency triage
-- [Grant Compliance Tracker](https://ziontechgroup.com/grant-compliance-tracker/) — deadlines + evidence, automated
-- [Urban Mobility Analytics](https://ziontechgroup.com/urban-mobility-analytics/) — multimodal mobility insights
+## Apps
+- [Trend Wave Forecaster](https://ziontechgroup.com/trend-wave-forecaster/) — Spot rising topics, sounds and formats before they peak — plan content around the next wave.
+- [Script & Story Outline AI](https://ziontechgroup.com/script-story-outline-ai/) — Turn a brief into structured scripts, hooks and story arcs for video, podcast and streams.
+- [Content Repurposing Engine](https://ziontechgroup.com/content-repurposing-engine/) — Atomize one long-form asset into clips, threads, newsletters and posts for every channel.
+- [Podcast Show Notes Generator](https://ziontechgroup.com/podcast-show-notes-generator/) — Chapters, summaries, quotes and SEO show notes from raw episode audio in minutes.
+- [Video Highlight Reel AI](https://ziontechgroup.com/video-highlight-reel-ai/) — Auto-detect the most engaging moments and cut platform-ready highlight reels.
+- [Thumbnail & Cover A/B Tester](https://ziontechgroup.com/thumbnail-ab-tester/) — Generate and test thumbnail variants; predict CTR before you publish.
+- [Audience Sentiment Radar](https://ziontechgroup.com/audience-sentiment-radar/) — Track comments, mentions and reviews across platforms; catch shifts in mood early.
+- [Fan Engagement Copilot](https://ziontechgroup.com/fan-engagement-copilot/) — Draft on-brand replies, community posts and moderation queues that scale fan love.
+- [Creator Sponsorship Matcher](https://ziontechgroup.com/creator-sponsorship-matcher/) — Match creators with brands by audience fit; draft media kits, rates and outreach.
+- [Royalty & Rights Tracker AI](https://ziontechgroup.com/royalty-rights-tracker-ai/) — Track usage rights, licenses and royalty statements; flag unclaimed revenue.
 
 ## CTA
-**Not sure which apps fit your organization?** Take the [Free AI Discovery](https://ziontechgroup.com/discovery/) — always online, always free. Results are emailed instantly to you and our commercial team (commercial@ziontechgroup.com) the moment you submit.
-
-## Links
-- Network hub: https://ziontechgroup.com/zion-app-network/
-- Network index: https://zion-support.github.io/zion-network/
-- Spotlight: https://zion-support.github.io/zion-network/spotlights/2026-10-05-batch90-govtech-smart-city.html
+Try the free AI Discovery (always online, instant results emailed to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
+Showcase page: https://ziontechgroup.com/apps/october-2026-batch13.html

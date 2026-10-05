@@ -1,28 +1,28 @@
-# INTERLINKS — Batch 90: Sports, Fitness & Wellness AI (2026-10-05)
+# INTERLINKS — Batch 90: Media, Entertainment & Creator Economy AI (2026-10-05)
 
-Every Batch 90 repo README links to: the 9 sibling apps, the network category page, the homepage showcase, and the free Discovery questionnaire.
+Canonical link mesh for the 10 Batch 90 apps. Hub: https://zion-support.github.io/zion-network/
 
-## Link graph
-- Hub: https://github.com/Zion-support/zion-network
-- Category: [network/sports-fitness-wellness-ai.md](network/sports-fitness-wellness-ai.md)
-- Registry: [network/sports-fitness-wellness-apps.json](network/sports-fitness-wellness-apps.json)
-- Spotlight: [spotlights/sports-fitness-wellness.md](spotlights/sports-fitness-wellness.md)
-- Homepage: https://ziontechgroup.com/apps/october-2026-batch13.html + https://ziontechgroup.com/apps/
+## Category & spotlight
+- Category: https://zion-support.github.io/zion-network/network/media-creator-economy-ai.md
+- Spotlight: https://zion-support.github.io/zion-network/SPOTLIGHT-2026-10-05-BATCH90.md
+- Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch13.html
 - Discovery (free, always online): https://ziontechgroup.com/discovery/
 
 ## Apps
-1. https://github.com/Zion-support/workout-plan-generator → https://ziontechgroup.com/workout-plan-generator/
-2. https://github.com/Zion-support/nutrition-meal-planner-ai → https://ziontechgroup.com/nutrition-meal-planner-ai/
-3. https://github.com/Zion-support/athlete-load-monitor → https://ziontechgroup.com/athlete-load-monitor/
-4. https://github.com/Zion-support/team-performance-analytics → https://ziontechgroup.com/team-performance-analytics/
-5. https://github.com/Zion-support/fan-loyalty-engine → https://ziontechgroup.com/fan-loyalty-engine/
-6. https://github.com/Zion-support/venue-demand-forecaster → https://ziontechgroup.com/venue-demand-forecaster/
-7. https://github.com/Zion-support/recovery-readiness-coach → https://ziontechgroup.com/recovery-readiness-coach/
-8. https://github.com/Zion-support/mental-wellness-companion → https://ziontechgroup.com/mental-wellness-companion/
-9. https://github.com/Zion-support/corporate-wellness-platform → https://ziontechgroup.com/corporate-wellness-platform/
-10. https://github.com/Zion-support/personal-trainer-copilot → https://ziontechgroup.com/personal-trainer-copilot/
+- **Trend Wave Forecaster** — https://ziontechgroup.com/trend-wave-forecaster/ · repo https://github.com/Zion-support/zion-trend-wave-forecaster
+- **Script & Story Outline AI** — https://ziontechgroup.com/script-story-outline-ai/ · repo https://github.com/Zion-support/zion-script-story-outline-ai
+- **Content Repurposing Engine** — https://ziontechgroup.com/content-repurposing-engine/ · repo https://github.com/Zion-support/zion-content-repurposing-engine
+- **Podcast Show Notes Generator** — https://ziontechgroup.com/podcast-show-notes-generator/ · repo https://github.com/Zion-support/zion-podcast-show-notes-generator
+- **Video Highlight Reel AI** — https://ziontechgroup.com/video-highlight-reel-ai/ · repo https://github.com/Zion-support/zion-video-highlight-reel-ai
+- **Thumbnail & Cover A/B Tester** — https://ziontechgroup.com/thumbnail-ab-tester/ · repo https://github.com/Zion-support/zion-thumbnail-ab-tester
+- **Audience Sentiment Radar** — https://ziontechgroup.com/audience-sentiment-radar/ · repo https://github.com/Zion-support/zion-audience-sentiment-radar
+- **Fan Engagement Copilot** — https://ziontechgroup.com/fan-engagement-copilot/ · repo https://github.com/Zion-support/zion-fan-engagement-copilot
+- **Creator Sponsorship Matcher** — https://ziontechgroup.com/creator-sponsorship-matcher/ · repo https://github.com/Zion-support/zion-creator-sponsorship-matcher
+- **Royalty & Rights Tracker AI** — https://ziontechgroup.com/royalty-rights-tracker-ai/ · repo https://github.com/Zion-support/zion-royalty-rights-tracker-ai
 
-## Cross-category interlinks
-- Healthcare & Education AI: [network/healthcare-education-ai.md](network/healthcare-education-ai.md)
-- HR & People AI: [network/hr-people-ai.md](network/hr-people-ai.md)
-- Travel & Hospitality AI: [network/travel-hospitality-ai.md](network/travel-hospitality-ai.md)
+## Cross-batch links
+- Batch 89 Space, Edge & Sustainability AI: SPOTLIGHT-2026-10-05-BATCH89.md
+- Batch 88 Construction & PropTech AI: https://ziontechgroup.com/apps/october-2026-batch12.html
+- Batch 86 Automotive & Mobility AI: network/automotive-mobility-apps.json
+- Batch 85 AgTech & Food Supply Chain AI: network/agtech-food-supply-apps.json
+- Batch 84 Nonprofit & Social Impact AI: network/nonprofit-social-impact-ai.md

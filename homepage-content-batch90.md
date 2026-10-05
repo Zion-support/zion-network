@@ -1,18 +1,24 @@
-# Homepage content — Batch 90 (2026-10-05)
+# Homepage content pack — 2026-10-05 (Batch 90 + Discovery benefits)
 
-## Hero ad block (ziontechgroup.com)
+## Discovery benefits block (homepage hero-adjacent)
+**Free AI Discovery — always online, always free.**
+- Answer 8 questions, get instant on-screen app recommendations matched from 376 interlinked Zion apps.
+- Your full report is emailed to you immediately — and to commercial@ziontechgroup.com at the same moment, so our team follows up with a tailored plan.
+- Zero backend, zero paywall, zero downtime — runs in your browser on GitHub Pages.
+Start: https://ziontechgroup.com/discovery/ · Benefits: https://ziontechgroup.com/apps/discovery-benefits.html
 
-**🏛️ GovTech & Smart City AI is live.** Eight interlinked apps — permits, traffic, 311 triage, budget transparency, infrastructure monitoring, emergency dispatch, grant compliance and urban mobility — join 370+ apps in the Zion network. [Explore the suite](https://zion-support.github.io/zion-network/spotlights/2026-10-05-batch90-govtech-smart-city.html) · [Take the free Discovery](https://ziontechgroup.com/discovery/)
+## Batch 90 — Media, Entertainment & Creator Economy AI
+**Ten apps, one loop: trend → story → repurpose → highlights → thumbnails → sentiment → fans → sponsors → royalties.**
+- Trend Wave Forecaster: https://ziontechgroup.com/trend-wave-forecaster/
+- Script & Story Outline AI: https://ziontechgroup.com/script-story-outline-ai/
+- Content Repurposing Engine: https://ziontechgroup.com/content-repurposing-engine/
+- Podcast Show Notes Generator: https://ziontechgroup.com/podcast-show-notes-generator/
+- Video Highlight Reel AI: https://ziontechgroup.com/video-highlight-reel-ai/
+- Thumbnail & Cover A/B Tester: https://ziontechgroup.com/thumbnail-ab-tester/
+- Audience Sentiment Radar: https://ziontechgroup.com/audience-sentiment-radar/
+- Fan Engagement Copilot: https://ziontechgroup.com/fan-engagement-copilot/
+- Creator Sponsorship Matcher: https://ziontechgroup.com/creator-sponsorship-matcher/
+- Royalty & Rights Tracker AI: https://ziontechgroup.com/royalty-rights-tracker-ai/
 
-## Discovery benefits block (reuse on homepage)
-- ✅ **Always online, always free** — zero-backend questionnaire on GitHub Pages, no downtime, no paywall
-- ⚡ **Instant on-screen recommendations** matched from 370+ interlinked apps
-- 📧 **Instant email delivery** — results go to the client AND commercial@ziontechgroup.com the moment the questionnaire is submitted
-- 🧭 **Clear action path** — Discovery free → Consulting $499 → Starter $2,500 → Growth $8,000/mo
-
-## Recently added (for homepage “What’s new”)
-- Batch 90: GovTech & Smart City AI (8 apps)
-- Batch 88: Construction & PropTech AI (8 apps)
-- Batch 86: Automotive & Mobility AI (10 apps)
-- Batch 85: AgTech & Food Supply Chain AI (10 apps)
-- Batch 84: Nonprofit, NGO & Social Impact AI (10 apps)
+Showcase: https://ziontechgroup.com/apps/october-2026-batch13.html
+Network hub: https://zion-support.github.io/zion-network/
