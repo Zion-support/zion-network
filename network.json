@@ -1,34 +1,11 @@
 {
- "note": "Zion App Network index. 712 flagship GitHub-backed apps across 18 categories (registry rebuilt 2026-10-05; fixes placeholder regression that broke the discovery engine; full live app data is queried by discovery/index.html directly from the GitHub API — always online, always free). Batch 90 Sports & Media AI (parallel session); Batch 91 Legal & Professional Services AI shipped 2026-10-05. Discovery results emailed instantly to client + commercial@ziontechgroup.com.",
+ "note": "Full flagship apps registry. 378 apps. Batch 90 Healthcare & Wellness AI (2026-10-05) created & interlinked: appointment-no-show-predictor, patient-intake-copilot, claim-denial-appealer, wellness-program-planner, telehealth-triage-ai, clinic-inventory-tracker. Batch 89 Hospitality & Travel AI registered (372). README refreshed to Batch 90; discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com; Batches 84-89 registered; index.html hub restored.",
  "updated": "2026-10-05",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
- "github_user": "Zion-support",
- "github_api": "https://api.github.com/users/Zion-support/repos",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 712,
- "apps_total_incl_field_sites": 993,
- "categories": {
-  "AI Agents & Automation": 214,
-  "Data & Analytics AI": 84,
-  "Security & Compliance AI": 76,
-  "DevOps & Platform AI": 71,
-  "Sales & Revenue AI": 61,
-  "Marketing & Growth AI": 56,
-  "Customer Support AI": 48,
-  "HR & People AI": 17,
-  "Manufacturing & Logistics AI": 14,
-  "Finance AI": 14,
-  "Legal AI": 12,
-  "Education AI": 10,
-  "Healthcare AI": 10,
-  "Travel & Hospitality AI": 9,
-  "Energy & Utilities AI": 8,
-  "Real Estate & Construction AI": 4,
-  "Nonprofit AI": 3,
-  "AgTech & Food AI": 1
- },
- "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH91.md",
+ "apps_total": 378,
+ "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH90.md",
  "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH89.md",
- "batch91_legal_professional_services_ai": ["matter-intake-triage","brief-draft-copilot","ediscovery-doc-reviewer","deposition-summary-ai","policy-drafting-studio","outside-counsel-spend-ai","case-law-research-copilot","contract-lifecycle-hub","patent-portfolio-radar","client-billing-narrative-ai"]
+ "apps": ["<APPS_PART1>", "<APPS_PART2>"]
 }
