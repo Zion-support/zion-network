@@ -31,58 +31,35 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Discovery — free & always online
-Free AI Discovery questionnaire with instant results emailed to the client and commercial@ziontechgroup.com simultaneously: https://ziontechgroup.com/discovery/ — benefits copy in [homepage-content-batch89.md](homepage-content-batch89.md), benefits page: https://ziontechgroup.com/apps/discovery-benefits.html
-
-## Latest batch — Batch 90: Sports, Fitness & Wellness AI (2026-10-05)
-See [spotlights/sports-fitness-wellness.md](spotlights/sports-fitness-wellness.md), [INTERLINKS-batch90.md](INTERLINKS-batch90.md), [network/sports-fitness-wellness-ai.md](network/sports-fitness-wellness-ai.md) and showcase https://ziontechgroup.com/apps/october-2026-batch13.html
+## Latest batch — Batch 90: Healthcare & Wellness AI (2026-10-05)
+See [SPOTLIGHT-2026-10-05-BATCH90.md](SPOTLIGHT-2026-10-05-BATCH90.md), [INTERLINKS-batch90.md](INTERLINKS-batch90.md) and homepage pack [HOMEPAGE_APPS_BATCH90.md](HOMEPAGE_APPS_BATCH90.md)
 | App | Repo | URL |
 |---|---|---|
-| Workout Plan Generator | Zion-support/workout-plan-generator | https://ziontechgroup.com/workout-plan-generator/ |
-| Nutrition & Meal Planner AI | Zion-support/nutrition-meal-planner-ai | https://ziontechgroup.com/nutrition-meal-planner-ai/ |
-| Athlete Load Monitor | Zion-support/athlete-load-monitor | https://ziontechgroup.com/athlete-load-monitor/ |
-| Team Performance Analytics | Zion-support/team-performance-analytics | https://ziontechgroup.com/team-performance-analytics/ |
-| Fan Loyalty Engine | Zion-support/fan-loyalty-engine | https://ziontechgroup.com/fan-loyalty-engine/ |
-| Venue Demand Forecaster | Zion-support/venue-demand-forecaster | https://ziontechgroup.com/venue-demand-forecaster/ |
-| Recovery & Readiness Coach | Zion-support/recovery-readiness-coach | https://ziontechgroup.com/recovery-readiness-coach/ |
-| Mental Wellness Companion | Zion-support/mental-wellness-companion | https://ziontechgroup.com/mental-wellness-companion/ |
-| Corporate Wellness Platform | Zion-support/corporate-wellness-platform | https://ziontechgroup.com/corporate-wellness-platform/ |
-| Personal Trainer Copilot | Zion-support/personal-trainer-copilot | https://ziontechgroup.com/personal-trainer-copilot/ |
+| Appointment No-Show Predictor | Zion-support/appointment-no-show-predictor | https://ziontechgroup.com/appointment-no-show-predictor/ |
+| Patient Intake Copilot | Zion-support/patient-intake-copilot | https://ziontechgroup.com/patient-intake-copilot/ |
+| Claim Denial Appealer | Zion-support/claim-denial-appealer | https://ziontechgroup.com/claim-denial-appealer/ |
+| Wellness Program Planner | Zion-support/wellness-program-planner | https://ziontechgroup.com/wellness-program-planner/ |
+| Telehealth Triage AI | Zion-support/telehealth-triage-ai | https://ziontechgroup.com/telehealth-triage-ai/ |
+| Clinic Inventory Tracker | Zion-support/clinic-inventory-tracker | https://ziontechgroup.com/clinic-inventory-tracker/ |
 
-## Batch 89: Space, Edge & Sustainability AI (2026-10-05)
-See [SPOTLIGHT-2026-10-05-BATCH89.md](SPOTLIGHT-2026-10-05-BATCH89.md), [INTERLINKS-batch89.md](INTERLINKS-batch89.md)
+## Previous batch — Batch 89: Hospitality & Travel AI (2026-10-05)
+See [SPOTLIGHT-2026-10-05-BATCH89.md](SPOTLIGHT-2026-10-05-BATCH89.md), [INTERLINKS-batch89.md](INTERLINKS-batch89.md), [HOMEPAGE_APPS_BATCH89.md](HOMEPAGE_APPS_BATCH89.md)
 | App | Repo | URL |
 |---|---|---|
-| Orbital Conjunction Screener | Zion-support/orbital-conjunction-screener | https://ziontechgroup.com/orbital-conjunction-screener/ |
-| Ground Station Link Monitor | Zion-support/ground-station-link-monitor | https://ziontechgroup.com/ground-station-link-monitor/ |
-| Satellite Pass Scheduler | Zion-support/satellite-pass-scheduler | https://ziontechgroup.com/satellite-pass-scheduler/ |
-| AI Edge Deployer | Zion-support/ai-edge-deployer | https://ziontechgroup.com/ai-edge-deployer/ |
-| Website Carbon Estimator | Zion-support/website-carbon-estimator | https://ziontechgroup.com/website-carbon-estimator/ |
-| Water Usage Optimizer | Zion-support/water-usage-optimizer | https://ziontechgroup.com/water-usage-optimizer/ |
+| Guest Experience Concierge | Zion-support/guest-experience-concierge | https://ziontechgroup.com/guest-experience-concierge/ |
+| Hotel Dynamic Pricing | Zion-support/hotel-dynamic-pricing | https://ziontechgroup.com/hotel-dynamic-pricing/ |
+| Booking Channel Optimizer | Zion-support/booking-channel-optimizer | https://ziontechgroup.com/booking-channel-optimizer/ |
+| Housekeeping Scheduler AI | Zion-support/housekeeping-scheduler-ai | https://ziontechgroup.com/housekeeping-scheduler-ai/ |
+| Travel Itinerary Builder | Zion-support/travel-itinerary-builder | https://ziontechgroup.com/travel-itinerary-builder/ |
+| Menu Margin Optimizer | Zion-support/menu-margin-optimizer | https://ziontechgroup.com/menu-margin-optimizer/ |
 
-## Batch 75: Logistics & Supply Chain AI (2026-10-05)
-See [SPOTLIGHT-2026-10-05-BATCH75.md](SPOTLIGHT-2026-10-05-BATCH75.md), [INTERLINKS-batch75.md](INTERLINKS-batch75.md) and showcase https://ziontechgroup.com/apps/network-batch75.html
-| App | Repo | URL |
-|---|---|---|
-| Route Optimization AI | Zion-support/route-optimization-ai | https://ziontechgroup.com/route-optimization-ai/ |
-| Freight Rate Forecaster | Zion-support/freight-rate-forecaster | https://ziontechgroup.com/freight-rate-forecaster/ |
-| Warehouse Slotting Optimizer | Zion-support/warehouse-slotting-optimizer | https://ziontechgroup.com/warehouse-slotting-optimizer/ |
-| Delivery Exception Copilot | Zion-support/delivery-exception-copilot | https://ziontechgroup.com/delivery-exception-copilot/ |
-| Supplier Risk Radar | Zion-support/supplier-risk-radar | https://ziontechgroup.com/supplier-risk-radar/ |
-| Demand Sensing Forecaster | Zion-support/demand-sensing-forecaster | https://ziontechgroup.com/demand-sensing-forecaster/ |
+## Older batches
+Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](INTERLINKS-batch82.md) · [83](INTERLINKS-batch83.md) · [84](INTERLINKS-batch84.md) · [85](INTERLINKS-batch85.md) · [86](INTERLINKS-batch86.md) · [87](INTERLINKS-batch87.md) · [88](INTERLINKS-batch88.md)
 
-## Batch 74: Retail & E-commerce AI (2026-10-05)
-See [SPOTLIGHT-2026-10-05-BATCH74.md](SPOTLIGHT-2026-10-05-BATCH74.md), [INTERLINKS-batch74.md](INTERLINKS-batch74.md) and showcase https://ziontechgroup.com/apps/network-batch74.html
-| App | Repo | URL |
-|---|---|---|
-| Return Fraud Detector | Zion-support/return-fraud-detector | https://ziontechgroup.com/return-fraud-detector/ |
-| Product Recommendation AI | Zion-support/product-recommendation-ai | https://ziontechgroup.com/product-recommendation-ai/ |
-| Promo ROI Optimizer | Zion-support/promo-roi-optimizer | https://ziontechgroup.com/promo-roi-optimizer/ |
-| Cart Abandonment Rescue | Zion-support/cart-abandonment-rescue | https://ziontechgroup.com/cart-abandonment-rescue/ |
-| Stockout Predictor | Zion-support/stockout-predictor | https://ziontechgroup.com/stockout-predictor/ |
-| Review Response AI | Zion-support/review-response-ai | https://ziontechgroup.com/review-response-ai/ |
+## Free AI Discovery
+100% free, online, always available → https://ziontechgroup.com/discovery/ · Results instantly emailed to the client and commercial@ziontechgroup.com · Landing page: [discovery.html](discovery.html)
 
 ## Field playbooks
 ~70 `zion-field-*` repos (countries, cities, industries) — see `network.json` `field` section and the [org repo list](https://github.com/orgs/Zion-support/repositories).
 
-Main site: https://ziontechgroup.com • Contact: kleber@ziontechgroup.com
+Main site: https://ziontechgroup.com · Contact: kleber@ziontechgroup.com
