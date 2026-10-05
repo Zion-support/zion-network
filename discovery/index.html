@@ -24,7 +24,7 @@ ul.benefits{line-height:1.9;padding-left:1.2rem}
 <h1>Free AI Discovery</h1>
 <p>Answer 8 quick questions. The moment you submit:</p>
 <ul class="benefits">
-<li><strong>Instant on-screen report</strong> — personalized app recommendations from our 265+ app network, no waiting.</li>
+<li><strong>Instant on-screen report</strong> — personalized app recommendations from our 420+ app network, no waiting.</li>
 <li><strong>Email copy to you</strong> — results are emailed to your inbox immediately.</li>
 <li><strong>Our commercial team is looped in</strong> — <a href="mailto:commercial@ziontechgroup.com">commercial@ziontechgroup.com</a> receives your results at the same moment to follow up with a tailored plan.</li>
 <li><strong>Zero backend, always online</strong> — runs fully in your browser on GitHub Pages; no downtime, no paywall, free forever.</li>
@@ -35,7 +35,7 @@ ul.benefits{line-height:1.9;padding-left:1.2rem}
 <label>Work email (results sent here)</label><input name="email" type="email" required>
 <label>Company</label><input name="company" required>
 <label>Industry</label>
-<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Insurance</option><option>Telecom</option><option>Construction & Real Estate Dev</option><option>Automotive & Mobility</option><option>Sports, Fitness & Wellness</option><option>Other</option></select>
+<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Other</option></select>
 <label>Company size</label>
 <select name="size"><option>1-10</option><option>11-50</option><option>51-200</option><option>201-1000</option><option>1000+</option></select>
 <label>Biggest challenge right now</label>
@@ -50,38 +50,48 @@ ul.benefits{line-height:1.9;padding-left:1.2rem}
 <p id="status"></p>
 <script>
 // Always-online, zero-backend discovery:
-// 1) Instant client-side personalized report from network.json
+// 1) Instant client-side personalized report from the apps registry (network.json -> apps-part files)
 // 2) FormSubmit emails results to commercial@ziontechgroup.com with the client CC'd
 // 3) mailto fallback so the client always keeps a copy
 var KW={
- 'Travel & Hospitality':['travel','hospitality','booking','guest'],
+ 'Travel & Hospitality':['travel','hospitality','booking','guest','hotel','menu'],
  'Retail & Ecommerce':['cart','inventory','pricing','product','returns','review','ecommerce','retail'],
- 'Healthcare':['health','patient','clinic'],
+ 'Healthcare':['health','patient','clinic','telehealth','claim','wellness'],
  'Finance':['invoice','billing','revenue','roi','finops','payment','collections'],
  'Manufacturing':['manufacturing','dispatch','maintenance','spare','field'],
- 'Real Estate':['real-estate','property','valuer'],
+ 'Real Estate':['real-estate','property','valuer','proptech'],
  'Education':['education','learning'],
  'Agriculture & Food':['crop','pest','irrigation','soil','livestock','harvest','cold-chain','food-safety','farm','traceability','agriculture'],
  'Energy & Utilities':['energy','solar','grid','building-efficiency','consumption'],
  'Nonprofit & NGO':['grant','donor','fundraising','volunteer','impact','beneficiary','csr','crisis-relief'],
- 'Insurance':['insurance','underwriting','claims','risk','policy'],
- 'Telecom':['telecom','network','connectivity','5g','subscriber'],
- 'Construction & Real Estate Dev':['construction','bid','permit','site','safety','telematics','proptech'],
- 'Automotive & Mobility':['fleet','ev-charging','dealer','routing','driver','parts','warranty','recall','automotive'],
- 'Sports, Fitness & Wellness':['training','injury','nutrition','fitness','wellness','member','ticket','athlete','gym','coach'],
  'Other':[]
 };
+function norm(a){
+ // compact registry entries: i=id, d=description, u=optional url
+ return {id:a.id||a.i||a.name, description:a.description||a.d||'', url:a.url||a.u||('https://ziontechgroup.com/'+(a.id||a.i)+'/')};
+}
 function recommend(industry,interests,apps){
  var kws=(KW[industry]||[]).slice();
  interests.forEach(function(i){kws=kws.concat(i.toLowerCase().split(/[^a-z]+/));});
  var scored=apps.map(function(a){
-  var t=((a.id||'')+' '+(a.description||'')+' '+(a.category||'')).toLowerCase(),s=0;
+  var t=((a.id||'')+' '+(a.description||'')).toLowerCase(),s=0;
   kws.forEach(function(k){if(k&&k.length>2&&t.indexOf(k)>-1)s++;});
   return {a:a,s:s};
  }).filter(function(x){return x.s>0;}).sort(function(x,y){return y.s-x.s;});
  var top=scored.slice(0,6).map(function(x){return x.a;});
  if(!top.length)top=apps.slice(0,6);
  return top;
+}
+function loadApps(){
+ return fetch('../network.json').then(function(r){return r.json();}).then(function(n){
+  if(n.apps&&n.apps.length&&typeof n.apps[0]==='object')return {apps:n.apps.map(norm),total:n.apps_total||n.apps.length};
+  var files=n.apps_files||['../network/apps-part1.json','../network/apps-part2.json','../network/apps-part3.json'];
+  files=files.map(function(f){return f.indexOf('network/')===0?'../'+f:f;});
+  return Promise.all(files.map(function(f){return fetch(f).then(function(r){return r.json();});})).then(function(parts){
+   var apps=[];parts.forEach(function(p){apps=apps.concat((p.apps||p).map(norm));});
+   return {apps:apps,total:n.apps_total||apps.length};
+  });
+ });
 }
 document.getElementById('discoveryForm').addEventListener('submit',function(e){
  e.preventDefault();
@@ -90,25 +100,22 @@ document.getElementById('discoveryForm').addEventListener('submit',function(e){
  var industry=d.get('industry');
  var interests=(d.get('interest')||'').split(',').filter(Boolean);
  var report='ZION AI DISCOVERY RESULTS\n=====================\n'+body.join('\n');
- // 1) Instant on-screen personalized recommendations
- fetch('../network.json').then(function(r){return r.json();}).then(function(n){
-  var recs=recommend(industry,interests,n.apps||[]);
-  var html='<h2 style="color:#7dd3fc">Your instant recommendations</h2><p>Matched from '+(n.apps_total||n.apps.length)+' apps in the Zion network for <strong>'+industry+'</strong>:</p>';
-  recs.forEach(function(a){html+='<div class="rec"><h3><a href="'+a.url+'">'+(a.id||a.name)+'</a></h3><p>'+(a.description||a.category||'')+'</p></div>';});
+ loadApps().then(function(n){
+  var recs=recommend(industry,interests,n.apps);
+  var html='<h2 style="color:#7dd3fc">Your instant recommendations</h2><p>Matched from '+n.total+' apps in the Zion network for <strong>'+industry+'</strong>:</p>';
+  recs.forEach(function(a){html+='<div class="rec"><h3><a href="'+a.url+'">'+a.id+'</a></h3><p>'+a.description+'</p></div>';});
   html+='<p>Full report also emailed to '+d.get('email')+' and commercial@ziontechgroup.com.</p>';
   document.getElementById('results').innerHTML=html;
-  report+='\n\nTOP RECOMMENDATIONS:\n'+recs.map(function(a){return '- '+(a.id||a.name)+' -> '+a.url;}).join('\n');
+  report+='\n\nTOP RECOMMENDATIONS:\n'+recs.map(function(a){return '- '+a.id+' -> '+a.url;}).join('\n');
   send(report);
  }).catch(function(){send(report);});
  function send(rep){
-  // 2) Serverless email to commercial team + client CC
   fetch('https://formsubmit.co/ajax/commercial@ziontechgroup.com',{method:'POST',
    headers:{'Content-Type':'application/json','Accept':'application/json'},
    body:JSON.stringify({_subject:'New AI Discovery submission — '+d.get('company'),
     _cc:d.get('email'),name:d.get('name'),email:d.get('email'),company:d.get('company'),
     industry:d.get('industry'),size:d.get('size'),challenge:d.get('challenge'),
     interest:d.get('interest'),timeline:d.get('timeline'),report:rep})}).catch(function(){});
-  // 3) mailto fallback so the client always gets results
   document.getElementById('status').innerHTML='Submitted! Your results are on the way to '+d.get('email')+' and our commercial team. '+
    '<a href="mailto:commercial@ziontechgroup.com?cc='+encodeURIComponent(d.get('email'))+'&subject='+encodeURIComponent('AI Discovery — '+d.get('company'))+'&body='+encodeURIComponent(rep)+'">Click here if you also want a copy in your mail app</a>.';
  }

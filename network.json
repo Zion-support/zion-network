@@ -1,11 +1,26 @@
 {
- "note": "Full flagship apps registry. 378 apps. Batch 90 Healthcare & Wellness AI (2026-10-05) created & interlinked: appointment-no-show-predictor, patient-intake-copilot, claim-denial-appealer, wellness-program-planner, telehealth-triage-ai, clinic-inventory-tracker. Batch 89 Hospitality & Travel AI registered (372). README refreshed to Batch 90; discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com; Batches 84-89 registered; index.html hub restored.",
+ "note": "Full flagship apps registry. Batches up to 91 (2026-10-05). Canonical app list is split into network/apps-part1.json, network/apps-part2.json, network/apps-part3.json (420 apps, compact format: i=id, d=description, c=category code, u=optional url). Per-category details live in network/*-apps.json. Latest: Batch 91 (see SPOTLIGHT-2026-10-05-BATCH91.md). Batch 90 Healthcare & Wellness AI; Batch 89 Hospitality & Travel AI. Discovery upgraded with instant on-screen results emailed to client + commercial@ziontechgroup.com.",
  "updated": "2026-10-05",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 378,
- "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH90.md",
- "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH89.md",
- "apps": ["<APPS_PART1>", "<APPS_PART2>"]
+ "apps_total": 420,
+ "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH91.md",
+ "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH90.md",
+ "apps_files": [
+  "network/apps-part1.json",
+  "network/apps-part2.json",
+  "network/apps-part3.json"
+ ],
+ "batch_files": {
+  "85": "network/agtech-food-supply-apps.json",
+  "86": "network/automotive-mobility-apps.json",
+  "87": "network/construction-proptech-apps.json",
+  "88": "network/media-creator-economy-apps.json",
+  "89": "network/travel-hospitality-apps.json",
+  "90": "network/healthcare-v2-apps.json",
+  "84": "network/nonprofit-social-impact-apps.json"
+ },
+ "discovery": "https://zion-support.github.io/zion-network/discovery/",
+ "discovery_email": "commercial@ziontechgroup.com"
 }
