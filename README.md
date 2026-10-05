@@ -31,7 +31,18 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 62: HR & Workforce AI (2026-10-03)
+## Latest batch — Batch 74: Retail & E-commerce AI (2026-10-05)
+See [SPOTLIGHT-2026-10-05-BATCH74.md](SPOTLIGHT-2026-10-05-BATCH74.md), [INTERLINKS-batch74.md](INTERLINKS-batch74.md) and showcase https://ziontechgroup.com/apps/network-batch74.html
+| App | Repo | URL |
+|---|---|---|
+| Return Fraud Detector | Zion-support/return-fraud-detector | https://ziontechgroup.com/return-fraud-detector/ |
+| Product Recommendation AI | Zion-support/product-recommendation-ai | https://ziontechgroup.com/product-recommendation-ai/ |
+| Promo ROI Optimizer | Zion-support/promo-roi-optimizer | https://ziontechgroup.com/promo-roi-optimizer/ |
+| Cart Abandonment Rescue | Zion-support/cart-abandonment-rescue | https://ziontechgroup.com/cart-abandonment-rescue/ |
+| Stockout Predictor | Zion-support/stockout-predictor | https://ziontechgroup.com/stockout-predictor/ |
+| Review Response AI | Zion-support/review-response-ai | https://ziontechgroup.com/review-response-ai/ |
+
+## Previous batch — Batch 62: HR & Workforce AI (2026-10-03)
 See [spotlights/SPOTLIGHT-2026-10-03-batch62.md](spotlights/SPOTLIGHT-2026-10-03-batch62.md) and homepage showcase https://ziontechgroup.com/app-network-batch62-oct03.html
 | App | Repo | URL |
 |---|---|---|
