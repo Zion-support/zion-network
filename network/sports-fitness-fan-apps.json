@@ -1,0 +1,77 @@
+{
+  "batch": 90,
+  "date": "2026-10-05",
+  "category": "Sports, Fitness & Fan Engagement AI",
+  "apps": [
+    {
+      "slug": "fan-engagement-copilot",
+      "name": "Fan Engagement Copilot",
+      "repo": "https://github.com/Zion-support/fan-engagement-copilot",
+      "homepage": "https://ziontechgroup.com/fan-engagement-copilot/",
+      "description": "AI fan engagement copilot — personalized fan journeys, loyalty campaigns, segmentation and churn rescue for clubs, leagues and venues."
+    },
+    {
+      "slug": "ticket-dynamic-pricing",
+      "name": "Ticket Dynamic Pricing",
+      "repo": "https://github.com/Zion-support/ticket-dynamic-pricing",
+      "homepage": "https://ziontechgroup.com/ticket-dynamic-pricing/",
+      "description": "Demand-based dynamic ticket pricing for sports and live events — maximize gate revenue without alienating fans."
+    },
+    {
+      "slug": "athlete-performance-analyzer",
+      "name": "Athlete Performance Analyzer",
+      "repo": "https://github.com/Zion-support/athlete-performance-analyzer",
+      "homepage": "https://ziontechgroup.com/athlete-performance-analyzer/",
+      "description": "Athlete performance analytics from wearables and video — load, speed, power and readiness in one dashboard."
+    },
+    {
+      "slug": "injury-risk-predictor",
+      "name": "Injury Risk Predictor",
+      "repo": "https://github.com/Zion-support/injury-risk-predictor",
+      "homepage": "https://ziontechgroup.com/injury-risk-predictor/",
+      "description": "Injury risk prediction from training load, sleep, HRV and movement data — keep your squad on the pitch."
+    },
+    {
+      "slug": "training-plan-generator",
+      "name": "Training Plan Generator",
+      "repo": "https://github.com/Zion-support/training-plan-generator",
+      "homepage": "https://ziontechgroup.com/training-plan-generator/",
+      "description": "Personalized periodized training plan generator for athletes, academies and gyms."
+    },
+    {
+      "slug": "match-day-ops-planner",
+      "name": "Match-Day Ops Planner",
+      "repo": "https://github.com/Zion-support/match-day-ops-planner",
+      "homepage": "https://ziontechgroup.com/match-day-ops-planner/",
+      "description": "Match-day operations planner — staffing, crowd flow, gates, security and incident readiness."
+    },
+    {
+      "slug": "sponsorship-roi-tracker",
+      "name": "Sponsorship ROI Tracker",
+      "repo": "https://github.com/Zion-support/sponsorship-roi-tracker",
+      "homepage": "https://ziontechgroup.com/sponsorship-roi-tracker/",
+      "description": "Sponsorship media value and activation ROI tracker for sports properties and brands."
+    },
+    {
+      "slug": "highlight-reel-generator",
+      "name": "Highlight Reel Generator",
+      "repo": "https://github.com/Zion-support/highlight-reel-generator",
+      "homepage": "https://ziontechgroup.com/highlight-reel-generator/",
+      "description": "Auto-generated highlight reels and clips from match footage — publish in minutes, not days."
+    },
+    {
+      "slug": "concessions-demand-forecaster",
+      "name": "Concessions Demand Forecaster",
+      "repo": "https://github.com/Zion-support/concessions-demand-forecaster",
+      "homepage": "https://ziontechgroup.com/concessions-demand-forecaster/",
+      "description": "Concession and F&B demand forecasting per match, stand and zone — cut waste, stock right."
+    },
+    {
+      "slug": "fitness-retention-predictor",
+      "name": "Fitness Retention Predictor",
+      "repo": "https://github.com/Zion-support/fitness-retention-predictor",
+      "homepage": "https://ziontechgroup.com/fitness-retention-predictor/",
+      "description": "Gym and studio member churn prediction with retention playbooks."
+    }
+  ]
+}

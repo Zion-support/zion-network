@@ -1,21 +1,18 @@
-# Homepage Apps — Batch 90: Sports, Fitness & Wellness AI
+# 🏟️ HOMEPAGE APPS — Batch 90: Sports, Fitness & Fan Engagement AI (2026-10-05)
 
-Copy block for https://ziontechgroup.com homepage apps section.
+Copy-paste block for the ziontechgroup.com homepage apps section.
 
-## New: Sports, Fitness & Wellness AI suite
-10 AI apps for gyms, clubs, teams and wellness programs:
+| App | URL | Repo |
+|---|---|---|
+| Fan Engagement Copilot | https://ziontechgroup.com/fan-engagement-copilot/ | https://github.com/Zion-support/fan-engagement-copilot |
+| Ticket Dynamic Pricing | https://ziontechgroup.com/ticket-dynamic-pricing/ | https://github.com/Zion-support/ticket-dynamic-pricing |
+| Athlete Performance Analyzer | https://ziontechgroup.com/athlete-performance-analyzer/ | https://github.com/Zion-support/athlete-performance-analyzer |
+| Injury Risk Predictor | https://ziontechgroup.com/injury-risk-predictor/ | https://github.com/Zion-support/injury-risk-predictor |
+| Training Plan Generator | https://ziontechgroup.com/training-plan-generator/ | https://github.com/Zion-support/training-plan-generator |
+| Match-Day Ops Planner | https://ziontechgroup.com/match-day-ops-planner/ | https://github.com/Zion-support/match-day-ops-planner |
+| Sponsorship ROI Tracker | https://ziontechgroup.com/sponsorship-roi-tracker/ | https://github.com/Zion-support/sponsorship-roi-tracker |
+| Highlight Reel Generator | https://ziontechgroup.com/highlight-reel-generator/ | https://github.com/Zion-support/highlight-reel-generator |
+| Concessions Demand Forecaster | https://ziontechgroup.com/concessions-demand-forecaster/ | https://github.com/Zion-support/concessions-demand-forecaster |
+| Fitness Retention Predictor | https://ziontechgroup.com/fitness-retention-predictor/ | https://github.com/Zion-support/fitness-retention-predictor |
 
-- **Training Plan AI** — personalized adaptive training plans → https://ziontechgroup.com/training-plan-ai/
-- **Injury Risk Monitor** — predict & prevent injuries → https://ziontechgroup.com/injury-risk-monitor/
-- **Nutrition Coach AI** — meal plans & habit coaching → https://ziontechgroup.com/nutrition-coach-ai/
-- **Gym Membership Retention** — churn prediction & win-back → https://ziontechgroup.com/gym-membership-retention/
-- **Class Schedule Optimizer** — fill every class → https://ziontechgroup.com/class-schedule-optimizer/
-- **Sports Video Highlights** — auto highlights & clips → https://ziontechgroup.com/sports-video-highlights/
-- **Fan Engagement AI** — personalized fan journeys → https://ziontechgroup.com/fan-engagement-ai/
-- **Wellness Program Tracker** — corporate wellness ROI → https://ziontechgroup.com/wellness-program-tracker/
-- **Sleep Recovery Coach** — recovery analytics → https://ziontechgroup.com/sleep-recovery-coach/
-- **Race Event Planner** — events end-to-end → https://ziontechgroup.com/race-event-planner/
-
-Not sure where to start? Take the **free AI discovery** (2 minutes, instant results emailed to you): https://zion-support.github.io/zion-network/discovery/
-
-Explore all 370+ apps: https://zion-support.github.io/zion-network/
+CTA: Start the free AI Discovery questionnaire → https://ziontechgroup.com/discovery/ (100% free, online, always available — results instantly emailed to you and our commercial team).
