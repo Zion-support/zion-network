@@ -1,26 +1,11 @@
 {
- "note": "Full flagship apps registry. Batches up to 91 (2026-10-05). Canonical app list is split into network/apps-part1.json, network/apps-part2.json, network/apps-part3.json (420 apps, compact format: i=id, d=description, c=category code, u=optional url). Per-category details live in network/*-apps.json. Latest: Batch 91 (see SPOTLIGHT-2026-10-05-BATCH91.md). Batch 90 Healthcare & Wellness AI; Batch 89 Hospitality & Travel AI. Discovery upgraded with instant on-screen results emailed to client + commercial@ziontechgroup.com.",
+ "note": "Full flagship apps registry. 384 apps. Batch 93 Manufacturing & Industrial AI (2026-10-05) created & interlinked: production-scheduler-ai, oee-analytics-copilot, energy-load-shifter, safety-incident-analyzer, downtime-root-cause-ai, spare-parts-forecaster. Batch 90 Healthcare (378) & Batch 89 Hospitality (372) registered. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com; Batches 84-93 registered. NOTE: Simple Static Deploy queue backlogged (~2500 runs) — showcases committed, live after drain; network.ziontechgroup.com ACME bad_authz needs domain-owner fix.",
  "updated": "2026-10-05",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 420,
- "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH91.md",
+ "apps_total": 384,
+ "spotlight_latest": "SPOTLIGHT-2026-10-05-BATCH93.md",
  "spotlight_previous": "SPOTLIGHT-2026-10-05-BATCH90.md",
- "apps_files": [
-  "network/apps-part1.json",
-  "network/apps-part2.json",
-  "network/apps-part3.json"
- ],
- "batch_files": {
-  "85": "network/agtech-food-supply-apps.json",
-  "86": "network/automotive-mobility-apps.json",
-  "87": "network/construction-proptech-apps.json",
-  "88": "network/media-creator-economy-apps.json",
-  "89": "network/travel-hospitality-apps.json",
-  "90": "network/healthcare-v2-apps.json",
-  "84": "network/nonprofit-social-impact-apps.json"
- },
- "discovery": "https://zion-support.github.io/zion-network/discovery/",
- "discovery_email": "commercial@ziontechgroup.com"
+ "apps": ["<APPS_PART1>", "<APPS_PART2>"]
 }
