@@ -24,24 +24,25 @@ ul.benefits{line-height:1.9;padding-left:1.2rem}
 <h1>Free AI Discovery</h1>
 <p>Answer 8 quick questions. The moment you submit:</p>
 <ul class="benefits">
-<li><strong>Instant on-screen report</strong> — personalized app recommendations from our 370+ app network, no waiting.</li>
+<li><strong>Instant on-screen report</strong> — personalized app recommendations from our 370+ app network across 48+ categories, no waiting.</li>
 <li><strong>Email copy to you</strong> — results are emailed to your inbox immediately.</li>
 <li><strong>Our commercial team is looped in</strong> — <a href="mailto:commercial@ziontechgroup.com">commercial@ziontechgroup.com</a> receives your results at the same moment to follow up with a tailored plan.</li>
 <li><strong>Zero backend, always online</strong> — runs fully in your browser on GitHub Pages; no downtime, no paywall, free forever.</li>
+<li><strong>New: Sports, Fitness & Wellness AI</strong> — training plans, injury prevention, gym retention, fan engagement and more.</li>
 </ul>
 <p>Explore the <a href="../APPS_NETWORK.md">Zion App Network</a> or the <a href="../">network hub</a> while you wait.</p>
 <form id="discoveryForm">
-<label>Your name</label><input name="name" required>
+<label>Your name:</label><input name="name" required>
 <label>Work email (results sent here)</label><input name="email" type="email" required>
 <label>Company</label><input name="company" required>
 <label>Industry</label>
-<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Government &amp; Smart City</option><option>Automotive &amp; Mobility</option><option>Construction &amp; PropTech</option><option>Telecom</option><option>Insurance</option><option>Other</option></select>
+<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Sports, Fitness &amp; Wellness</option><option>Logistics &amp; Supply Chain</option><option>Other</option></select>
 <label>Company size</label>
 <select name="size"><option>1-10</option><option>11-50</option><option>51-200</option><option>201-1000</option><option>1000+</option></select>
 <label>Biggest challenge right now</label>
 <textarea name="challenge" rows="3" required></textarea>
 <label>Which areas interest you most?</label>
-<select name="interest" multiple size="9"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Data &amp; Analytics</option><option>Travel &amp; Hospitality AI</option><option>Sustainability &amp; ESG AI</option><option>AgTech &amp; Food Supply Chain AI</option><option>Nonprofit &amp; Social Impact AI</option><option>GovTech &amp; Smart City AI</option></select>
+<select name="interest" multiple size="9"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Data &amp; Analytics</option><option>Travel &amp; Hospitality AI</option><option>Sustainability &amp; ESG AI</option><option>AgTech &amp; Food Supply Chain AI</option><option>Nonprofit &amp; Social Impact AI</option><option>Sports, Fitness &amp; Wellness AI</option></select>
 <label>Timeline to start</label>
 <select name="timeline"><option>Immediately</option><option>1-3 months</option><option>3-6 months</option><option>Exploring</option></select>
 <button type="submit">Get my free discovery results</button>
@@ -54,8 +55,8 @@ ul.benefits{line-height:1.9;padding-left:1.2rem}
 // 2) FormSubmit emails results to commercial@ziontechgroup.com with the client CC'd
 // 3) mailto fallback so the client always keeps a copy
 var KW={
- 'Travel & Hospitality':['travel','hospitality','booking','guest'],
- 'Retail & Ecommerce':['cart','inventory','pricing','product','returns','review','ecommerce','retail'],
+ 'Travel & Hospitality':['travel','hospitality','booking','guest','hotel','itinerary','menu'],
+ 'Retail & Ecommerce':['cart','inventory','pricing','product','returns','review','ecommerce','retail','stockout'],
  'Healthcare':['health','patient','clinic'],
  'Finance':['invoice','billing','revenue','roi','finops','payment','collections'],
  'Manufacturing':['manufacturing','dispatch','maintenance','spare','field'],
@@ -64,13 +65,9 @@ var KW={
  'Agriculture & Food':['crop','pest','irrigation','soil','livestock','harvest','cold-chain','food-safety','farm','traceability','agriculture'],
  'Energy & Utilities':['energy','solar','grid','building-efficiency','consumption'],
  'Nonprofit & NGO':['grant','donor','fundraising','volunteer','impact','beneficiary','csr','crisis-relief'],
- 'Government & Smart City':['permit','traffic','311','citizen-request','budget-transparency','infrastructure-asset','emergency-dispatch','grant-compliance','urban-mobility','govtech','smart-city'],
- 'Automotive & Mobility':['fleet','ev-charging','dealer','routing','driver-safety','warranty','recall','telematics'],
- 'Construction & PropTech':['bid','construction-cost','site-vision','tenant-experience','permit','building'],
- 'Telecom':['network-outage','telecom','connectivity','capacity'],
- 'Insurance':['claims','fraud','underwriting','risk'],
- 'Other':[]
-};
+ 'Sports, Fitness & Wellness':['training','injury','nutrition','gym','fitness','wellness','sleep','race','fan','class','sports','membership'],
+ 'Logistics & Supply Chain':['route','freight','warehouse','delivery','supplier','demand','fleet','shipping'],
+ 'Other':[]};
 function recommend(industry,interests,apps){
  var kws=(KW[industry]||[]).slice();
  interests.forEach(function(i){kws=kws.concat(i.toLowerCase().split(/[^a-z]+/));});
@@ -89,7 +86,7 @@ document.getElementById('discoveryForm').addEventListener('submit',function(e){
  d.forEach(function(v,k){body.push(k+': '+v)});
  var industry=d.get('industry');
  var interests=(d.get('interest')||'').split(',').filter(Boolean);
- var report='ZION AI DISCOVERY RESULTS\n=====================\n'+body.join('\n');
+ var report='ZION AI DISCOVERY RESULTS\n===================\n'+body.join('\n');
  // 1) Instant on-screen personalized recommendations
  fetch('../network.json').then(function(r){return r.json();}).then(function(n){
   var recs=recommend(industry,interests,n.apps||[]);
