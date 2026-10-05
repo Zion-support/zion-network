@@ -24,7 +24,7 @@ ul.benefits{line-height:1.9;padding-left:1.2rem}
 <h1>Free AI Discovery</h1>
 <p>Answer 8 quick questions. The moment you submit:</p>
 <ul class="benefits">
-<li><strong>Instant on-screen report</strong> — personalized app recommendations from our 340+ app network, no waiting.</li>
+<li><strong>Instant on-screen report</strong> — personalized app recommendations from our 370+ app network, no waiting.</li>
 <li><strong>Email copy to you</strong> — results are emailed to your inbox immediately.</li>
 <li><strong>Our commercial team is looped in</strong> — <a href="mailto:commercial@ziontechgroup.com">commercial@ziontechgroup.com</a> receives your results at the same moment to follow up with a tailored plan.</li>
 <li><strong>Zero backend, always online</strong> — runs fully in your browser on GitHub Pages; no downtime, no paywall, free forever.</li>
@@ -35,13 +35,13 @@ ul.benefits{line-height:1.9;padding-left:1.2rem}
 <label>Work email (results sent here)</label><input name="email" type="email" required>
 <label>Company</label><input name="company" required>
 <label>Industry</label>
-<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Other</option></select>
+<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Government &amp; Smart City</option><option>Automotive &amp; Mobility</option><option>Construction &amp; PropTech</option><option>Telecom</option><option>Insurance</option><option>Other</option></select>
 <label>Company size</label>
 <select name="size"><option>1-10</option><option>11-50</option><option>51-200</option><option>201-1000</option><option>1000+</option></select>
 <label>Biggest challenge right now</label>
 <textarea name="challenge" rows="3" required></textarea>
 <label>Which areas interest you most?</label>
-<select name="interest" multiple size="8"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Data &amp; Analytics</option><option>Travel &amp; Hospitality AI</option><option>Sustainability &amp; ESG AI</option><option>AgTech &amp; Food Supply Chain AI</option><option>Nonprofit &amp; Social Impact AI</option></select>
+<select name="interest" multiple size="9"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Data &amp; Analytics</option><option>Travel &amp; Hospitality AI</option><option>Sustainability &amp; ESG AI</option><option>AgTech &amp; Food Supply Chain AI</option><option>Nonprofit &amp; Social Impact AI</option><option>GovTech &amp; Smart City AI</option></select>
 <label>Timeline to start</label>
 <select name="timeline"><option>Immediately</option><option>1-3 months</option><option>3-6 months</option><option>Exploring</option></select>
 <button type="submit">Get my free discovery results</button>
@@ -64,6 +64,11 @@ var KW={
  'Agriculture & Food':['crop','pest','irrigation','soil','livestock','harvest','cold-chain','food-safety','farm','traceability','agriculture'],
  'Energy & Utilities':['energy','solar','grid','building-efficiency','consumption'],
  'Nonprofit & NGO':['grant','donor','fundraising','volunteer','impact','beneficiary','csr','crisis-relief'],
+ 'Government & Smart City':['permit','traffic','311','citizen-request','budget-transparency','infrastructure-asset','emergency-dispatch','grant-compliance','urban-mobility','govtech','smart-city'],
+ 'Automotive & Mobility':['fleet','ev-charging','dealer','routing','driver-safety','warranty','recall','telematics'],
+ 'Construction & PropTech':['bid','construction-cost','site-vision','tenant-experience','permit','building'],
+ 'Telecom':['network-outage','telecom','connectivity','capacity'],
+ 'Insurance':['claims','fraud','underwriting','risk'],
  'Other':[]
 };
 function recommend(industry,interests,apps){

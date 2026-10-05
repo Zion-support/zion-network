@@ -8,6 +8,14 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 - 🔎 Free AI Discovery: [app-network-discovery.html](https://ziontechgroup.com/app-network-discovery.html) — always online, always free, instant results to you + our commercial team
 
+## 🚀 Latest Additions (2026-10-05, Batch 90)
+
+- New registry: **[🏛️ GovTech & Smart City AI](network/govtech-smart-city-ai.md)** — 8 interlinked apps now registered: permits → traffic → 311 triage → budget transparency → infrastructure → emergency dispatch → grants → mobility ([registry](network/govtech-smart-city-apps.json) — was missing since Batch 77, now fixed).
+- New spotlight: [Batch 90 spotlight](spotlights/2026-10-05-batch90-govtech-smart-city.md) (+ [HTML](spotlights/2026-10-05-batch90-govtech-smart-city.html)) · [INTERLINKS-batch90.md](INTERLINKS-batch90.md).
+- **FIX: network.json** — placeholder app tokens replaced with a real compact registry of 48 flagship apps so the free Discovery recommender returns real matches; apps_total 366 → 374.
+- Discovery v3: Government/GovTech, Automotive, Construction, Telecom & Insurance industries + keywords added; copy advertises 370+ apps.
+- Homepage: new copy [HOMEPAGE_APPS_BATCH90.md](HOMEPAGE_APPS_BATCH90.md) + [homepage-content-batch90.md](homepage-content-batch90.md) with Discovery benefits block.
+
 ## 🚀 Latest Additions (2026-10-05, Batch 88)
 
 - New category: **[🏗️ Construction & PropTech AI](network/construction-proptech-ai.md)** — 8 interlinked apps: bid intelligence → permits → cost forecasting → site vision → safety → telematics → tenant experience → energy twin ([registry](network/construction-proptech-apps.json)).
@@ -117,7 +125,7 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - **[📶 Telecom & Connectivity AI](network/telecom-connectivity-ai.md)** — Batch 82
 - **[🛡️ Insurance & Risk AI](network/insurance-risk-ai.md)** — Batch 83
 - **[💚 Nonprofit, NGO & Social Impact AI](network/nonprofit-social-impact-ai.md)** — Batch 84 ([registry](network/nonprofit-social-impact-apps.json))
-- **[🏙️ GovTech & Smart City AI](network/govtech-smart-city-ai.md)** — Batch 77
+- **[🏙️ GovTech & Smart City AI](network/govtech-smart-city-ai.md)** — Batch 77/90 ([registry](network/govtech-smart-city-apps.json))
 - **[🌾 AgTech & Food Supply Chain AI](network/agtech-food-supply-ai.md)** — Batch 85 ([registry](network/agtech-food-supply-apps.json))
 - **[🚗 Automotive & Mobility AI](network/automotive-mobility-ai.md)** — Batch 86 ([registry](network/automotive-mobility-apps.json))
 - **[🏗️ Construction & PropTech AI](network/construction-proptech-ai.md)** — Batch 88 ([registry](network/construction-proptech-apps.json))
@@ -129,6 +137,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [Construction & PropTech AI (Batch 88)](spotlights/2026-10-05-batch88-construction-proptech.md). Previous: [AgTech & Food Supply Chain AI (Batch 85)](spotlights/2026-10-05-batch85-agtech-food-supply.md).
+Latest spotlight: [GovTech & Smart City AI (Batch 90)](spotlights/2026-10-05-batch90-govtech-smart-city.md). Previous: [Construction & PropTech AI (Batch 88)](spotlights/2026-10-05-batch88-construction-proptech.md).
 
-_Updated 2026-10-05 (Batch 88) — 544+ public repos, 362 registered apps; 47+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-05 (Batch 90) — 544+ public repos, 374 registered apps; 48+ category pages indexed. Historical batch details preserved in git history._
