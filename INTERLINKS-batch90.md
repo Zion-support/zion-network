@@ -1,31 +1,28 @@
 # INTERLINKS — Batch 90: Sports, Fitness & Wellness AI (2026-10-05)
 
-Cross-link map for the 14 Batch 90 apps. Every app repo README carries the network footer linking back to this file, the category registry and the hub.
+Every Batch 90 repo README links to: the 9 sibling apps, the network category page, the homepage showcase, and the free Discovery questionnaire.
 
-## Apps ↔ Repos
+## Link graph
+- Hub: https://github.com/Zion-support/zion-network
+- Category: [network/sports-fitness-wellness-ai.md](network/sports-fitness-wellness-ai.md)
+- Registry: [network/sports-fitness-wellness-apps.json](network/sports-fitness-wellness-apps.json)
+- Spotlight: [spotlights/sports-fitness-wellness.md](spotlights/sports-fitness-wellness.md)
+- Homepage: https://ziontechgroup.com/apps/october-2026-batch13.html + https://ziontechgroup.com/apps/
+- Discovery (free, always online): https://ziontechgroup.com/discovery/
 
-| App | Repo | Category link |
-|---|---|---|
-| Workout Plan Generator | https://github.com/Zion-support/workout-plan-generator | [registry](../network/sports-fitness-wellness-apps.json) |
-| Training Plan AI | https://github.com/Zion-support/training-plan-ai | [registry](../network/sports-fitness-wellness-apps.json) |
-| Nutrition Coach AI | https://github.com/Zion-support/nutrition-coach-ai | [registry](../network/sports-fitness-wellness-apps.json) |
-| Nutrition Meal Planner AI | https://github.com/Zion-support/nutrition-meal-planner-ai | [registry](../network/sports-fitness-wellness-apps.json) |
-| Mental Wellness Companion | https://github.com/Zion-support/mental-wellness-companion | [registry](../network/sports-fitness-wellness-apps.json) |
-| Corporate Wellness Platform | https://github.com/Zion-support/corporate-wellness-platform | [registry](../network/sports-fitness-wellness-apps.json) |
-| Wellness Program Tracker | https://github.com/Zion-support/wellness-program-tracker | [registry](../network/sports-fitness-wellness-apps.json) |
-| Fitness Retention Predictor | https://github.com/Zion-support/fitness-retention-predictor | [registry](../network/sports-fitness-wellness-apps.json) |
-| Gym Membership Retention | https://github.com/Zion-support/gym-membership-retention | [registry](../network/sports-fitness-wellness-apps.json) |
-| Class Schedule Optimizer | https://github.com/Zion-support/class-schedule-optimizer | [registry](../network/sports-fitness-wellness-apps.json) |
-| Race Event Planner | https://github.com/Zion-support/race-event-planner | [registry](../network/sports-fitness-wellness-apps.json) |
-| Sports Video Highlights | https://github.com/Zion-support/sports-video-highlights | [registry](../network/sports-fitness-wellness-apps.json) |
-| Ticket Dynamic Pricing | https://github.com/Zion-support/ticket-dynamic-pricing | [registry](../network/sports-fitness-wellness-apps.json) |
-| Sponsorship ROI Tracker | https://github.com/Zion-support/sponsorship-roi-tracker | [registry](../network/sports-fitness-wellness-apps.json) |
+## Apps
+1. https://github.com/Zion-support/workout-plan-generator → https://ziontechgroup.com/workout-plan-generator/
+2. https://github.com/Zion-support/nutrition-meal-planner-ai → https://ziontechgroup.com/nutrition-meal-planner-ai/
+3. https://github.com/Zion-support/athlete-load-monitor → https://ziontechgroup.com/athlete-load-monitor/
+4. https://github.com/Zion-support/team-performance-analytics → https://ziontechgroup.com/team-performance-analytics/
+5. https://github.com/Zion-support/fan-loyalty-engine → https://ziontechgroup.com/fan-loyalty-engine/
+6. https://github.com/Zion-support/venue-demand-forecaster → https://ziontechgroup.com/venue-demand-forecaster/
+7. https://github.com/Zion-support/recovery-readiness-coach → https://ziontechgroup.com/recovery-readiness-coach/
+8. https://github.com/Zion-support/mental-wellness-companion → https://ziontechgroup.com/mental-wellness-companion/
+9. https://github.com/Zion-support/corporate-wellness-platform → https://ziontechgroup.com/corporate-wellness-platform/
+10. https://github.com/Zion-support/personal-trainer-copilot → https://ziontechgroup.com/personal-trainer-copilot/
 
-## Outbound links
-
-- Hub: https://ziontechgroup.com/zion-app-network/
-- Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch14.html
-- Apps index: https://ziontechgroup.com/apps/index.html
-- Free Discovery (always online, instant dual email to client + commercial@ziontechgroup.com): https://ziontechgroup.com/apps/discovery.html
-- Network index: https://zion-support.github.io/zion-network/
-- Related batches: [Batch 84 Nonprofit](./INTERLINKS-batch84.md) · [Batch 85 AgTech](./INTERLINKS-batch85.md) · [Batch 86 Automotive](./INTERLINKS-batch86.md) · [Batch 87 Construction](./INTERLINKS-batch87.md) · [Batch 88](./INTERLINKS-batch88.md) · [Batch 89 Healthcare & Life Sciences](./INTERLINKS-batch89.md)
+## Cross-category interlinks
+- Healthcare & Education AI: [network/healthcare-education-ai.md](network/healthcare-education-ai.md)
+- HR & People AI: [network/hr-people-ai.md](network/hr-people-ai.md)
+- Travel & Hospitality AI: [network/travel-hospitality-ai.md](network/travel-hospitality-ai.md)
