@@ -1,3 +1,5 @@
-# Moved → Batch 88
+# ⚠️ Renumbered
 
-Batch 87 = Field Services & Dispatch AI (parallel session). Construction & PropTech AI is now **Batch 88**: [2026-10-05-batch88-construction-proptech.md](2026-10-05-batch88-construction-proptech.md).
+This spotlight was renumbered to **Batch 88** to avoid a collision with Batch 87 (Field Services & Dispatch AI, homepage apps/october-2026-batch11.html).
+
+Go to: [2026-10-05-batch88-construction-proptech.md](2026-10-05-batch88-construction-proptech.md)
