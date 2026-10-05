@@ -1,18 +1,16 @@
-# 🏟️ SPOTLIGHT — Batch 90: Sports, Fitness & Fan Engagement AI (2026-10-05)
+# 🔦 SPOTLIGHT — 2026-10-05 — Batch 90: Healthcare & Wellness AI
 
-Ten new free, interlinked AI apps for the sports & fitness economy:
+Six new free, open-source AI micro-apps join the Zion App Network, fully interlinked:
 
-1. **Fan Engagement Copilot** — personalized fan journeys & loyalty campaigns
-2. **Ticket Dynamic Pricing** — demand-based gate revenue optimization
-3. **Athlete Performance Analyzer** — wearable + video performance analytics
-4. **Injury Risk Predictor** — ACWR, sleep & HRV injury prevention
-5. **Training Plan Generator** — personalized periodized plans
-6. **Match-Day Ops Planner** — staffing, crowd flow & gate ops
-7. **Sponsorship ROI Tracker** — media value & activation ROI
-8. **Highlight Reel Generator** — auto clips from match footage
-9. **Concessions Demand Forecaster** — per-zone F&B demand
-10. **Fitness Retention Predictor** — gym member churn prediction
+1. **[Appointment No-Show Predictor](https://github.com/Zion-support/appointment-no-show-predictor)** — predict no-shows, auto-fill slots. → https://ziontechgroup.com/appointment-no-show-predictor/
+2. **[Patient Intake Copilot](https://github.com/Zion-support/patient-intake-copilot)** — smart intake forms & summaries. → https://ziontechgroup.com/patient-intake-copilot/
+3. **[Claim Denial Appealer](https://github.com/Zion-support/claim-denial-appealer)** — auto-appeals & recovery tracking. → https://ziontechgroup.com/claim-denial-appealer/
+4. **[Wellness Program Planner](https://github.com/Zion-support/wellness-program-planner)** — engagement & outcomes. → https://ziontechgroup.com/wellness-program-planner/
+5. **[Telehealth Triage AI](https://github.com/Zion-support/telehealth-triage-ai)** — symptom intake & urgency scoring. → https://ziontechgroup.com/telehealth-triage-ai/
+6. **[Clinic Inventory Tracker](https://github.com/Zion-support/clinic-inventory-tracker)** — expiry alerts & reorder points. → https://ziontechgroup.com/clinic-inventory-tracker/
 
-Repos: https://github.com/Zion-support/fan-engagement-copilot, https://github.com/Zion-support/ticket-dynamic-pricing, https://github.com/Zion-support/athlete-performance-analyzer, https://github.com/Zion-support/injury-risk-predictor, https://github.com/Zion-support/training-plan-generator, https://github.com/Zion-support/match-day-ops-planner, https://github.com/Zion-support/sponsorship-roi-tracker, https://github.com/Zion-support/highlight-reel-generator, https://github.com/Zion-support/concessions-demand-forecaster, https://github.com/Zion-support/fitness-retention-predictor
+## Discovery CTA
+Free, online, always available → https://ziontechgroup.com/discovery/
+Results are instantly emailed to the client and to commercial@ziontechgroup.com.
 
-CTA: Free AI Discovery → https://ziontechgroup.com/discovery/ (instant results emailed to client + commercial@ziontechgroup.com)
+Previous spotlight: [Batch 89 — Hospitality & Travel AI](SPOTLIGHT-2026-10-05-BATCH89.md)
