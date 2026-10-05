@@ -1,0 +1,27 @@
+{
+ "batch": 90,
+ "category": "GovTech & Smart City AI",
+ "updated": "2026-10-05",
+ "category_page": "network/govtech-smart-city-ai.md",
+ "spotlight": "spotlights/2026-10-05-batch90-govtech-smart-city.md",
+ "apps": [
+  {"id":"permit-application-copilot","url":"https://ziontechgroup.com/permit-application-copilot/","description":"Guides applicants and staff through permitting, auto-checking completeness and code references."},
+  {"id":"smart-city-traffic-optimizer","url":"https://ziontechgroup.com/smart-city-traffic-optimizer/","description":"Real-time signal timing and congestion prediction across corridors."},
+  {"id":"citizen-request-triager","url":"https://ziontechgroup.com/citizen-request-triager/","description":"Classifies, dedupes and routes 311 requests to the right department instantly."},
+  {"id":"public-budget-transparency-ai","url":"https://ziontechgroup.com/public-budget-transparency-ai/","description":"Turns municipal budgets into searchable, explainable dashboards for citizens."},
+  {"id":"infrastructure-asset-monitor","url":"https://ziontechgroup.com/infrastructure-asset-monitor/","description":"Predictive maintenance for bridges, roads and utilities using sensor + inspection data."},
+  {"id":"emergency-dispatch-prioritizer","url":"https://ziontechgroup.com/emergency-dispatch-prioritizer/","description":"AI triage for emergency calls with resource-aware dispatch recommendations."},
+  {"id":"grant-compliance-tracker","url":"https://ziontechgroup.com/grant-compliance-tracker/","description":"Tracks federal/state grant requirements, deadlines and evidence automatically."},
+  {"id":"urban-mobility-analytics","url":"https://ziontechgroup.com/urban-mobility-analytics/","description":"Multimodal mobility insights: transit, micromobility and pedestrian flows."}
+ ],
+ "interlinks": [
+  "https://ziontechgroup.com/zion-app-network/",
+  "https://zion-support.github.io/zion-network/",
+  "https://ziontechgroup.com/discovery/",
+  "network/legal-contract-compliance-ai.md",
+  "network/compliance-grc-ai.md",
+  "network/data-analytics.md",
+  "network/energy-utilities-ai.md",
+  "network/telecom-connectivity-ai.md"
+ ]
+}
