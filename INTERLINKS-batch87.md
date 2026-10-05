@@ -1,4 +1,5 @@
-# 🔗 INTERLINKS — Batch 87
+# ⚠️ Renumbered
 
-Batch 87 = Field Services & Dispatch AI, shipped by a parallel session (homepage: https://ziontechgroup.com/apps/october-2026-batch11.html).
-The Construction & PropTech AI content originally drafted here moved to **Batch 88** → see [INTERLINKS-batch88.md](INTERLINKS-batch88.md).
+Construction & PropTech AI interlinks were renumbered to **Batch 88** (Batch 87 = Field Services & Dispatch AI).
+
+Go to: [INTERLINKS-batch88.md](INTERLINKS-batch88.md)
