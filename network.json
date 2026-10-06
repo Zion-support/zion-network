@@ -1,12 +1,19 @@
 {
- "note": "Full flagship apps registry. 419 apps. Batch 98 Fintech & Insurance AI + Batch 99 Sustainability & ESG AI (2026-10-06) created & interlinked. Batch 97 Education AI (405) registered. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix; use zion-support.github.io/zion-network/ meanwhile.",
+ "note": "Full flagship apps registry. 410 apps. Batch 99 Customer Experience & Support AI (2026-10-06) created & interlinked: ai-ticket-router, support-chat-copilot, helpcenter-knowledge-ai (new repos). Batch 98 Voice & Communications AI registered: meeting-intelligence-ai, voicemail-triage-ai. Discovery questionnaire upgraded: free, always-online, FormSubmit AJAX dual delivery to client + commercial@ziontechgroup.com (https://ziontechgroup.com/discovery/questionnaire.html). NOTE: network.ziontechgroup.com ACME bad_authz still needs domain-owner DNS/CAA fix; use zion-support.github.io/zion-network/ meanwhile.",
  "updated": "2026-10-06",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 419,
+ "apps_total": 410,
  "spotlight_latest": "SPOTLIGHT-2026-10-06-BATCH99.md",
  "spotlight_previous": "SPOTLIGHT-2026-10-06-BATCH98.md",
- "batches_latest": {"99": "network/sustainability-esg-ai.md", "98": "network/fintech-insurance-ai.md", "97": "network/education-ai.md", "96": "network/real-estate-property-ai.md"},
- "apps": ["<APPS_PART1>", "<APPS_PART2>"]
+ "batches_latest": {
+  "99": "network/customer-experience-support-ai.md",
+  "98": "network/voice-communications-ai.md",
+  "97": "network/education-ai.md"
+ },
+ "apps": [
+  "<APPS_PART1>",
+  "<APPS_PART2>"
+ ]
 }
