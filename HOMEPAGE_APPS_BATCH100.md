@@ -1,15 +1,13 @@
-# Homepage copy — Batch 100 · Field Services & MSP AI
+# HOMEPAGE APPS — Batch 100 · Marketing, Manufacturing & Field Services AI
 
-Use this block on https://ziontechgroup.com (homepage apps section) and apps index pages.
+Copy pack for https://ziontechgroup.com homepage.
 
-## 🛠️ NEW — Field Services & MSP AI (Batch 100, Oct 2026)
-- **Ticket Triage Copilot** — auto-classify, prioritize P1-P4, draft branded replies. https://ziontechgroup.com/zion-ticket-triage-copilot/
-- **RFQ & Quote Assistant** — supplier comparison and margin-safe quotes in minutes. https://ziontechgroup.com/zion-rfq-quote-assistant/
-- **SLA Breach Predictor** — see breaches before they happen, escalate early. https://ziontechgroup.com/zion-sla-breach-predictor/
-- **Field Dispatch Optimizer** — right tech, right parts, right route, first time. https://ziontechgroup.com/zion-field-dispatch-optimizer/
+**Headline:** From campaign brief to factory floor to field van — 10 new free AI apps.
 
-## 🎯 Free AI Discovery — always online, always free
-Answer a 2-minute questionnaire and get a personalized app shortlist + ROI snapshot **emailed instantly** to you and to our commercial team.
-→ Start now: https://ziontechgroup.com/discovery/
+Marketing: Campaign Brief Builder → https://ziontechgroup.com/campaign-brief-builder/ · Brand Mention Monitor → https://ziontechgroup.com/brand-mention-monitor/ · Content Repurposing AI → https://ziontechgroup.com/content-repurposing-ai/ · Ad Creative Tester AI → https://ziontechgroup.com/ad-creative-tester-ai/
 
-Explore the full network (430+ apps): https://ziontechgroup.com/apps/network.html · https://zion-support.github.io/zion-network/
+Manufacturing: Quality Vision Inspector AI → https://ziontechgroup.com/quality-vision-inspector-ai/ · Production Schedule Optimizer AI → https://ziontechgroup.com/production-schedule-optimizer-ai/
+
+Field Services & MSP: Ticket Triage Copilot → https://ziontechgroup.com/zion-ticket-triage-copilot/ · SLA Breach Predictor → https://ziontechgroup.com/zion-sla-breach-predictor/ · Field Dispatch Optimizer → https://ziontechgroup.com/zion-field-dispatch-optimizer/ · RFQ Quote Assistant → https://ziontechgroup.com/zion-rfq-quote-assistant/
+
+CTA: Free Discovery questionnaire → https://ziontechgroup.com/discovery/ — instant personalized stack, emailed to you and commercial@ziontechgroup.com.

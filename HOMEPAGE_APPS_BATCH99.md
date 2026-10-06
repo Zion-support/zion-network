@@ -1,15 +1,15 @@
-# Homepage copy — Batch 99 · Retail & E-commerce AI
+# HOMEPAGE APPS — Batch 99 · Customer Experience & Retail AI
 
-Use this block on https://ziontechgroup.com (homepage apps section) and apps index pages.
+Copy pack for https://ziontechgroup.com homepage.
 
-## 🛍️ NEW — Retail & E-commerce AI (Batch 99, Oct 2026)
-- **Visual Merchandising AI** — planogram optimization and display compliance. https://ziontechgroup.com/visual-merchandising-ai/
-- **Dynamic Pricing Retail AI** — elasticity-aware pricing with competitor guardrails. https://ziontechgroup.com/dynamic-pricing-retail-ai/
-- **Returns Reduction AI** — predict and prevent returns before they happen. https://ziontechgroup.com/returns-reduction-ai/
-- **Review & Sentiment Intelligence** — every review, every channel, one dashboard. https://ziontechgroup.com/review-sentiment-ai/
+**Headline:** Turn every ticket, review and price tag into revenue — 7 new free CX & Retail AI apps.
 
-## 🎯 Free AI Discovery — always online, always free
-Answer a 2-minute questionnaire and get a personalized app shortlist + ROI snapshot **emailed instantly** to you and to our commercial team.
-→ Start now: https://ziontechgroup.com/discovery/
+- Support Chat Copilot — grounded help-center answers with human handoff → https://ziontechgroup.com/support-chat-copilot/
+- Help Center Knowledge AI — KB articles drafted from resolved tickets → https://ziontechgroup.com/helpcenter-knowledge-ai/
+- AI Ticket Router — right queue, instantly → https://ziontechgroup.com/ai-ticket-router/
+- Dynamic Pricing Retail AI — elasticity-aware prices with guardrails → https://ziontechgroup.com/dynamic-pricing-retail-ai/
+- Visual Merchandising AI — planograms that sell → https://ziontechgroup.com/visual-merchandising-ai/
+- Returns Reduction AI — prevent returns before they happen → https://ziontechgroup.com/returns-reduction-ai/
+- Review Sentiment AI — mine reviews for product insights → https://ziontechgroup.com/review-sentiment-ai/
 
-Explore the full network (430+ apps): https://ziontechgroup.com/apps/network.html · https://zion-support.github.io/zion-network/
+CTA: Not sure which fit? Free 2-minute Discovery → https://ziontechgroup.com/discovery/ (results emailed to you + our commercial team).
