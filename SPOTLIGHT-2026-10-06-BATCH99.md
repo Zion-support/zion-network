@@ -1,13 +1,27 @@
-# SPOTLIGHT — 2026-10-06 — Batch 99: Retail & E-commerce AI
+# SPOTLIGHT — Batch 99 · Events & Venues AI (2026-10-06)
 
-Four new open-source AI apps for retail and e-commerce operations. All free to try, all interlinked in the Zion AI App Network.
+Ten new interlinked apps join the Zion AI App Network, covering the full events & venues lifecycle:
 
-| App | What it does | Link |
-|---|---|---|
-| Visual Merchandising AI | Planogram optimization, shelf layout scoring and display compliance checks. | https://ziontechgroup.com/visual-merchandising-ai/ |
-| Dynamic Pricing Retail AI | Elasticity-aware pricing with competitor monitoring and guardrails. | https://ziontechgroup.com/dynamic-pricing-retail-ai/ |
-| Returns Reduction AI | Predict, prevent and process returns — size/fit guidance and fraud signals. | https://ziontechgroup.com/returns-reduction-ai/ |
-| Review & Sentiment Intelligence | Aggregate reviews across channels, surface themes and route responses. | https://ziontechgroup.com/review-sentiment-ai/ |
+1. **Event Demand Forecaster** — know your attendance before you book the venue.
+2. **Dynamic Ticket Pricing AI** — real-time tier pricing from sell-through velocity.
+3. **Venue Layout Optimizer** — capacity, sightlines and safety codes in one plan.
+4. **Event Sponsor Matcher** — sponsors matched by audience overlap & brand fit.
+5. **Event Marketing Autopilot** — promo calendars, ad copy, email/SMS sequences.
+6. **Staff Shift Scheduler AI** — crews scheduled against demand curves.
+7. **Crowd Flow Sentinel** — congestion alerts before it becomes a risk.
+8. **Attendee Engagement AI** — matchmaking & gamified quests in the event app.
+9. **Post-Event Insights AI** — NPS + social + sales fused into next-event actions.
+10. **Venue Booking Copilot** — RFPs answered, spaces quoted, contracts drafted.
 
-Try them via the free Discovery questionnaire (results emailed instantly to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
-Interlinks: INTERLINKS-batch99.md · Category: network/retail-ecommerce-ai.md
+## Why it matters
+- Events teams juggle demand, pricing, staffing and safety across disconnected tools; this batch wires them into one interlinked pipeline.
+- All 10 apps interlink with Batch 98 (Gaming & Esports), Batch 89 (Hospitality & Travel), Batch 90 (Sports & Fan) and the wider 425-app network.
+
+## Free Discovery
+Take the always-online, always-free Discovery questionnaire — personalized app shortlist + ROI snapshot emailed instantly to you and our commercial team (commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
+
+## Links
+- Category: network/events-venues-ai.md · Registry: network/events-venues-apps.json
+- Showcase: https://ziontechgroup.com/apps/october-2026-batch19.html
+- Previous spotlight: SPOTLIGHT-2026-10-06-BATCH98.md
+- Network hub: https://zion-support.github.io/zion-network/

@@ -1,15 +1,16 @@
-# HOMEPAGE APPS — Batch 99 · Customer Experience & Retail AI
+# Homepage copy — Batch 99 · Events & Venues AI
 
-Copy pack for https://ziontechgroup.com homepage.
+Use this block on https://ziontechgroup.com (homepage apps section) and apps index pages.
 
-**Headline:** Turn every ticket, review and price tag into revenue — 7 new free CX & Retail AI apps.
+## 🎪 NEW — Events & Venues AI (Batch 99, Oct 2026)
+- **Event Demand Forecaster** — predict attendance before you book. https://ziontechgroup.com/apps/october-2026-batch19.html
+- **Dynamic Ticket Pricing AI** — real-time tier pricing that maximizes gate revenue.
+- **Venue Booking Copilot** — answer RFPs, quote spaces, draft contracts in minutes.
+- **Crowd Flow Sentinel** — congestion alerts before they become incidents.
+- Plus 6 more: sponsor matching, marketing autopilot, staff scheduling, attendee engagement, layout optimization, post-event insights.
 
-- Support Chat Copilot — grounded help-center answers with human handoff → https://ziontechgroup.com/support-chat-copilot/
-- Help Center Knowledge AI — KB articles drafted from resolved tickets → https://ziontechgroup.com/helpcenter-knowledge-ai/
-- AI Ticket Router — right queue, instantly → https://ziontechgroup.com/ai-ticket-router/
-- Dynamic Pricing Retail AI — elasticity-aware prices with guardrails → https://ziontechgroup.com/dynamic-pricing-retail-ai/
-- Visual Merchandising AI — planograms that sell → https://ziontechgroup.com/visual-merchandising-ai/
-- Returns Reduction AI — prevent returns before they happen → https://ziontechgroup.com/returns-reduction-ai/
-- Review Sentiment AI — mine reviews for product insights → https://ziontechgroup.com/review-sentiment-ai/
+## 🧭 Free AI Discovery — always online, always free
+Answer a 5-minute questionnaire and get a personalized app shortlist + ROI snapshot **emailed instantly** to you and to our commercial team.
+→ Start now: https://ziontechgroup.com/discovery/
 
-CTA: Not sure which fit? Free 2-minute Discovery → https://ziontechgroup.com/discovery/ (results emailed to you + our commercial team).
+Explore the full network (425+ apps): https://ziontechgroup.com/apps/network.html · https://zion-support.github.io/zion-network/

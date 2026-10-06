@@ -1,0 +1,25 @@
+{
+  "category": "Events & Venues AI",
+  "batch": 99,
+  "date": "2026-10-06",
+  "network_total_apps": 425,
+  "apps": [
+    {"slug": "event-demand-forecaster", "name": "Event Demand Forecaster", "repo": "https://github.com/Zion-support/event-demand-forecaster", "tagline": "Predicts attendance per event/date/segment."},
+    {"slug": "dynamic-ticket-pricing-ai", "name": "Dynamic Ticket Pricing AI", "repo": "https://github.com/Zion-support/dynamic-ticket-pricing-ai", "tagline": "Real-time ticket tier pricing from sell-through velocity."},
+    {"slug": "venue-layout-optimizer", "name": "Venue Layout Optimizer", "repo": "https://github.com/Zion-support/venue-layout-optimizer", "tagline": "Seating/floor plans maximizing capacity and safety."},
+    {"slug": "event-sponsor-matcher", "name": "Event Sponsor Matcher", "repo": "https://github.com/Zion-support/event-sponsor-matcher", "tagline": "Matches events to sponsors by audience overlap."},
+    {"slug": "event-marketing-autopilot", "name": "Event Marketing Autopilot", "repo": "https://github.com/Zion-support/event-marketing-autopilot", "tagline": "Promo calendars, ad copy and email/SMS sequences."},
+    {"slug": "staff-shift-scheduler-ai", "name": "Staff Shift Scheduler AI", "repo": "https://github.com/Zion-support/staff-shift-scheduler-ai", "tagline": "Event staffing against demand curves and labor rules."},
+    {"slug": "crowd-flow-sentinel", "name": "Crowd Flow Sentinel", "repo": "https://github.com/Zion-support/crowd-flow-sentinel", "tagline": "Crowd density monitoring and congestion alerts."},
+    {"slug": "attendee-engagement-ai", "name": "Attendee Engagement AI", "repo": "https://github.com/Zion-support/attendee-engagement-ai", "tagline": "In-event recommendations, matchmaking, quests."},
+    {"slug": "post-event-insights-ai", "name": "Post-Event Insights AI", "repo": "https://github.com/Zion-support/post-event-insights-ai", "tagline": "Post-event report with next-event actions."},
+    {"slug": "venue-booking-copilot", "name": "Venue Booking Copilot", "repo": "https://github.com/Zion-support/venue-booking-copilot", "tagline": "RFP answers, space quotes, contract drafts."}
+  ],
+  "interlinks": {
+    "hub": "https://zion-support.github.io/zion-network/",
+    "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+    "discovery": "https://ziontechgroup.com/discovery/",
+    "showcase": "https://ziontechgroup.com/apps/october-2026-batch19.html",
+    "siblings": ["gaming-esports-ai.md", "education-ai.md", "hospitality-travel-ai.md", "sports-fitness-fan-ai.md", "marketing-growth-ai.md"]
+  }
+}
