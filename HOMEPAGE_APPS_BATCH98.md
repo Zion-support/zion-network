@@ -1,5 +1,5 @@
-# Homepage copy — Batch 98 Fintech & Insurance AI
+# HOMEPAGE APPS — Batch 98 copy (Construction & Built Environment AI)
 
-7 new free apps for banks, insurers and finance teams: fraud monitoring, claims automation, underwriting copilot, AML screening, cash flow forecasting, AR collections, policy comparison.
-
-Page: https://ziontechgroup.com/apps/october-2026-batch18.html · Spotlight: https://github.com/Zion-support/zion-network/blob/main/SPOTLIGHT-2026-10-06-BATCH98.md
+Section: **New — Oct 6, 2026: Construction & Built Environment AI (Batch 98)**
+7 new interlinked apps: blueprint takeoff, bid estimating, site safety monitor, progress tracker, subcontractor compliance, RFI router, equipment utilization.
+Showcase page: /apps/october-2026-batch17.html — all free & open-source.

@@ -1,17 +1,17 @@
-# SPOTLIGHT 2026-10-06 — Batch 98: Fintech & Insurance AI
+# SPOTLIGHT — 2026-10-06 — Batch 98 Construction & Built Environment AI
 
-The Zion AI App Network grows to **412 free, open-source AI apps**. Batch 98 ships 7 apps covering the fintech & insurance workflow.
+**7 new interlinked apps** join the Zion AI App Network (now 412 apps):
 
-## The apps
-- **fraud-transaction-monitor** — Real-time payment fraud scoring, anomaly detection, step-up auth triggers. (https://ziontechgroup.com/fraud-transaction-monitor/)
-- **claims-automation-ai** — FNOL intake, document extraction, fraud flags, settlement routing. (https://ziontechgroup.com/claims-automation-ai/)
-- **underwriting-copilot-ai** — Risk factor extraction, loss-run analysis, pricing guidance. (https://ziontechgroup.com/underwriting-copilot-ai/)
-- **aml-screening-ai** — Sanctions & PEP matching, alert triage, SAR narrative drafting. (https://ziontechgroup.com/aml-screening-ai/)
-- **cash-flow-forecaster** — 13-week rolling forecast, scenario stress tests. (https://ziontechgroup.com/cash-flow-forecaster/)
-- **ar-collections-copilot** — Aging prediction, dunning sequencing, promise-to-pay tracking. (https://ziontechgroup.com/ar-collections-copilot/)
-- **policy-comparison-ai** — Coverage extraction, exclusion flags, renewal comparison. (https://ziontechgroup.com/policy-comparison-ai/)
+- **blueprint-takeoff-ai** — Blueprint Takeoff AI: Quantity takeoffs from blueprints/PDFs — auto-measure areas, counts and lengths into estimate-ready tables.
+- **bid-estimating-copilot** — Bid Estimating Copilot: AI bid & estimate generation from historicals, assemblies and market rates with margin guardrails.
+- **site-safety-monitor-ai** — Site Safety Monitor: Computer-vision PPE & hazard detection on site photos/video with instant safety alerts.
+- **construction-progress-tracker** — Construction Progress Tracker: Photo-to-schedule progress tracking: percent-complete, delay detection and earned-value reports.
+- **subcontractor-compliance-ai** — Subcontractor Compliance AI: COIs, licenses & prequal tracking with expiry alerts and automated chase emails.
+- **rfi-router-ai** — RFI Router AI: Auto-classify, route and draft answers for RFIs & submittals across the project team.
+- **equipment-utilization-ai** — Equipment Utilization AI: Telematics-driven equipment utilization, idle-cost alerts and rent-vs-own decisions.
 
-## Interlinked network
-Every Batch 98 repo links to the network map, the free Discovery questionnaire, and sibling batches. Discovery results are instantly emailed to the client and commercial@ziontechgroup.com — no signup, no cost, always online.
+Every app links to its siblings, the network hub and the free Discovery questionnaire.
+Discovery is always online & free: https://ziontechgroup.com/discovery/ — instant results emailed to the client AND commercial@ziontechgroup.com.
 
-Links: https://ziontechgroup.com/apps/network.html · https://zion-support.github.io/zion-network/ · https://ziontechgroup.com/discovery/
+Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch17.html
+Category: network/construction-built-environment-ai.md · Interlinks: INTERLINKS-batch98.md
