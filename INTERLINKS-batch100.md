@@ -1,19 +1,15 @@
-# INTERLINKS — Batch 100: Field Services & MSP AI (2026-10-06)
+# INTERLINKS — Batch 100 (Field Services & MSP AI)
 
-| App | Repo | Live URL |
-|---|---|---|
-| Ticket Triage Copilot | Zion-support/zion-ticket-triage-copilot | https://ziontechgroup.com/zion-ticket-triage-copilot/ |
-| SLA Breach Predictor | Zion-support/zion-sla-breach-predictor | https://ziontechgroup.com/zion-sla-breach-predictor/ |
-| Field Dispatch Optimizer | Zion-support/zion-field-dispatch-optimizer | https://ziontechgroup.com/zion-field-dispatch-optimizer/ |
-| RFQ Quote Assistant | Zion-support/zion-rfq-quote-assistant | https://ziontechgroup.com/zion-rfq-quote-assistant/ |
+Every Batch 100 app links to:
+1. Network hub: https://zion-support.github.io/zion-network/ and https://ziontechgroup.com/apps/network.html
+2. Free Discovery questionnaire: https://ziontechgroup.com/discovery/ (results instantly emailed to client + commercial@ziontechgroup.com)
+3. Category index: network/field-services-msp-ai.md
+4. Sibling apps in Batch 100 (mesh): zion-ticket-triage-copilot ↔ zion-rfq-quote-assistant ↔ zion-sla-breach-predictor ↔ zion-field-dispatch-optimizer
+5. Adjacent batches: Batch 99 Retail & E-commerce (field ops for stores), Batch 98 Voice & Communications (calls → tickets), Batch 96 Real Estate & Construction (facility maintenance, site safety), Field Services & Smart Hands suite on ziontechgroup.com.
 
-## Cross-batch interlinks
-- Batch 99 — Retail & E-commerce AI: visual-merchandising-ai, dynamic-pricing-retail-ai, returns-reduction-ai, review-sentiment-ai
-- Batch 98 — Voice & Comms + Fintech/Insurance: meeting-intelligence-ai, voicemail-triage-ai, cash-flow-forecaster, aml-screening-ai
-- Batch 97 — GovTech/Education: citizen-request-triage, traffic-flow-optimizer, lesson-plan-copilot
-- Batch 96 — GovTech spotlight: [SPOTLIGHT-2026-10-06-BATCH96.md](SPOTLIGHT-2026-10-06-BATCH96.md)
-- Batch 93 — Manufacturing & Industrial AI: [INTERLINKS-batch93.md](INTERLINKS-batch93.md)
-- Batch 72 — Energy / HR / ITOps: [INTERLINKS-batch72.md](INTERLINKS-batch72.md)
+## Cross-promotion blocks
+- Spotlight: SPOTLIGHT-2026-10-06-BATCH100.md
+- Homepage copy: HOMEPAGE_APPS_BATCH100.md
+- Discovery page advertises Batch 100 in zion-network/discovery.html
 
-## Discovery
-Free, online, always: https://ziontechgroup.com/discovery/ — results emailed instantly to the client and commercial@ziontechgroup.com.
+Rule: no orphan apps — every repo README must contain hub + discovery + 3 sibling links.
