@@ -1,21 +1,14 @@
-# SPOTLIGHT — 2026-10-06 — Batch 98: Voice & Communications AI
+# SPOTLIGHT 2026-10-06 (3) — Batch 98: Gaming & Esports AI
 
-Nine new apps join the Zion AI App Network, fully interlinked:
+The Zion AI App Network grows to **415 free, open-source AI apps**. Batch 98 ships ten apps covering the gaming & esports pipeline: scout → analyze → balance → broadcast → engage → compete → protect → monetize.
 
-## Voice & Communications
-1. **Meeting Intelligence AI** — summaries, decisions and action items synced to your stack. https://ziontechgroup.com/meeting-intelligence-ai/
-2. **Voicemail Triage AI** — transcribe, score and route voicemails to the right owner instantly. https://ziontechgroup.com/voicemail-triage-ai/
+## Why it matters
+- **Studios:** Game Balance Sentinel + Game Economy Modeler catch meta drift and currency inflation before players revolt.
+- **Teams & leagues:** Esports Scout AI + Match VOD Analyzer + Tournament Bracket Builder professionalize scouting and competition ops.
+- **Streamers & sponsors:** Live Stream Clipper + Streamer Sponsor Matcher turn content into revenue with brand-safe matching.
+- **Integrity:** Anti-Cheat Anomaly AI + Esports Integrity Monitor protect competitive fairness and betting markets.
 
-## Finance & Risk companions (same batch, same interlink graph)
-3. **AML Screening AI** — https://ziontechgroup.com/aml-screening-ai/
-4. **AR Collections Copilot** — https://ziontechgroup.com/ar-collections-copilot/
-5. **Cash Flow Forecaster** — https://ziontechgroup.com/cash-flow-forecaster/
-6. **Claims Automation AI** — https://ziontechgroup.com/claims-automation-ai/
-7. **Fraud Transaction Monitor** — https://ziontechgroup.com/fraud-transaction-monitor/
-8. **Policy Comparison AI** — https://ziontechgroup.com/policy-comparison-ai/
-9. **Underwriting Copilot AI** — https://ziontechgroup.com/underwriting-copilot-ai/
+## Interlinked network
+Every Batch 98 page links to the network map, the free Discovery questionnaire, and sibling batches (Education 97, Real Estate 96, Sports 90, Media & Creator Economy). Discovery is **100% free and online** — results are emailed instantly to the client and commercial@ziontechgroup.com.
 
-## Try before anything else
-Run the **free Discovery questionnaire** → https://ziontechgroup.com/discovery/ — results emailed instantly to you and to commercial@ziontechgroup.com.
-
-Links: [Interlinks](../INTERLINKS-batch98.md) · [Category index](../network/voice-communications-ai.md) · [Full network](../APPS_NETWORK.md)
+Links: https://ziontechgroup.com/apps/network.html · https://zion-support.github.io/zion-network/ · https://ziontechgroup.com/discovery/ · Showcase: https://ziontechgroup.com/apps/october-2026-batch18.html
