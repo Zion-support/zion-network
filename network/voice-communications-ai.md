@@ -1,22 +1,22 @@
-# Voice & Communications AI — Category Index (Batch 98)
+# Batch 98 — Voice & Communications AI
 
-Part of the [Zion AI App Network](../APPS_NETWORK.md).
+**Released:** 2026-10-06 · **Theme:** Voice, meetings and communications intelligence
+
+Every app below interlinks with the full Zion AI App Network (405+ apps) and is reachable from the free Discovery questionnaire at https://ziontechgroup.com/discovery/.
 
 ## Apps
-- [Meeting Intelligence AI](https://ziontechgroup.com/meeting-intelligence-ai/) — summaries, decisions, action items
-- [Voicemail Triage AI](https://ziontechgroup.com/voicemail-triage-ai/) — transcribe, score, route
-- [AML Screening AI](https://ziontechgroup.com/aml-screening-ai/) — sanctions/PEP screening
-- [AR Collections Copilot](https://ziontechgroup.com/ar-collections-copilot/) — prioritize and automate collections
-- [Cash Flow Forecaster](https://ziontechgroup.com/cash-flow-forecaster/) — rolling liquidity forecasts
-- [Claims Automation AI](https://ziontechgroup.com/claims-automation-ai/) — intake to settlement
-- [Fraud Transaction Monitor](https://ziontechgroup.com/fraud-transaction-monitor/) — real-time anomaly scoring
-- [Policy Comparison AI](https://ziontechgroup.com/policy-comparison-ai/) — coverage gaps in seconds
-- [Underwriting Copilot AI](https://ziontechgroup.com/underwriting-copilot-ai/) — risk summaries and pricing hints
 
-## Related batches
-- [Batch 97 — Education AI](../INTERLINKS-batch97.md)
-- [Batch 96 — Real Estate & Property](../INTERLINKS-batch96.md)
-- Next: Batch 99 — Sustainability & ESG AI (planned)
+| App | What it does | Links |
+|---|---|---|
+| **Meeting Intelligence AI** (`meeting-intelligence-ai`) | Summaries, decisions and action items synced to your stack. | [Repo](https://github.com/Zion-support/meeting-intelligence-ai) · [Live](https://ziontechgroup.com/meeting-intelligence-ai/) |
+| **Voicemail Triage AI** (`voicemail-triage-ai`) | Transcribe, score and route voicemails to the right owner instantly. | [Repo](https://github.com/Zion-support/voicemail-triage-ai) · [Live](https://ziontechgroup.com/voicemail-triage-ai/) |
 
-## Free Discovery
-Not sure which app fits? https://ziontechgroup.com/discovery/ — always online, always free, results emailed instantly to you + commercial@ziontechgroup.com.
+## Interlinks
+- Previous batch: [Batch 97 — Education AI](education-ai.md)
+- Earlier: [Batch 96 — Real Estate & Property AI](real-estate-property-ai.md) · [Batch 94 — Legal & Compliance AI](legal-compliance-ai.md)
+- Spotlight: [SPOTLIGHT-2026-10-06-BATCH98](../SPOTLIGHT-2026-10-06-BATCH98.md)
+- Network index: [APPS_NETWORK.md](../APPS_NETWORK.md) · Registry: [network.json](../network.json)
+- Hub: https://ziontechgroup.com · Network hub: https://zion-support.github.io/zion-network/
+
+## Discovery CTA
+Not sure which voice/communications AI fits? Take the **free, always-online Discovery questionnaire** — results are emailed instantly to you and to commercial@ziontechgroup.com: https://ziontechgroup.com/discovery/
