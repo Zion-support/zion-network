@@ -1,14 +1,18 @@
-# HOMEPAGE APPS — Batch 101 · Agriculture & Food AI
+# HOMEPAGE CONTENT — Batch 101 (for ziontechgroup.com)
 
-Copy pack for https://ziontechgroup.com homepage.
+## Section: Logistics & Supply Chain AI — new apps
+Zion's app network now includes four logistics AI tools:
+- **Freight Quote Optimizer** — benchmark lanes, compare carriers and generate instant quotes. → https://ziontechgroup.com/freight-quote-optimizer/
+- **Route & Load Planner AI** — multi-stop routing, load consolidation and on-time delivery. → https://ziontechgroup.com/route-load-planner-ai/
+- **Warehouse Pick Optimizer** — slotting, batching and pick-path travel-time reduction. → https://ziontechgroup.com/warehouse-pick-optimizer/
+- **Customs Docs Autopilot** — HS classification, declarations and compliance checks. → https://ziontechgroup.com/customs-docs-autopilot/
 
-**Headline:** From soil to shelf — 6 new free Agriculture & Food AI apps.
+## Section: Free AI Discovery — always online, always free
+- 100% free, no signup walls — instant results
+- Matches your needs to the right tools from 420+ apps in the Zion AI App Network
+- Results emailed to you immediately, with our commercial team (commercial@ziontechgroup.com) copied so we can follow up fast
+- Recommendations span field services, logistics, voice, finance, healthcare, education, smart cities and more
+Try it now → https://ziontechgroup.com/discovery/
 
-- 🌾 Crop Yield Predictor — satellite + weather + soil forecasts → https://ziontechgroup.com/crop-yield-predictor/
-- 💧 Precision Irrigation AI — save up to 40% water → https://ziontechgroup.com/precision-irrigation-ai/
-- 🐄 Livestock Health Monitor — early illness detection → https://ziontechgroup.com/livestock-health-monitor/
-- 📈 Harvest Market Pricing AI — sell at the right window → https://ziontechgroup.com/harvest-market-pricing-ai/
-- ✅ Food Safety Compliance AI — audit-ready HACCP logs → https://ziontechgroup.com/food-safety-compliance-ai/
-- 🔗 Farm-to-Shelf Traceability — recall scoping in minutes → https://ziontechgroup.com/farm-to-shelf-traceability/
-
-CTA: Free Discovery → https://ziontechgroup.com/discovery/ (results emailed instantly to you + commercial@ziontechgroup.com).
+## Section: Explore the network
+Browse the full catalog: https://ziontechgroup.com/apps/ | GitHub hub: https://github.com/Zion-support/zion-network
