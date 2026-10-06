@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Free AI Discovery — Zion Tech Group</title>
-<meta name="description" content="Free online AI discovery: answer 8 questions and instantly receive a tailored AI apps recommendation for your business. Always online, always free.">
+<meta name="description" content="Free online AI discovery: answer 8 questions and instantly receive a tailored AI apps recommendation for your business. Always online, always free. Results emailed instantly to you and to commercial@ziontechgroup.com.">
 <style>
 body{font-family:system-ui,Arial,sans-serif;background:#0b1020;color:#eef;max-width:760px;margin:0 auto;padding:2rem}
 h1{color:#7dd3fc} label{display:block;margin:1rem 0 .25rem;font-weight:600}
@@ -17,6 +17,7 @@ a{color:#7dd3fc}
 .rec p{margin:.2rem 0;color:#cbd5e1;font-size:.92rem}
 #results{margin-top:2rem}
 ul.benefits{line-height:1.9;padding-left:1.2rem}
+.note{background:#111831;border-left:4px solid #2563eb;padding:.7rem 1rem;border-radius:6px}
 </style>
 </head>
 <body>
@@ -26,23 +27,24 @@ ul.benefits{line-height:1.9;padding-left:1.2rem}
 <ul class="benefits">
 <li><strong>Instant on-screen report</strong> — personalized app recommendations from our 420+ app network, no waiting.</li>
 <li><strong>Email copy to you</strong> — results are emailed to your inbox immediately.</li>
-<li><strong>Our commercial team is looped in</strong> — <a href="mailto:commercial@ziontechgroup.com">commercial@ziontechgroup.com</a> receives your results at the same moment to follow up with a tailored plan.</li>
+<li><strong>Our commercial team is looped in</strong> — <a href="mailto:commercial@ziontechgroup.com">commercial@ziontechgroup.com</a> receives your results at the same moment to follow up with a tailored plan — only if you want it.</li>
 <li><strong>Zero backend, always online</strong> — runs fully in your browser on GitHub Pages; no downtime, no paywall, free forever.</li>
 </ul>
+<p class="note"><strong>New — Batch 98 (Voice &amp; Communications AI):</strong> <a href="https://ziontechgroup.com/meeting-intelligence-ai/">Meeting Intelligence AI</a>, <a href="https://ziontechgroup.com/voicemail-triage-ai/">Voicemail Triage AI</a> and 7 finance/risk companions are now in the network. <a href="../SPOTLIGHT-2026-10-06-BATCH98.md">See the spotlight</a>.</p>
 <p>Explore the <a href="../APPS_NETWORK.md">Zion App Network</a> or the <a href="../">network hub</a> while you wait.</p>
 <form id="discoveryForm">
-<label>Your name</label><input name="name" required>
-<label>Work email (results sent here)</label><input name="email" type="email" required>
-<label>Company</label><input name="company" required>
-<label>Industry</label>
-<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Other</option></select>
-<label>Company size</label>
+<label>Your name:</label><input name="name" required>
+<label>Work email (results sent here):</label><input name="email" type="email" required>
+<label>Company:</label><input name="company" required>
+<label>Industry:</label>
+<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Insurance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Legal &amp; Compliance</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Other</option></select>
+<label>Company size:</label>
 <select name="size"><option>1-10</option><option>11-50</option><option>51-200</option><option>201-1000</option><option>1000+</option></select>
-<label>Biggest challenge right now</label>
+<label>Biggest challenge right now:</label>
 <textarea name="challenge" rows="3" required></textarea>
 <label>Which areas interest you most?</label>
-<select name="interest" multiple size="8"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Data &amp; Analytics</option><option>Travel &amp; Hospitality AI</option><option>Sustainability &amp; ESG AI</option><option>AgTech &amp; Food Supply Chain AI</option><option>Nonprofit &amp; Social Impact AI</option></select>
-<label>Timeline to start</label>
+<select name="interest" multiple size="10"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Voice &amp; Communications AI</option><option>Legal &amp; Compliance AI</option><option>Insurance &amp; Risk AI</option><option>Data &amp; Analytics</option><option>Travel &amp; Hospitality AI</option><option>Education AI</option><option>Sustainability &amp; ESG AI</option><option>AgTech &amp; Food Supply Chain AI</option><option>Nonprofit &amp; Social Impact AI</option></select>
+<label>Timeline to start:</label>
 <select name="timeline"><option>Immediately</option><option>1-3 months</option><option>3-6 months</option><option>Exploring</option></select>
 <button type="submit">Get my free discovery results</button>
 </form>
@@ -57,14 +59,22 @@ var KW={
  'Travel & Hospitality':['travel','hospitality','booking','guest','hotel','menu'],
  'Retail & Ecommerce':['cart','inventory','pricing','product','returns','review','ecommerce','retail'],
  'Healthcare':['health','patient','clinic','telehealth','claim','wellness'],
- 'Finance':['invoice','billing','revenue','roi','finops','payment','collections'],
+ 'Finance':['invoice','billing','revenue','roi','finops','payment','collections','cash-flow','forecaster'],
+ 'Insurance':['insurance','underwriting','policy','claims','fraud','aml','risk'],
  'Manufacturing':['manufacturing','dispatch','maintenance','spare','field'],
  'Real Estate':['real-estate','property','valuer','proptech'],
- 'Education':['education','learning'],
+ 'Education':['education','learning','grading','lesson','curriculum','quiz'],
+ 'Legal & Compliance':['legal','compliance','contract','litigation','gdpr','privacy','regulatory'],
  'Agriculture & Food':['crop','pest','irrigation','soil','livestock','harvest','cold-chain','food-safety','farm','traceability','agriculture'],
  'Energy & Utilities':['energy','solar','grid','building-efficiency','consumption'],
  'Nonprofit & NGO':['grant','donor','fundraising','volunteer','impact','beneficiary','csr','crisis-relief'],
  'Other':[]
+};
+var EXTRA_KW={
+ 'Voice & Communications AI':['meeting','voicemail','voice','call','transcribe'],
+ 'Legal & Compliance AI':['legal','compliance','contract','litigation','gdpr','privacy'],
+ 'Insurance & Risk AI':['insurance','underwriting','policy','claims','fraud','aml','risk'],
+ 'Education AI':['education','grading','lesson','curriculum','quiz','attendance']
 };
 function norm(a){
  // compact registry entries: i=id, d=description, u=optional url
@@ -72,7 +82,7 @@ function norm(a){
 }
 function recommend(industry,interests,apps){
  var kws=(KW[industry]||[]).slice();
- interests.forEach(function(i){kws=kws.concat(i.toLowerCase().split(/[^a-z]+/));});
+ interests.forEach(function(i){kws=kws.concat((EXTRA_KW[i]||[]), i.toLowerCase().split(/[^a-z]+/));});
  var scored=apps.map(function(a){
   var t=((a.id||'')+' '+(a.description||'')).toLowerCase(),s=0;
   kws.forEach(function(k){if(k&&k.length>2&&t.indexOf(k)>-1)s++;});
@@ -85,9 +95,9 @@ function recommend(industry,interests,apps){
 function loadApps(){
  return fetch('../network.json').then(function(r){return r.json();}).then(function(n){
   if(n.apps&&n.apps.length&&typeof n.apps[0]==='object')return {apps:n.apps.map(norm),total:n.apps_total||n.apps.length};
-  var files=n.apps_files||['../network/apps-part1.json','../network/apps-part2.json','../network/apps-part3.json'];
+  var files=n.apps_files||['../network/apps-part1.json','../network/apps-part2.json','../network/apps-part3.json','../network/apps-part4.json'];
   files=files.map(function(f){return f.indexOf('network/')===0?'../'+f:f;});
-  return Promise.all(files.map(function(f){return fetch(f).then(function(r){return r.json();});})).then(function(parts){
+  return Promise.all(files.map(function(f){return fetch(f).then(function(r){return r.json();}).catch(function(){return [];});})).then(function(parts){
    var apps=[];parts.forEach(function(p){apps=apps.concat((p.apps||p).map(norm));});
    return {apps:apps,total:n.apps_total||apps.length};
   });
@@ -99,7 +109,7 @@ document.getElementById('discoveryForm').addEventListener('submit',function(e){
  d.forEach(function(v,k){body.push(k+': '+v)});
  var industry=d.get('industry');
  var interests=(d.get('interest')||'').split(',').filter(Boolean);
- var report='ZION AI DISCOVERY RESULTS\n=====================\n'+body.join('\n');
+ var report='ZION AI DISCOVERY RESULTS\n====================\n'+body.join('\n');
  loadApps().then(function(n){
   var recs=recommend(industry,interests,n.apps);
   var html='<h2 style="color:#7dd3fc">Your instant recommendations</h2><p>Matched from '+n.total+' apps in the Zion network for <strong>'+industry+'</strong>:</p>';
