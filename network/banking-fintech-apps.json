@@ -1,0 +1,20 @@
+{
+  "batch": 99,
+  "category": "Banking & FinTech AI",
+  "shipped": "2026-10-06",
+  "network": "https://ziontechgroup.com/apps/network.html",
+  "discovery": "https://ziontechgroup.com/discovery/",
+  "apps": [
+    {"slug": "credit-risk-decisioning-ai", "name": "Credit Risk Decisioning AI", "description": "Score applicants with explainable credit risk models, policy rules and adverse-action reason codes.", "url": "https://ziontechgroup.com/credit-risk-decisioning-ai/", "repo": "https://github.com/Zion-support/credit-risk-decisioning-ai"},
+    {"slug": "loan-origination-copilot", "name": "Loan Origination Copilot", "description": "Automate intake, document checks, underwriting handoff and closing milestones for faster loan cycles.", "url": "https://ziontechgroup.com/loan-origination-copilot/", "repo": "https://github.com/Zion-support/loan-origination-copilot"},
+    {"slug": "open-banking-insights-ai", "name": "Open Banking Insights AI", "description": "Aggregate account data via open banking to surface cash-flow, affordability and product-fit insights.", "url": "https://ziontechgroup.com/open-banking-insights-ai/", "repo": "https://github.com/Zion-support/open-banking-insights-ai"},
+    {"slug": "payment-reconciliation-ai", "name": "Payment Reconciliation AI", "description": "Auto-match payments to invoices, flag exceptions and clear suspense accounts across rails.", "url": "https://ziontechgroup.com/payment-reconciliation-ai/", "repo": "https://github.com/Zion-support/payment-reconciliation-ai"},
+    {"slug": "liquidity-risk-monitor", "name": "Liquidity Risk Monitor", "description": "Intraday liquidity tracking, LCR/NSFR projections and stress scenarios for treasury teams.", "url": "https://ziontechgroup.com/liquidity-risk-monitor/", "repo": "https://github.com/Zion-support/liquidity-risk-monitor"},
+    {"slug": "regtech-reporting-ai", "name": "RegTech Reporting AI", "description": "Automated regulatory reporting — data lineage, validation rules and filing-ready outputs.", "url": "https://ziontechgroup.com/regtech-reporting-ai/", "repo": "https://github.com/Zion-support/regtech-reporting-ai"},
+    {"slug": "chargeback-defense-ai", "name": "Chargeback Defense AI", "description": "Detect, contest and prevent chargebacks with evidence assembly and representment drafting.", "url": "https://ziontechgroup.com/chargeback-defense-ai/", "repo": "https://github.com/Zion-support/chargeback-defense-ai"},
+    {"slug": "wealth-advisor-copilot", "name": "Wealth Advisor Copilot", "description": "Portfolio insights, rebalancing suggestions and client-ready commentary for advisors.", "url": "https://ziontechgroup.com/wealth-advisor-copilot/", "repo": "https://github.com/Zion-support/wealth-advisor-copilot"},
+    {"slug": "smb-lending-matchmaker", "name": "SMB Lending Matchmaker", "description": "Match small businesses to the right financing options with eligibility pre-checks and document lists.", "url": "https://ziontechgroup.com/smb-lending-matchmaker/", "repo": "https://github.com/Zion-support/smb-lending-matchmaker"},
+    {"slug": "banking-data-quality-ai", "name": "Banking Data Quality AI", "description": "Profile, dedupe and remediate core-banking data issues before migrations and audits.", "url": "https://ziontechgroup.com/banking-data-quality-ai/", "repo": "https://github.com/Zion-support/banking-data-quality-ai"}
+  ],
+  "interlinks": ["insurance-risk-ai", "finance-accounting-ai", "compliance-grc-ai", "legal-compliance-ai", "data-observability-ai"]
+}
