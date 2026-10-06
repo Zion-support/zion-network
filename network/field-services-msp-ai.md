@@ -1,17 +1,10 @@
-# Field Services & MSP AI — Network Category
+# Field Services & MSP AI — Batch 100
 
-Apps for managed service providers, field service and IT operations.
+| App | Repo | URL |
+|---|---|---|
+| Ticket Triage Copilot | Zion-support/zion-ticket-triage-copilot | https://ziontechgroup.com/zion-ticket-triage-copilot/ |
+| RFQ & Quote Assistant | Zion-support/zion-rfq-quote-assistant | https://ziontechgroup.com/zion-rfq-quote-assistant/ |
+| SLA Breach Predictor | Zion-support/zion-sla-breach-predictor | https://ziontechgroup.com/zion-sla-breach-predictor/ |
+| Field Dispatch Optimizer | Zion-support/zion-field-dispatch-optimizer | https://ziontechgroup.com/zion-field-dispatch-optimizer/ |
 
-## Batch 100 (2026-10-06)
-- zion-ticket-triage-copilot — https://ziontechgroup.com/zion-ticket-triage-copilot/
-- zion-sla-breach-predictor — https://ziontechgroup.com/zion-sla-breach-predictor/
-- zion-field-dispatch-optimizer — https://ziontechgroup.com/zion-field-dispatch-optimizer/
-- zion-rfq-quote-assistant — https://ziontechgroup.com/zion-rfq-quote-assistant/
-
-## Related
-- [Support & Service Desk AI](support-service-desk-ai.md)
-- [AI Ops & Incident Response](ai-ops-incident-response.md)
-- [MSP Partner Ecosystem](msp-partner-ecosystem.md)
-- [Field Service AI](field-service-ai.md)
-
-Discovery (free, online): https://ziontechgroup.com/discovery/
+Interlinks: [INTERLINKS-batch100.md](../INTERLINKS-batch100.md) · Spotlight: [SPOTLIGHT-2026-10-06-BATCH100.md](../SPOTLIGHT-2026-10-06-BATCH100.md) · Free Discovery: https://ziontechgroup.com/discovery/
