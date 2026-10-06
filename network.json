@@ -1,12 +1,12 @@
 {
- "note": "Full flagship apps registry. 405 apps. Batch 97 Education AI (2026-10-06) created & interlinked: grading-assistant-ai, curriculum-mapper-ai, quiz-generator-ai, course-outline-builder, attendance-risk-radar, lesson-plan-copilot, accreditation-evidence-ai. Batch 96 Real Estate & Property (398) registered. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix; use zion-support.github.io/zion-network/ meanwhile.",
+ "note": "Full flagship apps registry. 415 apps. Batch 98 Gaming & Esports AI (2026-10-06) created & interlinked: esports-scout-ai, match-vod-analyzer, game-balance-sentinel, live-stream-clipper, esports-fan-engagement, tournament-bracket-builder, anti-cheat-anomaly-ai, streamer-sponsor-matcher, game-economy-modeler, esports-betting-integrity. Batch 97 Education AI (405) registered. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix; use zion-support.github.io/zion-network/ meanwhile.",
  "updated": "2026-10-06",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 405,
- "spotlight_latest": "SPOTLIGHT-2026-10-06-BATCH97.md",
- "spotlight_previous": "SPOTLIGHT-2026-10-06-BATCH96.md",
- "batches_latest": {"97": "network/education-ai.md", "96": "network/real-estate-property-ai.md", "94": "network/legal-compliance-ai.md"},
+ "apps_total": 415,
+ "spotlight_latest": "SPOTLIGHT-2026-10-06-BATCH98.md",
+ "spotlight_previous": "SPOTLIGHT-2026-10-06-BATCH97.md",
+ "batches_latest": {"98": "network/gaming-esports-ai.md", "97": "network/education-ai.md", "96": "network/real-estate-property-ai.md", "94": "network/legal-compliance-ai.md"},
  "apps": ["<APPS_PART1>", "<APPS_PART2>"]
 }
