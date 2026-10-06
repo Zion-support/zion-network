@@ -1,27 +1,15 @@
-# SPOTLIGHT — Batch 99 · Events & Venues AI (2026-10-06)
+# SPOTLIGHT 2026-10-06 — Batch 99: Gaming & Esports AI
 
-Ten new interlinked apps join the Zion AI App Network, covering the full events & venues lifecycle:
+**Shipped:** 4 new public repos (MIT), interlinked READMEs + landing pages, Pages enabled.
 
-1. **Event Demand Forecaster** — know your attendance before you book the venue.
-2. **Dynamic Ticket Pricing AI** — real-time tier pricing from sell-through velocity.
-3. **Venue Layout Optimizer** — capacity, sightlines and safety codes in one plan.
-4. **Event Sponsor Matcher** — sponsors matched by audience overlap & brand fit.
-5. **Event Marketing Autopilot** — promo calendars, ad copy, email/SMS sequences.
-6. **Staff Shift Scheduler AI** — crews scheduled against demand curves.
-7. **Crowd Flow Sentinel** — congestion alerts before it becomes a risk.
-8. **Attendee Engagement AI** — matchmaking & gamified quests in the event app.
-9. **Post-Event Insights AI** — NPS + social + sales fused into next-event actions.
-10. **Venue Booking Copilot** — RFPs answered, spaces quoted, contracts drafted.
+1. **Esports Tourney Ops** — brackets, scheduling, check-ins, dispute triage.
+   https://github.com/Zion-support/esports-tourney-ops | https://ziontechgroup.com/esports-tourney-ops/
+2. **Game Meta Analyzer** — win/pick-rate + economy telemetry for balance decisions.
+   https://github.com/Zion-support/game-meta-analyzer | https://ziontechgroup.com/game-meta-analyzer/
+3. **Streamer Clip Finder** — VOD highlight detection to social-ready clips.
+   https://github.com/Zion-support/streamer-clip-finder | https://ziontechgroup.com/streamer-clip-finder/
+4. **Player Churn Predictor** — engagement scoring + retention triggers.
+   https://github.com/Zion-support/player-churn-predictor | https://ziontechgroup.com/player-churn-predictor/
 
-## Why it matters
-- Events teams juggle demand, pricing, staffing and safety across disconnected tools; this batch wires them into one interlinked pipeline.
-- All 10 apps interlink with Batch 98 (Gaming & Esports), Batch 89 (Hospitality & Travel), Batch 90 (Sports & Fan) and the wider 425-app network.
-
-## Free Discovery
-Take the always-online, always-free Discovery questionnaire — personalized app shortlist + ROI snapshot emailed instantly to you and our commercial team (commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
-
-## Links
-- Category: network/events-venues-ai.md · Registry: network/events-venues-apps.json
-- Showcase: https://ziontechgroup.com/apps/october-2026-batch19.html
-- Previous spotlight: SPOTLIGHT-2026-10-06-BATCH98.md
-- Network hub: https://zion-support.github.io/zion-network/
+**Network total:** 432 apps (101 batches + Batch 99 fill). Registry conflict flagged: Batch 99 number also used by referral-program-ai / landing-page-ab-coach — cleanup pending.
+**Discovery:** free at https://ziontechgroup.com/discovery/
