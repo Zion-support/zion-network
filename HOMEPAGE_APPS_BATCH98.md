@@ -1,13 +1,5 @@
-# Homepage copy — Batch 98 · Voice & Communications AI
+# Homepage copy — Batch 98 Fintech & Insurance AI
 
-Use this block on https://ziontechgroup.com (homepage apps section) and apps index pages.
+7 new free apps for banks, insurers and finance teams: fraud monitoring, claims automation, underwriting copilot, AML screening, cash flow forecasting, AR collections, policy comparison.
 
-## 🎙️ NEW — Voice & Communications AI (Batch 98, Oct 2026)
-- **Meeting Intelligence AI** — summaries, decisions and action items synced to your stack. https://ziontechgroup.com/meeting-intelligence-ai/
-- **Voicemail Triage AI** — transcribe, score and route voicemails to the right owner instantly. https://ziontechgroup.com/voicemail-triage-ai/
-
-## 🧭 Free AI Discovery — always online, always free
-Answer a 2-minute questionnaire and get a personalized app shortlist + ROI snapshot **emailed instantly** to you and to our commercial team.
-→ Start now: https://ziontechgroup.com/discovery/
-
-Explore the full network (405+ apps): https://ziontechgroup.com/apps/network.html · https://zion-support.github.io/zion-network/
+Page: https://ziontechgroup.com/apps/october-2026-batch18.html · Spotlight: https://github.com/Zion-support/zion-network/blob/main/SPOTLIGHT-2026-10-06-BATCH98.md

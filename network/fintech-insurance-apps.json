@@ -1,0 +1,14 @@
+{
+ "batch": 98,
+ "theme": "Fintech & Insurance AI",
+ "date": "2026-10-06",
+ "apps": [
+  {"id": "fraud-transaction-monitor", "description": "Real-time payment fraud scoring — transaction risk scoring, anomaly detection, step-up authentication triggers.", "url": "https://ziontechgroup.com/fraud-transaction-monitor/", "repo": "https://github.com/Zion-support/fraud-transaction-monitor"},
+  {"id": "claims-automation-ai", "description": "Insurance claims automation — FNOL intake, document extraction, fraud flags, settlement routing.", "url": "https://ziontechgroup.com/claims-automation-ai/", "repo": "https://github.com/Zion-support/claims-automation-ai"},
+  {"id": "underwriting-copilot-ai", "description": "Underwriting copilot — risk factor extraction, loss-run analysis, pricing guidance.", "url": "https://ziontechgroup.com/underwriting-copilot-ai/", "repo": "https://github.com/Zion-support/underwriting-copilot-ai"},
+  {"id": "aml-screening-ai", "description": "AML/KYC screening — sanctions & PEP matching, alert triage, SAR narrative drafting.", "url": "https://ziontechgroup.com/aml-screening-ai/", "repo": "https://github.com/Zion-support/aml-screening-ai"},
+  {"id": "cash-flow-forecaster", "description": "Cash flow forecasting for SMB treasury — 13-week rolling forecast, scenario stress tests.", "url": "https://ziontechgroup.com/cash-flow-forecaster/", "repo": "https://github.com/Zion-support/cash-flow-forecaster"},
+  {"id": "ar-collections-copilot", "description": "AR collections copilot — aging prediction, dunning sequencing, promise-to-pay tracking.", "url": "https://ziontechgroup.com/ar-collections-copilot/", "repo": "https://github.com/Zion-support/ar-collections-copilot"},
+  {"id": "policy-comparison-ai", "description": "Insurance policy document analyzer — coverage extraction, exclusion flags, renewal comparison.", "url": "https://ziontechgroup.com/policy-comparison-ai/", "repo": "https://github.com/Zion-support/policy-comparison-ai"}
+ ]
+}

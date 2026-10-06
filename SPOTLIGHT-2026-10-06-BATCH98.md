@@ -1,18 +1,17 @@
-# SPOTLIGHT — Batch 98 · Voice & Communications AI (2026-10-06)
+# SPOTLIGHT 2026-10-06 — Batch 98: Fintech & Insurance AI
 
-Two new flagship apps join the Zion AI App Network, focused on voice and communications intelligence:
+The Zion AI App Network grows to **412 free, open-source AI apps**. Batch 98 ships 7 apps covering the fintech & insurance workflow.
 
-1. **Meeting Intelligence AI** — never lose a decision again. Automatic summaries, decision logs and action items synced into your CRM/PM stack. → https://ziontechgroup.com/meeting-intelligence-ai/
-2. **Voicemail Triage AI** — transcribe, score and route voicemails to the right owner instantly. → https://ziontechgroup.com/voicemail-triage-ai/
+## The apps
+- **fraud-transaction-monitor** — Real-time payment fraud scoring, anomaly detection, step-up auth triggers. (https://ziontechgroup.com/fraud-transaction-monitor/)
+- **claims-automation-ai** — FNOL intake, document extraction, fraud flags, settlement routing. (https://ziontechgroup.com/claims-automation-ai/)
+- **underwriting-copilot-ai** — Risk factor extraction, loss-run analysis, pricing guidance. (https://ziontechgroup.com/underwriting-copilot-ai/)
+- **aml-screening-ai** — Sanctions & PEP matching, alert triage, SAR narrative drafting. (https://ziontechgroup.com/aml-screening-ai/)
+- **cash-flow-forecaster** — 13-week rolling forecast, scenario stress tests. (https://ziontechgroup.com/cash-flow-forecaster/)
+- **ar-collections-copilot** — Aging prediction, dunning sequencing, promise-to-pay tracking. (https://ziontechgroup.com/ar-collections-copilot/)
+- **policy-comparison-ai** — Coverage extraction, exclusion flags, renewal comparison. (https://ziontechgroup.com/policy-comparison-ai/)
 
-## Why it matters
-- Voice channels are the #1 source of untracked commitments; this batch closes the loop.
-- Both apps interlink with Batch 97 (Education AI), Batch 96 (Real Estate & Property AI) and the wider 405+ app network.
+## Interlinked network
+Every Batch 98 repo links to the network map, the free Discovery questionnaire, and sibling batches. Discovery results are instantly emailed to the client and commercial@ziontechgroup.com — no signup, no cost, always online.
 
-## Free Discovery
-Take the always-online, always-free Discovery questionnaire — personalized app shortlist + ROI snapshot emailed instantly to you and our commercial team (commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
-
-## Links
-- Category: network/voice-communications-ai.md
-- Previous spotlight: SPOTLIGHT-2026-10-06-BATCH97.md
-- Network hub: https://zion-support.github.io/zion-network/
+Links: https://ziontechgroup.com/apps/network.html · https://zion-support.github.io/zion-network/ · https://ziontechgroup.com/discovery/

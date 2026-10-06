@@ -1,4 +1,4 @@
-# INTERLINKS — Batch 98 (Fintech & Insurance AI)
+# INTERLINKS — Batch 99 (Sustainability & ESG AI)
 
 Canonical link block for each repo README:
 
@@ -8,4 +8,4 @@ Canonical link block for each repo README:
 - Network hub repo: https://github.com/Zion-support/zion-network
 - Pages hub: https://zion-support.github.io/zion-network/
 
-Sibling chain: batch97 (Education AI) → **batch98 (Fintech & Insurance AI)** → next batch99 (Sustainability & ESG AI).
+Sibling chain: batch98 (Fintech & Insurance AI) → **batch99 (Sustainability & ESG AI)** → next batch100 (planned: Media & Entertainment AI).

@@ -1,38 +1,20 @@
-# 🌱 Sustainability & ESG AI
+# Sustainability & ESG AI — Batch 99 (2026-10-06)
 
-AI apps for carbon accounting, ESG disclosure, climate risk, circularity and sustainable operations — part of the [Zion App Network](../APPS_NETWORK.md).
+Part of the **Zion AI App Network** — free, open-source AI micro-apps, fully interlinked.
 
-## Apps
+| App | What it does | GitHub |
+|---|---|---|
+| [carbon-footprint-tracker-ai](https://ziontechgroup.com/carbon-footprint-tracker-ai/) | Scope 1-2-3 carbon accounting — automated emissions collection, factor libraries, audit-ready ledgers. | [repo](https://github.com/Zion-support/carbon-footprint-tracker-ai) |
+| [esg-report-builder-ai](https://ziontechgroup.com/esg-report-builder-ai/) | ESG report builder — GRI/CSRD/SASB mapping, evidence collection, one-click disclosure drafts. | [repo](https://github.com/Zion-support/esg-report-builder-ai) |
+| [energy-audit-copilot](https://ziontechgroup.com/energy-audit-copilot/) | Building energy audit copilot — anomaly detection on meters, retrofit ROI ranking, rebate matching. | [repo](https://github.com/Zion-support/energy-audit-copilot) |
+| [sustainable-procurement-ai](https://ziontechgroup.com/sustainable-procurement-ai/) | Sustainable procurement — supplier ESG scoring, green spend analytics, eco-label verification. | [repo](https://github.com/Zion-support/sustainable-procurement-ai) |
+| [circular-economy-planner](https://ziontechgroup.com/circular-economy-planner/) | Circular economy planner — waste stream valorization, take-back program design, material passports. | [repo](https://github.com/Zion-support/circular-economy-planner) |
+| [climate-risk-assessor](https://ziontechgroup.com/climate-risk-assessor/) | Climate risk assessor — physical & transition risk scoring per asset/portfolio, TCFD-ready outputs. | [repo](https://github.com/Zion-support/climate-risk-assessor) |
+| [green-fleet-optimizer](https://ziontechgroup.com/green-fleet-optimizer/) | Green fleet optimizer — EV transition planning, route emissions minimization, TCO vs CO2 trade-offs. | [repo](https://github.com/Zion-support/green-fleet-optimizer) |
 
-| App | Live | Repo | What it does |
-|---|---|---|---|
-| Carbon Accounting Hub | [ziontechgroup.com/carbon-accounting-hub/](https://ziontechgroup.com/carbon-accounting-hub/) | [GitHub](https://github.com/Zion-support/carbon-accounting-hub) | Scope 1/2/3 emissions ledgers (GHG Protocol), audit trails, reduction planning |
-| ESG Report Builder | [ziontechgroup.com/esg-report-builder/](https://ziontechgroup.com/esg-report-builder/) | [GitHub](https://github.com/Zion-support/esg-report-builder) | CSRD, GRI, SASB & TCFD disclosure reports with evidence links |
-| ESG Data Collector | [ziontechgroup.com/esg-data-collector/](https://ziontechgroup.com/esg-data-collector/) | [GitHub](https://github.com/Zion-support/esg-data-collector) | Automated ESG data ingestion from utilities, ERPs and suppliers |
-| Climate Risk Assessor | [ziontechgroup.com/climate-risk-assessor/](https://ziontechgroup.com/climate-risk-assessor/) | [GitHub](https://github.com/Zion-support/climate-risk-assessor) | Physical & transition climate risk scoring per asset and region |
-| Circular Economy Tracker | [ziontechgroup.com/circular-economy-tracker/](https://ziontechgroup.com/circular-economy-tracker/) | [GitHub](https://github.com/Zion-support/circular-economy-tracker) | Circularity metrics, material flows and waste diversion tracking |
-| Green Procurement Copilot | [ziontechgroup.com/green-procurement-copilot/](https://ziontechgroup.com/green-procurement-copilot/) | [GitHub](https://github.com/Zion-support/green-procurement-copilot) | Sustainable sourcing: supplier ESG scoring and green spend analysis |
-| Renewable ROI Calculator | [ziontechgroup.com/renewable-roi-calculator/](https://ziontechgroup.com/renewable-roi-calculator/) | [GitHub](https://github.com/Zion-support/renewable-roi-calculator) | Solar/wind/storage payback, IRR and incentive modeling |
-| Water Usage Optimizer | [ziontechgroup.com/water-usage-optimizer/](https://ziontechgroup.com/water-usage-optimizer/) | [GitHub](https://github.com/Zion-support/water-usage-optimizer) | Water efficiency benchmarking, leak detection and reuse planning |
-
-## Related categories
-
-- [💰 Cost, FinOps & Cloud](cost-finops-cloud.md) — green cloud picking and energy cost optimization
-- [📊 Data & Analytics](data-analytics.md) — ESG data pipelines and analytics
-- [🔐 Security & Compliance](security-compliance.md) — audit-ready compliance tooling
-- [🧰 Procurement, Vendor & IT Reliability AI](procurement-vendor-it-reliability.md) — vendor risk and procurement automation
-- [🏭 Industry Platforms](industry-platforms.md) — vertical platforms with sustainability modules
-
-## Use cases
-
-- **Enterprises:** CSRD/GRI reporting, Scope 3 accounting, SBTi tracking
-- **Manufacturers:** circularity metrics, water and energy optimization
-- **Facilities & cities:** renewable ROI modeling, climate risk screening
-- **Procurement teams:** supplier ESG scoring and green sourcing
-
----
-
-### Part of the Zion App Network
-🌐 [Network Index](../APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://ziontechgroup.com/en/plans/) · [Main Site](https://ziontechgroup.com)
-
-_Updated 2026-10-03_
+## Interlinks
+- Network map: https://ziontechgroup.com/apps/network.html
+- Apps index: https://ziontechgroup.com/apps/
+- Free Discovery (instant dual email to client + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
+- Hub repo: https://github.com/Zion-support/zion-network · Pages hub: https://zion-support.github.io/zion-network/
+- Sibling batches: see INTERLINKS-batch99.md

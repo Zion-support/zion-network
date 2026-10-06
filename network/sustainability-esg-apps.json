@@ -1,21 +1,14 @@
 {
-  "suite": "Sustainability & ESG AI",
-  "batch": 68,
-  "date": "2026-10-03",
-  "loop": "measure → audit → optimize → forecast → balance → report",
-  "apps": [
-    {"name": "Carbon Footprint Tracker", "repo": "https://github.com/Zion-support/carbon-footprint-tracker", "role": "measure", "stage": 1},
-    {"name": "Energy Audit Copilot", "repo": "https://github.com/Zion-support/energy-audit-copilot", "role": "audit", "stage": 2},
-    {"name": "Energy Optimizer AI", "repo": "https://github.com/Zion-support/energy-optimizer-ai", "role": "optimize", "stage": 3},
-    {"name": "Renewable Energy Forecaster", "repo": "https://github.com/Zion-support/renewable-energy-forecaster", "role": "forecast", "stage": 4},
-    {"name": "Smart Grid Load Balancer", "repo": "https://github.com/Zion-support/smart-grid-load-balancer", "role": "balance", "stage": 5},
-    {"name": "ESG Report Builder", "repo": "https://github.com/Zion-support/esg-report-builder", "role": "report", "stage": 6}
-  ],
-  "related": [
-    "https://github.com/Zion-support/zion-ai-governance",
-    "https://github.com/Zion-support/zion-field-energy",
-    "https://zion-support.github.io/zion-tools/"
-  ],
-  "spotlight": "spotlights/sustainability-esg-suite.md",
-  "homepage_ad": "https://zion-support.github.io/APP_NETWORK_SPOTLIGHT_OCT3_ESG.html"
+ "batch": 99,
+ "theme": "Sustainability & ESG AI",
+ "date": "2026-10-06",
+ "apps": [
+  {"id": "carbon-footprint-tracker-ai", "description": "Scope 1-2-3 carbon accounting — automated emissions collection, factor libraries, audit-ready ledgers.", "url": "https://ziontechgroup.com/carbon-footprint-tracker-ai/", "repo": "https://github.com/Zion-support/carbon-footprint-tracker-ai"},
+  {"id": "esg-report-builder-ai", "description": "ESG report builder — GRI/CSRD/SASB mapping, evidence collection, one-click disclosure drafts.", "url": "https://ziontechgroup.com/esg-report-builder-ai/", "repo": "https://github.com/Zion-support/esg-report-builder-ai"},
+  {"id": "energy-audit-copilot", "description": "Building energy audit copilot — anomaly detection on meters, retrofit ROI ranking, rebate matching.", "url": "https://ziontechgroup.com/energy-audit-copilot/", "repo": "https://github.com/Zion-support/energy-audit-copilot"},
+  {"id": "sustainable-procurement-ai", "description": "Sustainable procurement — supplier ESG scoring, green spend analytics, eco-label verification.", "url": "https://ziontechgroup.com/sustainable-procurement-ai/", "repo": "https://github.com/Zion-support/sustainable-procurement-ai"},
+  {"id": "circular-economy-planner", "description": "Circular economy planner — waste stream valorization, take-back program design, material passports.", "url": "https://ziontechgroup.com/circular-economy-planner/", "repo": "https://github.com/Zion-support/circular-economy-planner"},
+  {"id": "climate-risk-assessor", "description": "Climate risk assessor — physical & transition risk scoring per asset/portfolio, TCFD-ready outputs.", "url": "https://ziontechgroup.com/climate-risk-assessor/", "repo": "https://github.com/Zion-support/climate-risk-assessor"},
+  {"id": "green-fleet-optimizer", "description": "Green fleet optimizer — EV transition planning, route emissions minimization, TCO vs CO2 trade-offs.", "url": "https://ziontechgroup.com/green-fleet-optimizer/", "repo": "https://github.com/Zion-support/green-fleet-optimizer"}
+ ]
 }
