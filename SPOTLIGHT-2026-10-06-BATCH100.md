@@ -1,22 +1,13 @@
-# SPOTLIGHT — Batch 100 · Agriculture & Food AI (2026-10-06)
+# SPOTLIGHT — 2026-10-06 — Batch 100: Field Services & MSP AI
 
-Six new flagship apps join the Zion AI App Network, digitizing the field-to-shelf chain:
+Batch 100 marks 100 batches of the Zion AI App Network. Four open-source AI apps for MSPs and field service teams. All free to try, all interlinked.
 
-1. **Crop Yield Forecaster AI** — satellite + weather + soil data into yield forecasts. → https://ziontechgroup.com/crop-yield-forecaster-ai/
-2. **Soil Health Analyzer AI** — lab + sensor readings into fertility and amendment plans. → https://ziontechgroup.com/soil-health-analyzer-ai/
-3. **Irrigation Optimizer AI** — evapotranspiration-driven watering schedules that cut water use. → https://ziontechgroup.com/irrigation-optimizer-ai/
-4. **Pest Vision Detector** — image-based pest & disease detection with treatment guidance. → https://ziontechgroup.com/pest-vision-detector/
-5. **Livestock Health Monitor AI** — early illness detection from behavior and vitals. → https://ziontechgroup.com/livestock-health-monitor-ai/
-6. **Harvest Logistics Planner** — harvest windows, crews and cold-chain routing in one plan. → https://ziontechgroup.com/harvest-logistics-planner/
+| App | What it does | Link |
+|---|---|---|
+| Ticket Triage Copilot | Auto-classify, prioritize P1-P4 and draft replies under your brand. | https://ziontechgroup.com/zion-ticket-triage-copilot/ |
+| RFQ & Quote Assistant | Supplier quote comparison, margin guardrails and quote drafting. | https://ziontechgroup.com/zion-rfq-quote-assistant/ |
+| SLA Breach Predictor | Flags at-risk tickets before breach; escalation and staffing hints. | https://ziontechgroup.com/zion-sla-breach-predictor/ |
+| Field Dispatch Optimizer | AI dispatch & routing — skills, parts, travel time and SLA windows. | https://ziontechgroup.com/zion-field-dispatch-optimizer/ |
 
-## Why it matters
-- Higher yields with less water, fewer chemicals and less waste across the food supply chain.
-- Fully interlinked with Batch 93 Manufacturing & Industrial AI, Batch 89 Hospitality & Travel AI (menu/food cost), Energy & Utilities AI (irrigation energy) and the wider 420+ app network.
-
-## Free Discovery
-Always online, always free — personalized app shortlist + ROI snapshot emailed instantly to you and commercial@ziontechgroup.com: https://ziontechgroup.com/discovery/
-
-## Links
-- Category: network/agritech-food-ai.md
-- Previous spotlight: SPOTLIGHT-2026-10-06-BATCH99.md
-- Network hub: https://zion-support.github.io/zion-network/
+Try them via the free Discovery questionnaire (results emailed instantly to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
+Interlinks: INTERLINKS-batch100.md · Category: network/field-services-msp-ai.md
