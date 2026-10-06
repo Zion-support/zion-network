@@ -1,9 +1,11 @@
-# Gaming & Esports AI — Batch 98 (2026-10-06)
+# Gaming & Esports AI — Batch 99 (PLANNED)
 
-Ten new interlinked apps covering the gaming & esports workflow: scout → analyze → balance → broadcast → engage → compete → protect → monetize.
-Network total: **415 free, open-source AI apps**.
+> Status: **planned** — category page reserved. Repos and spotlight will ship with Batch 99.
+> Batch 98 shipped as **Voice & Communications AI** — see [network/voice-communications-ai.md](voice-communications-ai.md).
 
-## Apps
+Ten planned interlinked apps covering the gaming & esports workflow: scout → analyze → balance → broadcast → engage → compete → protect → monetize.
+
+## Planned apps
 | App | What it does |
 |---|---|
 | **Esports Scout AI** (`esports-scout-ai`) | Ranks unsigned players from ranked-ladder stats + VOD signals. |
@@ -19,7 +21,5 @@ Network total: **415 free, open-source AI apps**.
 
 ## Interlinks
 - Network index: [APPS_NETWORK.md](../APPS_NETWORK.md) · [network.json](../network.json)
-- Spotlight: [SPOTLIGHT-2026-10-06-BATCH98](../SPOTLIGHT-2026-10-06-BATCH98.md) · Interlinks: [INTERLINKS-batch98](../INTERLINKS-batch98.md)
-- Sibling batches: [Education AI (97)](./education-ai.md) · [Real Estate AI (96)](./real-estate-property-ai.md) · [Sports & Fitness AI (90)](./sports-fitness-wellness-ai.md) · [Media & Creator Economy AI](./media-creator-economy-ai.md)
-- Live showcase: https://ziontechgroup.com/apps/october-2026-batch18.html
+- Current batch: [Voice & Communications AI (98)](voice-communications-ai.md) · [Education AI (97)](education-ai.md) · [Real Estate AI (96)](real-estate-property-ai.md)
 - Free Discovery (instant results emailed to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
