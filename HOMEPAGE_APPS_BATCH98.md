@@ -1,8 +1,7 @@
-# HOMEPAGE APPS — Batch 98 copy (Voice & Communications AI)
+# HOMEPAGE APPS — Batch 98 copy (Gaming & Esports AI)
 
-Section: **New — Oct 6, 2026: Voice & Communications AI (Batch 98)**
-9 new interlinked apps: meeting intelligence, voicemail triage, AML screening, AR collections, cash-flow forecasting, claims automation, fraud monitoring, policy comparison, underwriting copilot.
+Section: **New — Oct 6, 2026: Gaming & Esports AI (Batch 98)**
+10 new interlinked apps: esports scouting, VOD analysis, game balance, live clipper, fan engagement, brackets, anti-cheat, sponsor matching, economy modeling, integrity monitoring.
 
-Showcase: https://ziontechgroup.com/apps/network.html
-Category: https://github.com/Zion-support/zion-network/blob/main/network/voice-communications-ai.md
+Showcase: https://ziontechgroup.com/apps/october-2026-batch18.html
 Discovery CTA: https://ziontechgroup.com/discovery/ (free, online, instant results emailed to you + commercial@ziontechgroup.com)
