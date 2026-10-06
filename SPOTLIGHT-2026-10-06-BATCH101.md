@@ -1,13 +1,16 @@
-# SPOTLIGHT — Batch 101 · Agriculture & Food AI (2026-10-06)
+# SPOTLIGHT 2026-10-06 — Batch 101: Logistics & Supply Chain AI
 
-**6 new free apps** joining the Zion AI App Network (438+ total).
+**Shipped:** 4 new public repos (MIT) with interlinked READMEs.
 
-- 🌾 **Crop Yield Predictor** — field-level forecasts from satellite, weather & soil. https://ziontechgroup.com/crop-yield-predictor/
-- 💧 **Precision Irrigation AI** — up to 40% water savings with ET models & sensors. https://ziontechgroup.com/precision-irrigation-ai/
-- 🐄 **Livestock Health Monitor** — early illness detection & vet alerts. https://ziontechgroup.com/livestock-health-monitor/
-- 📈 **Harvest Market Pricing AI** — sell-window recommendations & contract comparison. https://ziontechgroup.com/harvest-market-pricing-ai/
-- ✅ **Food Safety Compliance AI** — HACCP digitization & recall risk alerts. https://ziontechgroup.com/food-safety-compliance-ai/
-- 🔗 **Farm-to-Shelf Traceability** — recall scoping in minutes. https://ziontechgroup.com/farm-to-shelf-traceability/
+1. **Freight Quote Optimizer** — lane benchmarking, carrier comparison, instant quote generation.
+   Repo: https://github.com/Zion-support/freight-quote-optimizer | Live: https://ziontechgroup.com/freight-quote-optimizer/
+2. **Route & Load Planner AI** — multi-stop routing, load consolidation, ETA prediction.
+   Repo: https://github.com/Zion-support/route-load-planner-ai | Live: https://ziontechgroup.com/route-load-planner-ai/
+3. **Warehouse Pick Optimizer** — slotting, batching, travel-time reduction.
+   Repo: https://github.com/Zion-support/warehouse-pick-optimizer | Live: https://ziontechgroup.com/warehouse-pick-optimizer/
+4. **Customs Docs Autopilot** — HS classification, declarations, compliance.
+   Repo: https://github.com/Zion-support/customs-docs-autopilot | Live: https://ziontechgroup.com/customs-docs-autopilot/
 
-Interlinks: [INTERLINKS-batch101.md](INTERLINKS-batch101.md) · Homepage pack: [HOMEPAGE_APPS_BATCH101.md](HOMEPAGE_APPS_BATCH101.md) · Showcase: [apps-network-batch101-oct06.html](apps-network-batch101-oct06.html)
-Free Discovery: https://ziontechgroup.com/discovery/ — results emailed to client + commercial@ziontechgroup.com
+**Network total:** 428 apps across 101 batches.
+**Discovery:** free, always online at https://ziontechgroup.com/discovery/ — questionnaire results emailed to the client + commercial@ziontechgroup.com instantly.
+**Interlinks:** every README cross-links batch siblings + zion-network hub + apps index + Discovery.
