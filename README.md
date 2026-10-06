@@ -31,36 +31,23 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 100: Agriculture & Food AI (2026-10-06)
+## Latest batch — Batch 100: Field Services & MSP AI (2026-10-06)
 See [SPOTLIGHT-2026-10-06-BATCH100.md](SPOTLIGHT-2026-10-06-BATCH100.md), [INTERLINKS-batch100.md](INTERLINKS-batch100.md) and homepage pack [HOMEPAGE_APPS_BATCH100.md](HOMEPAGE_APPS_BATCH100.md)
 | App | Repo | URL |
 |---|---|---|
-| Crop Yield Forecaster AI | Zion-support/crop-yield-forecaster-ai | https://ziontechgroup.com/crop-yield-forecaster-ai/ |
-| Soil Health Analyzer AI | Zion-support/soil-health-analyzer-ai | https://ziontechgroup.com/soil-health-analyzer-ai/ |
-| Irrigation Optimizer AI | Zion-support/irrigation-optimizer-ai | https://ziontechgroup.com/irrigation-optimizer-ai/ |
-| Pest Vision Detector | Zion-support/pest-vision-detector | https://ziontechgroup.com/pest-vision-detector/ |
-| Livestock Health Monitor AI | Zion-support/livestock-health-monitor-ai | https://ziontechgroup.com/livestock-health-monitor-ai/ |
-| Harvest Logistics Planner | Zion-support/harvest-logistics-planner | https://ziontechgroup.com/harvest-logistics-planner/ |
-
-## Previous batch — Batch 99: Customer Experience & Support AI (2026-10-06)
-See [SPOTLIGHT-2026-10-06-BATCH99.md](SPOTLIGHT-2026-10-06-BATCH99.md), [INTERLINKS-batch99.md](INTERLINKS-batch99.md) and homepage pack [HOMEPAGE_APPS_BATCH99.md](HOMEPAGE_APPS_BATCH99.md)
-| App | Repo | URL |
-|---|---|---|
-| AI Ticket Router | Zion-support/ai-ticket-router | https://ziontechgroup.com/ai-ticket-router/ |
-| Support Chat Copilot | Zion-support/support-chat-copilot | https://ziontechgroup.com/support-chat-copilot/ |
-| Help Center Knowledge AI | Zion-support/helpcenter-knowledge-ai | https://ziontechgroup.com/helpcenter-knowledge-ai/ |
+| Ticket Triage Copilot | Zion-support/zion-ticket-triage-copilot | https://ziontechgroup.com/zion-ticket-triage-copilot/ |
+| RFQ & Quote Assistant | Zion-support/zion-rfq-quote-assistant | https://ziontechgroup.com/zion-rfq-quote-assistant/ |
+| SLA Breach Predictor | Zion-support/zion-sla-breach-predictor | https://ziontechgroup.com/zion-sla-breach-predictor/ |
+| Field Dispatch Optimizer | Zion-support/zion-field-dispatch-optimizer | https://ziontechgroup.com/zion-field-dispatch-optimizer/ |
 
 ## Recent batches
-- **Batch 98 — Gaming & Esports AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH98.md) · [interlinks](INTERLINKS-batch98.md) · [homepage pack](HOMEPAGE_APPS_BATCH98.md)
-- **Batch 97 — Education AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH97.md) · [interlinks](INTERLINKS-batch97.md) · [homepage pack](HOMEPAGE_APPS_BATCH97.md)
-- **Batch 96 — Real Estate & Property AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH96.md) · [interlinks](INTERLINKS-batch96.md) · [homepage pack](HOMEPAGE_APPS_BATCH96.md)
+- **Batch 99 — Retail & E-commerce AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH99.md) · [interlinks](INTERLINKS-batch99.md) · [homepage pack](HOMEPAGE_APPS_BATCH99.md) — visual-merchandising-ai, dynamic-pricing-retail-ai, returns-reduction-ai, review-sentiment-ai
+- **Batch 98 — Voice & Communications AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH98.md) · [interlinks](INTERLINKS-batch98.md) · [homepage pack](HOMEPAGE_APPS_BATCH98.md) — meeting-intelligence-ai, voicemail-triage-ai, voice-agent-builder, ai-call-router, call-transcription-analytics, call-quality-monitor + FinServ/Insurance companion set
+- **Batch 97 — Education AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH97.md) · [interlinks](INTERLINKS-batch97.md) · [homepage pack](HOMEPAGE_APPS_BATCH97.md) — quiz-generator-ai, lesson-plan-copilot, attendance-risk-radar, accreditation-evidence-ai
 - **Batch 94 — Legal & Compliance AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH94.md) · [interlinks](INTERLINKS-batch94.md) · [homepage pack](HOMEPAGE_APPS_BATCH94.md)
-- **Batch 93 — Manufacturing & Industrial AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH93.md) · [interlinks](INTERLINKS-batch93.md) · [homepage pack](HOMEPAGE_APPS_BATCH93.md) — production-scheduler-ai, oee-analytics-copilot, energy-load-shifter, safety-incident-analyzer, downtime-root-cause-ai, spare-parts-forecaster
-- **Batch 90 — Healthcare & Wellness AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH90.md) · [interlinks](INTERLINKS-batch90.md) · [homepage pack](HOMEPAGE_APPS_BATCH90.md)
-- **Batch 89 — Hospitality & Travel AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH89.md) · [interlinks](INTERLINKS-batch89.md) · [homepage pack](HOMEPAGE_APPS_BATCH89.md)
 
 ## Older batches
-Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](INTERLINKS-batch82.md) · [83](INTERLINKS-batch83.md) · [84](INTERLINKS-batch84.md) · [85](INTERLINKS-batch85.md) · [86](INTERLINKS-batch86.md) · [87](INTERLINKS-batch87.md) · [88](INTERLINKS-batch88.md)
+Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](INTERLINKS-batch82.md) · [83](INTERLINKS-batch83.md) · [84](INTERLINKS-batch84.md) · [85](INTERLINKS-batch85.md) · [86](INTERLINKS-batch86.md) · [87](INTERLINKS-batch87.md) · [88](INTERLINKS-batch88.md) · [89](INTERLINKS-batch89.md) · [90](INTERLINKS-batch90.md) · [91](INTERLINKS-batch91.md) · [93](INTERLINKS-batch93.md) · [96](INTERLINKS-batch96.md)
 
 ## Free AI Discovery
 100% free, online, always available → https://ziontechgroup.com/discovery/ · Results instantly emailed to the client and commercial@ziontechgroup.com · Landing page: [discovery.html](discovery.html)
