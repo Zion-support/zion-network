@@ -1,8 +1,8 @@
-# Media, Entertainment & Creator Economy AI — Batch 90 (2026-10-05)
+# Media, Entertainment & Creator Economy AI — Batch 103 (2026-10-06)
 
 Ten interlinked apps covering the full creator pipeline: **spot the trend → outline the story → produce → repurpose → cut highlights → test thumbnails → read sentiment → engage fans → monetize with sponsors → track rights & royalties.**
 
-Part of the [Zion AI App Network](https://github.com/Zion-support/zion-network) — 376 interlinked apps. Free Discovery: https://ziontechgroup.com/discovery/ (instant results emailed to you and commercial@ziontechgroup.com).
+Part of the [Zion AI App Network](https://github.com/Zion-support/zion-network) — 440+ interlinked apps. Free Discovery: https://ziontechgroup.com/discovery/ (instant results emailed to you and commercial@ziontechgroup.com).
 
 | App | Repo | URL |
 |---|---|---|
@@ -18,10 +18,10 @@ Part of the [Zion AI App Network](https://github.com/Zion-support/zion-network) 
 | Royalty & Rights Tracker AI | Zion-support/zion-royalty-rights-tracker-ai | https://ziontechgroup.com/royalty-rights-tracker-ai/ |
 
 ## Interlink mesh
-Every app page links to this category, to the [Batch 90 spotlight](../SPOTLIGHT-2026-10-05-BATCH90.md), the [interlinks map](../INTERLINKS-batch90.md), the [network hub](../), and its two pipeline neighbors:
+Every app page links to this category, to the [Batch 103 spotlight](../SPOTLIGHT-2026-10-06-BATCH103.md), the [interlinks map](../INTERLINKS-batch103.md), the [network hub](../), and its two pipeline neighbors:
 - Trend Wave Forecaster ↔ Script & Story Outline AI ↔ Content Repurposing Engine
 - Content Repurposing Engine ↔ Podcast Show Notes Generator ↔ Video Highlight Reel AI ↔ Thumbnail & Cover A/B Tester
 - Audience Sentiment Radar ↔ Fan Engagement Copilot ↔ Creator Sponsorship Matcher ↔ Royalty & Rights Tracker AI
 
 ## Related categories
-[AgTech & Food Supply Chain](agtech-food-supply-apps.json) · [Nonprofit & Social Impact](nonprofit-social-impact-ai.md) · [Travel & Hospitality](travel-hospitality-ai.md) · [Marketing & Growth](marketing-growth-ai.md) · [Voice & Video Meetings](voice-video-meetings-ai.md)
+[AgTech & Food Supply Chain](agtech-food-supply-apps.json) · [Nonprofit & Social Impact](nonprofit-social-impact-ai.md) · [Travel & Hospitality](travel-hospitality-ai.md) · [Marketing & Growth](marketing-growth-ai.md) · [Voice & Video Meetings](voice-video-meetings-ai.md) · [Gaming & Esports (Batch 99)](gaming-esports-ai.md)

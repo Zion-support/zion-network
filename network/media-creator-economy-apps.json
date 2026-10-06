@@ -1,7 +1,7 @@
 {
- "batch": 90,
+ "batch": 103,
  "category": "Media, Entertainment & Creator Economy AI",
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "apps": [
   {"id": "trend-wave-forecaster", "repo": "Zion-support/zion-trend-wave-forecaster", "url": "https://ziontechgroup.com/trend-wave-forecaster/", "description": "Spot rising topics, sounds and formats before they peak — plan content around the next wave."},
   {"id": "script-story-outline-ai", "repo": "Zion-support/zion-script-story-outline-ai", "url": "https://ziontechgroup.com/script-story-outline-ai/", "description": "Turn a brief into structured scripts, hooks and story arcs for video, podcast and streams."},
@@ -17,10 +17,10 @@
  "interlinks": {
   "hub": "https://zion-support.github.io/zion-network/",
   "category": "https://zion-support.github.io/zion-network/network/media-creator-economy-ai.md",
-  "spotlight": "https://zion-support.github.io/zion-network/SPOTLIGHT-2026-10-05-BATCH90.md",
-  "interlinks": "https://zion-support.github.io/zion-network/INTERLINKS-batch90.md",
+  "spotlight": "https://zion-support.github.io/zion-network/SPOTLIGHT-2026-10-06-BATCH103.md",
+  "interlinks": "https://zion-support.github.io/zion-network/INTERLINKS-batch103.md",
   "homepage_showcase": "https://ziontechgroup.com/apps/october-2026-batch13.html",
   "discovery": "https://ziontechgroup.com/discovery/",
-  "previous_batch": "https://zion-support.github.io/zion-network/SPOTLIGHT-2026-10-05-BATCH89.md"
+  "previous_batch": "https://zion-support.github.io/zion-network/spotlights/2026-10-05-batch89-supply-chain-retail.md"
  }
 }
