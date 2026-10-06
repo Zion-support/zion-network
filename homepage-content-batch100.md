@@ -1,21 +1,17 @@
-# Homepage content — Batch 100 (2026-10-06)
+# Homepage copy — Batch 100 · Agriculture & Food AI (PT-BR + EN)
 
-Ready-to-paste homepage section advertising Batch 100 + Discovery benefits for https://ziontechgroup.com.
+## EN
+**🌾 NEW — Agriculture & Food AI (Batch 100)** — six free interlinked apps from field to shelf: yield forecasts, soil health, irrigation optimization, pest vision, livestock monitoring and harvest logistics. Start with the free Discovery: https://ziontechgroup.com/discovery/
 
-## Section: AI for Field Services & MSPs
-**Run your service desk on autopilot.** Our Batch 100 MSP AI suite triages tickets, predicts SLA breaches, optimizes dispatch and writes quotes — all white-labeled under your brand.
+## PT-BR
+**🌾 NOVO — IA para Agro & Alimentos (Batch 100)** — seis apps gratuitos e interligados do campo à prateleira: previsão de safra, saúde do solo, irrigação otimizada, visão de pragas, monitoramento de rebanho e logística de colheita. Comece pelo Discovery gratuito: https://ziontechgroup.com/discovery/
 
-| App | What it does | Link |
-|---|---|---|
-| Ticket Triage Copilot | Classify & prioritize P1–P4, draft first responses | https://ziontechgroup.com/zion-ticket-triage-copilot/ |
-| SLA Breach Predictor | Predict breaches before they happen | https://ziontechgroup.com/zion-sla-breach-predictor/ |
-| Field Dispatch Optimizer | Right tech, right part, right time | https://ziontechgroup.com/zion-field-dispatch-optimizer/ |
-| RFQ Quote Assistant | RFQs to quotes in minutes | https://ziontechgroup.com/zion-rfq-quote-assistant/ |
+Apps:
+- https://ziontechgroup.com/crop-yield-forecaster-ai/
+- https://ziontechgroup.com/soil-health-analyzer-ai/
+- https://ziontechgroup.com/irrigation-optimizer-ai/
+- https://ziontechgroup.com/pest-vision-detector/
+- https://ziontechgroup.com/livestock-health-monitor-ai/
+- https://ziontechgroup.com/harvest-logistics-planner/
 
-## Discovery benefits banner
-- ✅ 100% free — no credit card, no call required
-- ✅ Online 24/7 — results in 2 minutes
-- ✅ Personalized app shortlist from 800+ apps
-- ✅ ROI snapshot for your industry
-- ✅ Instant email to you AND our commercial team (commercial@ziontechgroup.com) — we follow up fast
-👉 https://ziontechgroup.com/discovery/
+Showcase: https://ziontechgroup.com/apps/october-2026-batch19.html
