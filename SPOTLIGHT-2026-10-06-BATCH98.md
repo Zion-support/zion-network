@@ -1,14 +1,18 @@
-# SPOTLIGHT 2026-10-06 (3) — Batch 98: Gaming & Esports AI
+# SPOTLIGHT — Batch 98 · Voice & Communications AI (2026-10-06)
 
-The Zion AI App Network grows to **415 free, open-source AI apps**. Batch 98 ships ten apps covering the gaming & esports pipeline: scout → analyze → balance → broadcast → engage → compete → protect → monetize.
+Two new flagship apps join the Zion AI App Network, focused on voice and communications intelligence:
+
+1. **Meeting Intelligence AI** — never lose a decision again. Automatic summaries, decision logs and action items synced into your CRM/PM stack. → https://ziontechgroup.com/meeting-intelligence-ai/
+2. **Voicemail Triage AI** — transcribe, score and route voicemails to the right owner instantly. → https://ziontechgroup.com/voicemail-triage-ai/
 
 ## Why it matters
-- **Studios:** Game Balance Sentinel + Game Economy Modeler catch meta drift and currency inflation before players revolt.
-- **Teams & leagues:** Esports Scout AI + Match VOD Analyzer + Tournament Bracket Builder professionalize scouting and competition ops.
-- **Streamers & sponsors:** Live Stream Clipper + Streamer Sponsor Matcher turn content into revenue with brand-safe matching.
-- **Integrity:** Anti-Cheat Anomaly AI + Esports Integrity Monitor protect competitive fairness and betting markets.
+- Voice channels are the #1 source of untracked commitments; this batch closes the loop.
+- Both apps interlink with Batch 97 (Education AI), Batch 96 (Real Estate & Property AI) and the wider 405+ app network.
 
-## Interlinked network
-Every Batch 98 page links to the network map, the free Discovery questionnaire, and sibling batches (Education 97, Real Estate 96, Sports 90, Media & Creator Economy). Discovery is **100% free and online** — results are emailed instantly to the client and commercial@ziontechgroup.com.
+## Free Discovery
+Take the always-online, always-free Discovery questionnaire — personalized app shortlist + ROI snapshot emailed instantly to you and our commercial team (commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
 
-Links: https://ziontechgroup.com/apps/network.html · https://zion-support.github.io/zion-network/ · https://ziontechgroup.com/discovery/ · Showcase: https://ziontechgroup.com/apps/october-2026-batch18.html
+## Links
+- Category: network/voice-communications-ai.md
+- Previous spotlight: SPOTLIGHT-2026-10-06-BATCH97.md
+- Network hub: https://zion-support.github.io/zion-network/
