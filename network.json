@@ -1,12 +1,12 @@
 {
- "note": "Full flagship apps registry. 440 apps. Batch 102 HR & Recruiting AI round 2 (2026-10-08) + Batch 101 Legal & Compliance Ops AI r2 + Batch 100 Media & Entertainment (2026-10-07) registered. Live showcase mirrors added at showcase-batch100/101/102.html because homepage Pages queue intermittently stalls. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix.",
+ "note": "Full flagship apps registry. 447 apps. Batch 98 Construction & Built Environment AI (2026-10-07) restored in apps-part4.json after parallel-lane overwrite: blueprint-takeoff-ai, bid-estimating-copilot, site-safety-monitor-ai, construction-progress-tracker, subcontractor-compliance-ai, rfi-router-ai, equipment-utilization-ai. Batch 102 HR & Recruiting AI round 2 (2026-10-08) + Batch 101 Legal & Compliance Ops AI r2 + Batch 100 Media & Entertainment (2026-10-07) registered. Live showcase mirrors at showcase-batch100/101/102.html because homepage Pages queue intermittently stalls. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com. WARNING: parallel lanes caused batch-number collisions — keep all parts (1-4) referenced. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix.",
  "updated": "2026-10-08",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 440,
+ "apps_total": 447,
  "spotlight_latest": "SPOTLIGHT-2026-10-08-BATCH102.md",
  "spotlight_previous": "SPOTLIGHT-2026-10-07-BATCH101.md",
- "batches_latest": {"102": "network/hr-recruiting-2-ai.md", "101": "network/legal-compliance-ops-2-ai.md", "100": "network/media-entertainment-ai.md", "99": "network/sustainability-esg-ai.md"},
- "apps": ["<APPS_PART1>", "<APPS_PART2>"]
+ "batches_latest": {"102": "network/hr-recruiting-2-ai.md", "101": "network/legal-compliance-ops-2-ai.md", "100": "network/media-entertainment-ai.md", "99": "network/sustainability-esg-ai.md", "98": "network/construction-built-environment-ai.md"},
+ "apps": ["<APPS_PART1>", "<APPS_PART2>", "<APPS_PART3>", "<APPS_PART4>"]
 }
