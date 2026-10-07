@@ -31,16 +31,12 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 100: Field Services & MSP AI (2026-10-06)
-See [SPOTLIGHT-2026-10-06-BATCH100.md](SPOTLIGHT-2026-10-06-BATCH100.md), [INTERLINKS-batch100.md](INTERLINKS-batch100.md) and homepage pack [HOMEPAGE_APPS_BATCH100.md](HOMEPAGE_APPS_BATCH100.md)
-| App | Repo | URL |
-|---|---|---|
-| Ticket Triage Copilot | Zion-support/zion-ticket-triage-copilot | https://ziontechgroup.com/zion-ticket-triage-copilot/ |
-| RFQ & Quote Assistant | Zion-support/zion-rfq-quote-assistant | https://ziontechgroup.com/zion-rfq-quote-assistant/ |
-| SLA Breach Predictor | Zion-support/zion-sla-breach-predictor | https://ziontechgroup.com/zion-sla-breach-predictor/ |
-| Field Dispatch Optimizer | Zion-support/zion-field-dispatch-optimizer | https://ziontechgroup.com/zion-field-dispatch-optimizer/ |
+## Latest batch — Batch 101: Logistics & Supply Chain AI (2026-10-07)
+See [INTERLINKS-batch101.md](INTERLINKS-batch101.md) — Freight Quote Optimizer · Route & Load Planner AI · Warehouse Pick Optimizer · Customs Docs Autopilot. Cross-linked to Batch 100 quoting/dispatch apps.
+Batches 102 (Growth & CRO AI), 103–105 and 106 (HR & People Ops AI) were shipped by parallel lanes on 2026-10-07 — see the [org repo list](https://github.com/orgs/Zion-support/repositories) sorted by recent.
 
 ## Recent batches
+- **Batch 100 — Field Services & MSP AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH100.md) · [interlinks](INTERLINKS-batch100.md) · [homepage pack](HOMEPAGE_APPS_BATCH100.md) — zion-ticket-triage-copilot, zion-rfq-quote-assistant, zion-sla-breach-predictor, zion-field-dispatch-optimizer
 - **Batch 99 — Retail & E-commerce AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH99.md) · [interlinks](INTERLINKS-batch99.md) · [homepage pack](HOMEPAGE_APPS_BATCH99.md) — visual-merchandising-ai, dynamic-pricing-retail-ai, returns-reduction-ai, review-sentiment-ai
 - **Batch 98 — Voice & Communications AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH98.md) · [interlinks](INTERLINKS-batch98.md) · [homepage pack](HOMEPAGE_APPS_BATCH98.md) — meeting-intelligence-ai, voicemail-triage-ai, voice-agent-builder, ai-call-router, call-transcription-analytics, call-quality-monitor + FinServ/Insurance companion set
 - **Batch 97 — Education AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH97.md) · [interlinks](INTERLINKS-batch97.md) · [homepage pack](HOMEPAGE_APPS_BATCH97.md) — quiz-generator-ai, lesson-plan-copilot, attendance-risk-radar, accreditation-evidence-ai
