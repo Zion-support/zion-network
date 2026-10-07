@@ -1,15 +1,11 @@
-# INTERLINKS — Batch 101: Logistics & Supply Chain AI
+# INTERLINKS — Batch 101 (Legal & Compliance Ops AI, round 2)
 
-Every Batch 101 app README links to the other 3 apps, the network hub (zion-network), the apps index (zion-app-network) and the free Discovery service.
+Canonical link block for each repo README:
 
-## Cross-batch interlinks
-- Freight Quote Optimizer ↔ zion-rfq-quote-assistant (Batch 100) — quoting workflows
-- Route & Load Planner AI ↔ zion-field-dispatch-optimizer (Batch 100) — routing/dispatch
-- Warehouse Pick Optimizer ↔ spare-parts-forecaster — inventory positioning
-- Customs Docs Autopilot ↔ zion-construction-bid-estimator — cross-border material costs
+- Network map: https://ziontechgroup.com/apps/network.html
+- Apps index: https://ziontechgroup.com/apps/
+- Free Discovery (instant dual email): https://ziontechgroup.com/discovery/
+- Network hub repo: https://github.com/Zion-support/zion-network
+- Pages hub: https://zion-support.github.io/zion-network/
 
-## Canonical URLs
-- Hub: https://github.com/Zion-support/zion-network
-- Index: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX-BATCH-101.md
-- Discovery (free): https://ziontechgroup.com/discovery/
-- Homepage: https://ziontechgroup.com
+Sibling chain: batch100 (Media & Entertainment AI) -> **batch101 (Legal & Compliance Ops AI r2)** -> next batch102 (planned: HR & Recruiting AI round 2).

@@ -1,0 +1,14 @@
+{
+ "batch": 101,
+ "theme": "Legal & Compliance Ops AI (round 2)",
+ "date": "2026-10-07",
+ "apps": [
+  {"id": "contract-redline-copilot", "description": "Contract redline copilot — clause-level suggestions against playbook positions, deviation scoring, fallback language.", "url": "https://ziontechgroup.com/contract-redline-copilot/", "repo": "https://github.com/Zion-support/contract-redline-copilot"},
+  {"id": "regulatory-change-radar", "description": "Regulatory change radar — monitors regulators and maps new rules to internal policies and owners.", "url": "https://ziontechgroup.com/regulatory-change-radar/", "repo": "https://github.com/Zion-support/regulatory-change-radar"},
+  {"id": "dpia-generator-ai", "description": "DPIA generator — data protection impact assessments auto-drafted from system inventories (GDPR/LGPD).", "url": "https://ziontechgroup.com/dpia-generator-ai/", "repo": "https://github.com/Zion-support/dpia-generator-ai"},
+  {"id": "litigation-hold-manager", "description": "Litigation hold manager — custodian notices, acknowledgment tracking, preservation scope audit trail.", "url": "https://ziontechgroup.com/litigation-hold-manager/", "repo": "https://github.com/Zion-support/litigation-hold-manager"},
+  {"id": "patent-prior-art-scout", "description": "Patent prior-art scout — semantic search over patents and papers, claim chart drafts.", "url": "https://ziontechgroup.com/patent-prior-art-scout/", "repo": "https://github.com/Zion-support/patent-prior-art-scout"},
+  {"id": "whistleblower-case-triage", "description": "Whistleblower case triage — anonymous intake structuring, severity scoring, routing to counsel.", "url": "https://ziontechgroup.com/whistleblower-case-triage/", "repo": "https://github.com/Zion-support/whistleblower-case-triage"},
+  {"id": "policy-attestation-tracker", "description": "Policy attestation tracker — assigns policies, chases sign-offs, reports compliance coverage.", "url": "https://ziontechgroup.com/policy-attestation-tracker/", "repo": "https://github.com/Zion-support/policy-attestation-tracker"}
+ ]
+}
