@@ -5,7 +5,7 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 ## Core sites
 | Site | Repo | URL |
 |---|---|---|
-| Network hub | Zion-support/zion-network | https://zion-support.github.io/zion-network/ |
+| Network hub | Zion-support/zion-network | https://ziontechgroup.com/zion-network/ |
 | Agents | Zion-support/agents | https://zion-support.github.io/agents/ |
 | Plans | Zion-support/plans | https://zion-support.github.io/plans/ |
 | Status | Zion-support/zion-status | https://zion-support.github.io/zion-status/ |
@@ -31,31 +31,31 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 101: Agriculture & Food AI (2026-10-06)
-See [SPOTLIGHT-2026-10-06-BATCH101.md](SPOTLIGHT-2026-10-06-BATCH101.md), [INTERLINKS-batch101.md](INTERLINKS-batch101.md), homepage pack [HOMEPAGE_APPS_BATCH101.md](HOMEPAGE_APPS_BATCH101.md), category [network/agriculture-food-ai.md](network/agriculture-food-ai.md) and showcase [apps-network-batch101-oct06.html](apps-network-batch101-oct06.html)
+## Latest batch — Batch 100: Field Services & MSP AI (2026-10-06)
+See [SPOTLIGHT-2026-10-06-BATCH100.md](SPOTLIGHT-2026-10-06-BATCH100.md), [INTERLINKS-batch100.md](INTERLINKS-batch100.md) and homepage pack [HOMEPAGE_APPS_BATCH100.md](HOMEPAGE_APPS_BATCH100.md)
 | App | Repo | URL |
 |---|---|---|
-| Crop Yield Predictor | Zion-support/crop-yield-predictor | https://ziontechgroup.com/crop-yield-predictor/ |
-| Precision Irrigation AI | Zion-support/precision-irrigation-ai | https://ziontechgroup.com/precision-irrigation-ai/ |
-| Livestock Health Monitor | Zion-support/livestock-health-monitor | https://ziontechgroup.com/livestock-health-monitor/ |
-| Harvest Market Pricing AI | Zion-support/harvest-market-pricing-ai | https://ziontechgroup.com/harvest-market-pricing-ai/ |
-| Food Safety Compliance AI | Zion-support/food-safety-compliance-ai | https://ziontechgroup.com/food-safety-compliance-ai/ |
-| Farm-to-Shelf Traceability | Zion-support/farm-to-shelf-traceability | https://ziontechgroup.com/farm-to-shelf-traceability/ |
+| Ticket Triage Copilot | Zion-support/zion-ticket-triage-copilot | https://ziontechgroup.com/zion-ticket-triage-copilot/ |
+| RFQ & Quote Assistant | Zion-support/zion-rfq-quote-assistant | https://ziontechgroup.com/zion-rfq-quote-assistant/ |
+| SLA Breach Predictor | Zion-support/zion-sla-breach-predictor | https://ziontechgroup.com/zion-sla-breach-predictor/ |
+| Field Dispatch Optimizer | Zion-support/zion-field-dispatch-optimizer | https://ziontechgroup.com/zion-field-dispatch-optimizer/ |
 
 ## Recent batches
-- **Batch 100 — Marketing, Manufacturing & Field Services AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH100.md) · [interlinks](INTERLINKS-batch100.md) · [homepage pack](HOMEPAGE_APPS_BATCH100.md) — campaign-brief-builder, brand-mention-monitor, content-repurposing-ai, ad-creative-tester-ai, quality-vision-inspector-ai, production-schedule-optimizer-ai, zion-ticket-triage-copilot, zion-sla-breach-predictor, zion-field-dispatch-optimizer, zion-rfq-quote-assistant
-- **Batch 99 — Customer Experience & Retail AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH99.md) · [interlinks](INTERLINKS-batch99.md) · [homepage pack](HOMEPAGE_APPS_BATCH99.md) — support-chat-copilot, helpcenter-knowledge-ai, ai-ticket-router, dynamic-pricing-retail-ai, visual-merchandising-ai, returns-reduction-ai, review-sentiment-ai
-- **Batch 98 — Gaming & Esports AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH98.md) · [interlinks](INTERLINKS-batch98.md) · [homepage pack](HOMEPAGE_APPS_BATCH98.md)
-- **Batch 97 — Education & Gov AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH97.md) · [interlinks](INTERLINKS-batch97.md) · [homepage pack](HOMEPAGE_APPS_BATCH97.md)
-- **Batch 96 — Real Estate & Property AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH96.md) · [interlinks](INTERLINKS-batch96.md) · [homepage pack](HOMEPAGE_APPS_BATCH96.md)
+- **Batch 99 — Retail & E-commerce AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH99.md) · [interlinks](INTERLINKS-batch99.md) · [homepage pack](HOMEPAGE_APPS_BATCH99.md) — visual-merchandising-ai, dynamic-pricing-retail-ai, returns-reduction-ai, review-sentiment-ai
+- **Batch 98 — Voice & Communications AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH98.md) · [interlinks](INTERLINKS-batch98.md) · [homepage pack](HOMEPAGE_APPS_BATCH98.md) — meeting-intelligence-ai, voicemail-triage-ai, voice-agent-builder, ai-call-router, call-transcription-analytics, call-quality-monitor + FinServ/Insurance companion set
+- **Batch 97 — Education AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH97.md) · [interlinks](INTERLINKS-batch97.md) · [homepage pack](HOMEPAGE_APPS_BATCH97.md) — quiz-generator-ai, lesson-plan-copilot, attendance-risk-radar, accreditation-evidence-ai
+- **Batch 94 — Legal & Compliance AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH94.md) · [interlinks](INTERLINKS-batch94.md) · [homepage pack](HOMEPAGE_APPS_BATCH94.md)
 
 ## Older batches
-Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](INTERLINKS-batch82.md) · [83](INTERLINKS-batch83.md) · [84](INTERLINKS-batch84.md) · [85](INTERLINKS-batch85.md) · [86](INTERLINKS-batch86.md) · [87](INTERLINKS-batch87.md) · [88](INTERLINKS-batch88.md) · [89](INTERLINKS-batch89.md) · [90](INTERLINKS-batch90.md) · [91](INTERLINKS-batch91.md) · [93](INTERLINKS-batch93.md) · [94](INTERLINKS-batch94.md)
+Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](INTERLINKS-batch82.md) · [83](INTERLINKS-batch83.md) · [84](INTERLINKS-batch84.md) · [85](INTERLINKS-batch85.md) · [86](INTERLINKS-batch86.md) · [87](INTERLINKS-batch87.md) · [88](INTERLINKS-batch88.md) · [89](INTERLINKS-batch89.md) · [90](INTERLINKS-batch90.md) · [91](INTERLINKS-batch91.md) · [93](INTERLINKS-batch93.md) · [96](INTERLINKS-batch96.md)
 
 ## Free AI Discovery
 100% free, online, always available → https://ziontechgroup.com/discovery/ · Results instantly emailed to the client and commercial@ziontechgroup.com · Landing page: [discovery.html](discovery.html)
 
 ## Field playbooks
 ~70 `zion-field-*` repos (countries, cities, industries) — see `network.json` `field` section and the [org repo list](https://github.com/orgs/Zion-support/repositories).
+
+## Infra notes (2026-10-06)
+- Hub canonical URL: https://ziontechgroup.com/zion-network/ (org user-page CNAME = ziontechgroup.com; github.io 301s there). Repo CNAME file removed and Pages custom domain cleared because network.ziontechgroup.com had ACME bad_authz (HTTP 000). Re-add only after domain owner fixes DNS/CAA.
 
 Main site: https://ziontechgroup.com · Contact: kleber@ziontechgroup.com
