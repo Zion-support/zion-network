@@ -1,24 +1,23 @@
-# 🎙️ App Network Spotlight — Batch 98: Voice & Communications AI (2026-10-06)
+# 🎙️ SPOTLIGHT — Batch 98: Voice & Communications AI (2026-10-06)
 
-Voice is the richest and least-mined channel in business. Batch 98 adds **10 interlinked AI micro-apps** to the Zion App Network that turn calls, meetings and voicemails into structured, actionable data.
+Every call, meeting, voicemail and webinar becomes structured, actionable data.
 
-## The 10 apps
-1. [meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai) — summaries, decisions & action items synced to your stack → https://ziontechgroup.com/meeting-intelligence-ai/
-2. [voicemail-triage-ai](https://github.com/Zion-support/voicemail-triage-ai) — transcribe, score & route voicemails instantly → https://ziontechgroup.com/voicemail-triage-ai/
-3. [call-transcription-analytics](https://github.com/Zion-support/call-transcription-analytics) — searchable transcripts, topics & sentiment → https://ziontechgroup.com/call-transcription-analytics/
-4. [ai-call-router](https://github.com/Zion-support/ai-call-router) — intent-based routing to the right team first time → https://ziontechgroup.com/ai-call-router/
-5. [voice-agent-builder](https://github.com/Zion-support/voice-agent-builder) — human-like AI voice agents in days → https://ziontechgroup.com/voice-agent-builder/
-6. [conference-recap-ai](https://github.com/Zion-support/conference-recap-ai) — instant recaps & follow-ups → https://ziontechgroup.com/conference-recap-ai/
-7. [call-quality-monitor](https://github.com/Zion-support/call-quality-monitor) — automated QA on 100% of calls → https://ziontechgroup.com/call-quality-monitor/
-8. [voice-survey-ai](https://github.com/Zion-support/voice-survey-ai) — conversational voice surveys, higher completion → https://ziontechgroup.com/voice-survey-ai/
-9. [multilingual-call-translator](https://github.com/Zion-support/multilingual-call-translator) — live two-way translation, 40+ languages → https://ziontechgroup.com/multilingual-call-translator/
-10. [voice-biometrics-auth](https://github.com/Zion-support/voice-biometrics-auth) — frictionless voiceprint verification → https://ziontechgroup.com/voice-biometrics-auth/
+- **[meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai)** — summaries, decisions and action items synced to your stack. · [app page](https://ziontechgroup.com/meeting-intelligence-ai/)
+- **[voicemail-triage-ai](https://github.com/Zion-support/voicemail-triage-ai)** — transcribe, score and route voicemails to the right owner instantly. · [app page](https://ziontechgroup.com/voicemail-triage-ai/)
+- **[call-transcription-copilot](https://github.com/Zion-support/call-transcription-copilot)** — real-time transcription, summaries and CRM sync for every call. · [app page](https://ziontechgroup.com/call-transcription-copilot/)
+- **[voice-of-customer-analytics](https://github.com/Zion-support/voice-of-customer-analytics)** — mine calls and messages for sentiment, themes and churn signals. · [app page](https://ziontechgroup.com/voice-of-customer-analytics/)
+- **[call-quality-assurance-ai](https://github.com/Zion-support/call-quality-assurance-ai)** — score 100% of calls against rubrics and coach agents automatically. · [app page](https://ziontechgroup.com/call-quality-assurance-ai/)
+- **[conference-recap-mailer](https://github.com/Zion-support/conference-recap-mailer)** — every conference call becomes a branded recap email with decisions and owners. · [app page](https://ziontechgroup.com/conference-recap-mailer/)
+- **[voice-agent-builder](https://github.com/Zion-support/voice-agent-builder)** — design, test and deploy AI voice agents for support and sales. · [app page](https://ziontechgroup.com/voice-agent-builder/)
+- **[multilingual-call-translator](https://github.com/Zion-support/multilingual-call-translator)** — live translation for calls and meetings in 40+ languages. · [app page](https://ziontechgroup.com/multilingual-call-translator/)
+- **[webinar-repurpose-engine](https://github.com/Zion-support/webinar-repurpose-engine)** — turn webinars into clips, posts, blogs and email sequences automatically. · [app page](https://ziontechgroup.com/webinar-repurpose-engine/)
+- **[voice-csat-pulse](https://github.com/Zion-support/voice-csat-pulse)** — post-call voice surveys with instant CSAT/NPS scoring and alerts. · [app page](https://ziontechgroup.com/voice-csat-pulse/)
 
-## Free AI Discovery — always online, always free
-Not sure which apps fit? Use the zero-backend discovery questionnaire: instant on-screen report + results emailed to you and to commercial@ziontechgroup.com the moment you submit.
-👉 https://zion-support.github.io/zion-network/discovery/
+## Why it matters
+- 100% call coverage instead of 2% manual QA sampling ([call-quality-assurance-ai](https://github.com/Zion-support/call-quality-assurance-ai))
+- Zero lost action items with [meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai) + [conference-recap-mailer](https://github.com/Zion-support/conference-recap-mailer)
+- Global reach with [multilingual-call-translator](https://github.com/Zion-support/multilingual-call-translator)
 
-## Links
-- Network hub: https://zion-support.github.io/zion-network/
-- Homepage: https://ziontechgroup.com
-- Interlinks: INTERLINKS-batch98.md
+🔎 Not sure where to start? Take the [Free AI Discovery](https://zion-support.github.io/zion-network/discovery/) — always online, always free, instant results emailed to you and our commercial team (commercial@ziontechgroup.com).
+
+Part of the [Zion App Network](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [ziontechgroup.com](https://ziontechgroup.com)

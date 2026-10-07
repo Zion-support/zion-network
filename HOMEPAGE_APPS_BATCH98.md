@@ -1,23 +1,16 @@
-# Homepage Content — Batch 98 (Voice & Communications AI) + Discovery benefits
+# HOMEPAGE APPS — Batch 98: Voice & Communications AI (2026-10-06)
 
-Copy block for ziontechgroup.com homepage / apps section (also published as apps/october-2026-batch8.html on zion-support.github.io).
+Homepage showcase live at https://ziontechgroup.com/apps/october-2026-batch15.html
 
-## Section: New — Voice & Communications AI (Batch 98)
-Turn every conversation into revenue. Ten new AI apps for calls, meetings and voicemails:
-- **Meeting Intelligence AI** — summaries, decisions & action items synced to your stack.
-- **Voicemail Triage AI** — transcribe, score & route voicemails instantly.
-- **Call Transcription Analytics** — searchable transcripts, topics & sentiment.
-- **AI Call Router** — right team, first time.
-- **Voice Agent Builder** — human-like AI voice agents in days.
-- **Conference Recap AI** — instant recaps & follow-ups.
-- **Call Quality Monitor** — QA on 100% of calls.
-- **Voice Survey AI** — conversational surveys, higher completion.
-- **Multilingual Call Translator** — live translation in 40+ languages.
-- **Voice Biometrics Auth** — frictionless caller verification.
+- **[meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai)** — summaries, decisions and action items synced to your stack. · [app page](https://ziontechgroup.com/meeting-intelligence-ai/)
+- **[voicemail-triage-ai](https://github.com/Zion-support/voicemail-triage-ai)** — transcribe, score and route voicemails to the right owner instantly. · [app page](https://ziontechgroup.com/voicemail-triage-ai/)
+- **[call-transcription-copilot](https://github.com/Zion-support/call-transcription-copilot)** — real-time transcription, summaries and CRM sync for every call. · [app page](https://ziontechgroup.com/call-transcription-copilot/)
+- **[voice-of-customer-analytics](https://github.com/Zion-support/voice-of-customer-analytics)** — mine calls and messages for sentiment, themes and churn signals. · [app page](https://ziontechgroup.com/voice-of-customer-analytics/)
+- **[call-quality-assurance-ai](https://github.com/Zion-support/call-quality-assurance-ai)** — score 100% of calls against rubrics and coach agents automatically. · [app page](https://ziontechgroup.com/call-quality-assurance-ai/)
+- **[conference-recap-mailer](https://github.com/Zion-support/conference-recap-mailer)** — every conference call becomes a branded recap email with decisions and owners. · [app page](https://ziontechgroup.com/conference-recap-mailer/)
+- **[voice-agent-builder](https://github.com/Zion-support/voice-agent-builder)** — design, test and deploy AI voice agents for support and sales. · [app page](https://ziontechgroup.com/voice-agent-builder/)
+- **[multilingual-call-translator](https://github.com/Zion-support/multilingual-call-translator)** — live translation for calls and meetings in 40+ languages. · [app page](https://ziontechgroup.com/multilingual-call-translator/)
+- **[webinar-repurpose-engine](https://github.com/Zion-support/webinar-repurpose-engine)** — turn webinars into clips, posts, blogs and email sequences automatically. · [app page](https://ziontechgroup.com/webinar-repurpose-engine/)
+- **[voice-csat-pulse](https://github.com/Zion-support/voice-csat-pulse)** — post-call voice surveys with instant CSAT/NPS scoring and alerts. · [app page](https://ziontechgroup.com/voice-csat-pulse/)
 
-## Section: Free AI Discovery — why it wins
-- **100% free, forever** — no paywall, no trial expiry.
-- **Always online** — zero-backend, runs fully in the browser on GitHub Pages; no downtime.
-- **Instant results** — personalized recommendations from 420+ apps the moment you submit.
-- **Emailed to you instantly** — plus our commercial team (commercial@ziontechgroup.com) gets your results at the same moment to follow up with a tailored plan.
-Try it: https://zion-support.github.io/zion-network/discovery/
+Discovery CTA on every page: free, always-online questionnaire with instant results emailed to the client and commercial@ziontechgroup.com.

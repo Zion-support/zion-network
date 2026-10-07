@@ -1,14 +1,12 @@
 {
- "note": "Apps registry restored 2026-10-07 — placeholders removed. Registry split into network/apps-part1..5.json (666+ apps, compact fields: i=id, d=description, c=category index, u=url override). URL defaults to https://ziontechgroup.com/<id>/; repo defaults to https://github.com/Zion-support/<id>. Powers the free Discovery questionnaire at ziontechgroup.com/discovery/ — instant on-screen results + emailed to the client and commercial@ziontechgroup.com.",
- "updated": "2026-10-07",
+ "note": "Full flagship apps registry. 415 apps (apps-part3.json added for Batch 98). Batch 98 Voice & Communications AI (2026-10-06) created & interlinked: meeting-intelligence-ai, voicemail-triage-ai, call-transcription-copilot, voice-of-customer-analytics, call-quality-assurance-ai, conference-recap-mailer, voice-agent-builder, multilingual-call-translator, webinar-repurpose-engine, voice-csat-pulse. Batch 97 Education AI registered before. discovery/index.html upgraded: multi-select fix, new industries, client auto-response; results emailed instantly to client + commercial@ziontechgroup.com. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix; use zion-support.github.io/zion-network/ meanwhile.",
+ "updated": "2026-10-06",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "discovery": "https://ziontechgroup.com/discovery/",
- "url_base": "https://ziontechgroup.com/",
- "repo_base": "https://github.com/Zion-support/",
- "apps_parts": ["network/apps-part1.json","network/apps-part2.json","network/apps-part3.json","network/apps-part4.json","network/apps-part5.json"],
- "categories": ["AI Agents & Automation","AgTech & Food AI","Customer Support AI","Data & Analytics AI","DevOps & Platform AI","Education AI","Energy & Utilities AI","Finance AI","HR & People AI","Healthcare AI","Legal AI","Manufacturing & Logistics AI","Marketing & Growth AI","Media & Creator Economy AI","Nonprofit AI","Real Estate & Construction AI","Sales & Revenue AI","Security & Compliance AI","Travel & Hospitality AI"],
- "apps_total": 666,
- "spotlight_latest": "spotlights/2026-10-05-batch90-media-creator.md"
+ "apps_total": 415,
+ "spotlight_latest": "SPOTLIGHT-2026-10-06-BATCH98.md",
+ "spotlight_previous": "SPOTLIGHT-2026-10-06-BATCH97.md",
+ "batches_latest": {"98":"network/voice-communications-ai.md","97":"network/education-ai.md","96":"network/real-estate-property-ai.md","94":"network/legal-compliance-ai.md"},
+ "apps": ["<APPS_PART1>","<APPS_PART2>","<APPS_PART3>"]
 }

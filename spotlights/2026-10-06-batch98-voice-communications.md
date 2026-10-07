@@ -1,8 +1,7 @@
-# INTERLINKS — Batch 98: Voice & Communications AI (2026-10-06)
+# 🎙️ Spotlight — Batch 98: Voice & Communications AI (2026-10-06)
 
-Every Batch 98 repo README links to: network hub, master index, category page, free Discovery, and all 9 sibling apps.
+Every call, meeting, voicemail and webinar becomes structured, actionable data.
 
-## Apps
 - **[meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai)** — summaries, decisions and action items synced to your stack. · [app page](https://ziontechgroup.com/meeting-intelligence-ai/)
 - **[voicemail-triage-ai](https://github.com/Zion-support/voicemail-triage-ai)** — transcribe, score and route voicemails to the right owner instantly. · [app page](https://ziontechgroup.com/voicemail-triage-ai/)
 - **[call-transcription-copilot](https://github.com/Zion-support/call-transcription-copilot)** — real-time transcription, summaries and CRM sync for every call. · [app page](https://ziontechgroup.com/call-transcription-copilot/)
@@ -14,9 +13,11 @@ Every Batch 98 repo README links to: network hub, master index, category page, f
 - **[webinar-repurpose-engine](https://github.com/Zion-support/webinar-repurpose-engine)** — turn webinars into clips, posts, blogs and email sequences automatically. · [app page](https://ziontechgroup.com/webinar-repurpose-engine/)
 - **[voice-csat-pulse](https://github.com/Zion-support/voice-csat-pulse)** — post-call voice surveys with instant CSAT/NPS scoring and alerts. · [app page](https://ziontechgroup.com/voice-csat-pulse/)
 
-## Network assets
-- Category: [network/voice-communications-ai.md](network/voice-communications-ai.md)
-- Registry: [network/voice-communications-apps.json](network/voice-communications-apps.json) · compact registry: [network/apps-part3.json](network/apps-part3.json)
-- Spotlight: [SPOTLIGHT-2026-10-06-BATCH98.md](SPOTLIGHT-2026-10-06-BATCH98.md) · [spotlights/2026-10-06-batch98-voice-communications.md](spotlights/2026-10-06-batch98-voice-communications.md)
-- Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch15.html
-- Discovery: https://zion-support.github.io/zion-network/discovery/ (results → client + commercial@ziontechgroup.com)
+## Why it matters
+- 100% call coverage instead of 2% manual QA sampling ([call-quality-assurance-ai](https://github.com/Zion-support/call-quality-assurance-ai))
+- Zero lost action items with [meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai) + [conference-recap-mailer](https://github.com/Zion-support/conference-recap-mailer)
+- Global reach with [multilingual-call-translator](https://github.com/Zion-support/multilingual-call-translator)
+
+🔎 Take the [Free AI Discovery](https://zion-support.github.io/zion-network/discovery/) — always online, always free, instant results emailed to you and our commercial team (commercial@ziontechgroup.com).
+
+Part of the [Zion App Network](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [ziontechgroup.com](https://ziontechgroup.com)
