@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Free AI Discovery — Zion Tech Group</title>
-<meta name="description" content="Free online AI discovery: answer 8 questions and instantly receive a tailored AI apps recommendation for your business. Always online, always free.">
+<meta name="description" content="Free online AI discovery: answer 8 questions and instantly receive tailored AI app recommendations from a 700+ app network. Always online, always free, instant email to you and our commercial team.">
 <style>
-body{font-family:system-ui,Arial,sans-serif;background:#0b1020;color:#eef;max-width:760px;margin:0 auto;padding:2rem}
+body{font-family:system-ui,Arial,sans-serif;background:#0b1020;color:#eef;max-width:780px;margin:0 auto;padding:2rem}
 h1{color:#7dd3fc} label{display:block;margin:1rem 0 .25rem;font-weight:600}
 input,select,textarea{width:100%;padding:.6rem;border-radius:8px;border:1px solid #334;background:#111831;color:#eef}
 button{margin-top:1.5rem;background:#2563eb;color:#fff;padding:.8rem 1.6rem;border:0;border-radius:8px;font-size:1rem;cursor:pointer}
@@ -15,77 +15,102 @@ a{color:#7dd3fc}
 .rec{background:#111831;border:1px solid #334;border-radius:10px;padding:1rem;margin:.6rem 0}
 .rec h3{margin:.1rem 0 .3rem;font-size:1.05rem}
 .rec p{margin:.2rem 0;color:#cbd5e1;font-size:.92rem}
-.rec .cat{color:#7dd3fc;font-size:.8rem}
 #results{margin-top:2rem}
 ul.benefits{line-height:1.9;padding-left:1.2rem}
+.faq{margin-top:2rem;border-top:1px solid #334;padding-top:1rem}
+.faq details{margin:.5rem 0;background:#111831;border:1px solid #334;border-radius:8px;padding:.6rem .9rem}
+.faq summary{cursor:pointer;font-weight:600;color:#7dd3fc}
+.stat{display:inline-block;background:#111831;border:1px solid #334;border-radius:10px;padding:.6rem 1rem;margin:.25rem .25rem 0 0;text-align:center}
+.stat b{display:block;font-size:1.3rem;color:#7dd3fc}
 </style>
 </head>
 <body>
-<span class="badge">100% FREE · ALWAYS ONLINE · INSTANT RESULTS</span>
+<span class="badge">100% FREE &middot; ALWAYS ONLINE &middot; INSTANT RESULTS &middot; NO SIGNUP</span>
 <h1>Free AI Discovery</h1>
-<p>Answer 8 quick questions. The moment you submit:</p>
+<p>Answer 8 quick questions about your business. The moment you hit submit:</p>
 <ul class="benefits">
-<li><strong>Instant on-screen report</strong> — personalized app recommendations from our 660+ app network, no waiting.</li>
-<li><strong>Email copy to you</strong> — results are emailed to your inbox immediately.</li>
-<li><strong>Our commercial team is looped in</strong> — <a href="mailto:commercial@ziontechgroup.com">commercial@ziontechgroup.com</a> receives your results at the same moment to follow up with a tailored plan.</li>
-<li><strong>Zero backend, always online</strong> — runs fully in your browser on GitHub Pages; no downtime, no paywall, free forever.</li>
+<li><strong>Instant on-screen report</strong> — personalized recommendations matched live against our <strong>700+ app network</strong>, straight from GitHub. No waiting, no sales call required.</li>
+<li><strong>Email copy to you</strong> — your full results land in your inbox immediately.</li>
+<li><strong>Our commercial team is looped in</strong> — <a href="mailto:commercial@ziontechgroup.com">commercial@ziontechgroup.com</a> receives your results at the same moment, so you get a tailored follow-up plan fast.</li>
+<li><strong>Zero backend, always online</strong> — runs fully in your browser on GitHub Pages + the public GitHub API. No downtime, no paywall, free forever.</li>
+<li><strong>Real, working apps</strong> — every recommendation links to a live app page on ziontechgroup.com backed by an open GitHub repository.</li>
 </ul>
+<div>
+<span class="stat"><b>712+</b>flagship apps</span>
+<span class="stat"><b>18</b>AI categories</span>
+<span class="stat"><b>8</b>questions</span>
+<span class="stat"><b>0&dollar;</b>cost, forever</span>
+</div>
 <p>Explore the <a href="../APPS_NETWORK.md">Zion App Network</a> or the <a href="../">network hub</a> while you wait.</p>
 <form id="discoveryForm">
 <label>Your name</label><input name="name" required>
 <label>Work email (results sent here)</label><input name="email" type="email" required>
 <label>Company</label><input name="company" required>
 <label>Industry</label>
-<select name="industry"><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Media &amp; Entertainment</option><option>Sports &amp; Fitness</option><option>Legal &amp; Compliance</option><option>Nonprofit &amp; NGO</option><option>Insurance</option><option>Telecom</option><option>Automotive &amp; Mobility</option><option>Construction &amp; PropTech</option><option>Other</option></select>
+<select name="industry"><option>Legal &amp; Professional Services</option><option>Travel &amp; Hospitality</option><option>Retail &amp; Ecommerce</option><option>Healthcare</option><option>Finance</option><option>Manufacturing</option><option>Real Estate &amp; Construction</option><option>Education</option><option>Agriculture &amp; Food</option><option>Energy &amp; Utilities</option><option>Nonprofit &amp; NGO</option><option>Sports &amp; Media</option><option>Other</option></select>
 <label>Company size</label>
 <select name="size"><option>1-10</option><option>11-50</option><option>51-200</option><option>201-1000</option><option>1000+</option></select>
 <label>Biggest challenge right now</label>
 <textarea name="challenge" rows="3" required></textarea>
 <label>Which areas interest you most?</label>
-<select name="interest" multiple size="10"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Data &amp; Analytics</option><option>Media &amp; Creator Economy AI</option><option>Sports &amp; Wellness AI</option><option>Travel &amp; Hospitality AI</option><option>Sustainability &amp; ESG AI</option><option>AgTech &amp; Food Supply Chain AI</option><option>Legal &amp; Compliance AI</option><option>Nonprofit &amp; Social Impact AI</option></select>
+<select name="interest" multiple size="9"><option>Sales &amp; Lead Gen AI</option><option>Customer Support AI</option><option>Finance &amp; Accounting AI</option><option>Data &amp; Analytics</option><option>Legal &amp; Contracts AI</option><option>Security &amp; Compliance AI</option><option>Travel &amp; Hospitality AI</option><option>Sustainability &amp; ESG AI</option><option>AgTech &amp; Food Supply Chain AI</option></select>
 <label>Timeline to start</label>
 <select name="timeline"><option>Immediately</option><option>1-3 months</option><option>3-6 months</option><option>Exploring</option></select>
 <button type="submit">Get my free discovery results</button>
 </form>
 <div id="results"></div>
 <p id="status"></p>
+<div class="faq">
+<h2>Why our discovery is different</h2>
+<details><summary>Is it really free?</summary><p>Yes — the questionnaire, instant report and email delivery are 100% free, forever. No credit card, no account, no trial expiry.</p></details>
+<details><summary>How is it always online?</summary><p>The page is static HTML on GitHub Pages and matches your answers against live data from the public GitHub API — there is no server of ours that can go down.</p></details>
+<details><summary>Who sees my answers?</summary><p>Only you (email copy) and our commercial team at commercial@ziontechgroup.com, who use them to prepare a tailored plan. Nothing is sold or shared.</p></details>
+<details><summary>What do I get?</summary><p>A ranked shortlist of AI apps from our 700+ app network that match your industry, size, challenges and interests — with live links to every app.</p></details>
+</div>
 <script>
-// Always-online, zero-backend discovery (v3, 2026-10-07):
-// 1) Instant client-side personalized report from the restored registry (network.json + network/apps-part1..5.json)
-// 2) FormSubmit emails results to commercial@ziontechgroup.com with the client CC'd
-// 3) mailto fallback so the client always keeps a copy
+// Always-online, zero-backend discovery:
+// 1) Live app catalog pulled from the public GitHub API (paginated, cached in-session)
+// 2) Instant client-side personalized report
+// 3) FormSubmit emails results to commercial@ziontechgroup.com with the client CC'd
+// 4) mailto fallback so the client always keeps a copy
 var KW={
- 'Travel & Hospitality':['travel','hospitality','booking','guest','hotel','itinerary'],
+ 'Legal & Professional Services':['legal','contract','clause','compliance','policy','billing','patent','deposition','ediscovery','matter','case-law','counsel','litigation'],
+ 'Travel & Hospitality':['travel','hospitality','booking','guest','hotel','menu','housekeep'],
  'Retail & Ecommerce':['cart','inventory','pricing','product','returns','review','ecommerce','retail'],
- 'Healthcare':['health','patient','clinic','telehealth','hipaa'],
- 'Finance':['invoice','billing','revenue','roi','finops','payment','collections'],
- 'Manufacturing':['manufacturing','dispatch','maintenance','spare','field','oee'],
- 'Real Estate':['real-estate','property','valu','tenant','lease'],
- 'Education':['education','learning','student','tutor','quiz','grading','curriculum'],
- 'Agriculture & Food':['crop','pest','irrigation','soil','livestock','harvest','cold-chain','food','farm','agri'],
- 'Energy & Utilities':['energy','solar','grid','building','consumption','utility'],
- 'Media & Entertainment':['media','content','recommendation','video','podcast','stream','sentiment','highlight','creator','audience','royalt','ad-insertion'],
- 'Sports & Fitness':['athlete','fitness','workout','sport','wellness','nutrition','training','gym','fan'],
- 'Legal & Compliance':['legal','contract','compliance','audit','policy','gdpr','privacy','litigation'],
- 'Nonprofit & NGO':['grant','donor','fundraising','volunteer','impact','csr','nonprofit'],
- 'Insurance':['insurance','claims','underwriting','policy'],
- 'Telecom':['telecom','network','subscriber','spectrum'],
- 'Automotive & Mobility':['fleet','vehicle','dealer','ev-','automotive','mobility'],
- 'Construction & PropTech':['construction','bid','permit','site','proptech'],
- 'Other':[]};
-var APPS=[],CATS=[],UBASE='https://ziontechgroup.com/',RBASE='https://github.com/Zion-support/';
-function norm(a){return {id:a.i,name:a.i.replace(/-/g,' '),url:a.u||(UBASE+a.i+'/'),repo:RBASE+a.i,description:a.d,category:CATS[a.c]||''};}
-function recommend(industry,interests,challenge){
+ 'Healthcare':['health','patient','clinic','medical'],
+ 'Finance':['invoice','billing','revenue','roi','finops','payment','collections','accounting'],
+ 'Manufacturing':['manufacturing','dispatch','maintenance','spare','field','supply'],
+ 'Real Estate & Construction':['real-estate','property','valuer','construction','proptech'],
+ 'Education':['education','learning','student','course'],
+ 'Agriculture & Food':['crop','pest','irrigation','soil','livestock','harvest','cold-chain','food-safety','farm','traceability','agriculture'],
+ 'Energy & Utilities':['energy','solar','grid','building-efficiency','consumption'],
+ 'Nonprofit & NGO':['grant','donor','fundraising','volunteer','impact','beneficiary','csr','crisis-relief'],
+ 'Sports & Media':['sport','sponsorship','stadium','athlete','fan','broadcast','media','highlights'],
+ 'Other':[]
+};
+var CATALOG=null;
+function loadCatalog(cb){
+ if(CATALOG)return cb(CATALOG);
+ var all=[],page=1;
+ (function next(){
+  fetch('https://api.github.com/users/Zion-support/repos?per_page=100&page='+page)
+  .then(function(r){return r.json();}).then(function(rs){
+   if(!Array.isArray(rs))return cb(all);
+   rs.forEach(function(r){if(r.name.indexOf('zion-field')!==0&&r.name!=='zion-support.github.io'&&r.name!=='zion-network')all.push({id:r.name,url:r.homepage||r.html_url,github:r.html_url,description:r.description||''});});
+   if(rs.length===100&&page<11){page++;next();}else{CATALOG=all;cb(all);}
+  }).catch(function(){cb(all);});
+ })();
+}
+function recommend(industry,interests,apps){
  var kws=(KW[industry]||[]).slice();
  interests.forEach(function(i){kws=kws.concat(i.toLowerCase().split(/[^a-z]+/));});
- kws=kws.concat((challenge||'').toLowerCase().split(/[^a-z]+/).filter(function(w){return w.length>4;}));
- var scored=APPS.map(function(a){
-  var t=(a.id+' '+a.description+' '+a.category).toLowerCase(),s=0;
+ var scored=apps.map(function(a){
+  var t=((a.id||'')+' '+(a.description||'')).toLowerCase(),s=0;
   kws.forEach(function(k){if(k&&k.length>2&&t.indexOf(k)>-1)s++;});
   return {a:a,s:s};
  }).filter(function(x){return x.s>0;}).sort(function(x,y){return y.s-x.s;});
  var top=scored.slice(0,6).map(function(x){return x.a;});
- if(!top.length)top=APPS.slice(0,6);
+ if(!top.length)top=apps.slice(0,6);
  return top;
 }
 document.getElementById('discoveryForm').addEventListener('submit',function(e){
@@ -94,25 +119,17 @@ document.getElementById('discoveryForm').addEventListener('submit',function(e){
  d.forEach(function(v,k){body.push(k+': '+v)});
  var industry=d.get('industry');
  var interests=(d.get('interest')||'').split(',').filter(Boolean);
- var report='ZION AI DISCOVERY RESULTS\n====================\n'+body.join('\n');
- function render(recs){
-  var html='<h2 style="color:#7dd3fc">Your instant recommendations</h2><p>Matched from '+APPS.length+' apps in the Zion network for <strong>'+industry+'</strong>:</p>';
-  recs.forEach(function(a){html+='<div class="rec"><h3><a href="'+a.url+'">'+a.name+'</a></h3><p>'+(a.description||'')+'</p><p class="cat">'+a.category+' · <a href="'+a.repo+'">open-source repo</a></p></div>';});
+ var report='ZION AI DISCOVERY RESULTS\n=====================\n'+body.join('\n');
+ document.getElementById('results').innerHTML='<p>Matching you against our live app network&hellip;</p>';
+ loadCatalog(function(apps){
+  var recs=recommend(industry,interests,apps);
+  var html='<h2 style="color:#7dd3fc">Your instant recommendations</h2><p>Matched live from <strong>'+apps.length+'</strong> apps in the Zion network for <strong>'+industry+'</strong>:</p>';
+  recs.forEach(function(a){html+='<div class="rec"><h3><a href="'+a.url+'">'+a.id+'</a></h3><p>'+(a.description||'')+'</p><p><a href="'+a.github+'">GitHub repo &rarr;</a></p></div>';});
   html+='<p>Full report also emailed to '+d.get('email')+' and commercial@ziontechgroup.com.</p>';
   document.getElementById('results').innerHTML=html;
-  report+='\n\nTOP RECOMMENDATIONS:\n'+recs.map(function(a){return '- '+a.name+' ('+a.category+') -> '+a.url;}).join('\n');
+  report+='\n\nTOP RECOMMENDATIONS:\n'+recs.map(function(a){return '- '+a.id+' -> '+a.url;}).join('\n');
   send(report);
- }
- if(APPS.length){render(recommend(industry,interests,d.get('challenge')));}
- else{
-  fetch('../network.json').then(function(r){return r.json();}).then(function(n){
-   CATS=n.categories||[];UBASE=n.url_base||UBASE;RBASE=n.repo_base||RBASE;
-   return Promise.all((n.apps_parts||[]).map(function(p){return fetch('../'+p).then(function(r){return r.json();});}));
-  }).then(function(parts){
-   parts.forEach(function(p){APPS=APPS.concat(p.map(norm));});
-   render(recommend(industry,interests,d.get('challenge')));
-  }).catch(function(){send(report);});
- }
+ });
  function send(rep){
   fetch('https://formsubmit.co/ajax/commercial@ziontechgroup.com',{method:'POST',
    headers:{'Content-Type':'application/json','Accept':'application/json'},
@@ -125,11 +142,6 @@ document.getElementById('discoveryForm').addEventListener('submit',function(e){
  }
  f.reset();
 });
-// Preload the registry so results are instant even before submit
-fetch('../network.json').then(function(r){return r.json();}).then(function(n){
- CATS=n.categories||[];UBASE=n.url_base||UBASE;RBASE=n.repo_base||RBASE;
- return Promise.all((n.apps_parts||[]).map(function(p){return fetch('../'+p).then(function(r){return r.json();});}));
-}).then(function(parts){parts.forEach(function(p){APPS=APPS.concat(p.map(norm));});}).catch(function(){});
 </script>
 </body>
 </html>
