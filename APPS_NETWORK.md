@@ -1,20 +1,24 @@
 # 🌐 Zion App Network — Master Index
 
-The Zion Tech Group app network spans **544 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
+The Zion Tech Group app network spans **570+ public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
 
 - 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
 - 🗂️ Hub: [zion-network](https://zion-support.github.io/zion-network/) · [network.ziontechgroup.com](https://network.ziontechgroup.com)
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
-- 🔎 Free AI Discovery: [app-network-discovery.html](https://ziontechgroup.com/app-network-discovery.html) — always online, always free, instant results to you + our commercial team
+- 🔎 Free AI Discovery: [discovery/](https://zion-support.github.io/zion-network/discovery/) — always online, always free, instant results to you + our commercial team
 
-## 🚀 Latest Additions (2026-10-05, Batch 90)
+## 🚀 Latest Additions (2026-10-06, Batch 98)
 
-- New category: **[🏆 Sports, Fitness & Wellness AI](network/sports-fitness-wellness-ai.md)** — 8 interlinked apps: training load → injury prevention → nutrition → footage analysis → class scheduling → member retention → wellness coaching → dynamic ticket pricing ([registry](network/sports-fitness-wellness-apps.json)).
-- New spotlight: [Batch 90 spotlight](spotlights/2026-10-05-batch90-sports-fitness-wellness.md) · [INTERLINKS-batch90.md](INTERLINKS-batch90.md).
-- Homepage: new showcase [apps/october-2026-batch13.html](https://ziontechgroup.com/apps/october-2026-batch13.html) + ad [APP_NETWORK_SPOTLIGHT_OCT05_BATCH90_SPORTS](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT05_BATCH90_SPORTS.md).
-- **Fix:** root `network.json` rebuilt as the real merged registry (**265 apps**) — Discovery recommendations now work again (placeholders removed).
-- Discovery: Insurance, Telecom, Construction, Automotive and Sports/Fitness added to industries & instant-match keywords.
+- New category: **[🎙️ Voice & Communications AI](network/voice-communications-ai.md)** — Batch 98, 10 interlinked apps: meeting intelligence → voicemail triage → call transcription → voice-of-customer → call QA → conference recaps → voice agent builder → live translation → webinar repurposing → voice CSAT ([registry](network/voice-communications-apps.json)). Spotlight: [SPOTLIGHT-2026-10-06-BATCH98.md](SPOTLIGHT-2026-10-06-BATCH98.md) · [INTERLINKS-batch98.md](INTERLINKS-batch98.md) · homepage showcase [apps/october-2026-batch15.html](https://ziontechgroup.com/apps/october-2026-batch15.html).
+- Discovery upgraded: fixed multi-select interests, added Voice & Communications / Insurance / Legal / GovTech industries, client auto-response email — still 100% free, always online, instant results to client + commercial@ziontechgroup.com.
+- Registry: new compact shard [network/apps-part3.json](network/apps-part3.json); network.json → 415 apps.
+
+## 🚀 Latest Additions (2026-10-05, Batches 89–90)
+
+- New category: **[🏟️ Sports, Fitness & Fan Engagement AI](network/sports-fitness-fan-ai.md)** — Batch 90, 10 interlinked apps: fan engagement → dynamic ticketing → performance → injury risk → training plans → match-day ops → sponsorship ROI → highlights → concessions → gym retention ([registry](network/sports-fitness-fan-apps.json)). Spotlight: [Batch 90 spotlight](spotlights/2026-10-05-batch90-sports-fitness-fan.md) · [INTERLINKS-batch90.md](INTERLINKS-batch90.md) · homepage showcase [apps/october-2026-batch14.html](https://ziontechgroup.com/apps/october-2026-batch14.html).
+- Batch 89 (Hospitality & Travel AI): guest concierge, dynamic pricing, channel optimizer, housekeeping, itinerary builder, menu margins — homepage showcase [apps/october-2026-batch13.html](https://ziontechgroup.com/apps/october-2026-batch13.html) · [HOMEPAGE_APPS_BATCH89.md](HOMEPAGE_APPS_BATCH89.md).
+- Discovery refreshed: new industries (Hospitality & Travel, Sports & Fitness, Insurance, Agriculture), instant on-page recommendations, dual email to client + commercial@ziontechgroup.com.
 
 ## 🚀 Latest Additions (2026-10-05, Batch 88)
 
@@ -29,7 +33,6 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - New category: **[🚗 Automotive & Mobility AI](network/automotive-mobility-ai.md)** — 10 interlinked apps: fleet health → EV charging → dealer leads → routing → driver safety → vision inspection → parts → demand → warranty → recalls ([registry](network/automotive-mobility-apps.json)).
 - New spotlight: [Batch 86 spotlight](spotlights/2026-10-05-batch86-automotive-mobility.md) · [INTERLINKS-batch86.md](INTERLINKS-batch86.md).
 - Homepage: new showcase [apps/october-2026-batch10.html](https://ziontechgroup.com/apps/october-2026-batch10.html) and [apps/october-2026-batch9.html](https://ziontechgroup.com/apps/october-2026-batch9.html) (Batch 85 AgTech); apps index now links Batches 85 and 86.
-- Fix: restored hub `index.html` (was a 9-byte placeholder) — now a full landing page with Discovery benefits and links to index/registry/categories/spotlights.
 - network.json: 344 → 354 apps; spotlight pointers refreshed.
 
 ## 🚀 Latest Additions (2026-10-05, Batch 85)
@@ -42,60 +45,16 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 
 - New category: **[💚 Nonprofit, NGO & Social Impact AI](network/nonprofit-social-impact-ai.md)** — 10 interlinked apps: grants → donors → appeals → volunteers → impact → budgets → intake → CSR → board → crisis logistics ([registry](network/nonprofit-social-impact-apps.json)).
 - New spotlight: [Batch 84 spotlight](spotlights/2026-10-05-batch84-nonprofit-social-impact.md) · [INTERLINKS-batch84.md](INTERLINKS-batch84.md).
-- Fix: restored missing Batch 83 spotlight [2026-10-04-batch83-insurance-risk.md](spotlights/2026-10-04-batch83-insurance-risk.md) (was a broken link from the Batch 83 category page).
-- Homepage: new showcase [apps/october-2026-batch8.html](https://ziontechgroup.com/apps/october-2026-batch8.html) + ad [APP_NETWORK_SPOTLIGHT_OCT05_BATCH84_NONPROFIT.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT05_BATCH84_NONPROFIT.md); apps index now links Batch 84.
+- Homepage: new showcase [apps/october-2026-batch8.html](https://ziontechgroup.com/apps/october-2026-batch8.html); apps index now links Batch 84.
 - Discovery: homepage questionnaire upgraded — Nonprofit/NGO, Telecom and Insurance industries added with instant on-page recommendations; dual email (client + commercial@ziontechgroup.com) unchanged.
 - network.json: 324 → 334 apps; spotlight pointers refreshed.
 
-## 🚀 Latest Additions (2026-10-04, Batch 81)
-
-- New spotlight: **[🔧 Field Service & Dispatch Ops AI Suite](spotlights/field-service-dispatch-ops-suite.md)** — 6 interlinked apps: quote → cover → dispatch → route → execute → staff ([registry](network/field-ops-ai-apps.json)).
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT4_FIELDOPS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_FIELDOPS.md) (+ HTML version).
-- Verified pending: Discovery v2 still queued (v1 live, dual-email OK); network.ziontechgroup.com CNAME/HTTPS still broken (000).
-- Session log: [logs/UPDATE_2026-10-04_SESSION_E.md](logs/UPDATE_2026-10-04_SESSION_E.md).
-
-## 🚀 Latest Additions (2026-10-04, Batch 80)
-
-- New spotlight: **[🎓 Education & Learning AI Suite](spotlights/education-learning-ai-suite.md)** — 6 interlinked apps: align → plan → tutor → track → prove → assess ([registry](network/education-ai-apps.json)).
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT4_EDUCATION.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_EDUCATION.md) (+ HTML version).
-- Session log: [logs/UPDATE_2026-10-04_SESSION_D.md](logs/UPDATE_2026-10-04_SESSION_D.md).
-
-## 🚀 Latest Additions (2026-10-04, Batch 79)
-
-- New spotlight: **[🏥 Healthcare & Life Sciences AI Suite](spotlights/healthcare-life-sciences-v2-suite.md)** — 6 interlinked apps: screen → plan → monitor → document → bill → engage ([registry](network/healthcare-v2-apps.json)).
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT4_HEALTHCARE.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_HEALTHCARE.md) (+ HTML version).
-- Discovery v2 (auto-reply + dual email) committed — Pages deploy queue still serving v1; re-verification pending.
-- Session log: [logs/UPDATE_2026-10-04_SESSION_C.md](logs/UPDATE_2026-10-04_SESSION_C.md).
-
-## 🚀 Latest Additions (2026-10-04, Batch 78)
-
-- New spotlight: **[🛡️ DevSecOps & AI Code Quality Suite](spotlights/devsecops-ai-code-quality-suite.md)** — 4 interlinked apps: review → threat-model → evaluate → route ([registry](network/devsecops-ai-apps.json)).
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT4_DEVSECOPS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_DEVSECOPS.md) (+ HTML version).
-- Discovery upgrade: app-network-discovery.html refreshed — 840+ apps, new industry/challenge picks, instant auto-reply to client + commercial@ziontechgroup.com, mailto fallback; new homepage ad APP_NETWORK_DISCOVERY_AD.md.
-- Session log: [logs/UPDATE_2026-10-04_SESSION_B.md](logs/UPDATE_2026-10-04_SESSION_B.md).
-
-## 🚀 Latest Additions (2026-10-04, Batch 77)
-
-- New spotlight: **[🛰️ Space & Satellite Ops AI Suite](spotlights/space-satellite-ops-suite.md)** — 4 interlinked apps: screen conjunctions → schedule passes → monitor links → deploy edge AI. Registry: [network/space-satellite-apps.json](network/space-satellite-apps.json).
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT4_SPACE.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_SPACE.md) (+ [HTML version](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_SPACE.html)).
-- ai-edge-deployer README enriched with live links + full interlink block; network footers added to all 4 suite repos.
-- Session log: [logs/UPDATE_2026-10-04_SESSION.md](logs/UPDATE_2026-10-04_SESSION.md).
-
-## 🚀 Latest Additions (2026-10-04, Batch 75)
-
-- New category: **[⚡ Energy & Utilities AI](network/energy-utilities-ai.md)** — 9 interlinked apps: forecast → balance → audit → optimize → report ([registry](network/energy-utilities-apps.json)).
-- New spotlight: **[Batch 75 — Energy & Utilities AI](spotlights/2026-10-04-batch75-energy-utilities.md)**.
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_OCT04_ENERGY_UTILITIES.md](https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_OCT04_ENERGY_UTILITIES.md) + daily [SPOTLIGHT-2026-10-04.md](https://ziontechgroup.com/SPOTLIGHT-2026-10-04.md).
-- Discovery upgrade: free online questionnaire at https://ziontechgroup.com/discovery/ emails results instantly to the client and commercial@ziontechgroup.com.
-- Fixed: restored missing homepage file APP_NETWORK_SPOTLIGHT_SEP27_HEALTHCARE.md (was 404); water-usage-optimizer README network footer added.
-
 ## Categories (partial — full list in git history)
 
-- **[⚡ Energy & Utilities AI](network/energy-utilities-ai.md)** — NEW: 9 apps (forecasting, grid balancing, audits, optimization, solar ROI)
+- **[⚡ Energy & Utilities AI](network/energy-utilities-ai.md)** — 9 apps (forecasting, grid balancing, audits, optimization, solar ROI)
 - **[🌱 Sustainability & ESG AI](network/sustainability-esg-ai.md)** — 8 apps (carbon accounting, ESG reporting, climate risk, circularity, green procurement, renewables, water)
 - **[🤖 AI Agent Builder Toolkit](network/agent-builder-toolkit.md)** — 12 apps ([registry](network/agent-builder-apps.json))
 - **[🤖 AI Agents & Autonomous Operations](network/ai-agents-autonomous-ops.md)** — 8 agent apps
-- **[🏠 Core Site & Hubs](network/core-site-hubs.md)** — 19 apps
 - **[🤖 AI Agents & Orchestration](network/ai-agents-orchestration.md)** — 25 apps
 - **[🧠 LLM, Prompts & RAG](network/llm-prompts-rag.md)** — 39 apps
 - **[📊 Data & Analytics](network/data-analytics.md)** — 29 apps
@@ -129,7 +88,9 @@ The Zion Tech Group app network spans **544 public apps and sites** under [@Zion
 - **[🌾 AgTech & Food Supply Chain AI](network/agtech-food-supply-ai.md)** — Batch 85 ([registry](network/agtech-food-supply-apps.json))
 - **[🚗 Automotive & Mobility AI](network/automotive-mobility-ai.md)** — Batch 86 ([registry](network/automotive-mobility-apps.json))
 - **[🏗️ Construction & PropTech AI](network/construction-proptech-ai.md)** — Batch 88 ([registry](network/construction-proptech-apps.json))
-- **[🏆 Sports, Fitness & Wellness AI](network/sports-fitness-wellness-ai.md)** — Batch 90 ([registry](network/sports-fitness-wellness-apps.json))
+- **[🏨 Hospitality & Travel AI (v2)](network/hospitality-travel-ai.md)** — Batch 89
+- **[🏟️ Sports, Fitness & Fan Engagement AI](network/sports-fitness-fan-ai.md)** — Batch 90 ([registry](network/sports-fitness-fan-apps.json))
+- **[🎙️ Voice & Communications AI](network/voice-communications-ai.md)** — Batch 98 ([registry](network/voice-communications-apps.json))
 
 ## 🔗 Interlinks
 
@@ -138,6 +99,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [Sports, Fitness & Wellness AI (Batch 90)](spotlights/2026-10-05-batch90-sports-fitness-wellness.md). Previous: [Construction & PropTech AI (Batch 88)](spotlights/2026-10-05-batch88-construction-proptech.md).
+Latest spotlight: [Voice & Communications AI (Batch 98)](SPOTLIGHT-2026-10-06-BATCH98.md). Previous: [Sports, Fitness & Fan Engagement AI (Batch 90)](spotlights/2026-10-05-batch90-sports-fitness-fan.md) · [Hospitality & Travel AI (Batch 89)](SPOTLIGHT-2026-10-05-BATCH89.md) · [Construction & PropTech AI (Batch 88)](spotlights/2026-10-05-batch88-construction-proptech.md).
 
-_Updated 2026-10-05 (Batch 90) — 544+ public repos, network.json registry rebuilt with 265 real app entries; 48+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-06 (Batch 98) — 570+ public repos, 415+ registered apps; 50+ category pages indexed. Historical batch details preserved in git history._
