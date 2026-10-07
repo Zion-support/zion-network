@@ -1,16 +1,15 @@
-# INTERLINKS — Batch 99 (Events & Venues AI)
+# INTERLINKS — Batch 99 (Retail & E-commerce AI)
 
 Every Batch 99 app links to:
-1. Network hub: https://zion-support.github.io/zion-network/ and https://ziontechgroup.com/apps/network.html
+1. Network hub: https://ziontechgroup.com/zion-network/ and https://ziontechgroup.com/apps/network.html
 2. Free Discovery questionnaire: https://ziontechgroup.com/discovery/ (results instantly emailed to client + commercial@ziontechgroup.com)
-3. Category index: network/events-venues-ai.md
-4. Sibling apps in Batch 99 (mesh): event-demand-forecaster ↔ dynamic-ticket-pricing-ai ↔ venue-layout-optimizer ↔ event-sponsor-matcher ↔ event-marketing-autopilot ↔ staff-shift-scheduler-ai ↔ crowd-flow-sentinel ↔ attendee-engagement-ai ↔ post-event-insights-ai ↔ venue-booking-copilot
-5. Adjacent batches: Batch 98 Gaming & Esports AI (live-audience ops), Batch 89 Hospitality & Travel AI (venue demand), Batch 90 Sports & Fan AI (crowd engagement), Marketing & Growth AI (promo automation).
+3. Category index: network/retail-ecommerce-ai.md
+4. Sibling apps in Batch 99 (mesh): visual-merchandising-ai ↔ dynamic-pricing-retail-ai ↔ returns-reduction-ai ↔ review-sentiment-ai
+5. Adjacent batches: Batch 98 Voice & Communications (call sentiment → review intelligence), Batch 100 Field Services & MSP AI (SLA/dispatch for retail ops), Batch 93 Manufacturing & Industrial (demand forecasting), Batch 90 Healthcare & Wellness (pharmacy retail).
 
 ## Cross-promotion blocks
-- Showcase page: https://ziontechgroup.com/apps/october-2026-batch19.html
 - Spotlight: SPOTLIGHT-2026-10-06-BATCH99.md
 - Homepage copy: HOMEPAGE_APPS_BATCH99.md
-- Discovery page advertises Batch 99 in zion-network/discovery/index.html and ziontechgroup.com/discovery/
+- Discovery page advertises Batch 99 in zion-network/discovery.html
 
 Rule: no orphan apps — every repo README must contain hub + discovery + 3 sibling links.
