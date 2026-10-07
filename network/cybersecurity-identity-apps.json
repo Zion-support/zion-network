@@ -1,0 +1,18 @@
+{
+  "batch": 101,
+  "category": "Cybersecurity & Identity AI",
+  "shipped": "2026-10-07",
+  "network": "https://ziontechgroup.com/apps/network.html",
+  "discovery": "https://ziontechgroup.com/discovery/",
+  "apps": [
+    {"slug": "phishing-triage-ai", "name": "Phishing Triage AI", "description": "Auto-analyze reported phishing emails — headers, links, payloads — and draft takedown/user-notice actions.", "url": "https://ziontechgroup.com/phishing-triage-ai/", "repo": "https://github.com/Zion-support/phishing-triage-ai"},
+    {"slug": "soc-alert-summarizer", "name": "SOC Alert Summarizer", "description": "Cluster and summarize SIEM/EDR alerts into analyst-ready incidents with severity and next steps.", "url": "https://ziontechgroup.com/soc-alert-summarizer/", "repo": "https://github.com/Zion-support/soc-alert-summarizer"},
+    {"slug": "iam-access-review-ai", "name": "IAM Access Review AI", "description": "Continuous access reviews: dormant accounts, privilege creep and SoD conflicts with remediation drafts.", "url": "https://ziontechgroup.com/iam-access-review-ai/", "repo": "https://github.com/Zion-support/iam-access-review-ai"},
+    {"slug": "vulnerability-prioritizer-ai", "name": "Vulnerability Prioritizer AI", "description": "Prioritize CVEs by exploitability, asset criticality and business context — beyond raw CVSS.", "url": "https://ziontechgroup.com/vulnerability-prioritizer-ai/", "repo": "https://github.com/Zion-support/vulnerability-prioritizer-ai"},
+    {"slug": "incident-response-playbook-ai", "name": "Incident Response Playbook AI", "description": "Generate tailored IR playbooks and comms templates per incident type, with timeline tracking.", "url": "https://ziontechgroup.com/incident-response-playbook-ai/", "repo": "https://github.com/Zion-support/incident-response-playbook-ai"},
+    {"slug": "vendor-security-questionnaire-ai", "name": "Vendor Security Questionnaire AI", "description": "Auto-answer security questionnaires (SIG, CAIQ, custom) from your control library and evidence.", "url": "https://ziontechgroup.com/vendor-security-questionnaire-ai/", "repo": "https://github.com/Zion-support/vendor-security-questionnaire-ai"},
+    {"slug": "secrets-leak-detector", "name": "Secrets Leak Detector", "description": "Scan repos, logs and tickets for leaked keys/tokens and orchestrate rotation workflows.", "url": "https://ziontechgroup.com/secrets-leak-detector/", "repo": "https://github.com/Zion-support/secrets-leak-detector"},
+    {"slug": "security-awareness-coach", "name": "Security Awareness Coach", "description": "Personalized micro-training and simulated phishing coaching based on each employee's risk signals.", "url": "https://ziontechgroup.com/security-awareness-coach/", "repo": "https://github.com/Zion-support/security-awareness-coach"}
+  ],
+  "interlinks": ["security-compliance", "compliance-grc-ai", "devsecops-quality", "banking-fintech-ai", "gaming-esports-ai"]
+}
