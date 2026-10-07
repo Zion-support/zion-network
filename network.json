@@ -1,14 +1,14 @@
 {
-  "note": "Full flagship apps registry. 436+ apps. Batch 101 Logistics & Supply Chain AI (2026-10-07) shipped by parallel lane: INTERLINKS-batch101.md. Batches 102 (Growth & CRO AI) and 106 (HR & People Ops AI) plus Education/SecOps sets shipped 2026-10-06/07 by parallel lanes. Batch 100 Field Services & MSP AI + Batch 99 Retail & E-commerce AI fully documented 2026-10-06. Batch 98 interlinks FIXED (was mislabeled Gaming & Esports). INFRA FIX 2026-10-06: repo CNAME removed + Pages custom domain cleared (network.ziontechgroup.com ACME bad_authz HTTP 000) — hub canonical at https://ziontechgroup.com/zion-network/. Re-add network.ziontechgroup.com only after domain owner fixes DNS/CAA. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com.",
-  "updated": "2026-10-07",
-  "company": "Zion Tech Group",
-  "hub": "https://ziontechgroup.com",
-  "network_hub_url": "https://ziontechgroup.com/zion-network/",
-  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
-  "apps_total": 436,
-  "spotlight_latest": "SPOTLIGHT-2026-10-06-BATCH100.md",
-  "spotlight_previous": "SPOTLIGHT-2026-10-06-BATCH99.md",
-  "batches_latest": {"101": "INTERLINKS-batch101.md", "100": "network/field-services-msp-ai.md", "99": "network/retail-ecommerce-ai.md", "98": "network/voice-communications-ai.md", "97": "network/education-ai.md", "96": "network/real-estate-property-ai.md", "94": "network/legal-compliance-ai.md"},
-  "apps_files": ["network/apps-part1.json", "network/apps-part2.json", "network/apps-part3.json", "network/apps-part4.json"],
-  "apps": ["<APPS_PART1>", "<APPS_PART2>", "<APPS_PART3>", "<APPS_PART4>"]
+ "note": "Apps registry restored 2026-10-07 — placeholders removed. Registry split into network/apps-part1..5.json (666+ apps, compact fields: i=id, d=description, c=category index, u=url override). URL defaults to https://ziontechgroup.com/<id>/; repo defaults to https://github.com/Zion-support/<id>. Powers the free Discovery questionnaire at ziontechgroup.com/discovery/ — instant on-screen results + emailed to the client and commercial@ziontechgroup.com.",
+ "updated": "2026-10-07",
+ "company": "Zion Tech Group",
+ "hub": "https://ziontechgroup.com",
+ "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+ "discovery": "https://ziontechgroup.com/discovery/",
+ "url_base": "https://ziontechgroup.com/",
+ "repo_base": "https://github.com/Zion-support/",
+ "apps_parts": ["network/apps-part1.json","network/apps-part2.json","network/apps-part3.json","network/apps-part4.json","network/apps-part5.json"],
+ "categories": ["AI Agents & Automation","AgTech & Food AI","Customer Support AI","Data & Analytics AI","DevOps & Platform AI","Education AI","Energy & Utilities AI","Finance AI","HR & People AI","Healthcare AI","Legal AI","Manufacturing & Logistics AI","Marketing & Growth AI","Media & Creator Economy AI","Nonprofit AI","Real Estate & Construction AI","Sales & Revenue AI","Security & Compliance AI","Travel & Hospitality AI"],
+ "apps_total": 666,
+ "spotlight_latest": "spotlights/2026-10-05-batch90-media-creator.md"
 }
