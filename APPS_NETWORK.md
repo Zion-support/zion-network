@@ -1,6 +1,6 @@
 # 🌐 Zion App Network — Master Index
 
-The Zion Tech Group app network spans **560+ public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
+The Zion Tech Group app network spans **544 public apps and sites** under [@Zion-support](https://github.com/Zion-support), all interconnected.
 
 - 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
 - 📊 Status: [zion-status](https://zion-support.github.io/zion-status/)
@@ -8,11 +8,13 @@ The Zion Tech Group app network spans **560+ public apps and sites** under [@Zio
 - 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 - 🔎 Free AI Discovery: [app-network-discovery.html](https://ziontechgroup.com/app-network-discovery.html) — always online, always free, instant results to you + our commercial team
 
-## 🚀 Latest Additions (2026-10-05, Batches 89–90)
+## 🚀 Latest Additions (2026-10-05, Batch 90)
 
-- New category: **[🏟️ Sports, Fitness & Fan Engagement AI](network/sports-fitness-fan-ai.md)** — Batch 90, 10 interlinked apps: fan engagement → dynamic ticketing → performance → injury risk → training plans → match-day ops → sponsorship ROI → highlights → concessions → gym retention ([registry](network/sports-fitness-fan-apps.json)). Spotlight: [Batch 90 spotlight](spotlights/2026-10-05-batch90-sports-fitness-fan.md) · [INTERLINKS-batch90.md](INTERLINKS-batch90.md) · homepage showcase [apps/october-2026-batch14.html](https://ziontechgroup.com/apps/october-2026-batch14.html).
-- Batch 89 (Hospitality & Travel AI): guest concierge, dynamic pricing, channel optimizer, housekeeping, itinerary builder, menu margins — homepage showcase [apps/october-2026-batch13.html](https://ziontechgroup.com/apps/october-2026-batch13.html) · [HOMEPAGE_APPS_BATCH89.md](HOMEPAGE_APPS_BATCH89.md).
-- Discovery refreshed: new industries (Hospitality & Travel, Sports & Fitness, Insurance, Agriculture), instant on-page recommendations, dual email to client + commercial@ziontechgroup.com.
+- New category: **[🏆 Sports, Fitness & Wellness AI](network/sports-fitness-wellness-ai.md)** — 8 interlinked apps: training load → injury prevention → nutrition → footage analysis → class scheduling → member retention → wellness coaching → dynamic ticket pricing ([registry](network/sports-fitness-wellness-apps.json)).
+- New spotlight: [Batch 90 spotlight](spotlights/2026-10-05-batch90-sports-fitness-wellness.md) · [INTERLINKS-batch90.md](INTERLINKS-batch90.md).
+- Homepage: new showcase [apps/october-2026-batch13.html](https://ziontechgroup.com/apps/october-2026-batch13.html) + ad [APP_NETWORK_SPOTLIGHT_OCT05_BATCH90_SPORTS](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT05_BATCH90_SPORTS.md).
+- **Fix:** root `network.json` rebuilt as the real merged registry (**265 apps**) — Discovery recommendations now work again (placeholders removed).
+- Discovery: Insurance, Telecom, Construction, Automotive and Sports/Fitness added to industries & instant-match keywords.
 
 ## 🚀 Latest Additions (2026-10-05, Batch 88)
 
@@ -127,8 +129,7 @@ The Zion Tech Group app network spans **560+ public apps and sites** under [@Zio
 - **[🌾 AgTech & Food Supply Chain AI](network/agtech-food-supply-ai.md)** — Batch 85 ([registry](network/agtech-food-supply-apps.json))
 - **[🚗 Automotive & Mobility AI](network/automotive-mobility-ai.md)** — Batch 86 ([registry](network/automotive-mobility-apps.json))
 - **[🏗️ Construction & PropTech AI](network/construction-proptech-ai.md)** — Batch 88 ([registry](network/construction-proptech-apps.json))
-- **[🏨 Hospitality & Travel AI (v2)](network/hospitality-travel-ai.md)** — Batch 89
-- **[🏟️ Sports, Fitness & Fan Engagement AI](network/sports-fitness-fan-ai.md)** — Batch 90 ([registry](network/sports-fitness-fan-apps.json))
+- **[🏆 Sports, Fitness & Wellness AI](network/sports-fitness-wellness-ai.md)** — Batch 90 ([registry](network/sports-fitness-wellness-apps.json))
 
 ## 🔗 Interlinks
 
@@ -137,6 +138,6 @@ Every app links back to this index. To add a new app:
 2. Register it in [`network.json`](network.json) or its category registry (`network/*-apps.json`).
 3. Add the network footer to the app's README.
 
-Latest spotlight: [Sports, Fitness & Fan Engagement AI (Batch 90)](spotlights/2026-10-05-batch90-sports-fitness-fan.md). Previous: [Hospitality & Travel AI (Batch 89)](SPOTLIGHT-2026-10-05-BATCH89.md) · [Construction & PropTech AI (Batch 88)](spotlights/2026-10-05-batch88-construction-proptech.md).
+Latest spotlight: [Sports, Fitness & Wellness AI (Batch 90)](spotlights/2026-10-05-batch90-sports-fitness-wellness.md). Previous: [Construction & PropTech AI (Batch 88)](spotlights/2026-10-05-batch88-construction-proptech.md).
 
-_Updated 2026-10-05 (Batch 90) — 560+ public repos, 372+ registered apps; 49+ category pages indexed. Historical batch details preserved in git history._
+_Updated 2026-10-05 (Batch 90) — 544+ public repos, network.json registry rebuilt with 265 real app entries; 48+ category pages indexed. Historical batch details preserved in git history._
