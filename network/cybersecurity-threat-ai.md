@@ -1,7 +1,7 @@
-# Cybersecurity & Threat AI — Batch 99 (2026-10-07)
+# Cybersecurity & Threat AI — Batch 110 (2026-10-07)
 
 Ten new interlinked apps covering the security operations pipeline: detect → triage → investigate → respond → prevent.
-Network total: **425 free, open-source AI apps**.
+(Network total: 425+ free, open-source AI apps.)
 
 ## Apps
 | App | What it does |
@@ -19,7 +19,7 @@ Network total: **425 free, open-source AI apps**.
 
 ## Interlinks
 - Network index: [APPS_NETWORK.md](../APPS_NETWORK.md) · [network.json](../network.json)
-- Spotlight: [SPOTLIGHT-2026-10-07-BATCH99](../SPOTLIGHT-2026-10-07-BATCH99.md) · Interlinks: [INTERLINKS-batch99](../INTERLINKS-batch99.md)
-- Sibling batches: [Gaming & Esports AI (98)](./gaming-esports-ai.md) · [Education AI (97)](./education-ai.md) · [Security & Compliance](./security-compliance.md) · [DevSecOps & Quality](./devsecops-quality.md)
-- Live showcase: https://ziontechgroup.com/apps/october-2026-batch19.html
+- Spotlight: [SPOTLIGHT-2026-10-07-BATCH110](../SPOTLIGHT-2026-10-07-BATCH110.md) · Interlinks: [INTERLINKS-batch110](../INTERLINKS-batch110.md)
+- Sibling categories: [Security & Compliance](./security-compliance.md) · [DevSecOps & Quality](./devsecops-quality.md) · [Voice & Communications AI (98)](./voice-communications-ai.md)
+- Live showcase: https://ziontechgroup.com/apps/october-2026-batch110-cybersecurity.html
 - Free Discovery (instant results emailed to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
