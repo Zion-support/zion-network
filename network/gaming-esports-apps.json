@@ -1,0 +1,19 @@
+{
+  "batch": 100,
+  "category": "Gaming, Esports & Interactive Media AI",
+  "shipped": "2026-10-07",
+  "network": "https://ziontechgroup.com/apps/network.html",
+  "discovery": "https://ziontechgroup.com/discovery/",
+  "note": "Batch 99 collision flagged: parallel lane used 99 for CX & Support AI; this batch takes 100.",
+  "apps": [
+    {"slug": "game-analytics-copilot", "name": "Game Analytics Copilot", "description": "Player retention, funnel and monetization analytics with plain-English insights for game teams.", "url": "https://ziontechgroup.com/game-analytics-copilot/", "repo": "https://github.com/Zion-support/game-analytics-copilot"},
+    {"slug": "esports-team-scout-ai", "name": "Esports Team Scout AI", "description": "Scout and compare players with performance stats, role fit and VOD highlight extraction.", "url": "https://ziontechgroup.com/esports-team-scout-ai/", "repo": "https://github.com/Zion-support/esports-team-scout-ai"},
+    {"slug": "live-ops-calendar-ai", "name": "Live Ops Calendar AI", "description": "Plan in-game events, seasons and promos with conflict detection and revenue impact estimates.", "url": "https://ziontechgroup.com/live-ops-calendar-ai/", "repo": "https://github.com/Zion-support/live-ops-calendar-ai"},
+    {"slug": "game-localization-copilot", "name": "Game Localization Copilot", "description": "Context-aware game string localization with glossary enforcement and LQA checks.", "url": "https://ziontechgroup.com/game-localization-copilot/", "repo": "https://github.com/Zion-support/game-localization-copilot"},
+    {"slug": "player-support-triage-ai", "name": "Player Support Triage AI", "description": "Classify and auto-draft answers for player tickets — refunds, bugs, bans and account issues.", "url": "https://ziontechgroup.com/player-support-triage-ai/", "repo": "https://github.com/Zion-support/player-support-triage-ai"},
+    {"slug": "anti-cheat-signal-ai", "name": "Anti-Cheat Signal AI", "description": "Surface anomalous gameplay patterns and cluster reports for trust & safety review.", "url": "https://ziontechgroup.com/anti-cheat-signal-ai/", "repo": "https://github.com/Zion-support/anti-cheat-signal-ai"},
+    {"slug": "game-economy-balancer", "name": "Game Economy Balancer", "description": "Simulate in-game economies — sinks, sources, inflation and pricing — before shipping changes.", "url": "https://ziontechgroup.com/game-economy-balancer/", "repo": "https://github.com/Zion-support/game-economy-balancer"},
+    {"slug": "streamer-sponsor-matcher", "name": "Streamer Sponsor Matcher", "description": "Match streamers and esports orgs with sponsors using audience overlap and brand-fit scoring.", "url": "https://ziontechgroup.com/streamer-sponsor-matcher/", "repo": "https://github.com/Zion-support/streamer-sponsor-matcher"}
+  ],
+  "interlinks": ["media-creator-economy-ai", "sports-fitness-fan-ai", "marketing-growth-ai", "banking-fintech-ai"]
+}
