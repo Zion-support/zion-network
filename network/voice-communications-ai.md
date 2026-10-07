@@ -1,7 +1,8 @@
 # 🎙️ Voice & Communications AI — Batch 98
 
-Ten interlinked apps covering the full voice and communications lifecycle: capture → transcribe → understand → act → measure.
+Interlinked apps covering the full voice and communications lifecycle: capture → transcribe → understand → act → measure.
 
+## Core 10 (homepage showcase)
 | App | What it does | Live page |
 |---|---|---|
 | [meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai) | Summaries, decisions and action items synced to your stack. | [app page](https://ziontechgroup.com/meeting-intelligence-ai/) |
@@ -14,6 +15,14 @@ Ten interlinked apps covering the full voice and communications lifecycle: captu
 | [multilingual-call-translator](https://github.com/Zion-support/multilingual-call-translator) | Live translation for calls and meetings in 40+ languages. | [app page](https://ziontechgroup.com/multilingual-call-translator/) |
 | [webinar-repurpose-engine](https://github.com/Zion-support/webinar-repurpose-engine) | Turn webinars into clips, posts, blogs and email sequences automatically. | [app page](https://ziontechgroup.com/webinar-repurpose-engine/) |
 | [voice-csat-pulse](https://github.com/Zion-support/voice-csat-pulse) | Post-call voice surveys with instant CSAT/NPS scoring and alerts. | [app page](https://ziontechgroup.com/voice-csat-pulse/) |
+
+## Alternate implementations (parallel build, fully interlinked)
+| App | What it does | Live page |
+|---|---|---|
+| [call-transcription-analytics](https://github.com/Zion-support/call-transcription-analytics) | Searchable transcripts, topics and sentiment across every call. | [app page](https://ziontechgroup.com/call-transcription-analytics/) |
+| [ai-call-router](https://github.com/Zion-support/ai-call-router) | Intent-based routing that connects every caller to the right team first time. | [app page](https://ziontechgroup.com/ai-call-router/) |
+| [conference-recap-ai](https://github.com/Zion-support/conference-recap-ai) | Instant recaps, highlights and follow-ups from every conference call. | [app page](https://ziontechgroup.com/conference-recap-ai/) |
+| [call-quality-monitor](https://github.com/Zion-support/call-quality-monitor) | Automated QA scoring and coaching insights for 100% of calls. | [app page](https://ziontechgroup.com/call-quality-monitor/) |
 
 ## 🔗 Interlinks
 - 📇 [Master index](../APPS_NETWORK.md) · 🗂️ [Network hub](https://zion-support.github.io/zion-network/) · 🏠 [ziontechgroup.com](https://ziontechgroup.com)
