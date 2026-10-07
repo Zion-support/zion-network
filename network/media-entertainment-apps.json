@@ -1,0 +1,14 @@
+{
+ "batch": 100,
+ "theme": "Media & Entertainment AI",
+ "date": "2026-10-07",
+ "apps": [
+  {"id": "content-recommendation-engine", "description": "Content recommendation engine — collaborative + content-based ranking, cold-start handling, watch-time optimization.", "url": "https://ziontechgroup.com/content-recommendation-engine/", "repo": "https://github.com/Zion-support/content-recommendation-engine"},
+  {"id": "audience-segmentation-ai", "description": "Audience segmentation AI — behavioral clustering, lookalike expansion, segment-level content affinity scores.", "url": "https://ziontechgroup.com/audience-segmentation-ai/", "repo": "https://github.com/Zion-support/audience-segmentation-ai"},
+  {"id": "video-highlight-generator", "description": "Video highlight generator — auto-clips key moments from long-form video for Shorts/Reels/TikTok distribution.", "url": "https://ziontechgroup.com/video-highlight-generator/", "repo": "https://github.com/Zion-support/video-highlight-generator"},
+  {"id": "music-royalty-tracker", "description": "Music royalty tracker — usage detection across platforms, split-sheet validation, payout reconciliation.", "url": "https://ziontechgroup.com/music-royalty-tracker/", "repo": "https://github.com/Zion-support/music-royalty-tracker"},
+  {"id": "streaming-churn-predictor", "description": "Streaming churn predictor — engagement decay signals, save-list interventions, win-back campaign triggers.", "url": "https://ziontechgroup.com/streaming-churn-predictor/", "repo": "https://github.com/Zion-support/streaming-churn-predictor"},
+  {"id": "esports-tournament-ops", "description": "Esports tournament ops — bracket automation, match integrity checks, prize payout workflows.", "url": "https://ziontechgroup.com/esports-tournament-ops/", "repo": "https://github.com/Zion-support/esports-tournament-ops"},
+  {"id": "ad-insertion-optimizer", "description": "Ad insertion optimizer — pod placement, frequency capping, CPM fill balancing for AVOD streams.", "url": "https://ziontechgroup.com/ad-insertion-optimizer/", "repo": "https://github.com/Zion-support/ad-insertion-optimizer"}
+ ]
+}
