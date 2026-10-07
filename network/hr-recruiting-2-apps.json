@@ -1,0 +1,14 @@
+{
+ "batch": 102,
+ "theme": "HR & Recruiting AI (round 2)",
+ "date": "2026-10-08",
+ "apps": [
+  {"id": "interview-intelligence-ai", "description": "Interview intelligence — structured question banks, answer scoring rubrics, bias flags, debrief summaries.", "url": "https://ziontechgroup.com/interview-intelligence-ai/", "repo": "https://github.com/Zion-support/interview-intelligence-ai"},
+  {"id": "talent-pool-rediscovery", "description": "Talent pool rediscovery — resurfaces silver-medalists from the ATS matched to new reqs.", "url": "https://ziontechgroup.com/talent-pool-rediscovery/", "repo": "https://github.com/Zion-support/talent-pool-rediscovery"},
+  {"id": "offer-letter-builder", "description": "Offer letter builder — comp band validation, clause templates, e-sign routing.", "url": "https://ziontechgroup.com/offer-letter-builder/", "repo": "https://github.com/Zion-support/offer-letter-builder"},
+  {"id": "performance-review-copilot", "description": "Performance review copilot — evidence collection, calibration notes, bias-language checks.", "url": "https://ziontechgroup.com/performance-review-copilot/", "repo": "https://github.com/Zion-support/performance-review-copilot"},
+  {"id": "learning-path-designer", "description": "Learning path designer — skill gap to course mapping, cohort plans, completion nudges.", "url": "https://ziontechgroup.com/learning-path-designer/", "repo": "https://github.com/Zion-support/learning-path-designer"},
+  {"id": "exit-interview-analyzer", "description": "Exit interview analyzer — theme extraction across exits, attrition driver ranking.", "url": "https://ziontechgroup.com/exit-interview-analyzer/", "repo": "https://github.com/Zion-support/exit-interview-analyzer"},
+  {"id": "workforce-planning-radar", "description": "Workforce planning radar — headcount forecast vs budget, attrition scenarios, hiring prioritization.", "url": "https://ziontechgroup.com/workforce-planning-radar/", "repo": "https://github.com/Zion-support/workforce-planning-radar"}
+ ]
+}

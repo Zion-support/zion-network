@@ -1,12 +1,12 @@
 {
- "note": "Full flagship apps registry. 433 apps. Batch 101 Legal & Compliance Ops AI round 2 + Batch 100 Media & Entertainment AI (2026-10-07) registered. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix; use zion-support.github.io/zion-network/ meanwhile.",
- "updated": "2026-10-07",
+ "note": "Full flagship apps registry. 440 apps. Batch 102 HR & Recruiting AI round 2 (2026-10-08) + Batch 101 Legal & Compliance Ops AI r2 + Batch 100 Media & Entertainment (2026-10-07) registered. Live showcase mirrors added at showcase-batch100/101/102.html because homepage Pages queue intermittently stalls. discovery.html advertises free online questionnaire with instant email to client + commercial@ziontechgroup.com. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix.",
+ "updated": "2026-10-08",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 433,
- "spotlight_latest": "SPOTLIGHT-2026-10-07-BATCH101.md",
- "spotlight_previous": "SPOTLIGHT-2026-10-07-BATCH100.md",
- "batches_latest": {"101": "network/legal-compliance-ops-2-ai.md", "100": "network/media-entertainment-ai.md", "99": "network/sustainability-esg-ai.md", "98": "network/fintech-insurance-ai.md"},
+ "apps_total": 440,
+ "spotlight_latest": "SPOTLIGHT-2026-10-08-BATCH102.md",
+ "spotlight_previous": "SPOTLIGHT-2026-10-07-BATCH101.md",
+ "batches_latest": {"102": "network/hr-recruiting-2-ai.md", "101": "network/legal-compliance-ops-2-ai.md", "100": "network/media-entertainment-ai.md", "99": "network/sustainability-esg-ai.md"},
  "apps": ["<APPS_PART1>", "<APPS_PART2>"]
 }
