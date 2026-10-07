@@ -1,0 +1,18 @@
+{
+  "batch": 102,
+  "category": "Mining & Natural Resources AI",
+  "shipped": "2026-10-07",
+  "network": "https://ziontechgroup.com/apps/network.html",
+  "discovery": "https://ziontechgroup.com/discovery/",
+  "apps": [
+    {"slug": "mine-fleet-telemetry-ai", "name": "Mine Fleet Telemetry AI", "description": "Haul-truck and excavator telemetry analytics — utilization, fuel burn and predictive failures.", "url": "https://ziontechgroup.com/mine-fleet-telemetry-ai/", "repo": "https://github.com/Zion-support/mine-fleet-telemetry-ai"},
+    {"slug": "geological-survey-copilot", "name": "Geological Survey Copilot", "description": "Summarize drill logs, assay reports and maps into exploration-ready insights.", "url": "https://ziontechgroup.com/geological-survey-copilot/", "repo": "https://github.com/Zion-support/geological-survey-copilot"},
+    {"slug": "tailings-safety-monitor", "name": "Tailings Safety Monitor", "description": "Continuous tailings-dam risk monitoring with sensor anomaly alerts and GISTM-aligned reporting.", "url": "https://ziontechgroup.com/tailings-safety-monitor/", "repo": "https://github.com/Zion-support/tailings-safety-monitor"},
+    {"slug": "commodity-hedging-copilot", "name": "Commodity Hedging Copilot", "description": "Price scenarios, hedge-ratio suggestions and exposure dashboards for produced commodities.", "url": "https://ziontechgroup.com/commodity-hedging-copilot/", "repo": "https://github.com/Zion-support/commodity-hedging-copilot"},
+    {"slug": "environmental-compliance-tracker", "name": "Environmental Compliance Tracker", "description": "Track permits, emissions, water use and rehabilitation obligations with deadline alerts.", "url": "https://ziontechgroup.com/environmental-compliance-tracker/", "repo": "https://github.com/Zion-support/environmental-compliance-tracker"},
+    {"slug": "drilling-ops-optimizer", "name": "Drilling Ops Optimizer", "description": "Optimize drill patterns and schedules against ore targets, costs and equipment availability.", "url": "https://ziontechgroup.com/drilling-ops-optimizer/", "repo": "https://github.com/Zion-support/drilling-ops-optimizer"},
+    {"slug": "ore-grade-prediction-ai", "name": "Ore Grade Prediction AI", "description": "Predict ore grades from geological and sensor data to improve blending and mill feed.", "url": "https://ziontechgroup.com/ore-grade-prediction-ai/", "repo": "https://github.com/Zion-support/ore-grade-prediction-ai"},
+    {"slug": "remote-site-logistics-planner", "name": "Remote Site Logistics Planner", "description": "Plan fuel, parts and crew logistics for remote sites with weather and road-risk awareness.", "url": "https://ziontechgroup.com/remote-site-logistics-planner/", "repo": "https://github.com/Zion-support/remote-site-logistics-planner"}
+  ],
+  "interlinks": ["energy-utilities-ai", "manufacturing-industrial-ai", "sustainability-esg-ai", "supply-chain-logistics-ai", "cybersecurity-identity-ai"]
+}
