@@ -89,12 +89,13 @@ var KW={
  'Other':[]
 };
 var CATALOG=null;
+function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 function loadCatalog(cb){
  if(CATALOG)return cb(CATALOG);
  var all=[],page=1;
  (function next(){
   fetch('https://api.github.com/users/Zion-support/repos?per_page=100&page='+page)
-  .then(function(r){return r.json();}).then(function(rs){
+  .then(function(r){if(!r.ok)throw new Error('GitHub API '+r.status);return r.json();}).then(function(rs){
    if(!Array.isArray(rs))return cb(all);
    rs.forEach(function(r){if(r.name.indexOf('zion-field')!==0&&r.name!=='zion-support.github.io'&&r.name!=='zion-network')all.push({id:r.name,url:r.homepage||r.html_url,github:r.html_url,description:r.description||''});});
    if(rs.length===100&&page<11){page++;next();}else{CATALOG=all;cb(all);}
@@ -118,28 +119,38 @@ document.getElementById('discoveryForm').addEventListener('submit',function(e){
  var f=e.target,d=new FormData(f),body=[];
  d.forEach(function(v,k){body.push(k+': '+v)});
  var industry=d.get('industry');
- var interests=(d.get('interest')||'').split(',').filter(Boolean);
+ var interests=d.getAll('interest').filter(Boolean);
  var report='ZION AI DISCOVERY RESULTS\n=====================\n'+body.join('\n');
  document.getElementById('results').innerHTML='<p>Matching you against our live app network&hellip;</p>';
  loadCatalog(function(apps){
   var recs=recommend(industry,interests,apps);
-  var html='<h2 style="color:#7dd3fc">Your instant recommendations</h2><p>Matched live from <strong>'+apps.length+'</strong> apps in the Zion network for <strong>'+industry+'</strong>:</p>';
-  recs.forEach(function(a){html+='<div class="rec"><h3><a href="'+a.url+'">'+a.id+'</a></h3><p>'+(a.description||'')+'</p><p><a href="'+a.github+'">GitHub repo &rarr;</a></p></div>';});
-  html+='<p>Full report also emailed to '+d.get('email')+' and commercial@ziontechgroup.com.</p>';
+  var html='<h2 style="color:#7dd3fc">Your instant recommendations</h2><p>Matched live from <strong>'+apps.length+'</strong> apps in the Zion network for <strong>'+esc(industry)+'</strong>:</p>';
+  recs.forEach(function(a){html+='<div class="rec"><h3><a href="'+esc(a.url)+'">'+esc(a.id)+'</a></h3><p>'+esc(a.description||'')+'</p><p><a href="'+esc(a.github)+'">GitHub repo &rarr;</a></p></div>';});
+  html+='<p>Full report also emailed to '+esc(d.get('email'))+' and commercial@ziontechgroup.com.</p>';
   document.getElementById('results').innerHTML=html;
   report+='\n\nTOP RECOMMENDATIONS:\n'+recs.map(function(a){return '- '+a.id+' -> '+a.url;}).join('\n');
   send(report);
  });
  function send(rep){
-  fetch('https://formsubmit.co/ajax/commercial@ziontechgroup.com',{method:'POST',
-   headers:{'Content-Type':'application/json','Accept':'application/json'},
-   body:JSON.stringify({_subject:'New AI Discovery submission — '+d.get('company'),
-    _cc:d.get('email'),name:d.get('name'),email:d.get('email'),company:d.get('company'),
-    industry:d.get('industry'),size:d.get('size'),challenge:d.get('challenge'),
-    interest:d.get('interest'),timeline:d.get('timeline'),report:rep})}).catch(function(){});
-  document.getElementById('status').innerHTML='Submitted! Your results are on the way to '+d.get('email')+' and our commercial team. '+
-   '<a href="mailto:commercial@ziontechgroup.com?cc='+encodeURIComponent(d.get('email'))+'&subject='+encodeURIComponent('AI Discovery — '+d.get('company'))+'&body='+encodeURIComponent(rep)+'">Click here if you also want a copy in your mail app</a>.';
- }
+ fetch('https://formsubmit.co/ajax/commercial@ziontechgroup.com',{method:'POST',
+  headers:{'Content-Type':'application/json','Accept':'application/json'},
+  body:JSON.stringify({_subject:'New AI Discovery submission — '+d.get('company'),
+   _cc:d.get('email'),_replyto:d.get('email'),name:d.get('name'),email:d.get('email'),company:d.get('company'),
+   industry:d.get('industry'),size:d.get('size'),challenge:d.get('challenge'),
+   interest:interests.join(', '),timeline:d.get('timeline'),report:rep})})
+ .then(function(r){return r.json().then(function(j){return{ok:r.ok,j:j};});})
+ .then(function(res){
+  var mailto='<a href="mailto:commercial@ziontechgroup.com?cc='+encodeURIComponent(d.get('email'))+'&subject='+encodeURIComponent('AI Discovery — '+d.get('company'))+'&body='+encodeURIComponent(rep)+'">Click here to also keep a copy in your mail app</a>.';
+  if(res.ok){
+   document.getElementById('status').innerHTML='Submitted! Your results are on the way to '+esc(d.get('email'))+' and our commercial team (commercial@ziontechgroup.com). '+mailto;
+  }else{
+   document.getElementById('status').innerHTML='Your recommendations are shown above, but the email service did not confirm delivery. '+mailto+' — this always works even if the email service is busy.';
+  }
+ })
+ .catch(function(){
+  document.getElementById('status').innerHTML='Your recommendations are shown above. Network issue sending the email copy — <a href="mailto:commercial@ziontechgroup.com?cc='+encodeURIComponent(d.get('email'))+'&subject='+encodeURIComponent('AI Discovery — '+d.get('company'))+'&body='+encodeURIComponent(rep)+'">tap here to send it via your own mail app instead</a>.';
+ });
+}
  f.reset();
 });
 </script>
