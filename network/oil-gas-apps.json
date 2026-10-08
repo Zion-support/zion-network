@@ -1,0 +1,25 @@
+{
+  "category": "Oil & Gas Operations AI",
+  "batch": 126,
+  "date": "2026-10-08",
+  "network_total_apps": 511,
+  "apps": [
+    {"slug": "seismic-interpretation-ai", "name": "Seismic Interpretation AI", "repo": "https://github.com/Zion-support/seismic-interpretation-ai", "tagline": "Fault and horizon detection from seismic volumes."},
+    {"slug": "drilling-optimization-ai", "name": "Drilling Optimization AI", "repo": "https://github.com/Zion-support/drilling-optimization-ai", "tagline": "ROP optimization and kick detection."},
+    {"slug": "well-production-optimizer", "name": "Well Production Optimizer", "repo": "https://github.com/Zion-support/well-production-optimizer", "tagline": "Lift curves, chokes, deferment root-cause."},
+    {"slug": "pipeline-integrity-ai", "name": "Pipeline Integrity AI", "repo": "https://github.com/Zion-support/pipeline-integrity-ai", "tagline": "Corrosion modeling and ILI anomaly triage."},
+    {"slug": "refinery-yield-optimizer", "name": "Refinery Yield Optimizer", "repo": "https://github.com/Zion-support/refinery-yield-optimizer", "tagline": "Unit setpoints for yield per crude slate."},
+    {"slug": "gas-leak-detection-ai", "name": "Gas Leak Detection AI", "repo": "https://github.com/Zion-support/gas-leak-detection-ai", "tagline": "Methane detection, localization, quantification."},
+    {"slug": "energy-trading-copilot", "name": "Energy Trading Copilot", "repo": "https://github.com/Zion-support/energy-trading-copilot", "tagline": "Market signals and position summaries."},
+    {"slug": "crude-scheduling-ai", "name": "Crude Scheduling AI", "repo": "https://github.com/Zion-support/crude-scheduling-ai", "tagline": "Cargo-to-unit scheduling across berths and tanks."},
+    {"slug": "hse-incident-analyzer", "name": "HSE Incident Analyzer", "repo": "https://github.com/Zion-support/hse-incident-analyzer", "tagline": "HSE report NLP; trends and CAPA drafts."},
+    {"slug": "carbon-emissions-tracker", "name": "Carbon Emissions Tracker", "repo": "https://github.com/Zion-support/carbon-emissions-tracker", "tagline": "Scope 1/2/3 per asset with abatement scenarios."}
+  ],
+  "interlinks": {
+    "hub": "https://zion-support.github.io/zion-network/",
+    "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+    "discovery": "https://ziontechgroup.com/discovery/",
+    "showcase": "https://zion-support.github.io/zion-network/showcase-batch126.html",
+    "siblings": ["mining-resources-ai.md", "pharma-life-sciences-ai.md", "energy-utilities-ai.md", "sustainability-esg-ai.md", "banking-capital-markets-wealth-ai.md"]
+  }
+}
