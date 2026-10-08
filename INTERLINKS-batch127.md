@@ -15,4 +15,8 @@ Contact: commercial@ziontechgroup.com
 
 - network/rail-transit-fleet-ai.md → hub, 5 sibling categories, discovery, spotlight, homepage showcase
 - spotlights/2026-10-08-batch127-rail-transit-fleet.md → all 10 apps + categories + discovery
-- Homepage: https://ziontechgroup.com/apps/october-2026-batch9.html → all 10 apps + apps index + discovery
+- Homepage: https://ziontechgroup.com/apps/october-2026-batch127.html → all 10 apps + apps index + discovery
+
+## Filename note
+
+Showcase page lives at apps/october-2026-batch127.html — apps/october-2026-batch9.html belongs to Batch 85 AgTech (restored after an accidental overwrite 2026-10-08).

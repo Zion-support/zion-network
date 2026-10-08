@@ -21,4 +21,4 @@ Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). 
 - Related categories: [Supply Chain & Logistics AI](./supply-chain-logistics-ai.md) · [Field Service AI](./field-service-ai.md) · [Energy & Utilities AI](./energy-utilities-ai.md) · [GovTech & Smart City AI](./govtech-smart-city-ai.md) · [Aviation & Airline Ops AI](./aviation-airline-ops-ai.md)
 - Free Discovery (always online, results emailed instantly to you and commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
 - Spotlight: [Batch 127 spotlight](../spotlights/2026-10-08-batch127-rail-transit-fleet.md)
-- Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch9.html
+- Homepage showcase: https://ziontechgroup.com/apps/october-2026-batch127.html
