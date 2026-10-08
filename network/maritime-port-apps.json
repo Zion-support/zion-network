@@ -1,0 +1,25 @@
+{
+  "category": "Maritime & Port Operations AI",
+  "batch": 123,
+  "date": "2026-10-08",
+  "network_total_apps": 481,
+  "apps": [
+    {"slug": "vessel-eta-predictor-ai", "name": "Vessel ETA Predictor AI", "repo": "https://github.com/Zion-support/vessel-eta-predictor-ai", "tagline": "AIS + weather fusion for accurate vessel ETAs."},
+    {"slug": "port-call-optimizer", "name": "Port Call Optimizer", "repo": "https://github.com/Zion-support/port-call-optimizer", "tagline": "Optimizes port-call sequences and turnaround tasks."},
+    {"slug": "berth-allocation-ai", "name": "Berth Allocation AI", "repo": "https://github.com/Zion-support/berth-allocation-ai", "tagline": "Berth assignment by vessel, cargo, cranes and tides."},
+    {"slug": "container-yard-optimizer", "name": "Container Yard Optimizer", "repo": "https://github.com/Zion-support/container-yard-optimizer", "tagline": "Stack placement and rehandle minimization."},
+    {"slug": "voyage-fuel-optimizer", "name": "Voyage Fuel Optimizer", "repo": "https://github.com/Zion-support/voyage-fuel-optimizer", "tagline": "Speed/route recommendations; cut bunker fuel 3-5%."},
+    {"slug": "cargo-doc-automation", "name": "Cargo Document Automation", "repo": "https://github.com/Zion-support/cargo-doc-automation", "tagline": "Extracts/validates B/Ls, customs docs, manifests."},
+    {"slug": "port-congestion-sentinel", "name": "Port Congestion Sentinel", "repo": "https://github.com/Zion-support/port-congestion-sentinel", "tagline": "Congestion prediction 48-72h ahead."},
+    {"slug": "maritime-crew-rotation-ai", "name": "Maritime Crew Rotation AI", "repo": "https://github.com/Zion-support/maritime-crew-rotation-ai", "tagline": "Crew change planning with MLC rest rules."},
+    {"slug": "freight-rate-copilot", "name": "Freight Rate Copilot", "repo": "https://github.com/Zion-support/freight-rate-copilot", "tagline": "Lane-level rate intelligence and quote drafting."},
+    {"slug": "maritime-safety-analyzer", "name": "Maritime Safety Analyzer", "repo": "https://github.com/Zion-support/maritime-safety-analyzer", "tagline": "NLP over incident reports; trends and corrective actions."}
+  ],
+  "interlinks": {
+    "hub": "https://zion-support.github.io/zion-network/",
+    "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+    "discovery": "https://ziontechgroup.com/discovery/",
+    "showcase": "https://zion-support.github.io/zion-network/showcase-batch123.html",
+    "siblings": ["aviation-airline-ops-ai.md", "banking-capital-markets-wealth-ai.md", "supply-chain-logistics-ai.md", "agtech-food-supply-ai.md", "sustainability-esg-ai.md"]
+  }
+}
