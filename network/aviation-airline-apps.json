@@ -1,0 +1,25 @@
+{
+  "category": "Aviation & Airline Operations AI",
+  "batch": 122,
+  "date": "2026-10-08",
+  "network_total_apps": 471,
+  "apps": [
+    {"slug": "flight-delay-predictor-ai", "name": "Flight Delay Predictor AI", "repo": "https://github.com/Zion-support/flight-delay-predictor-ai", "tagline": "Predicts delays 6-24h ahead from weather, flow control, rotation history."},
+    {"slug": "crew-rostering-optimizer", "name": "Crew Rostering Optimizer", "repo": "https://github.com/Zion-support/crew-rostering-optimizer", "tagline": "Legal, fair crew pairings and rosters."},
+    {"slug": "aircraft-maintenance-predictor", "name": "Aircraft Maintenance Predictor", "repo": "https://github.com/Zion-support/aircraft-maintenance-predictor", "tagline": "Predictive maintenance from ACARS/QAR telemetry."},
+    {"slug": "fuel-efficiency-copilot", "name": "Fuel Efficiency Copilot", "repo": "https://github.com/Zion-support/fuel-efficiency-copilot", "tagline": "Cost-index, speed and tankering recommendations."},
+    {"slug": "irrops-disruption-manager", "name": "IRROPS Disruption Manager", "repo": "https://github.com/Zion-support/irrops-disruption-manager", "tagline": "Auto-rebooking and aircraft/crew recovery."},
+    {"slug": "airport-slot-optimizer", "name": "Airport Slot Optimizer", "repo": "https://github.com/Zion-support/airport-slot-optimizer", "tagline": "Slot portfolio and schedule feasibility."},
+    {"slug": "baggage-mishandling-ai", "name": "Baggage Mishandling AI", "repo": "https://github.com/Zion-support/baggage-mishandling-ai", "tagline": "Prevents mishandled bags from scan anomalies."},
+    {"slug": "passenger-sentiment-ai", "name": "Passenger Sentiment AI", "repo": "https://github.com/Zion-support/passenger-sentiment-ai", "tagline": "Journey heatmaps from surveys, social, contact center."},
+    {"slug": "cargo-yield-optimizer", "name": "Cargo Yield Optimizer", "repo": "https://github.com/Zion-support/cargo-yield-optimizer", "tagline": "Air-cargo pricing and capacity allocation."},
+    {"slug": "safety-report-analyzer", "name": "Safety Report Analyzer", "repo": "https://github.com/Zion-support/safety-report-analyzer", "tagline": "NLP over safety reports; trends and corrective actions."}
+  ],
+  "interlinks": {
+    "hub": "https://zion-support.github.io/zion-network/",
+    "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+    "discovery": "https://ziontechgroup.com/discovery/",
+    "showcase": "https://zion-support.github.io/zion-network/showcase-batch122.html",
+    "siblings": ["banking-capital-markets-wealth-ai.md", "cybersecurity-operations-ai.md", "events-venues-ai.md", "travel-hospitality-ai.md", "supply-chain-logistics-ai.md"]
+  }
+}
