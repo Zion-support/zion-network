@@ -1,0 +1,24 @@
+name: Catalog integrity
+on:
+  push:
+    paths:
+      - 'network.json'
+      - 'network/apps-part*.json'
+      - 'catalog-integrity-baseline.json'
+      - 'scripts/check-catalog-integrity.cjs'
+      - '.github/workflows/catalog-integrity.yml'
+  pull_request:
+  schedule:
+    - cron: '23 7 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/check-catalog-integrity.cjs
