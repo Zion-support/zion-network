@@ -1,12 +1,12 @@
 {
- "note": "Full flagship apps registry. 454 apps. Batch 120 Cybersecurity Operations AI (2026-10-08): soc-alert-triage-ai, threat-intel-aggregator-ai, vulnerability-prioritizer-ai, incident-response-playbook-ai, ransomware-readiness-ai, identity-access-review-ai, security-awareness-coach-ai. Batch 98 Construction restored in apps-part4.json. Batch 102 HR r2 + 101 Legal Ops r2 + 100 Media registered. Showcase mirrors at showcase-batch100/101/102.html. discovery.html: free online questionnaire, instant email to client + commercial@ziontechgroup.com. WARNING: parallel lanes caused batch-number collisions — keep all parts (1-4) referenced; next sessions use batch >=121. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix.",
+ "note": "Full flagship apps registry. 461 apps. Batch 121 Banking, Capital Markets & Wealth AI (2026-10-08): portfolio-insight-ai, kyc-onboarding-copilot, trade-surveillance-ai, wealth-advisor-copilot, credit-memo-generator, liquidity-forecaster-ai, regulatory-filing-copilot. Batch 120 Cybersecurity Operations AI + Batch 98 Construction (restored) in apps-part4.json. Batch 102 HR r2 + 101 Legal Ops r2 + 100 Media registered. Showcase mirrors at showcase-batch100/101/102/120/121.html. discovery.html: free online questionnaire, instant email to client + commercial@ziontechgroup.com. WARNING: parallel lanes caused batch-number collisions — keep all parts (1-4) referenced; next sessions use batch >=122. NOTE: network.ziontechgroup.com ACME bad_authz needs domain-owner DNS/CAA fix.",
  "updated": "2026-10-08",
  "company": "Zion Tech Group",
  "hub": "https://ziontechgroup.com",
  "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
- "apps_total": 454,
- "spotlight_latest": "SPOTLIGHT-2026-10-08-BATCH120.md",
- "spotlight_previous": "SPOTLIGHT-2026-10-08-BATCH102.md",
- "batches_latest": {"120": "network/cybersecurity-operations-ai.md", "102": "network/hr-recruiting-2-ai.md", "101": "network/legal-compliance-ops-2-ai.md", "100": "network/media-entertainment-ai.md", "99": "network/sustainability-esg-ai.md", "98": "network/construction-built-environment-ai.md"},
+ "apps_total": 461,
+ "spotlight_latest": "SPOTLIGHT-2026-10-08-BATCH121.md",
+ "spotlight_previous": "SPOTLIGHT-2026-10-08-BATCH120.md",
+ "batches_latest": {"121": "network/banking-capital-markets-wealth-ai.md", "120": "network/cybersecurity-operations-ai.md", "102": "network/hr-recruiting-2-ai.md", "101": "network/legal-compliance-ops-2-ai.md", "100": "network/media-entertainment-ai.md", "98": "network/construction-built-environment-ai.md"},
  "apps": ["<APPS_PART1>", "<APPS_PART2>", "<APPS_PART3>", "<APPS_PART4>"]
 }
