@@ -1,0 +1,25 @@
+{
+  "category": "Pharma & Life Sciences AI",
+  "batch": 124,
+  "date": "2026-10-08",
+  "network_total_apps": 491,
+  "apps": [
+    {"slug": "clinical-trial-matcher", "name": "Clinical Trial Matcher", "repo": "https://github.com/Zion-support/clinical-trial-matcher", "tagline": "Patient-to-trial matching via eligibility NLP."},
+    {"slug": "trial-recruitment-ai", "name": "Trial Recruitment AI", "repo": "https://github.com/Zion-support/trial-recruitment-ai", "tagline": "Cohort discovery and enrollment velocity prediction."},
+    {"slug": "pharmacovigilance-ai", "name": "Pharmacovigilance AI", "repo": "https://github.com/Zion-support/pharmacovigilance-ai", "tagline": "Adverse-event signal detection across sources."},
+    {"slug": "drug-interaction-checker", "name": "Drug Interaction Checker", "repo": "https://github.com/Zion-support/drug-interaction-checker", "tagline": "Multi-drug interaction screening with citations."},
+    {"slug": "regulatory-submission-copilot", "name": "Regulatory Submission Copilot", "repo": "https://github.com/Zion-support/regulatory-submission-copilot", "tagline": "eCTD drafting and HA query responses."},
+    {"slug": "lab-result-analyzer", "name": "Lab Result Analyzer", "repo": "https://github.com/Zion-support/lab-result-analyzer", "tagline": "Longitudinal lab trend flagging."},
+    {"slug": "med-adherence-ai", "name": "Med Adherence AI", "repo": "https://github.com/Zion-support/med-adherence-ai", "tagline": "Non-adherence risk and interventions."},
+    {"slug": "pharma-cold-chain-monitor", "name": "Pharma Cold Chain Monitor", "repo": "https://github.com/Zion-support/pharma-cold-chain-monitor", "tagline": "Excursion prediction from IoT telemetry."},
+    {"slug": "medical-literature-rag", "name": "Medical Literature RAG", "repo": "https://github.com/Zion-support/medical-literature-rag", "tagline": "Grounded answers over medical literature."},
+    {"slug": "gmp-audit-copilot", "name": "GMP Audit Copilot", "repo": "https://github.com/Zion-support/gmp-audit-copilot", "tagline": "GxP audit evidence packs and CAPA drafts."}
+  ],
+  "interlinks": {
+    "hub": "https://zion-support.github.io/zion-network/",
+    "network_index": "https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md",
+    "discovery": "https://ziontechgroup.com/discovery/",
+    "showcase": "https://zion-support.github.io/zion-network/showcase-batch124.html",
+    "siblings": ["maritime-port-ops-ai.md", "aviation-airline-ops-ai.md", "banking-capital-markets-wealth-ai.md", "healthcare-wellness-ai.md", "compliance-grc-ai.md"]
+  }
+}
