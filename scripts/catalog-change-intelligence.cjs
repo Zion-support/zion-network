@@ -74,6 +74,28 @@ function analyze(root, expectedBase = '') {
   const descriptionEdited = shared.filter(id => before.get(id).description !== after.get(id).description).sort();
   const categoryEdited = shared.filter(id => before.get(id).category !== after.get(id).category).sort();
   const baselineEdited = JSON.stringify(previous.baseline) !== JSON.stringify(current.baseline);
+  // Only inspect newly introduced/edited descriptions. Existing legacy copy debt
+  // stays visible in the core catalog report but must not create repeat noise.
+  const candidateIds = [...new Set([...added, ...descriptionEdited])].sort();
+  const normalizeDescription = value => value.normalize('NFKC').trim().replace(/\s+/g, ' ').toLowerCase();
+  const ownersByDescription = new Map();
+  for (const [id, entry] of after) {
+    const normalized = normalizeDescription(entry.description);
+    const owners = ownersByDescription.get(normalized) || [];
+    owners.push(id);
+    ownersByDescription.set(normalized, owners);
+  }
+  const newShortDescriptions = [];
+  const newPlaceholderDescriptions = [];
+  const newDuplicateDescriptions = [];
+  const PLACEHOLDER = /^(?:zion app network app|tbd|to be determined|lorem ipsum(?: dolor sit amet)?|placeholder(?: description| text)?)\.?$/i;
+  for (const id of candidateIds) {
+    const description = after.get(id).description;
+    const normalized = normalizeDescription(description);
+    if (description.trim().length < 24) newShortDescriptions.push(id);
+    if (PLACEHOLDER.test(normalized)) newPlaceholderDescriptions.push(id);
+    if (ownersByDescription.get(normalized).length > 1) newDuplicateDescriptions.push(id);
+  }
   const changedIds = new Set([...added, ...removed, ...descriptionEdited, ...categoryEdited]);
   // A ten-percent mutation may indicate generated catalog churn even when the record count is unchanged.
   const broadChurn = changedIds.size >= Math.max(20, Math.ceil(before.size * 0.10));
@@ -81,6 +103,9 @@ function analyze(root, expectedBase = '') {
     ...(removed.length ? ['removed-app-ids'] : []),
     ...(baselineEdited ? ['catalog-baseline-edited'] : []),
     ...(broadChurn ? ['broad-catalog-churn'] : []),
+    ...(newShortDescriptions.length ? ['new-or-edited-short-description'] : []),
+    ...(newPlaceholderDescriptions.length ? ['new-or-edited-placeholder-description'] : []),
+    ...(newDuplicateDescriptions.length ? ['new-or-edited-duplicate-description'] : []),
   ];
   const sample = arr => arr.slice(0, 15); // bounded public IDs only; never print descriptions.
   return {
@@ -94,6 +119,15 @@ function analyze(root, expectedBase = '') {
     sample_added_ids: sample(added), sample_removed_ids: sample(removed),
     sample_description_edited_ids: sample(descriptionEdited),
     sample_category_edited_ids: sample(categoryEdited),
+    description_quality: {
+      candidate_count: candidateIds.length,
+      short_count: newShortDescriptions.length,
+      placeholder_count: newPlaceholderDescriptions.length,
+      duplicate_count: newDuplicateDescriptions.length,
+      sample_short_ids: sample(newShortDescriptions),
+      sample_placeholder_ids: sample(newPlaceholderDescriptions),
+      sample_duplicate_ids: sample(newDuplicateDescriptions),
+    },
     review_required: reviewReasons.length > 0,
     review_reasons: reviewReasons,
     ci_policy: 'advisory-change-risk; core catalog integrity remains a separate fail-closed gate',
@@ -112,6 +146,7 @@ if (require.main === module) {
         `- Records: **${report.previous_count} → ${report.current_count}**`,
         `- Added: **${report.added_count}**; removed: **${report.removed_count}**`,
         `- Description changes: **${report.descriptions_edited_count}**; category changes: **${report.categories_edited_count}**`,
+        `- New/edited copy quality advisories: **${report.description_quality.short_count} short**, **${report.description_quality.placeholder_count} placeholder**, **${report.description_quality.duplicate_count} duplicated**`,
         `- Owner review advised: **${report.review_required ? 'YES' : 'NO'}** (${report.review_reasons.join(', ') || 'no flagged changes'})`,
         '- Live app functionality and deployed source equivalence: **NOT VERIFIED**',
         '- Diff is advisory; green CI does not authorize publication or catalog membership changes.', '',
@@ -119,7 +154,7 @@ if (require.main === module) {
       fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, lines.join('\n'));
     }
     if (report.review_required)
-      console.log('::warning title=Catalog owner review required::Removed entries, edited provenance, or broad membership churn found.');
+      console.log('::warning title=Catalog owner review required::Catalog removals, provenance/churn, or new description quality regressions found.');
   } catch (error) {
     console.error(`Catalog change comparison FAILED: ${error.message}`);
     process.exitCode = 1;

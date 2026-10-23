@@ -23,3 +23,9 @@ node scripts/check-catalog-integrity.cjs
 For an exact merge-commit PR checkout with `fetch-depth: 2`, set `BASE_SHA` to the PR's base SHA before running the change-intelligence CLI. If the checkout contains only a branch tip or a shallow single commit, intentionally fail rather than generate an incomplete comparison. GitHub Actions does not run comparison on scheduled or main-push jobs; those still perform the source audit and both offline test suites.
 
 The October 8 registry membership reconciliation and historical part4 reduction remain separate evidence gaps. No auto-merge, new cron, deployment, content generation or client outreach is performed.
+
+## New or modified catalog-description quality (advisory)
+
+The PR comparison now analyzes only added app entries and descriptions edited in the PR, not old unchanged catalog debt. It recommends owner review for descriptions shorter than 24 characters, known placeholder-only text, or copy identical to another current app after Unicode/whitespace/case normalization. It records counts and up to 15 public app IDs per finding; it **does not include description text** in CI output or claim a quality model, translation check, deployment check, or verified app behavior. Existing unchanged legacy short/duplicate descriptions are not repeatedly flagged. Each review finding is advisory; catalog-structure failures remain hard blockers.
+
+A synthetic two-parent Git merge regression case also exercises the same first-parent semantics used by GitHub's pull-request merge checkout. This is offline contract evidence, not a claim of hosted Actions completion.
