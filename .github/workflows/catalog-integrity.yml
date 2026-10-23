@@ -1,24 +1,63 @@
 name: Catalog integrity
-on:
+"on":
   push:
+    branches: [main]
     paths:
-      - 'network.json'
+      - network.json
       - 'network/apps-part*.json'
-      - 'catalog-integrity-baseline.json'
-      - 'scripts/check-catalog-integrity.cjs'
-      - '.github/workflows/catalog-integrity.yml'
+      - catalog-integrity-baseline.json
+      - scripts/check-catalog-integrity.cjs
+      - scripts/check-catalog-integrity.test.cjs
+      - scripts/catalog-change-intelligence.cjs
+      - scripts/catalog-change-intelligence.test.cjs
+      - .github/workflows/catalog-integrity.yml
   pull_request:
+    paths:
+      - network.json
+      - 'network/apps-part*.json'
+      - catalog-integrity-baseline.json
+      - scripts/check-catalog-integrity.cjs
+      - scripts/check-catalog-integrity.test.cjs
+      - scripts/catalog-change-intelligence.cjs
+      - scripts/catalog-change-intelligence.test.cjs
+      - .github/workflows/catalog-integrity.yml
   schedule:
     - cron: '23 7 * * *'
   workflow_dispatch:
 permissions:
   contents: read
+concurrency:
+  group: catalog-integrity-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
-          node-version: '22'
-      - run: node scripts/check-catalog-integrity.cjs
+          persist-credentials: false
+          fetch-depth: 2 # Required to compare PR merge HEAD to its exact first parent.
+          sparse-checkout: |
+            network.json
+            network
+            catalog-integrity-baseline.json
+            scripts/check-catalog-integrity.cjs
+            scripts/check-catalog-integrity.test.cjs
+            scripts/catalog-change-intelligence.cjs
+            scripts/catalog-change-intelligence.test.cjs
+      - name: Check validator syntax
+        run: |
+          node --check scripts/check-catalog-integrity.cjs
+          node --check scripts/catalog-change-intelligence.cjs
+      - name: Offline fail-closed catalog regression tests
+        run: node --test scripts/check-catalog-integrity.test.cjs
+      - name: Offline catalog change-intelligence regression tests
+        run: node --test scripts/catalog-change-intelligence.test.cjs
+      - name: Validate source registry and emit non-live evidence
+        run: node scripts/check-catalog-integrity.cjs
+      - name: Inspect exact-parent registry changes for owner-review risks
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: node scripts/catalog-change-intelligence.cjs
