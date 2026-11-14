@@ -2,6 +2,9 @@ name: Catalog integrity
 on:
   push:
     paths:
+      - 'registry-explorer.js'
+      - 'registry-explorer.html'
+      - 'scripts/test-registry-search-navigation.cjs'
       - 'network.json'
       - 'network/apps-part*.json'
       - 'catalog-integrity-baseline.json'
@@ -22,3 +25,5 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/check-catalog-integrity.cjs
+      - run: node --check registry-explorer.js
+      - run: node scripts/test-registry-search-navigation.cjs

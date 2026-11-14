@@ -31,7 +31,7 @@ Constellation hub for Zion Tech Group GitHub Pages sites. Canonical site list li
 | Edge AI Platform | Zion-support/zion-edge-ai-platform | https://edge-ai.ziontechgroup.com |
 | AI Workflow Automator | Zion-support/zion-ai-workflow-automator | https://ziontechgroup.com/zion-ai-workflow-automator/ |
 
-## Latest batch — Batch 101: Logistics & Supply Chain AI (2026-10-07)
+## Historical batch note — Batch 101: Logistics & Supply Chain AI (2026-10-07)
 See [INTERLINKS-batch101.md](INTERLINKS-batch101.md) — Freight Quote Optimizer · Route & Load Planner AI · Warehouse Pick Optimizer · Customs Docs Autopilot. Cross-linked to Batch 100 quoting/dispatch apps.
 Batches 102 (Growth & CRO AI), 103–105 and 106 (HR & People Ops AI) were shipped by parallel lanes on 2026-10-07 — see the [org repo list](https://github.com/orgs/Zion-support/repositories) sorted by recent.
 
@@ -46,7 +46,7 @@ Batches 102 (Growth & CRO AI), 103–105 and 106 (HR & People Ops AI) were shipp
 Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](INTERLINKS-batch82.md) · [83](INTERLINKS-batch83.md) · [84](INTERLINKS-batch84.md) · [85](INTERLINKS-batch85.md) · [86](INTERLINKS-batch86.md) · [87](INTERLINKS-batch87.md) · [88](INTERLINKS-batch88.md) · [89](INTERLINKS-batch89.md) · [90](INTERLINKS-batch90.md) · [91](INTERLINKS-batch91.md) · [93](INTERLINKS-batch93.md) · [96](INTERLINKS-batch96.md)
 
 ## Free AI Discovery
-100% free, online, always available → https://ziontechgroup.com/discovery/ · Results instantly emailed to the client and commercial@ziontechgroup.com · Landing page: [discovery.html](discovery.html)
+Explore [Free Discovery](https://ziontechgroup.com/discovery/) and the [current navigation guide](discovery-navigation-guide.html). Availability depends on hosting and email services. A provider accepting an email is not proof of inbox delivery. Paid implementation requires separate approval.
 
 ## Field playbooks
 ~70 `zion-field-*` repos (countries, cities, industries) — see `network.json` `field` section and the [org repo list](https://github.com/orgs/Zion-support/repositories).
@@ -55,3 +55,15 @@ Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](I
 - Hub canonical URL: https://ziontechgroup.com/zion-network/ (org user-page CNAME = ziontechgroup.com; github.io 301s there). Repo CNAME file removed and Pages custom domain cleared because network.ziontechgroup.com had ACME bad_authz (HTTP 000). Re-add only after domain owner fixes DNS/CAA.
 
 Main site: https://ziontechgroup.com · Contact: kleber@ziontechgroup.com
+## Registry, current tools and release checks
+
+The legacy registry contains 421 unique app IDs across five parts. Registration and descriptions do not prove deployment, functioning AI features or production readiness. Search the [registry explorer](https://ziontechgroup.com/zion-network/registry-explorer.html), return to the [homepage](https://ziontechgroup.com/), or browse [current app pages](https://ziontechgroup.com/apps/). The current homepage catalog is a separate inventory; do not combine its count with the registry count.
+
+Run both checks before release:
+
+```sh
+node scripts/check-catalog-integrity.cjs
+node scripts/test-registry-search-navigation.cjs
+```
+
+Declared HTTPS URLs are preserved by the explorer; other suggested routes remain unverified. Related-tool links are navigation, not tested integrations. Descriptions that end mid-sentence need source-backed editorial review, not invented capability claims.
