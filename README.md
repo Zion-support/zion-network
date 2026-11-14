@@ -40,7 +40,7 @@ Batches 102 (Growth & CRO AI), 103–105 and 106 (HR & People Ops AI) were shipp
 - **Batch 99 — Retail & E-commerce AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH99.md) · [interlinks](INTERLINKS-batch99.md) · [homepage pack](HOMEPAGE_APPS_BATCH99.md) — visual-merchandising-ai, dynamic-pricing-retail-ai, returns-reduction-ai, review-sentiment-ai
 - **Batch 98 — Voice & Communications AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH98.md) · [interlinks](INTERLINKS-batch98.md) · [homepage pack](HOMEPAGE_APPS_BATCH98.md) — meeting-intelligence-ai, voicemail-triage-ai, voice-agent-builder, ai-call-router, call-transcription-analytics, call-quality-monitor + FinServ/Insurance companion set
 - **Batch 97 — Education AI**: [spotlight](SPOTLIGHT-2026-10-06-BATCH97.md) · [interlinks](INTERLINKS-batch97.md) · [homepage pack](HOMEPAGE_APPS_BATCH97.md) — quiz-generator-ai, lesson-plan-copilot, attendance-risk-radar, accreditation-evidence-ai
-- **Batch 94 — Legal & Compliance AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH94.md) · [homepage pack](HOMEPAGE_APPS_BATCH94.md)
+- **Batch 94 — Legal & Compliance AI**: [spotlight](SPOTLIGHT-2026-10-05-BATCH94.md) · [interlinks](INTERLINKS-batch94.md) · [homepage pack](HOMEPAGE_APPS_BATCH94.md)
 
 ## Older batches
 Interlinks: [74](INTERLINKS-batch74.md) · [75](INTERLINKS-batch75.md) · [82](INTERLINKS-batch82.md) · [83](INTERLINKS-batch83.md) · [84](INTERLINKS-batch84.md) · [85](INTERLINKS-batch85.md) · [86](INTERLINKS-batch86.md) · [87](INTERLINKS-batch87.md) · [88](INTERLINKS-batch88.md) · [89](INTERLINKS-batch89.md) · [90](INTERLINKS-batch90.md) · [91](INTERLINKS-batch91.md) · [93](INTERLINKS-batch93.md) · [96](INTERLINKS-batch96.md)
